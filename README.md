@@ -1,3 +1,8 @@
 # Hackerrank
-Competitive programming challenges.<br/>
-Contains all personal solutions and the variance.
+>Competitive programming challenges.
+
+Contains all coursework and the variance.
+
+## [License](LICENSE)
+
+The code in this project is licensed under MIT license.
