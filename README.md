@@ -1,5 +1,5 @@
 # Hackerrank
->Competitive programming challenges.
+> Competitive programming challenges.
 
 Contains all coursework and the variance.
 
