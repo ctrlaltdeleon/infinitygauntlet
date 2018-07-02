@@ -1,0 +1,59 @@
+npm (v5)	                            Yarn
+
+npm install	                            yarn
+(N/A)	                                yarn install --flat
+(N/A)	                                yarn install --har
+npm install --no-package-lock	        yarn install --no-lockfile
+(N/A)	                                yarn install --pure-lockfile
+npm install [package]	                yarn add [package]
+npm install [package] --save-dev	    yarn add [package] --dev
+(N/A)	                                yarn add [package] --peer
+npm install [package] --save-optional	yarn add [package] --optional
+npm install [package] --save-exact	    yarn add [package] --exact
+(N/A)	                                yarn add [package] --tilde
+npm install [package] --global	        yarn global add [package]
+npm update --global                  	yarn global upgrade                    
+npm rebuild	                            yarn add --force
+npm uninstall [package]	                yarn remove [package]
+npm cache clean	                        yarn cache clean [package]
+rm -rf node_modules && npm install  	yarn upgrade                          
+npm version major                    	yarn version --major                  
+npm version minor                    	yarn version --minor                  
+npm version patch                    	yarn version --patch
+
+What is Gatsby?
+
+Gatsby offers static-sites amazing speed using React
+Gatsby also offers a pack that contains:
+    Functional plugins
+    Source plugins
+    Transformer plugins
+
+Gatsby Tutorial
+
+Install a package manager
+- Yarn is a package manager for Javascript
+- NPM is also a package manager for Javascript
+- yarn --version
+- npm --version
+
+Install node
+- node --version
+
+Install Gatsby's command line tool
+- yarn global add gatsby-cli
+- npm install --global gatsby-cli
+- gatsby --version
+
+Create a new site
+- gatsby new NAME_OF_SITE && cd $_
+
+Deploy a test server (localhost:8000)
+- yarn dev (Fixed the script in package.json from develop to dev)
+- gatsby develop
+
+End deployment of a test server (localhost:8000)
+- ctrl + c (Not sure why it's copy, but okay)
+
+Update packages
+- yarn
