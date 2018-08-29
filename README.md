@@ -36,13 +36,19 @@
 
 ## <span role="img" aria-label="Musical Note">🎵</span> Music I zone to (Thanks Spotify)
 
-<iframe src="https://open.spotify.com/embed/user/1252712964/playlist/0XVxReRFFUe7Z5DFYPdOSU" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<p align="center">
+  <img src="./verycoolstuff/doggo.gif">
+</p>
 
-<iframe src="https://open.spotify.com/embed/user/1252712964/playlist/1su6mhUPJxkVvwhmBAwpPj" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-<iframe src="https://open.spotify.com/embed/user/1252712964/playlist/5Awrm6Qg5ixDMxW7vQCn9o" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+* [Video Game Vibes](https://open.spotify.com/user/1252712964/playlist/5Awrm6Qg5ixDMxW7vQCn9o?si=L3srrHAeQuy3xfpXEOazzg)
+* [Tender Vibes](https://open.spotify.com/user/1252712964/playlist/0XVxReRFFUe7Z5DFYPdOSU?si=wT4rC7BcRmq-SX41WupN8Q)
+* [Feel Better](https://open.spotify.com/user/1252712964/playlist/0XVxReRFFUe7Z5DFYPdOSU?si=XlZu73QTShWlDcKZfiA9AQ)
 
 <!-- QUICK INSTALLATION -->
+
+## <span role="img" aria-label="Sparkles">✨</span> Other
+
+Coming soon!
 
 <!-- ## <span role="img" aria-label="Sparkles">✨</span> Quick Installation -->
 
