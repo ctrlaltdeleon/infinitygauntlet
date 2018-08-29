@@ -13,7 +13,7 @@
   <span role="img" aria-label="Sparkles">✨</span>
 </h3>
 <p align="center">
-  <strong>Name of application.</strong><br>
+  <strong>"What is it" application.</strong><br>
   Some applications that uses some stuff.
 </p>
 
