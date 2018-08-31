@@ -1,43 +1,73 @@
-kontra.init();
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
 
-let sprites = [];
+<style id="webmakerstyle">
+body {
+    background: black;
+  }
+  canvas {
+    border: 1px solid white;  
+  } 
+</style>
+</head>
+<body>
+<canvas width="700" height="700"></canvas>
 
+<script src="https://unpkg.com/kontra@4.0.0/dist/core.js"></script>
+<script src="https://unpkg.com/kontra@4.0.0/dist/sprite.js"></script>
+<script src="https://unpkg.com/kontra@4.0.0/dist/gameLoop.js"></script>
+<script src="https://unpkg.com/kontra@4.0.0/dist/pointer.js"></script>
+<script src="https://unpkg.com/kontra@4.0.0/dist/keyboard.js"></script>
+<script>
+kontra.init(); // Initialize the kontra.js engine
+
+// GLOBAL VARIABLES & INITIALIZATION
+let sprites = []; // Activate sprites
+let numberOfAsteroids = 4; 
+let childrenAsteroids = 3;
+let smallAsteroids = 2.5; // how much smaller compared to parent asteroid
+
+// CREATE ASTEROID
 function createAsteroid(x, y, radius) {
 	let asteroid = kontra.sprite({
-		type: 'asteroid',
+		type: 'asteroid', // name reference
 		x: x,
 		y: y,
 		radius: radius,
-		ttl: Infinity,
-		dx: Math.random() * 4 - 2,
-		dy: Math.random() * 4 - 2,
+		ttl: Infinity, // ttl = time to live, using frames as units
+		dx: Math.random() * 4 - 2, // speed in the x direction
+		dy: Math.random() * 4 - 2, // speed in the y direction
 		render() {
-			this.context.strokeStyle = 'red';
+			this.context.strokeStyle = 'red'; // color of the asteroid
 			this.context.beginPath();  // start drawing a shape
-			this.context.arc(this.x, this.y, this.radius, 0, Math.PI * 2);
+			this.context.arc(this.x, this.y, this.radius, 0, Math.PI * 2); // creating a circle
 			this.context.stroke();     // outline the circle
 		}
 	});
 	sprites.push(asteroid);
 }
-for (var i = 0; i < 4; i++) {
-	createAsteroid(100, 100, 30);
+
+// NUMBER OF ASTEROIDS CREATED
+for (var i = 0; i < numberOfAsteroids; i++) {
+	createAsteroid(100, 100, 30); // x position, y position, radius
 }
 
-// helper function to convert degrees to radians
+// CHANGE DEGREES TO RADIANS (Helper function)
 function degreesToRadians(degrees) {
 	return degrees * Math.PI / 180;
 }
 
+// SHIP
 let ship = kontra.sprite({
-	type: 'ship',
-	x: 300, // middle x
-	y: 300, // middle y
+	type: 'ship', // name reference
+	x: 350, // middle x
+	y: 350, // middle y
 	width: 6,  // we'll use this later for collision detection
 	rotation: 0,  // 0 degrees is to the right
 	dt: 0,  // track how much time has passed
-	// make sure to give the asteroids this as well!
-	ttl: Infinity,
+	ttl: Infinity, // ttl = time to live, using frames as units
 
 	render() {
 		this.context.save();
@@ -52,52 +82,61 @@ let ship = kontra.sprite({
 		this.context.moveTo(-3, -5);
 		this.context.lineTo(12, 0);
 		this.context.lineTo(-3, 5);
-
 		this.context.strokeStyle = 'white';
-		this.context.closePath();
-		this.context.stroke();
+		this.context.closePath(); // makes it so it's not just a ">" but a fully closed triangle
+		this.context.stroke(); // make sure the last stroke is visible
 		this.context.restore();
 	},
 	update() {
-		// rotate the ship left or right
+
+		// rotate the ship left or right depending on keys pressed
 		if (kontra.keys.pressed('left') || kontra.keys.pressed('a')) {
 			this.rotation += -4
 		}
 		else if (kontra.keys.pressed('right') || kontra.keys.pressed('d')) {
 			this.rotation += 4
 		}
+
 		// move the ship forward in the direction it's facing
 		const cos = Math.cos(degreesToRadians(this.rotation));
 		const sin = Math.sin(degreesToRadians(this.rotation));
 
+    // moving forward or backward depending on the ships direction
 		if (kontra.keys.pressed('up') || kontra.keys.pressed('w')) {
 			this.ddx = cos * 0.1;
 			this.ddy = sin * 0.1;
 		}
-		else {
-			this.ddx = this.ddy = 0;
+		else if (kontra.keys.pressed('down') || kontra.keys.pressed('s')) {
+			this.ddx = cos * -0.1;
+			this.ddy = sin * -0.1;
 		}
+    else {
+      this.ddx = this.ddy = 0; // do not accelerate anymore if no respective button is pressed  
+    }
 
+    // movement based on acceleration, so the sprite knows to "advance"
 		this.advance();
+    
 		// set a max speed
 		const magnitude = Math.sqrt(this.dx * this.dx + this.dy * this.dy);
 		if (magnitude > 10) {
 			this.dx *= 0.95;
 			this.dy *= 0.95;
 		}
-		// allow the player to fire no more than 1 bullet every 1/4 second
+    
+		// allow the player to fire no more than 1 bullet every 1/10 second
 		this.dt += 1 / 60;
-		if (kontra.keys.pressed('space') && this.dt > 0.25) {
+		if (kontra.keys.pressed('space') && this.dt > 0.10) {
 			this.dt = 0;
 			let bullet = kontra.sprite({
-				type: 'bullet',
+				type: 'bullet', // name reference
 				// start the bullet on the ship at the end of the triangle
 				x: this.x + cos * 12,
 				y: this.y + sin * 12,
 				// move the bullet slightly faster than the ship
 				dx: this.dx + cos * 5,
 				dy: this.dy + sin * 5,
-				// live only 50 frames
+				// live only 100 frames
 				ttl: 100,
 				// bullets are small
 				width: 2,
@@ -133,26 +172,31 @@ let loop = kontra.gameLoop({
 			}
 		});
 
-		// collision detection
+		// COLLISION DETECTION
+    // checks all the sprites
 		for (let i = 0; i < sprites.length; i++) {
+      
 			// only check for collision against asteroids
 			if (sprites[i].type === 'asteroid') {
 				for (let j = 0; j < sprites.length; j++) {
+          
 					// don't check asteroid vs. asteroid collisions
 					if (sprites[j].type !== 'asteroid') {
 						let asteroid = sprites[i];
 						let sprite = sprites[j];
+            
 						// circle vs. circle collision detection
 						let dx = asteroid.x - sprite.x;
 						let dy = asteroid.y - sprite.y;
 
 						if (Math.sqrt(dx * dx + dy * dy) < asteroid.radius + sprite.width) {
-							asteroid.ttl = 0;
-							sprite.ttl = 0;
+							asteroid.ttl = 0; // essentially means kill the asteroid
+							sprite.ttl = 0; // essentially means kill the sprite
+              
 							// split the asteroid only if it's large enough
 							if (asteroid.radius > 10) {
-								for (var x = 0; x < 3; x++) {
-									createAsteroid(asteroid.x, asteroid.y, asteroid.radius / 2.5);
+								for (var x = 0; x < childrenAsteroids; x++) {
+									createAsteroid(asteroid.x, asteroid.y, asteroid.radius / smallAsteroids);
 								}
 							}
 							break;
@@ -161,7 +205,7 @@ let loop = kontra.gameLoop({
 				}
 			}
 		}
-		sprites = sprites.filter(sprite => sprite.isAlive());
+		sprites = sprites.filter(sprite => sprite.isAlive()); // remove sprites that are "dead"
 	},
 	render() {
 		sprites.map(sprite => sprite.render());
@@ -169,3 +213,7 @@ let loop = kontra.gameLoop({
 })
 
 loop.start();
+//# sourceURL=userscript.js
+</script>
+</body>
+</html>
