@@ -1,7 +1,7 @@
 <!-- HEADING -->
 
 <p align="center">
-  <img src="./verycoolstuff/avatar.png" width="60">
+  <img src="./very-cool-stuff/avatar.png" width="60">
 </p>
 <h1 align="center">️
   infinitygauntlet
@@ -31,13 +31,13 @@
 <!-- FEATURES -->
 
 <p align="center">
-  <img src="./verycoolstuff/vaporwave.gif">
+  <img src="./very-cool-stuff/vaporwave.gif">
 </p>
 
 ## <span role="img" aria-label="Musical Note">🎵</span> Music I zone to (Thanks Spotify)
 
 <p align="center">
-  <img src="./verycoolstuff/doggo.gif">
+  <img src="./very-cool-stuff/doggo.gif">
 </p>
 
 * [Video Game Vibes](https://open.spotify.com/user/1252712964/playlist/5Awrm6Qg5ixDMxW7vQCn9o?si=L3srrHAeQuy3xfpXEOazzg)

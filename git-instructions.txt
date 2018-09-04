@@ -1,0 +1,37 @@
+git config --global --list
+    // Checks the user.name & user.email
+    // To access config, go to 'Users' then look for '.gitconfig'
+
+mkdir NAME_OF_DIRECTORY
+    // Makes a new directory/folder
+
+echo.>README.md
+    // Creates 'README.md'
+
+cd ..
+    // Goes back a folder
+
+Did you make a new repository?
+1. git clone https://gitlab.com/acdeleon/REPO_HERE.git
+    (Github: https://github.com/acfromspace/REPO_HERE.git)
+2. cd REPOSITORY_HERE
+3. touch README.md
+4. git add README.md
+5. git commit -m "put your message here"
+6. git push -u origin master (Replaces all the files in the master)
+
+Did you just edit some code and want to push?
+1. Change directory to respective folder. (For example CS514 would need to be in CS514 folder.)
+2. git init (To let git know this is what's about to be transported.)
+3. // git remote add origin https://gitlab.com/acdeleon/REPOSITORY_HERE.git (IF GIT HAS NEVER SEEN THIS BEFORE)
+4. git add . (adds all files)
+5. git commit -m "put your message here"
+6. git push -u origin master (Replaces all the files in the master)
+
+Did you edit some code else where and want to pull?
+~
+
+Don't have any of the files and need to get them?
+1. git clone https://gitlab.com/acdeleon/REPOSITORY_HERE.git
+
+Make sure to have descriptions on ALL files.

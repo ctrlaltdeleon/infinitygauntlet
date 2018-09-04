@@ -1,7 +1,7 @@
 <!-- HEADING -->
 
 <p align="center">
-  <img src="../verycoolstuff/avatar.png" width="60">
+  <img src="../very-cool-stuff/avatar.png" width="60">
 </p>
 <h1 align="center">️
   asteroids
@@ -31,7 +31,7 @@
 <!-- FEATURES -->
 
 <p align="center">
-  <img src="../verycoolstuff/doggo.gif">
+  <img src="../very-cool-stuff/doggo.gif">
 </p>
 
 <!-- QUICK INSTALLATION -->
