@@ -3,12 +3,11 @@
 <p align="center">
   <img src="YOUR_REPO_AVATAR_GOES_HERE" width="60">
 </p>
-<h1 align="center">️
-  TITLE OF THE REPO
-</h1>
+<h1 align="center">️TITLE OF THE REPO</h1>
 
 <!-- DESCRIPTION -->
 
+<!-- Kept at h3 to prevent line under the header -->
 <h3 align="center">
   <span role="img" aria-label="EMOJI NAME">EMOJI</span>
 </h3>
@@ -33,7 +32,7 @@
 
 ![NAME_OF_GIF](URL_OF_GIF)
 
-<a href="URL_OF_WHERE_IT'S_HOSTED" target="_blank"><i>TITLE OF THE REPO</i></a> is a (WEBSITE/GAME/APPLICATION) with the following features:
+<a href="URL_OF_WHERE_IT'S_HOSTED" target="_blank"><i>TITLE OF THE REPO</i></a> is a (WEBSITE/GAME/APPLICATION/REPOSITORY) with the following features:
 
 - **FEATURE 1.** PARAGRAPH
 - **FEATURE 2.** PARAGRAPH
@@ -42,6 +41,10 @@
 <!-- QUICK INSTALLATION -->
 
 ## <span role="img" aria-label="Sparkles">✨</span> Quick Installation
+
+- Clone the repo `git clone https://github.com/acfromspace/YOU_BETTER_REPLACE_ME`
+- Change directory `cd YOU_BETTER_REPLACE_ME`
+- Go forth and dive in to learn!
 
 <!-- IN-DEPTH GUIDE -->
 
@@ -74,11 +77,12 @@ A quick look at the top-level files and directories you'll see in this project.
 ```
 
 1.  **`.gitignore`**: This file tells `.git` which files it should not track nor maintain a version history for. For instance, you shouldn't let anyone get your `.env` files. (These usually contain your API keys)
-2.  **`LICENSE`**: An open source license that protects contributors and users depending on the license chosen.
-3.  **`README.md`**: A markdown file containing useful reference information about your project. The file you're reading right now!
+2.  **`avatar.png`**: Image used in the README.md.
+3.  **`LICENSE`**: An open source license that protects contributors and users depending on the license chosen.
+4.  **`README.md`**: A markdown file containing useful reference information about your project. The file you're reading right now!
 
 <!-- LICENSE -->
 
-## [License](LICENSE)
+## <span role="img" aria-label="Oncoming Police Car">🚔</span> [License](LICENSE)
 
-The code in this project is licensed under MIT license.
+The code in this project is under a specific open source license.
