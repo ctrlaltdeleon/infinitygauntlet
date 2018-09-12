@@ -32,7 +32,7 @@
   <img src="./very-cool-stuff/vaporwave.gif">
 </p>
 
-<a href="https://github.com/acfromspace/infinitygauntlet" target="_blank"><i>infinitygauntlet</i></a> is a repository with the following features:
+[*infinitygauntlet*](https://github.com/acfromspace/infinitygauntlet) is a repository with the following features:
 
 - **Memes.** Usually wholesome, hidden away in secret aways. 
 - **Diversity.** I give everything a chance and share my learnings with everyone.
