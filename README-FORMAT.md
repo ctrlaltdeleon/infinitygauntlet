@@ -58,6 +58,20 @@ OR
 CONTROLS HERE
 ```
 
+<!-- EXTERNAL SERVICES -->
+
+## <span role="img" aria-label="Doggo">🐕</span> Fetch information doggo! (External Services)
+
+The project uses external services. To use them you have to secure some access data. All services are free to use or have generous free tiers big enough for a personal project.
+
+Create an `.env` file like below in the root folder. Change `...` placeholders with your own key.
+
+```text
+GOOGLE_ANALYTICS_ID=...
+```
+
+If you wish not to use external services, simply comment out the respective sections in `gatsby-config.js`.
+
 <!-- WHAT'S INSIDE? -->
 
 ## <span role="img" aria-label="Thinking Face">🤔</span> What's inside?
@@ -83,7 +97,7 @@ A quick look at the top-level files and directories you'll see in this project.
 4. **`.gitignore`**: This file tells `.git` which files it should not track nor maintain a version history for. For instance, you shouldn't let anyone get your `.env` files. (These usually contain your API keys)
 5. **`avatar.png`**: Image used in the README.md.
 6. **`LICENSE`**: An open source license that protects contributors and users depending on the license chosen.
-7. **`package.json`**: A manifest file for [Node.js](https://nodejs.org/en/) projects, which includes metadata (the project’s name, author, package names, etc.). This manifest is how [npm](https://www.npmjs.com/) or [yarn]
+7. **`package.json`**: A manifest file for [Node.js](https://nodejs.org/en/) projects, which includes metadata (the project’s name, author, package names, etc.). This manifest is how [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/en/) knows which packages to install for your project.
 8. **`README.md`**: A markdown file containing useful reference information about your project. The file you're reading right now!
 9. **`SOMETHING.lock`**: This is an automatically generated file based on the exact versions of your package manager dependencies that were installed for your project. (You won’t change this file directly)
 
