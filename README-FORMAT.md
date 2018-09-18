@@ -101,6 +101,14 @@ A quick look at the top-level files and directories you'll see in this project.
 8. **`README.md`**: A markdown file containing useful reference information about your project. The file you're reading right now!
 9. **`SOMETHING.lock`**: This is an automatically generated file based on the exact versions of your package manager dependencies that were installed for your project. (You won’t change this file directly)
 
+<!-- CONTRIBUTORS -->
+
+## <span role="img" aria-label="Globe With Meridians">🌐</span> Contributors
+
+- @thanos
+- @ironman
+- @captainamerica
+
 <!-- LICENSE -->
 
 ## <span role="img" aria-label="Oncoming Police Car">🚔</span> [License](LICENSE)
