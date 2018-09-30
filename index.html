@@ -21,6 +21,19 @@
                 name: 'Name',
                 age: 5
             }
+
+            handleClick(e) {
+                console.log(e.target)
+            }
+
+            handleHover(e) {
+                console.log(e.target, e.pageX)
+            }
+
+            handleCopy(e) {
+                console.log('Copy here.')
+            }
+
             render() {
                 return (
                     <div className="app-content">
@@ -28,6 +41,9 @@
                         <p>{ Math.random() * 10 }</p>
                         <p>My name is {this.state.name}</p>
                         <p>My age is {this.state.age}</p>
+                        <button onClick={this.handleClick}>Click me</button>
+                        <button onMouseOver={this.handleMouseOver}>Hover Me</button>
+                        <p onCopy={this.handleCopy}>Hello</p>
                     </div>
                 )
             }
