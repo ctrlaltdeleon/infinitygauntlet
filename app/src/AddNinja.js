@@ -14,9 +14,14 @@ class AddNinja extends Component {
     });
   };
 
+  // addNinja function from App.js is utilized here
+  // this = listens
+  // props = parent's properties
+  // addNinja = function being used
+  // this.state = the form info is passed
   handleSubmit = e => {
     e.preventDefault();
-    console.log(this.state);
+    this.props.addNinja(this.state);
   };
 
   render() {
