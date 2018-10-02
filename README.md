@@ -1,4 +1,4 @@
 # reactreduxapp
 
-Containers have states
-UI Components don't have states
+Containers/Class-based have states
+UI Components/Functional don't have states
