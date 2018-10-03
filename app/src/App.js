@@ -24,12 +24,23 @@ class App extends Component {
     });
   };
 
+  deleteNinja = id => {
+    // New array
+    let ninjas = this.state.ninjas.filter(ninja => {
+      // If the given id is a match, filter that out and create the new array
+      return ninja.id !== id;
+    });
+    this.setState({
+      ninjas: ninjas
+    });
+  };
+
   render() {
     return (
       <div className="App">
         <h1>Not my first React app!</h1>
         <p>Welcome :)</p>
-        <Ninjas ninjas={this.state.ninjas} />
+        <Ninjas deleteNinja={this.deleteNinja} ninjas={this.state.ninjas} />
         <AddNinja addNinja={this.addNinja} />
       </div>
     );

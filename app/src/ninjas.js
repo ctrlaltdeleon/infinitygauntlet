@@ -1,7 +1,7 @@
 import React from "react";
 
 // Functional component with props being straight referenced
-const Ninjas = ({ ninjas }) => {
+const Ninjas = ({ ninjas, deleteNinja }) => {
   console.log(ninjas);
 
   // const { ninjas } = props;
@@ -27,35 +27,38 @@ const Ninjas = ({ ninjas }) => {
 
   // CONDITIONAL STATEMENT
 
-  // const ninjaList = ninjas.map(ninja => {
-  //   return ninja.age > 20 ? (
-  //     <div className="ninja" key={ninja.id}>
-  //       <div>Name: {ninja.name}</div>
-  //       <div>Age: {ninja.age}</div>
-  //       <div>Belt: {ninja.belt}</div>
-  //       <div>You are beautiful</div>
-  //       <br />
-  //     </div>
-  //   ) : null;
-  // });
+  const ninjaList = ninjas.map(ninja => {
+    return ninja.age > 20 ? (
+      <div className="ninja" key={ninja.id}>
+        <div>Name: {ninja.name}</div>
+        <div>Age: {ninja.age}</div>
+        <div>Belt: {ninja.belt}</div>
+        {/* This is called an anonymous function in order to invoke props but not exe */}
+        <button onClick={() => deleteNinja(ninja.id)}>Delete ninja!</button>
+        <br />
+      </div>
+    ) : null;
+  });
 
   // EMBEDDED LOGIC
 
-  return (
-    <div className="ninja-list">
-      {ninjas.map(ninja => {
-        return ninja.age > 20 ? (
-          <div className="ninja" key={ninja.id}>
-            <div>Name: {ninja.name}</div>
-            <div>Age: {ninja.age}</div>
-            <div>Belt: {ninja.belt}</div>
-            <div>You are beautiful</div>
-            <br />
-          </div>
-        ) : null;
-      })}
-    </div>
-  );
+  // return (
+  //   <div className="ninja-list">
+  //     {ninjas.map(ninja => {
+  //       return ninja.age > 20 ? (
+  //         <div className="ninja" key={ninja.id}>
+  //           <div>Name: {ninja.name}</div>
+  //           <div>Age: {ninja.age}</div>
+  //           <div>Belt: {ninja.belt}</div>
+  //           <div>You are beautiful</div>
+  //           <br />
+  //         </div>
+  //       ) : null;
+  //     })}
+  //   </div>
+  // );
+
+  return <div className="ninja-list">{ninjaList}</div>;
 };
 
 export default Ninjas;
