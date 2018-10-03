@@ -1,4 +1,5 @@
 import React from "react";
+import "./Ninjas.css";
 
 // Functional component with props being straight referenced
 const Ninjas = ({ ninjas, deleteNinja }) => {
