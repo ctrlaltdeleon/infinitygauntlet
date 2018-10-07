@@ -1,11 +1,15 @@
 import React from "react";
-import { Link, NavLink } from "react-router-dom";
+import { Link, NavLink, withRouter } from "react-router-dom";
 
-const Navbar = () => {
+const Navbar = props => {
+  // // Programmatic redirect
+  // setTimeout(() => {
+  //   props.history.push("/about");
+  // }, 2000);
   return (
     <nav className="nav-wrapper red darken-3">
       <div className="container">
-        <a className="brand-logo">Poketimes</a>
+        <div className="brand-logo">Poketimes</div>
         <ul className="right">
           <li>
             <Link to="/">Home</Link>
@@ -22,4 +26,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
+export default withRouter(Navbar);
