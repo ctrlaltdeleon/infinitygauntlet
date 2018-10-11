@@ -19,7 +19,6 @@ class Home extends Component {
   //   });
   // }
   render() {
-    console.log(this.props);
     const { posts } = this.props;
     // post.length checks if there's any post to begin with
     const postList = posts.length ? (
