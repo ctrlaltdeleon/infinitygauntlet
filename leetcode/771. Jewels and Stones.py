@@ -1,24 +1,4 @@
-# You're given strings J representing the types of stones that are jewels, and S representing the stones you have.
-# Each character in S is a type of stone you have.
-# You want to know how many of the stones you have are also jewels.
-
-# The letters in J are guaranteed distinct, and all characters in J and S are letters.
-# Letters are case sensitive, so "a" is considered a different type of stone from "A".
-
-# Example 1:
-
-# Input: J = "aA", S = "aAAbbbb"
-# Output: 3
-
-# Example 2:
-
-# Input: J = "z", S = "ZZ"
-# Output: 0
-
-# Note:
-
-# S and J will consist of letters and have length at most 50.
-# The characters in J are distinct.
+# Question removed due to possible punishments
 
 """
 Alright so how do we tackle this?
@@ -42,19 +22,51 @@ map(): returns a list of the results after applying the given function to each i
 map(fun, iter):
     fun: function to which map passes each element to iterable
     iterable: iterable to be mapped
-    
-.count: returns the number of occurrences of a substring in the given string
 
-In this problem
+    In order to convert a map iterable to readable code, simply convert to a data structure (ex: list)
+
+    For example:
+
+    # Double all numbers using map and lambda
+
+    numbers = (1, 2, 3, 4)
+    result = map(lambda x: x + x, numbers)
+    print(list(result))
+
+count(): returns the number of occurrences of a substring in the given string
+string1.count(string2)
+    string1: main string to be checked
+    string2: check occurrences of these
+
+In this solution we use the map() for checking each element of J through count()
+and compare to each element of S to see if we get a match.
+For each match, we "increment" using the sum to compile all "increments".
+
+Another possible solution checks for character in jewels matches character in stones, sum it up!
+sum(if c in J for c in S)
 """
 
-# class Solution:
-#     def numJewelsInStones(self, J, S):
-#         return sum(map(J.count, S))
 
-if __name__ == '__main__':
+class Solution:
+
+    def numJewelsInStones(self, J, S):
+        """
+        :type J: str
+        :type S: str
+        :rtype: int
+        """
+        return sum(map(J.count, S))
+
+
+test_object = Solution()
 
 J = "aA"
 S = "aAABBBB"
 
-print(J, S)
+print("Stages of the solution:")
+print("Jewels: " + J)
+print("Stones: " + S)
+print("Number of true jewels in stones: " + str(list(map(J.count, S))))
+print("Amount of jewels: " + str(test_object.numJewelsInStones(J, S)))
+
+# Consider time and space complexity
