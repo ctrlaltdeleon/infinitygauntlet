@@ -1,33 +1,22 @@
-git config --global --list
-    // Checks the user.name & user.email
-    // To access config, go to 'Users' then look for '.gitconfig'
-
-mkdir NAME_OF_DIRECTORY
-    // Makes a new directory/folder
-
-echo.>README.md
-    // Creates 'README.md'
-
-cd ..
-    // Goes back a folder
+"%" indicates your own variable.
 
 MAKE A NEW REPO ONTO YOUR LOCAL!
 
-1. git clone https://github.com/acfromspace/REPO_HERE.git
-2. cd REPOSITORY_HERE
-3. touch README.md
-4. git add README.md
+1. git clone https://github.com/acfromspace/%repo_name%.git
+2. cd %repo_name%
+3. touch %some_file%
+4. git add %some_file%
 5. git commit -m "put your message here"
-6. git push -u origin master (Replaces all the files in the master)
+6. git push -u origin master (Now your master is updated and an official repo)
 
 MAKE A LOCAL ONTO A NEW REPO!
 
-1. Change directory to respective folder
+1. Change computer directory to respective folder
 2. git init
-3. git remote add origin https://github.com/acfromspace/REPO_HERE.git
+3. git remote add origin https://github.com/acfromspace/%repo_name%.git
 4. git add . (adds all files)
 5. git commit -m "put your message here"
-6. git push -u origin master (Replaces all the files in the master)
+6. git push -u origin master (Now your master is updated and an official repo)
 
 Don't have any of the files and need to get them?
 1. git clone https://gitlab.com/acdeleon/REPOSITORY_HERE.git

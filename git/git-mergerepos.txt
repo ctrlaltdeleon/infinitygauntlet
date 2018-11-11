@@ -1,0 +1,19 @@
+Merging multiple repos:
+
+Create new repo
+
+git remote -v
+# View current remotes
+
+git remote add --fetch NAME https://github.com/user/repo.git
+
+git merge -s ours --no-commit --allow-unrelated-histories NAME/master
+# -s does short output
+
+git read-tree --prefix=NAME/ -u NAME/master
+# first name is where you name the folder in the main repo
+
+git commit -m "Merge NAME into main_repo_name"
+
+git pull -s subtree projectb master
+# if more commits were made on the other side

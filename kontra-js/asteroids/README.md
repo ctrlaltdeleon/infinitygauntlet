@@ -1,7 +1,7 @@
 <!-- HEADING -->
 
 <p align="center">
-  <img src="../very-cool-stuff/avatar.png" width="60">
+  <img src="../images/avatar.png" width="60">
 </p>
 <h1 align="center">️
   asteroids
@@ -31,7 +31,7 @@
 <!-- FEATURES -->
 
 <p align="center">
-  <img src="../very-cool-stuff/doggo.gif">
+  <img src="../images/doggo.gif">
 </p>
 
 <!-- QUICK INSTALLATION -->
@@ -46,7 +46,9 @@ The file should load onto your browser and there you can play!
 
 ```txt
 WASD/Arrow keys: Movement based on direction
+
 Spacebar: Fire bullets
+
 ```
 
 Game was created with <a href="https://webmakerapp.com/app/" target="_blank">Web Maker.</a>
@@ -56,7 +58,7 @@ Game was created with <a href="https://webmakerapp.com/app/" target="_blank">Web
 <!-- ## <span role="img" aria-label="Rocket">🚀</span> Putting this in the Infinity Gauntlet (In-Depth Installation) -->
 
 <!-- WHAT'S INSIDE? -->
-<!-- 
+<!--
 ## <span role="img" aria-label="Thinking Face">🤔</span> What's inside?
 
 A quick look at the top-level files and directories you'll see in this project.

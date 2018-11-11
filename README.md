@@ -1,7 +1,7 @@
 <!-- HEADING -->
 
 <p align="center">
-  <img src="./very-cool-stuff/avatar.png" width="60">
+  <img src="./images/avatar.png" width="60">
 </p>
 <h1 align="center">️infinitygauntlet</h1>
 
@@ -29,19 +29,19 @@
 <!-- FEATURES -->
 
 <p align="center">
-  <img src="./very-cool-stuff/vaporwave.gif">
+  <img src="./images/vaporwave.gif">
 </p>
 
-[*infinitygauntlet*](https://github.com/acfromspace/infinitygauntlet) is a repository with the following features:
+[_infinitygauntlet_](https://github.com/acfromspace/infinitygauntlet) is a repository with the following features:
 
-- **Memes.** Usually wholesome, hidden away in secret aways. 
+- **Memes.** Usually wholesome, hidden away in secret aways.
 - **Diversity.** I give everything a chance and share my learnings with everyone.
 - **Aesthetic.** I just like the way the things look and this is heavily influence by retro, vaporwave, and lo-fi.
 
 ## <span role="img" aria-label="Musical Note">🎵</span> Music I zone to (Thanks Spotify)
 
 <p align="center">
-  <img src="./very-cool-stuff/doggo.gif">
+  <img src="./images/doggo.gif">
 </p>
 
 - [Feel Better](https://open.spotify.com/user/1252712964/playlist/0XVxReRFFUe7Z5DFYPdOSU?si=XlZu73QTShWlDcKZfiA9AQ)
