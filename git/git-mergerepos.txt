@@ -1,19 +1,30 @@
-Merging multiple repos:
+Blog post: https://timestone.netlify.com/git-merge-multiple-repos/
 
-Create new repo
+# Create new repo, use terminal to change to new repo directory
 
 git remote -v
-# View current remotes
+# remote = manage the set of remotes whose branches you track
+# -v = be verbose and show remote url after name
 
-git remote add --fetch NAME https://github.com/user/repo.git
+git remote add -f OTHER_REPO https://github.com/USER/OTHER_REPO.git
+# add = add the branch
+# -f = download objects and refs from another repo
 
-git merge -s ours --no-commit --allow-unrelated-histories NAME/master
-# -s does short output
+git merge -s ours --no-commit --allow-unrelated-histories OTHER_REPO/master
+# merge = combine branches into one branch
+# -s = short output
+# --no-commit = doesn't perform the commit as actions aren't finished yet
+# --allow-unrelated-histories = provides ease of merge
 
-git read-tree --prefix=NAME/ -u NAME/master
-# first name is where you name the folder in the main repo
+git read-tree --prefix=OTHER_REPO/ -u OTHER_REPO/master
+# read-tree = reads tree info into the new repo index
+# --prefix = what to name the new folder of other branch being transferred
+# -u = update the files in the work tree with the result of the merge
 
-git commit -m "Merge NAME into main_repo_name"
+git commit -m "Merge OTHER_REPO into NEW_REPO"
+# commit = you are satisfied with the merge
+# -m = message to be attached to commit
 
-git pull -s subtree projectb master
-# if more commits were made on the other side
+git push
+# you did it!
+
