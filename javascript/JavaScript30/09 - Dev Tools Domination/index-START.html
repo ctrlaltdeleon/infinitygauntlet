@@ -1,46 +1,109 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Console Tricks!</title>
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Console Tricks!</title>
+  </head>
+  <body>
+    <p onClick="makeGreen()">×BREAK×DOWN×</p>
 
-  <p onClick="makeGreen()">×BREAK×DOWN×</p>
+    <script>
+      const dogs = [{ name: "Snickers", age: 2 }, { name: "hugo", age: 8 }];
 
-  <script>
-    const dogs = [{ name: 'Snickers', age: 2 }, { name: 'hugo', age: 8 }];
+      function makeGreen() {
+        // Takes the first paragraph and turn it green
+        const p = document.querySelector("p");
+        p.style.color = "#BADA55";
+        p.style.fontSize = "50px";
+      }
 
-    function makeGreen() {
-      const p = document.querySelector('p');
-      p.style.color = '#BADA55';
-      p.style.fontSize = '50px';
-    }
+      // To test for attribute changes(Google Chrome):
+      // F12 Inspect the element
+      // Right click within the DOM (Document Object Model)
+      // Break on...
+      // Attribute modifications
 
-    // Regular
+      // Regular
+      console.log("hello");
 
-    // Interpolated
+      // Interpolated
+      console.log("hello I am a %s string!", "💩");
+      var variable = new String("nice");
+      // These are back ticks, not quotation marks
+      console.log(`hello I am ${variable}`);
 
-    // Styled
+      // Styled
+      // %c styles the text and the follow parameter takes in the css
+      console.log(
+        "%c I am some great text",
+        "font-size:20px; background:pink;"
+      );
 
-    // warning!
+      // warning!
+      console.warn("OH MY GOD!");
 
-    // Error :|
+      // Error :|
+      console.error("ZA WARUDO!");
 
-    // Info
+      // Info
+      console.info("This is the work of an enemy stand!");
 
-    // Testing
+      // Testing
+      const p = document.querySelector("p");
+      // If the classList does not contain "ouch", return the assertion "That is wrong!"
+      // True? Nothing will happen
+      // False? Return the statement
+      console.assert(p.classList.contains("ouch"), "That is wrong!");
 
-    // clearing
+      // clearing
+      // Clears the console
+      console.clear();
 
-    // Viewing DOM Elements
+      // Viewing DOM Elements
+      console.log(p);
+      // console.dir displays all the methods within the DOM element
+      console.dir(p);
+      // Set up for the next display
+      console.clear();
 
-    // Grouping together
+      // Grouping together
+      // VERY USEFUL FOR HUGE DATABASES
+      dogs.forEach(dog => {
+        // console.groupCollapsed will show the objects, but keep the children inside in the console
+        console.group(`${dog.name}`);
+        console.log(`This is ${dog.name}`);
+        console.log(`${dog.name} is ${dog.age} years old 🐶`);
+        console.groupEnd(`${dog.name}`);
+      });
 
-    // counting
+      // counting
+      // Keeps count of how many times a specific parameter is running
+      console.count("ORA");
+      console.count("ORA");
+      console.count("ORA");
+      console.count("MUDA");
+      console.count("MUDA");
+      console.count("MUDA");
+      console.count("ORA");
+      console.count("MUDA");
+      console.count("ORA");
+      console.count("MUDA");
+      console.count("ORA");
+      console.count("MUDA");
 
-    // timing
+      // timing
+      // Get a gist of how long times will take
+      // Performance.now in the browser is also available
+      console.time("fetching data");
+      fetch("https://api.github.com/users/acfromspace")
+        .then(data => data.json())
+        .then(data => {
+          console.timeEnd("fetching data");
+          console.log(data);
+        });
 
-  </script>
-</body>
+      // table
+      console.table(dogs);
+    </script>
+  </body>
 </html>
