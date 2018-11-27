@@ -1,12 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Key Detection</title>
-  <script type="text/javascript" src="http://www.cornify.com/js/cornify.js"></script>
-</head>
-<body>
-<script>
-</script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Key Detection</title>
+    <script
+      type="text/javascript"
+      src="http://www.cornify.com/js/cornify.js"
+    ></script>
+  </head>
+  <style>
+    .centered {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      /* bring your own prefixes */
+      transform: translate(-50%, -50%);
+    }
+  </style>
+  <body>
+    <h1 class="centered">UWU</h1>
+
+    <script>
+      const pressed = [];
+      const secretCode = "uwu";
+      window.addEventListener("keyup", e => {
+        // Whichever key is pressed is pushed into the array
+        pressed.push(e.key);
+        // The splice() method changes the contents of an array by removing existing elements and/or adding new elements
+        // Parameters are starting value and deleted values
+        pressed.splice(
+          // -5 - 1 = -6
+          -secretCode.length - 1,
+          // n - 5 = what is inserted
+          pressed.length - secretCode.length
+        );
+        console.log(pressed);
+        // pressed.join("") === secretCode does work, but what if the user goes overboard?
+        // I think it should still work either way by how we implemented the splice method
+        if (pressed.join("").includes(secretCode)) {
+          console.log("%cHEY YOU DID IT", "font-size:40px; background:pink;");
+          cornify_add();
+        }
+      });
+    </script>
+  </body>
 </html>
