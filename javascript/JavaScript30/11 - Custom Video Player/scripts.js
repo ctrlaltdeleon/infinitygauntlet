@@ -14,11 +14,26 @@ const ranges = player.querySelectorAll(".player__slider");
 
 // Build out functions
 function togglePlay() {
-  if (video.paused) {
-    video.play();
-  } else {
-    video.pause();
-  }
+  const method = video.paused ? "play" : "pause";
+  // Conditional (ternary) operator to be called
+  // video.paused is true?
+  // video[method](); -> video.play();
+  // video.paused is false?
+  // video[method](); -> video.pause();
+  video[method]();
 }
 
+function updateButton() {
+  const icon = this.paused ? "►" : "❚ ❚";
+  // reference the user-created toggle button
+  // textContent is built into JS, referencing the text and all descendants
+  toggle.textContent = icon;
+}
 // Hook up event listeners
+// the pre-variable is user-created
+video.addEventListener("click", togglePlay);
+video.addEventListener("play", updateButton);
+video.addEventListener("pause", updateButton);
+toggle.addEventListener("click", togglePlay);
+
+// 10:15 timestamp
