@@ -36,13 +36,40 @@ function skip() {
   video.currentTime += parseFloat(this.dataset.skip);
 }
 
+function handleRangeUpdate() {
+  // take the specific video[range] and change the value
+  video[this.name] = this.value;
+}
+
+function handleProgress() {
+  // this is for the visual aspect
+  const percent = (video.currentTime / video.duration) * 100;
+  // flex-basis CSS that sets the initial main size of a flex item
+  progressBar.style.flexBasis = `${percent}%`;
+}
+
+function scrub(e) {
+  const scrubTime = (e.offsetX / progress.offsetWidth) * video.duration;
+  video.currentTime = scrubTime;
+}
+
 // Hook up event listeners
 // the pre-variable is user-created
 video.addEventListener("click", togglePlay);
 video.addEventListener("play", updateButton);
 video.addEventListener("pause", updateButton);
+video.addEventListener("timeupdate", handleProgress);
 toggle.addEventListener("click", togglePlay);
 // considers each skip button
 skipButtons.forEach(button => button.addEventListener("click", skip));
+ranges.forEach(range => range.addEventListener("change", handleRangeUpdate));
+ranges.forEach(range => range.addEventListener("mousemove", handleRangeUpdate));
+// this is for the mousemove option, because we need a mousedown before firing or it's constant on hover
+let mousedown = false;
+// we look at the what's clicked (e) and check offsetX
+progress.addEventListener("click", scrub);
+progress.addEventListener("mousemove", e => mousedown && scrub(e));
+progress.addEventListener("mousedown", () => (mousedown = true));
+progress.addEventListener("mouseup", () => (mousedown = false));
 
-// 10:15 timestamp
+// Try making fullscreen button
