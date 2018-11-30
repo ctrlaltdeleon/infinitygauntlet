@@ -29,11 +29,20 @@ function updateButton() {
   // textContent is built into JS, referencing the text and all descendants
   toggle.textContent = icon;
 }
+
+function skip() {
+  // this.dataset gets the attached user-classes to the input
+  // parseFloat() parses a string and returns a floating point number
+  video.currentTime += parseFloat(this.dataset.skip);
+}
+
 // Hook up event listeners
 // the pre-variable is user-created
 video.addEventListener("click", togglePlay);
 video.addEventListener("play", updateButton);
 video.addEventListener("pause", updateButton);
 toggle.addEventListener("click", togglePlay);
+// considers each skip button
+skipButtons.forEach(button => button.addEventListener("click", skip));
 
 // 10:15 timestamp
