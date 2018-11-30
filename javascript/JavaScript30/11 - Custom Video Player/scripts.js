@@ -33,6 +33,11 @@ function updateButton() {
 function skip() {
   // this.dataset gets the attached user-classes to the input
   // parseFloat() parses a string and returns a floating point number
+  console.log(
+    "%cSOMEONE OUT THERE CARES ABOUT YOU",
+    "font-size:40px; background:pink;"
+  );
+  console.log("me");
   video.currentTime += parseFloat(this.dataset.skip);
 }
 
