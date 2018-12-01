@@ -2,10 +2,10 @@
 
 MAKE A NEW REPO ONTO YOUR LOCAL!
 
-1. git clone https://github.com/acfromspace/%repo_name%.git
-2. cd %repo_name%
-3. touch %some_file%
-4. git add %some_file%
+1. git clone https://github.com/acfromspace/%REPO_NAME%.git
+2. cd %REPO_NAME%
+3. touch %SOME_FILE%
+4. git add %SOME_FILE%
 5. git commit -m "put your message here"
 6. git push -u origin master (Now your master is updated and an official repo)
 
@@ -13,7 +13,7 @@ MAKE A LOCAL ONTO A NEW REPO!
 
 1. Change computer directory to respective folder
 2. git init
-3. git remote add origin https://github.com/acfromspace/%repo_name%.git
+3. git remote add origin https://github.com/acfromspace/%REPO_NAME%.git
 4. git add . (adds all files)
 5. git commit -m "put your message here"
 6. git push -u origin master (Now your master is updated and an official repo)

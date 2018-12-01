@@ -6,6 +6,10 @@ TODO:
 
 Rather, your interviewer will make an assessment of your performance, usually based on the following: 
 
+BOOKMARK: PAGE 15
+
+1: THE INTERVIEW PROCESS
+
 Analytical skills: 
     Did you need much help solving the problem? 
     How optimal was your solution? 
@@ -32,10 +36,32 @@ Culture fit/ Communication skills:
     The weighting of these areas will vary based on the question, interviewer, role, team, and company. 
         In a standard algorithm question, it might be almost entirely the first three of those
 
-Companies:
+The way people are accessed for a job is not only to the job description,
+    but who's the best amongst the candidates.
 
-Microsoft:
-Amazon:
-Google:
-Facebook:
+2: BEHIND THE SCENES
+
+If you have waited more than a week after an interview, follow up!
+
+3: SPECIAL SITUATIONS
+
+Testers and SDETs (software design engineers in test):
+    Prepare the Core Testing Problems:
+        How would you test a light bulb?
+        A pen?
+        A cash register?
+    Practice the Coding Questions:
+        Number one reason why SDETS get rejected.
+        Do the usual coding and algorithm questions.
+    Practice Testing the Coding Questions:
+        "Write code to do X"
+        ... & then after doing so
+        "Test the code if it functions properly"
+    Note:
+        SDET position is easier than most, but a job to be stuck in.
     
+Product (and Program) Management:
+    Handling Ambiguity:
+        
+    Note:
+        Vary wildly across companies and even within a company.
