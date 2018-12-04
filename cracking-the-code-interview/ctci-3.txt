@@ -1,0 +1,22 @@
+3: SPECIAL SITUATIONS
+
+Testers and SDETs (software design engineers in test):
+    Prepare the Core Testing Problems:
+        How would you test a light bulb?
+        A pen?
+        A cash register?
+    Practice the Coding Questions:
+        Number one reason why SDETS get rejected.
+        Do the usual coding and algorithm questions.
+    Practice Testing the Coding Questions:
+        "Write code to do X"
+        ... & then after doing so
+        "Test the code if it functions properly"
+    Note:
+        SDET position is easier than most, but a job to be stuck in.
+    
+Product (and Program) Management:
+    Handling Ambiguity:
+        
+    Note:
+        Vary wildly across companies and even within a company.
