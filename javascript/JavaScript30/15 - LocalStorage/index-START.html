@@ -58,7 +58,24 @@
       const itemsList = document.querySelector(".plates");
       const items = [];
 
-      // 1:23, won't load because wifi is slow
+      function addItem(e) {
+        // Just like in React, prevents the page from reloading
+        e.preventDefault();
+        // Useful for targeting a specific form using "this"
+        // <input name="item"> === [name=item]
+        const text = this.querySelector("[name=item]").value;
+        const item = {
+          text: text,
+          // or just "text" thanks to ES6
+          done: false
+        };
+        // Resets the form after submit
+        this.reset();
+      }
+
+      // Click, Enter are qualified as submit
+      addItems.addEventListener("submit", addItem);
+      // 6:17, won't load because wifi is slow
     </script>
   </body>
 </html>
