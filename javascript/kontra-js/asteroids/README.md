@@ -1,7 +1,7 @@
 <!-- HEADING -->
 
 <p align="center">
-  <img src="../images/avatar.png" width="60">
+  <img src="../../../images/avatar.png" width="60">
 </p>
 <h1 align="center">️
   asteroids
@@ -31,7 +31,7 @@
 <!-- FEATURES -->
 
 <p align="center">
-  <img src="../images/doggo.gif">
+  <img src="../../../images/doggo.gif">
 </p>
 
 <!-- QUICK INSTALLATION -->
@@ -52,27 +52,3 @@ Spacebar: Fire bullets
 ```
 
 Game was created with <a href="https://webmakerapp.com/app/" target="_blank">Web Maker.</a>
-
-<!-- IN-DEPTH INSTALLATION -->
-
-<!-- ## <span role="img" aria-label="Rocket">🚀</span> Putting this in the Infinity Gauntlet (In-Depth Installation) -->
-
-<!-- WHAT'S INSIDE? -->
-<!--
-## <span role="img" aria-label="Thinking Face">🤔</span> What's inside?
-
-A quick look at the top-level files and directories you'll see in this project.
-
-    .
-    ├── .gitignore
-    ├── .vscode
-    │   ├── launch.json
-    │   ├── settings.json
-    │   └── tasks.json
-    └── some-file.js -->
-
-<!-- LICENSE -->
-
-<!-- ## [License](LICENSE)
-
-The code in this project is licensed under MIT license. -->
