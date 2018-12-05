@@ -69,13 +69,37 @@
           // or just "text" thanks to ES6
           done: false
         };
+        items.push(item);
+        populateList(items, itemsList);
         // Resets the form after submit
         this.reset();
       }
 
+      // Empty array so that it doesn't break the code for passing null
+      // Any array of plates and any destination HTML element
+      // We do this just incase there's more than 1 menu
+      function populateList(plates = [], platesList) {
+        // This creates a new platesList each time something is added
+        // React does a great way of managing this by updating only a section
+        // platesList.innerHTML acts as a variable
+        platesList.innerHTML = plates
+          .map((plate, i) => {
+            return `
+                    <li>
+                      <input type="checkbox" data-index=${i} id="items${i}" ${
+              plate.done ? "checked" : ""
+            } />
+                      <label for="items${i}">${plate.text}</label>
+                    </li>
+                  `;
+          })
+          // We use .join because .map makes an array when we need a string
+          .join("");
+      }
+
       // Click, Enter are qualified as submit
       addItems.addEventListener("submit", addItem);
-      // 6:17, won't load because wifi is slow
+      // 11:40
     </script>
   </body>
 </html>
