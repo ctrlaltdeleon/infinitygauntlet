@@ -239,3 +239,14 @@ length 	    len 	            Returns the cardinality of the set
 - 	        aset - otherset 	Returns a new set with all items from the first set not in second
 <= 	        aset <= otherset 	Asks whether all elements of the first set are in the second
 
+Sets have methods that should be familiar in a mathematical setting.
+
+METHOD	        USE 	                        EXPLANATION
+union 	        aset.union(otherset) 	        Returns a new set with all elements from both sets
+intersection 	aset.intersection(otherset) 	Returns a new set with only those elements common to both sets
+difference 	    aset.difference(otherset) 	    Returns a new set with all items from first set not in second
+issubset 	    aset.issubset(otherset) 	    Asks whether all elements of one set are in the other
+add 	        aset.add(item) 	                Adds item to the set
+remove 	        aset.remove(item) 	            Removes item from the set
+pop 	        aset.pop() 	                    Removes an arbitrary element from the set
+clear 	        aset.clear() 	                Removes all elements from the set
