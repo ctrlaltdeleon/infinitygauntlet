@@ -14,7 +14,6 @@
             MessageBox.Show("One or more fields are empty, please fill in the respective fields.")
         Else ConferenceOptionsForm.Show()
         End If
-
     End Sub
 
 End Class
