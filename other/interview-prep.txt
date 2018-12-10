@@ -1,0 +1,28 @@
+"Tell me about a project you worked on?"
+
+What is the best way to answer project description questions?
+
+STAR Format
+
+S - Situation
+T - Task
+A - Action
+R - Result
+
+(Considered what you learned and the hardships encountered as well)
+
+S:
+    Aztec Game Lab, a game development organization at SDSU, was in need
+    of an online space where users could interact with their teams as well
+    as share game assets, share content, in a secluded ad-free area.
+T:
+    Our task was to create this said website with 6 developers, using an
+    Agile/Scrum 1 week sprint method in order to be used by 2019.
+A:
+    We took the foundations of React/Redux/Firebase to work with and created
+    designs and templates from user accounts, chat room connections, and
+    post sharing.
+R:
+    Result is that we are still working on it at the moment, we have finished
+    the bare bones of the code where we know the website works, it's just now
+    the styling, documenting, and distributing to the users is what is left.
