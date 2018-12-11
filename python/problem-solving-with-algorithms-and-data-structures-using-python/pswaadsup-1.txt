@@ -222,7 +222,6 @@ So why use tuples?
 A set is an unordered collection of zero or more immutable data objects.
 Sets don't allow duplicates and are separated by commas in curly braces.
 The set is mutable, you can remove or add, but you can not change.
-Sets organize by data types, but indexing does not matter.
 
 EXAMPLE:                        YIELDS:
 
@@ -242,6 +241,7 @@ length 	    len 	            Returns the cardinality of the set
 Sets have methods that should be familiar in a mathematical setting.
 
 METHOD	        USE 	                        EXPLANATION
+
 union 	        aset.union(otherset) 	        Returns a new set with all elements from both sets
 intersection 	aset.intersection(otherset) 	Returns a new set with only those elements common to both sets
 difference 	    aset.difference(otherset) 	    Returns a new set with all items from first set not in second
@@ -250,3 +250,10 @@ add 	        aset.add(item) 	                Adds item to the set
 remove 	        aset.remove(item) 	            Removes item from the set
 pop 	        aset.pop() 	                    Removes an arbitrary element from the set
 clear 	        aset.clear() 	                Removes all elements from the set
+
+Final unordered collection is called a dictionary.
+Key and value relationship.
+
+EXAMPLE                         YIELD
+
+mySet

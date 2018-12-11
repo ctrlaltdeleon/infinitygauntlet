@@ -1,6 +1,6 @@
 ﻿Public Class ConferenceOptionsForm
-    Public dblTotalCost As Double = 0
-    Public Function TotalCost(ByRef dblTotalCost)
+
+    Public Function TotalCost()
         Dim dblRegistration As Double
         Dim dblOpeningNight As Double
         Dim dblOptCon As Double
@@ -27,7 +27,7 @@
             dblOptCon = 0
         End If
 
-        dblTotalCost = dblRegistration + dblOpeningNight + dblOptCon
+        dblTotalCost = (dblRegistration + dblOpeningNight + dblOptCon).ToString("c")
 
         Return dblTotalCost
     End Function
