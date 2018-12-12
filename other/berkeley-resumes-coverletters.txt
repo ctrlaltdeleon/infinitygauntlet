@@ -1,0 +1,91 @@
+LINK: https://career.berkeley.edu/sites/default/files/pdf/Guide/ResumesCovLet.pdf
+
+###################################################################
+THE 5 STEPS OF RESUME DEVELOPMENT
+###################################################################
+
+1. Analyze the Position Description
+    Use the same words they use in the job description.
+2. Generate a List of Accomplishments
+    Quantify and reflect you!
+3. Identify Relevant Skills Areas
+    Remember transferable skills.
+4. Write Descriptive Phrases
+    Use action verbs that demonstrate your relevant skills.
+5. Choose a Format
+    1 page.
+
+###################################################################
+THE RESUME BULLET: HOW TO SAY IT
+###################################################################
+
+What:
+    Created a website.
+What and How:
+    Created a website using React/Redux/Firebase.
+What and Why:
+    Created a website to generate community interaction between eager students and prospective employers.
+What, Why, and Result:
+    Created a website to generate community interaction between eager students and prospective employers, 
+        resulting in connections with Playstation and Psyonix to name a few.
+Adding Adjectives:
+    Created a full-stack application website using React/Redux/Firebase to generate community interaction 
+        between eager students and prospective employers, resulting in connections with Playstation and 
+        Psyonix to name a few.
+
+###################################################################
+TOP 10 ATTRIBUTES EMPLOYERS SEEK ON CANDIDATE RESUMES
+###################################################################
+
+1. Leadership
+2. Ability to work in a team
+3. Communication (Written)
+4. Problem-solving skills
+5. Communication (Verbal)
+6. Strong work ethic
+7. Initiative
+8. Analytical/Quantitative skills
+9. Adaptability
+10. Technical skills
+
+###################################################################
+REFERENCES LAYOUT
+###################################################################
+
+Name
+Position
+Company
+Location
+Phone #
+Email
+
+###################################################################
+VERB LIST FOR RESUMES & LETTERS
+###################################################################
+
+achieved
+expanded
+improved
+pioneered
+reduced
+resolved
+restored
+spearheaded
+transformed
+operationalized
+attained
+increased
+strengthened
+convinced
+upgraded
+founded
+initiated
+introduced
+invented
+originated
+revitalized
+expedited
+developed
+created
+engineered
+programmed
