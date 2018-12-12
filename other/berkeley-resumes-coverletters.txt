@@ -89,3 +89,43 @@ developed
 created
 engineered
 programmed
+
+###################################################################
+COVER LETTERS
+###################################################################
+
+Open with a paragraph that catches the reader's attention.
+Connect your experiences and qualifications with the desired qualifications.
+Include specific information about why you want to work for the employer and industry.
+No grammar/spelling errors.
+Demonstrate knowledge of the position and the company.
+
+###################################################################
+COVER LETTERS FORMAT
+###################################################################
+
+Month Date, Year
+
+Company Name
+Address
+City, State Zipcode
+
+Dear Hiring Manager...
+
+State the position
+How you found it out
+Referral mention
+"I am confident that my skills to this position merit your consideration"
+
+Build connection between company's needs and your background and skills
+Don't restate resume, expand on specifics
+"This is my top choice dream company and I'm willing to push mountains to be here"
+
+Restate interest
+Request an interview
+Follow up
+Thank you for your time/consideration
+
+Sincerely,
+Signature
+Printed name
