@@ -1,6 +1,10 @@
-Link: https://career.berkeley.edu/sites/default/files/pdf/Guide/EntireGuide.pdf
+LINK: https://career.berkeley.edu/sites/default/files/pdf/Guide/EntireGuide.pdf
+
+TITLE:
 
 Job & Internship Guide Career Center Berkeley
+
+CHAPTERS:
 
 1a. Preparing for your search
 2a. Job & Internship Search
@@ -8,6 +12,8 @@ Job & Internship Guide Career Center Berkeley
 4a. Resume & Cover Letters
 5a. Interviewing
 6a. Offers & Negotiations
+
+TIPS:
 
 (Search via "xa" where "x" is the chapter number as stated above)
 
@@ -358,6 +364,8 @@ Video Tips:
 ###################################################################
 5c. PREPARING FOR A SECOND ROUND INTERVIEW
 ###################################################################
+
+
 
 ###################################################################
 6a. OFFERS AND NEGOTIATION
