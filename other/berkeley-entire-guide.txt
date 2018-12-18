@@ -1,12 +1,20 @@
 LINK: https://career.berkeley.edu/sites/default/files/pdf/Guide/EntireGuide.pdf
 
+TODO: 
+
+CHAPTER LAYOUT
+CHAPTER 5
+CHAPTER 6
+
 TITLE:
 
 Job & Internship Guide Career Center Berkeley
 
 CHAPTERS:
 
-1a. Preparing for your search
+1a. PREPARING FOR YOUR SEARCH
+    1b. INITIATE CONTACT
+    1c. PREPARE FOR THE INTERVIEW
 2a. Job & Internship Search
 3a. Career Fairs & Employer Information Sessions
 4a. Resume & Cover Letters
