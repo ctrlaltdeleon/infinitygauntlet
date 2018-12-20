@@ -1,24 +1,32 @@
 LINK: https://career.berkeley.edu/sites/default/files/pdf/Guide/EntireGuide.pdf
 
-TODO: 
-
-CHAPTER LAYOUT
-CHAPTER 5
-CHAPTER 6
-
-TITLE:
+###################################################################
+TITLE
+###################################################################
 
 Job & Internship Guide Career Center Berkeley
 
-CHAPTERS:
+###################################################################
+CHAPTERS
+###################################################################
 
 1a. PREPARING FOR YOUR SEARCH
     1b. INITIATE CONTACT
     1c. PREPARE FOR THE INTERVIEW
-2a. Job & Internship Search
-3a. Career Fairs & Employer Information Sessions
-4a. Resume & Cover Letters
+    1d. CONDUCT THE INFORMATIONAL INTERVIEW
+2a. JOB & INTERNSHIP SEARCH
+3a. CAREER FAIRS & EMPLOYER INFO SESSIONS
+4a. RESUME & COVER LETTERS
+    4b. THE 5 STEPS OF RESUME DEVELOPMENT
+    4c. THE RESUME BULLET: HOW TO SAY IT
+    4d. TOP 10 ATTRIBUTES EMPLOYERS SEEK ON CANDIDATE RESUMES
+    4e. REFERENCES LAYOUT
+    4f. VERB LIST FOR RESUMES & LETTERS
+    4h. COVER LETTERS FORMAT
 5a. Interviewing
+    5b. PREPARING FOR A PHONE OR VIDEO INTERVIEW
+    5c. PREPARING FOR A SECOND ROUND INTERVIEW
+    5d. THANK YOU LETTER: HOW TO SAY IT
 6a. Offers & Negotiations
 
 TIPS:
@@ -32,7 +40,7 @@ TIPS:
 Find out who you are, what you like, what strengths you have.
 Conduct informational interviews to figure it out more.
 
-Informational Interview 
+Informational Interview:
     Informal conversation with someone working in an area 
     of interest to you who is willing to give you information 
     about a job, career field, industry, or work setting. It is 
@@ -49,7 +57,7 @@ Emphasize what you're looking for information or a job.
 
 EXAMPLE:
 
-Dear beautiful person:
+Dear beautiful person,
 
 I am so-so doing so-so...
 
@@ -59,7 +67,7 @@ I would greatly appreciate 15 to 20 minutes of your time speaking about...
 Thank you for your consideration...
 
 Sincerely,
-Me
+Name
 
 ###################################################################
 1c. PREPARE FOR THE INTERVIEW
@@ -91,7 +99,7 @@ This relationship could become an important part of your professional
     network.
 
 ###################################################################
-2a. Job & Internship Search
+2a. JOB & INTERNSHIP SEARCH
 ###################################################################
 
 Persistence, patience, early planning, passion, and commitment are key.
@@ -171,6 +179,14 @@ Can you describe the typical career path in your organization.
 4a. RESUME & COVER LETTERS
 ###################################################################
 
+My personal resume can be used as reference.
+
+LINK: https://resume.creddle.io/resume/ayjgtizt9n7
+
+I suggest using creddle.io as a great start off point.
+I would also suggest keeping a .txt file around with everything
+    organized when a website won't allow .pdf files.
+
 ###################################################################
 4b. THE 5 STEPS OF RESUME DEVELOPMENT
 ###################################################################
@@ -226,6 +242,8 @@ Adding Adjectives:
 4e. REFERENCES LAYOUT
 ###################################################################
 
+Typical heading with your name, position, contact information.
+
 Name
 Position
 Company
@@ -264,6 +282,8 @@ created
 engineered
 programmed
 
+(More words located within the link located at the top)
+
 ###################################################################
 4g. COVER LETTERS
 ###################################################################
@@ -279,6 +299,8 @@ Demonstrate knowledge of the position and the company.
 ###################################################################
 4h. COVER LETTERS FORMAT
 ###################################################################
+
+Typical heading with your name, position, contact information.
 
 Month Date, Year
 
@@ -328,17 +350,17 @@ Film or record your responses and review your performance.
 Types of interviews include:
 
 One-on-one: 
-    Just you and one interviewer, the most common type of interview
+    Just you and one interviewer, the most common type of interview.
 Panel: 
-    You are interviewed by more than one person at the same time
+    You are interviewed by more than one person at the same time.
 Group: 
-    A group of candidates is interviewed by a panel or one interviewer
+    A group of candidates is interviewed by a panel or one interviewer.
 Meal: 
-    You are interviewed while eating, usually over lunch
+    You are interviewed while eating, usually over lunch.
 Working: 
-    You are put to work and observed
+    You are put to work and observed.
 Phone or Video: 
-    Often used as a screening tool before inviting you to an on-site interview
+    Often used as a screening tool before inviting you to an on-site interview.
 On-Site or Second Round: 
     After you have made it through a screening interview, this is a 
     more extended interview at the employer site that may include a 
@@ -373,7 +395,107 @@ Video Tips:
 5c. PREPARING FOR A SECOND ROUND INTERVIEW
 ###################################################################
 
+At this point, you're being considered seriously for a position.
+They will see how you fit with company culture, with people, and
+    absorb a more complete picture of what you offer.
+Use information based off the first interview to recognize your
+    strengths, weaknesses, and overall stance.
 
+Before the Interview:
+    Confirm date, time, location, name of person to ask for when
+        you arrive.
+    Arrive at least 10 minutes early.
+    Travel rationally; if out of town, ask for reservations in terms
+        of flights, hotel, etc.
+    Keep all receipts when going to/from the interview!
+    Have extra copies of your resume, transcripts, references, and
+        all employer forms.
+    Come up with at least five questions to ask the employer.
+    Alert references that they may be contacted.
+
+What to Wear to Interviews:
+    Dependent on the industry and specific company culture.
+    Just look nice and groom well.
+
+At the Interview:
+    Be respectful.
+    Be there like you want to be there.
+    Keep your belongings to yourself.
+    Ask when you can expect to hear from the employer again.
+    If you receive a verbal offer on the spot, it's usually better
+        to think about the offer before accepting or declining.
+        If you are not ready, ask for written confirmation about
+        the offer and tell the employer when you're ready.
+
+After the Interview:
+    Within two days, send a thank-you note/email to the person
+        in charge of the interview process with copies to the others
+        involved.
+    A week after sending the thank-you, contact the employer to show
+        your continued interest and ask if there is anything else
+        to provide.
+    After a week if there is no response, phone/email the person
+        whom interviewed you about your status.
+
+###################################################################
+5d. THANK YOU LETTER: HOW TO SAY IT
+###################################################################
+
+Dear beautiful person,
+
+Thank you for the opportunity...
+I enjoyed...
+I was impressed with...
+This is why I chose this company in the first place...
+
+I look forward hearing from you from this experience...
+
+Sincerely,
+Name
+
+###################################################################
+5e. TYPES OF INTERVIEW QUESTIONS
+###################################################################
+
+Most interviews will consist a mix of different question types.
+
+Traditional:
+    Straightforward questions about your experience, background, 
+        and personal qualities.
+
+EXAMPLE:
+
+    Tell me about yourself.
+    Why should we hire you?
+    Why did you choose this job?
+
+Behavioral:
+    Based on the premise that past behavior will reflect future
+        behavior.
+    Will be tailored around:
+        Interpersonal Skills
+        Communication Skills
+        Initiative
+        Creative/Innovation
+        Leadership
+        Planning & Organization
+        Flexibility
+        Decision-making    
+
+EXAMPLE:
+
+    When working on a team project, have you ever dealt with
+        a strong disagreement among team members?
+    Describe your leadership style and provide an example of a
+        situation where you successfully led a group.
+    How did you overcome "personality" conflicts in order to get
+        results?
+
+Technical:
+    Discipline-specific knowledge.
+Case:
+    You won't know the answer, but need to make an attempt in
+        showcasing your thinking.    
 
 ###################################################################
 6a. OFFERS AND NEGOTIATION
