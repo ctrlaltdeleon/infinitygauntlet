@@ -493,9 +493,30 @@ EXAMPLE:
 
 Technical:
     Discipline-specific knowledge.
+
+EXAMPLE:
+    
+    When would you use == vs ===?
+
 Case:
     You won't know the answer, but need to make an attempt in
-        showcasing your thinking.    
+        showcasing your thinking.  
+
+EXAMPLE:
+
+    When organizing an array, how would you organize it?
+
+###################################################################
+5f. BEHAVIORAL QUESTIONS: PLANNING YOUR RESPONSES
+###################################################################
+
+###################################################################
+5g. DIFFICULT QUESTIONS
+###################################################################
+
+###################################################################
+5H. QUESTIONS TO ASK EMPLOYERS
+###################################################################
 
 ###################################################################
 6a. OFFERS AND NEGOTIATION
