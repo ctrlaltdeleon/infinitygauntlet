@@ -1,9 +1,5 @@
 LINK: https://career.berkeley.edu/sites/default/files/pdf/Guide/EntireGuide.pdf
 
-TODO: 
-
-6 more pages in total
-
 ###################################################################
 TITLE
 ###################################################################
@@ -27,11 +23,19 @@ CHAPTERS
     4e. REFERENCES LAYOUT
     4f. VERB LIST FOR RESUMES & LETTERS
     4h. COVER LETTERS FORMAT
-5a. Interviewing
+5a. INTERVIEWING
     5b. PREPARING FOR A PHONE OR VIDEO INTERVIEW
     5c. PREPARING FOR A SECOND ROUND INTERVIEW
     5d. THANK YOU LETTER: HOW TO SAY IT
-6a. Offers & Negotiations
+    5e. TYPES OF INTERVIEW QUESTIONS
+    5f. BEHAVIORAL QUESTIONS: PLANNING YOUR RESPONSES
+    5g. DIFFICULT QUESTIONS
+    5h. QUESTIONS TO ASK EMPLOYERS
+6a. OFFERS & NEGOTIATIONS
+    6b. EVALUATING AN OFFER
+    6c. NEGOTIATION
+    6d. ACCEPTING AN OFFER
+    6e. DECLINING AN OFFER
 
 TIPS:
 
@@ -107,7 +111,6 @@ This relationship could become an important part of your professional
 ###################################################################
 
 Persistence, patience, early planning, passion, and commitment are key.
-
 Be aware of your social network presence.
 
 LinkedIn: Components Of A Winning College Student Profile
@@ -462,6 +465,7 @@ Name
 ###################################################################
 
 Most interviews will consist a mix of different question types.
+These include traditional, behavioral, technical, and case.
 
 Traditional:
     Straightforward questions about your experience, background, 
@@ -501,6 +505,8 @@ Technical:
 EXAMPLE:
     
     When would you use == vs ===?
+    Explain the difference between React and JavaScript?
+    Coding questions. (Leetcode, Hackerrank)
 
 Case:
     You won't know the answer, but need to make an attempt in
@@ -509,19 +515,114 @@ Case:
 EXAMPLE:
 
     When organizing an array, how would you organize it?
+    How would you design an application like Facebook?
+    How would you reach out to potential clients?
 
 ###################################################################
 5f. BEHAVIORAL QUESTIONS: PLANNING YOUR RESPONSES
 ###################################################################
 
+CAR Method.
+
+C = Context
+A = Actions
+R = Results
+
+Context:
+    Currently, I was part of a team of six people for an organization
+    project for SDSU. We pioneered the idea to create a social media
+    website for the SDSU Game Development Community.
+Actions:
+    Within our Agile/Scrum meetings with 1 week sprints, I took on
+    the majority of post creation and user settings. We worked on
+    our separate tasks and when we met, we would teach each other
+    specific libraries, code structure, and go through the application
+    ourselves to QA, but ultimately see if it felt right.
+Result:
+    We are still working on it, but the skeleton of the code structure
+    is finished.
+
 ###################################################################
 5g. DIFFICULT QUESTIONS
 ###################################################################
 
+When encountering these questions, ask yourself "What is the interviewer
+    trying to learn about me through asking this?"
+
+Tell me about yourself?
+
+    Keep yourself associated with the position.
+
+What are your greatest strengths and weaknesses?
+
+    Keep yourself associated with the position.
+    For the weakness part, be honest.
+        "I take on a lot of projects where I don't feel like a master
+        of any, just a jack of all trades"
+
+What are your salary expectations?
+
+    Look up position salaries.
+    More information in Chapter 6.
+
+Tell me about your participation in religious/political/cultural/LGBT
+    activity?
+
+    Be honest about experiences, but avoid controversial topics.
+    Probe the interviewer to see what they like and build on that.
+
 ###################################################################
-5H. QUESTIONS TO ASK EMPLOYERS
+5h. QUESTIONS TO ASK EMPLOYERS
 ###################################################################
+
+Bring at least 5 questions to all interviews to ask employers.
+Shows interest, respect, and that you're ready.
+
+MUST ASK:
+    Business card?
+    Preference for form of contact?
+    Next steps in the hiring process?
+
+ASK:
+    What kind of training do you offer new employees?
+    When and how are employees evaluated?
+    What are the best/most difficult aspects of working in
+        this group/organization?
+    What’s the biggest challenge facing this group/
+        organization right now?
+    How would you describe the culture of this organization?
+    What do you see as unique about your organization
+        compared with your major competitors? What are your
+        plans for expansion in terms of product lines, services,
+        new branches, etc.?
+    How would you describe this organization’s management style?
+    How are decisions made?
+    What are some typical first-year assignments?
+    How does this position fit into the overall organizational
+        structure?
 
 ###################################################################
 6a. OFFERS AND NEGOTIATION
+###################################################################
+
+Formal job or Internship offers:
+
+###################################################################
+6b. EVALUATING AN OFFER
+###################################################################
+
+Exploding Offers:
+
+Do not renege on an offer!
+
+###################################################################
+6c. NEGOTIATION
+###################################################################
+
+###################################################################
+6d. ACCEPTING AN OFFER
+###################################################################
+
+###################################################################
+6e. DECLINING AN OFFER
 ###################################################################
