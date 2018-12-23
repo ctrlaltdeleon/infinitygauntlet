@@ -4,7 +4,7 @@ LINK: https://career.berkeley.edu/sites/default/files/pdf/Guide/EntireGuide.pdf
 TITLE
 ###################################################################
 
-Job & Internship Guide Career Center Berkeley
+Career Center Berkeley Job & Internship Guide
 
 ###################################################################
 CHAPTERS
@@ -65,17 +65,17 @@ Emphasize what you're looking for information or a job.
 
 EXAMPLE:
 
-Dear beautiful person,
+    Dear beautiful person...
 
-I am so-so doing so-so...
+    I am so-so doing so-so...
 
-I am currently looking for a job in these certain careers...
-I would greatly appreciate 15 to 20 minutes of your time speaking about...
+    I am currently looking for a job in these certain careers...
+    I would greatly appreciate 15 to 20 minutes of your time speaking about...
 
-Thank you for your consideration...
+    Thank you for your consideration...
 
-Sincerely,
-Name
+    Sincerely,
+    Name
 
 ###################################################################
 1c. PREPARE FOR THE INTERVIEW
@@ -87,8 +87,8 @@ Keep questions open ended instead of binary.
 
 EXAMPLE:
 
-Greetings, I'm AC, recently graduated from SDSU with a Bachelor's in 
-    Computer Science.
+    Greetings, I'm AC, recently graduated from SDSU with a 
+        Bachelor's in Computer Science...
 
 ###################################################################
 1d. CONDUCT THE INFORMATIONAL INTERVIEW
@@ -317,20 +317,22 @@ City, State Zipcode
 
 Dear Hiring Manager...
 
-State the position
-How you found it out
-Referral mention
-"I am confident that my skills to this position merit your consideration"
+State the position...
+How you found it out...
+Referral mention...
+"I am confident that my skills to this position merit your 
+    consideration"...
 
-Build connection between company's needs and your background and skills
-Don't restate resume, expand on specifics
+Build connection between company's needs and your background and 
+    skills...
+Don't restate resume, expand on specifics...
 "This is my top choice dream company and I'm willing to push 
-    mountains to be here"
+    mountains to be here"...
 
-Restate interest
-Request an interview
-Follow up
-Thank you for your time/consideration
+Restate interest...
+Request an interview...
+Follow up...
+Thank you for your time/consideration...
 
 Sincerely,
 Signature
@@ -343,7 +345,8 @@ Printed name
 Prepare the interview by doing said things:
 
 Write out answers to questions you think the employer will ask.
-Practice saying your responses out loud in front of a mirror or with someone.
+Practice saying your responses out loud in front of a mirror or with 
+    someone.
 Ask for feedback on the content and organization of your answers 
     (completeness, level of detail, how easy to follow) and your 
     presentation style (pace, voice quality/tone, energy, posture, 
@@ -367,7 +370,8 @@ Meal:
 Working: 
     You are put to work and observed.
 Phone or Video: 
-    Often used as a screening tool before inviting you to an on-site interview.
+    Often used as a screening tool before inviting you to an on-site 
+        interview.
 On-Site or Second Round: 
     After you have made it through a screening interview, this is a 
     more extended interview at the employer site that may include a 
@@ -448,7 +452,7 @@ After the Interview:
 5d. THANK YOU LETTER: HOW TO SAY IT
 ###################################################################
 
-Dear beautiful person,
+Dear beautiful person...
 
 Thank you for the opportunity...
 I enjoyed...
@@ -549,24 +553,24 @@ Result:
 When encountering these questions, ask yourself "What is the interviewer
     trying to learn about me through asking this?"
 
-Tell me about yourself?
+"Tell me about yourself?"
 
     Keep yourself associated with the position.
 
-What are your greatest strengths and weaknesses?
+"What are your greatest strengths and weaknesses?"
 
     Keep yourself associated with the position.
     For the weakness part, be honest.
         "I take on a lot of projects where I don't feel like a master
         of any, just a jack of all trades"
 
-What are your salary expectations?
+"What are your salary expectations?"
 
     Look up position salaries.
     More information in Chapter 6.
 
-Tell me about your participation in religious/political/cultural/LGBT
-    activity?
+"Tell me about your participation in religious/political/cultural/LGBT
+    activity?"
 
     Be honest about experiences, but avoid controversial topics.
     Probe the interviewer to see what they like and build on that.
@@ -578,12 +582,12 @@ Tell me about your participation in religious/political/cultural/LGBT
 Bring at least 5 questions to all interviews to ask employers.
 Shows interest, respect, and that you're ready.
 
-MUST ASK:
+Must ask:
     Business card?
     Preference for form of contact?
     Next steps in the hiring process?
 
-ASK:
+Ask:
     What kind of training do you offer new employees?
     When and how are employees evaluated?
     What are the best/most difficult aspects of working in
@@ -605,24 +609,174 @@ ASK:
 6a. OFFERS AND NEGOTIATION
 ###################################################################
 
-Formal job or Internship offers:
+Offer letters provide formal written confirmation of the position
+    offered, and clarification of terms such as:
+
+    Job title
+    Salary
+    Start date
+    Supervisor's name
+    Deadline for responding
+
+The employer will let you know if the offer is contingent upon
+    passing a background check or drug screening.
+
+The organization may include benefits information which may include:
+
+    Vacation
+    Sick leave
+    Health plans (medical, dental insurance, vision)
+    Disability insurance, short-term
+    Life insurance
+    Relocation/moving expenses
+    Stock options
+    Retirement (401k or 403b plan)
+    Profit sharing
+    Educational assistance/tuition reimbursement
+    Training and Development
+    Health and fitness programs
+    Bonus - signing or performance
+    Commission
 
 ###################################################################
 6b. EVALUATING AN OFFER
 ###################################################################
 
-Exploding Offers:
+Go over why you wanted to job in the first place:
 
-Do not renege on an offer!
+    Environment
+    Culture
+    Professional growth
+    Safety
+    Opportunities to adventure out
+
+If it helps, draw it out, rank what you want and what you don't want.
+
+"Can I ask for more time?"
+
+    Yes, but be prepared to explain why and how much time you need.
+    A company who really wants you will speed up their process if
+        possible.
+
+"How do I ask for more time?"
+
+    Be enthusiastic and thank the employer.
+    Be respectful for their time.
+    Let them know what's on your mind.
+
+"What are exploding offers?"
+
+    There may be a time where an exploding offer may appear.
+    Exploding offers are offers with "short fuse" deadlines.
+
+    EXAMPLE:
+
+        An employer requires candidates to accept offers within 
+            24-48 hours.
+        Signing bonuses only to people who accept immediately.
+        First-come, first-served basis.
+
+"I forgot to respond to a company!"
+
+    Do not renege on an offer!
+    Companies spend tons of money to recruit you so if you ignore the
+        companies when they commit to you, you not only damage the
+        company, but you also damage other applicants and yourself
+        through networking you've done.
 
 ###################################################################
 6c. NEGOTIATION
 ###################################################################
 
+Entry-level employees do not usually have a lot of latitude for
+    negotiation.
+Some employers have leeway to negotiate salary pay while others do
+    not.
+Keep in mind the job market for your specific career when 
+    negotiating! Is it overcrowded or is it slow?
+
+Basic Salary Negotiation Principles:
+    Research the market salary range for your experience level and
+        for the career role.
+    Think about the location you're going to live as certain places
+        may pay more, but the cost of living is more in return.
+        (Essentially think about relativity in terms of cost)
+    Public vs. Private! Public usually has pre-determined salary
+        while private companies will depend on several factors such
+        as education, technical skills, and experience.
+    Don't prematurely talk about salary, let them speak about it 
+        unless you have a clear understanding of the job.
+    If you have to reveal your salary, do a range instead of a set
+        number.
+    When you get an offer, ask for it in writing and ask the employer
+        to clarify any aspects that aren't clear to you.
+    Be both assertive and cooperative.
+    If you are successful in your negotiation, ask for a new offer
+        letter that reflects any changes.
+
+"What else can I negotiate?"
+
+    Start date.
+    Early performance review and salary review.
+    Vacation.
+    Professional development.
+    Relocation expenses.
+    Flex time.
+    Signing bonus.
+    Performance bonus.
+
+Always practice negotiating with friends, family, or career 
+    counselor.
+Always be enthusiastic and respectful.
+
 ###################################################################
 6d. ACCEPTING AN OFFER
 ###################################################################
 
+Sign and send it back to the employer by the agreed upon deadline. 
+Keep a copy of the letter for future reference.
+If your application is pending with other employers, let them know 
+    that you have received an offer and wish to have your name 
+    withdrawn from further consideration.
+It is unethical to continue interviewing once you have accepted an 
+    offer.
+Inform your references and other contacts of your job or internship 
+    status. 
+Thank them and periodically update them on your career trajectory.
+
+EXAMPLE:
+
+    Dear beautiful person...
+
+    I am delighted to accept the offer to join...
+    I look forward to...
+    From my understanding, the salary will be...
+    Also these expenses will be covered as well...
+
+    Thank you for sending the employment forms...
+
+    Sincerely,
+    Name
+
 ###################################################################
 6e. DECLINING AN OFFER
 ###################################################################
+
+Contact the employer formally by email and indicate your 
+    appreciation for the offer and the opportunity to interview. 
+State that you are declining their offer.
+You may tell them why, although you are not required to do so.
+Decline offers as soon as you are no longer interested in them or 
+    immediately after accepting an offer from another organization.
+
+EXAMPLE:
+
+    Dear beautiful person...
+
+    Thank you for the offer...
+    After careful consideration...
+
+    I appreciate the opportunity to interview with you...
+
+    Sincerely,
+    Name
