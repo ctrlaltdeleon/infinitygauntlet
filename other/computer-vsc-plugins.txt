@@ -1,0 +1,38 @@
+20181224 Computer & Visual Studio Code Plugins
+
+Computer Plugins:
+
+    BleachBit - Cleans caches on everything
+    DisplayFusion - Monitor Enhancer, 2+ monitors
+    'Everything' Search Utility - Looks up your files faster than windows search
+    FLUX - Monitor dimmer at night
+    PC Decrapifier - Removes bloatware and junk from your system
+    QTTabBar - Adds tabs to windows explorer
+    Rainmeter - Monitor Enhancer, custom
+        10-foot HUD Japanese, clock Date
+        DINAJ
+        ReflectSoundVisu
+        SimpleMedia, date time
+        illustro gadgets, cpu usage, network meter, drives meter
+    Revo Uninstaller - completely uninstalls files (becareful when dealing with files)
+    WizTree - Harddrive look up, super fast
+
+Visual Studio Code Plugins:
+
+    Auto Close Tag
+    Auto Rename Tag
+    Code Spell Checker
+    Color Highlight
+    Discord Presence
+    GitKraken Glo
+    HTML Snippets
+    Import Cost
+    Live Server
+    Markdown Preview Enhanced
+    Material Icon Theme
+    Material Palenight Theme
+    Path Intellisense
+    Prettier
+    Reactjs Code Snippets
+    Version Lens
+    VS Color Picker - Remember ESC & ENTER commands
