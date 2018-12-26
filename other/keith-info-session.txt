@@ -31,6 +31,7 @@ Notes:
         "computer science"
         entry level
         new grad
+        junior
         javascript
         python
         last 2 weeks
