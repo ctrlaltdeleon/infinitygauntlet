@@ -46,7 +46,7 @@ def main():
 
     # Output
     print("\n*************************")
-    print("Conclusion")
+    print("Conclusion Stats")
     print("*************************\n")
     print("Name: " + str(summonerV4Payload["name"]))
     print("Level: " + str(summonerV4Payload["summonerLevel"]))
