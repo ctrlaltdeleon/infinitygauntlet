@@ -3,6 +3,7 @@
 # @description  Riot Games API playground
 # @notes        Riot Games API Reference: https://developer.riotgames.com/api-methods/
 # @todo         Consider separating main() into more functions, considering if the player plays ranked
+#               Works on laptop, not on desktop, most likely due to specific Python linkage
 
 # "requests" library installed using "pip"
 import requests
