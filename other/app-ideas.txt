@@ -1,0 +1,6 @@
+Calculator
+
+Everyone's order at original price
+Change into percentages using the total as a guideline
+Apply discount
+Apply new total with percentages calculated
