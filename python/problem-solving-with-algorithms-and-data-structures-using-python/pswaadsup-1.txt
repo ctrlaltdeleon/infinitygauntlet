@@ -256,4 +256,52 @@ Key and value relationship.
 
 EXAMPLE                         YIELD
 
-mySet
+mySet                           {False, 4.5, 3, 6, 'cat'}
+yourSet                         {99,3,100}
+mySet.union(yourSet)            {False, 4.5, 3, 100, 6, 'cat', 99}
+mySet | yourSet                 {False, 4.5, 3, 100, 6, 'cat', 99}
+mySet.intersection(yourSet)     {3}
+mySet & yourSet                 {3}
+mySet.difference(yourSet)       {False, 4.5, 6, 'cat'}
+mySet - yourSet                 {False, 4.5, 6, 'cat'}
+{3,100}.issubset(yourSet)       True                                Is {3,100} part of yourSet?
+{3,100}<=yourSet                True
+mySet.add("house")
+mySet                           {False, 4.5, 3, 6, 'house', 'cat'}
+mySet.pop                       False
+mySet                           {4.5, 3, 6, 'house', 'cat'}
+mySet.clear()
+mySet                           set()   
+
+Final Python collection is an unordered structure called a dictionary.
+Dictionaries are a pair of items which each consist of a key and a value.
+
+EXAMPLE                         YIELD
+
+capitals                        {'Wisconsin': 'Madison', 'Iowa': 'DesMoines'}
+
+OPERATOR    USE                 EXPLANATION 	
+
+[] 	        myDict[k] 	        Returns the value associated with k, otherwise its an error
+in 	        key in adict 	    Returns True if key is in the dictionary, False otherwise
+del 	    del adict[key] 	    Removes the entry from the dictionary
+
+METHOD      USE                 EXPLANATION
+
+keys 	    adict.keys() 	    Returns the keys of the dictionary in a dict_keys object
+values 	    adict.values() 	    Returns the values of the dictionary in a dict_values object
+items 	    adict.items() 	    Returns the key-value pairs in a dict_items object
+get 	    adict.get(k) 	    Returns the value associated with k, None otherwise
+get 	    adict.get(k,alt) 	Returns the value associated with k, alt otherwise
+
+###################################################################
+1.9: INPUT AND OUTPUT
+###################################################################
+
+Software and users need to have some sort of dialogue in order to
+    best benefit the user and this is where input and output
+    comes into play.
+
+EXAMPLE
+
+aName = input("This is a prompt that takes in the input: ")

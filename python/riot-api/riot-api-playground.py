@@ -3,6 +3,7 @@
 # @description  Riot Games API playground
 # @notes        Riot Games API Reference: https://developer.riotgames.com/api-methods/
 # @todo         Consider separating main() into more functions, considering if the player plays ranked
+#               Works on laptop, not on desktop, most likely due to specific Python linkage
 
 # "requests" library installed using "pip"
 import requests
@@ -46,7 +47,7 @@ def main():
 
     # Output
     print("\n*************************")
-    print("Conclusion")
+    print("Conclusion Stats")
     print("*************************\n")
     print("Name: " + str(summonerV4Payload["name"]))
     print("Level: " + str(summonerV4Payload["summonerLevel"]))
