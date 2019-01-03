@@ -305,3 +305,17 @@ Software and users need to have some sort of dialogue in order to
 EXAMPLE
 
 aName = input("This is a prompt that takes in the input: ")
+
+It's important to note the input will be a string representing the
+    exact characters that were entered after the prompt.
+To interpret as another type, the variable must be enclosed in a
+    specific function.
+
+EXAMPLE
+
+floatName = float(aName)
+doubleName = double(aName)
+
+###################################################################
+1.9.1: STRING FORMATTING
+###################################################################
