@@ -1,0 +1,57 @@
+AC DE LEON
+SOFTWARE ENGINEER
+
+Email: aadeleon@sdsu.edu 
+Website: https://spacestone.netlify.com 
+Phone: 6195597377 
+Location: San Diego, CA
+Twitter: @acfromspace 
+LinkedIn: @acfromspace 
+Github: @acfromspace
+
+EDUCATION
+
+San Diego State University
+B.S. Computer Science
+Class of August 2018, GPA 3.3
+Co-founded SDSU's Game Development Club: Aztec Game Lab
+College of Sciences Dean's List
+
+EXPERIENCE
+
+Aztec Game Lab · San Diego, CA 2017 - Current
+Front-End Developer/Creative Director
+
+Administered game development hackathons with 30+ participants in order to cultivate development and collaborations within the community and sponsors
+Fabricated a full-stack web application using modern technologies to engage with the community
+Facilitated intricate workshops and presentations about the video game industry and technical development
+
+Freelance · San Diego, CA 2015 - Current
+Front-End/Game Developer
+
+Produced easy to understand tutorials and presentations in various formats to consider learning styles
+Constructed a multitude of projects in order to try different emerging technologies and share my new research in the form of web applications to video game applications
+Taken the initiative to reach out to potential clients to offer my software development services and insight to launch satisfactory finished products
+
+PROJECTS
+
+Aztec Game Lab Social Hub 2018 - Current
+(React.js + Node.js + Redux + Firebase + Google Cloud Platform)
+
+Revitalized the idea to generate community interaction between eager students and prospective companies resulting in connections with Playstation, Psyonix, and VIVE
+Engineered a full-stack application website hosting hackathons, chat rooms, and game listings for 160+ users
+Agile/Scrum development process with 1 week sprints with 6 team members in total
+
+React.js Hackathon Reactathon 2018
+(React.js + Node.js + Redux + TokBox + Netlify)
+
+Pioneered a live-streaming web application that won Top 6 Projects at Github HQ
+Won Creativity Award for best use of Netlify functions and services
+Programmed core application logic to play quick games, fetch API constructed images, and generate new posts
+Utilized emoji sentiment feature with Microsoft Cognitive Services machine learning to analyze players' facial expressions
+
+SKILLS
+
+PROGRAMMING LANGUAGES: JavaScript/HTML/CSS, Python, C#, C/C++, Java, Visual Basic
+WEB TECHNOLOGIES: React.js, Node.js, Redux, Firebase, SQL, Gatsby.js
+CREATIVE SOFTWARE ENGINES: Photoshop, Illustrator, Premiere, Lightroom, Unity, Unreal
