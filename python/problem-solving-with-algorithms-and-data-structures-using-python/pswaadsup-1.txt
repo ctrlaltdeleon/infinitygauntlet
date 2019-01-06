@@ -383,3 +383,10 @@ In addition to these format modifiers, Python strings also
 I would imagine something like print(format(something))
     depending on the rules already placed for the format
     function.
+
+###################################################################
+1.10: CONTROL STRUCTURES
+###################################################################
+
+Algorithms require 2 important control structures: iteration and
+    selection.

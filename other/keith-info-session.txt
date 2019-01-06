@@ -18,14 +18,14 @@ Notes:
         Recruiters don't want to bother with people who can't relocate.
         Top choice is rare to see in cover letters.
     Checkout these websites:
-        Glassdoor
-        Angel.co
-        Ventureloop
+        Glassdoor (Application/Company Review)
+        Angel.co (Startups)
+        Ventureloop (Startups)
         Crunchbase (Check funding)
-        Indeed
-        Linkedin
-        gv.com/portfolio
-        a16z.com/portfolio
+        Indeed (Application)
+        Linkedin (Application)
+        gv.com/portfolio (Company lookout)
+        a16z.com/portfolio (Company lookout)
         because due to funds, companies post only on one site.
     Search engine:
         "computer science"
