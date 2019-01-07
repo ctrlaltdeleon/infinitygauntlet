@@ -442,3 +442,54 @@ print(letterlist)
 
 Output:
 ['c', 'a', 't', 'd', 'o', 'g', 'r', 'b', 'i']
+
+Lists have an alternative method for creation that uses iteration
+    and selection constructs known as list comprehension.
+
+EXAMPLE
+
+>>> sqlist=[]
+>>> for x in range(1,11):
+         sqlist.append(x*x)
+
+>>> sqlist
+[1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+>>>
+
+...this then turns into (w/ list comprehension)
+
+>>> sqlist=[x*x for x in range(1,11)]
+>>> sqlist
+[1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+>>>
+
+Even then, one could allow selection criteria so that certain
+    items get added to the data structure.
+
+EXAMPLE
+
+>>> sqlist=[x*x for x in range(1,11) if x%2 != 0]
+>>> sqlist
+[1, 9, 25, 49, 81]
+>>>
+
+Try to figure this one out, it's pretty close to modern syntax
+    of the human language in a way!
+
+EXAMPLE
+
+>>>[ch.upper() for ch in 'comprehension' if ch not in 'aeiou']
+['C', 'M', 'P', 'R', 'H', 'N', 'S', 'N']
+>>>
+
+EXAMPLE
+
+Program:
+print([ch for ch in "".join(['cat','dog','rabbit'])])
+
+Output:
+['c', 'a', 't', 'd', 'o', 'g', 'r', 'a', 'b', 'b', 'i', 't']
+
+###################################################################
+1.11: EXCEPTION HANDLING
+###################################################################
