@@ -390,3 +390,55 @@ I would imagine something like print(format(something))
 
 Algorithms require 2 important control structures: iteration and
     selection.
+Iteration comes in terms such as "while" and "for" statements.
+While is a general purpose iterative structure that checks to see
+    if the condition is True or False.
+For is a structure used for collections of sequences.
+An easy way to remember this is that if we know the number of
+    iterations we use "for", otherwise we use "while".
+Especially in evolving data structures, this is very relevant.
+
+EXAMPLE
+
+>>> for item in range(5):
+...    print(item**2)
+...
+0
+1
+4
+9
+16
+
+"For" is very useful for iteration on each character of a string.
+
+EXAMPLE
+
+Program:
+wordlist = ['cat','dog','rabbit']
+letterlist = [ ]
+for aword in wordlist:
+    for aletter in aword:
+        letterlist.append(aletter)
+print(letterlist)
+
+Output:
+['c', 'a', 't', 'd', 'o', 'g', 'r', 'a', 'b', 'b', 'i', 't']
+
+Selection statements allow programmers to ask questions and based
+    on the result, perform different actions.
+These statements are usually provided as "ifelse" and "if".
+For nested statements "elif" can be used in the stead.
+
+EXAMPLE
+
+Program:
+wordlist = ['cat','dog','rabbit']
+letterlist = [ ]
+for aword in wordlist:
+    for aletter in aword:
+        if aletter not in letterlist:
+            letterlist.append(aletter)
+print(letterlist)
+
+Output:
+['c', 'a', 't', 'd', 'o', 'g', 'r', 'b', 'i']
