@@ -2,7 +2,3 @@ PROBLEM SOLVING WITH ALGORITHMS AND DATA STRUCTURES USING PYTHON SUMMARY
 
 TODO:
     http://interactivepython.org/runestone/static/pythonds/index.html
-    N/A
-
-BOOKMARK:
-    1.8.2

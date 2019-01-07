@@ -1,8 +1,108 @@
+LINK: https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/
+
+###################################################################
+TITLE
+###################################################################
+
+Here's How to Prepare for Tech Interviews
+
+###################################################################
+CHAPTERS
+###################################################################
+
+1a. DATA STRUCTURES
+2a. ALGORITHMS
+3a. FILL GAPS
+4a. BEHAVIORAL
+5a. PARTING WORDS
+6a. DON'T SELL PAST THE CLOSE
+
+###################################################################
+1a. DATA STRUCTURES
+###################################################################
+
+Write the code and play around with it, especially on paper.
+
+    Array
+    Linked List
+    Stack/Queue
+    Trees (Tree, Binary, Binary Search Tree, Red Black, etc.)
+    Heap
+    Hash Table (Very important)
+    Directed/Undirected/Weighted Graphs
+    Trie (pronounced "tree")
+    Linked Hash Map
+
+You should know the Big-O for insert, delete, lookup, etc. for each
+    of these.
+How do each of these contain data?
+
+###################################################################
+2a. ALGORITHMS
+###################################################################
+
+Write the code and play around with it, especially on paper.
+
+    Sorting Algorithms
+    Tree Traversals
+    Traversals (Dijkstra's, A*, BFS, DFS)
+    All the prefix-tree searches
+
+Before writing a single line of code, validate with the interviewer
+    that your approach is a good one.
+
+###################################################################
+3a. FILL GAPS
+###################################################################
+
+Things people say isn't important, but actually are.
+
+    Writing Code
+    Bits and Bytes
+    How the Internet works
+    Databases
+    Testing
+    Linux
+    "I hope they don't ask me about x" (they will)
+
+Writing Code
+
+    Some people can't program and it happens, especially with senior
+        software engineers. You don't have to write production code, 
+        but be expected to at least know some code.
+
+Bits and Bytes
+
+    Understand how bitshifting works in whatever language you're
+        going to interview with. The difference between big and 
+        little endian. "Write a function to determine if the bit 
+        wise representation of an integer is a palindrome."
+
+How the Internet works
+
+    How do sockets work? What's TCP/IP? What's HTTP? Learn about 
+        networking layers and what's responsible for what.
+
+Databases
+
+    Learn some basic SQL and data modeling
+
+Testing
+
+    Write some code, test it, what's a TDD? (Technical Design Doc)
+
+###################################################################
+4a. BEHAVIORAL
+###################################################################
+
+Come across as someone people want to work with.
+
+Best to come with 3 situations with a tech project went well and
+    3 situations with a tech project that didn't go so well.
+
 "Tell me about a project you worked on?"
 
-What is the best way to answer project description questions?
-
-STAR Format
+STAR Format (or CAR, C meaning "Context")
 
 S - Situation
 T - Task
@@ -26,3 +126,10 @@ R:
     Result is that we are still working on it at the moment, we have finished
     the bare bones of the code where we know the website works, it's just now
     the styling, documenting, and distributing to the users is what is left.
+
+###################################################################
+5a. PARTING WORDS
+###################################################################
+
+Expect to fail and to succeed in interviews.
+Understand that interviews are interviews, not family gatherings.
