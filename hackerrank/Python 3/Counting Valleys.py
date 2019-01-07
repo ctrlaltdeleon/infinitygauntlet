@@ -39,14 +39,9 @@ def countingValleys(n, s):
 
 
 if __name__ == '__main__':
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
-    n = int(input())
+    n = int(input("Input number of steps taken: "))
 
-    s = input()
+    s = input("""Input string "U" and "D" to create a path: """)
 
-    result = countingValleys(n, s)
-
-    fptr.write(str(result) + '\n')
-
-    fptr.close()
+    print("Number of valleys:", countingValleys(n, s))
