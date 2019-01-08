@@ -32,9 +32,11 @@ if __name__ == '__main__':
 #     for counter in range(amount):
 #         students.append([input(), float(input())])
 
+# Make a list of all the score values and sort them
 #     scores = list(set([students[x][1] for x in range(amount)]))
 #     scores.sort()
 
+# Create a list of students with the second lowest score
 #     students = [x[0] for x in students if x[1] == scores[1]]
 #     students.sort()
 
