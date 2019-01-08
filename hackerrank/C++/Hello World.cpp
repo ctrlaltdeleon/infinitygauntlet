@@ -1,6 +1,4 @@
 /*
-Created 5/19/2018
-
 @author: acfromspace
 */
 
@@ -8,7 +6,8 @@ Created 5/19/2018
 #include <cstdio>
 using namespace std;
 
-int main() {
+int main()
+{
     printf("Hello, World!");
     return 0;
 }

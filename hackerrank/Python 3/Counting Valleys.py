@@ -1,6 +1,4 @@
 """
-Created 1/6/2019
-
 @author: acfromspace
 """
 
