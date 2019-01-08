@@ -21,6 +21,7 @@ def runnerup(arr):
 
     # Always try sorting the set then apply the knowledge
     # We use sets because no duplicate elements are allowed
+    # So be weary of duplicate data structures where duplicates matter
 
     runnerup = sorted(arr)[-2]
 
