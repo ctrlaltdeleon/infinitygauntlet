@@ -24,8 +24,24 @@ CHAPTERS
 Write the code and play around with it, especially on paper.
 
     Array
+        A sequence of elements.
+        Searching is instant if you're looking for a[3], boom, O(1)!
     Linked List
+        A sequence of elements which links an element to the next
+        element.
+        Takes a bit time to search for a certain element as it's
+        a congo line, O(n).
+        Insert and deleting takes O(1) time if it's in the beginning
+        of the linked list.
+        Insert and deleting takes O(n), especially if it's at the end
+        of the linked list.
+    Doubly Linked List
+        A sequence of elements which links an element to the next
+        element and the previous element.
     Stack/Queue
+        Flexible with sizes and linear data structures.
+        Stack is LIFO, last in first out.
+        Queue is FIFO, first in first out.
     Trees (Tree, Binary, Binary Search Tree, Red Black, etc.)
     Heap
     Hash Table (Very important)
