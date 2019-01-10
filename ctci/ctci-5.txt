@@ -1,0 +1,31 @@
+5: BEHAVIORAL QUESTIONS
+
+Interview Preparation Grid:
+    Have 3 separate projects for each of the common questions.
+        Challenges
+        Mistakes/Failures
+        Enjoyed
+        Leadership
+        Conflicts
+        What You'd Do Differently
+
+What are your weaknesses?
+    Give a real weakness.
+    Also could be treated as "Where do you need to improve?"
+    "Attention to detail, due to that I need someone to check my work."
+    "Water because I'm a Fire type Pokemon"
+    "There's a bunch of obstacles out there I need to face such as this
+        interview, but I choose not to see them as weaknesses, but more
+        as opportunities to grow."
+    "It takes me a bit to know people and situations before I weight in
+        on something they're discussing. I'm usually listening and
+        analyzing, but when I contribute I make it worthwhile and
+        sometimes it takes a while to find that balance for me."
+
+What questions should you ask the interviewer?
+    Genuine questions:
+        "What is the ratio of testers to devs to program managers?"
+        "How does project planning happen on the team?"
+        "What brought you to this company?"
+    Insightful questions:
+    Passion questions:
