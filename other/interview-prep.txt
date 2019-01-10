@@ -43,8 +43,28 @@ Write the code and play around with it, especially on paper.
         Stack is LIFO, last in first out.
         Queue is FIFO, first in first out.
     Trees (Tree, Binary, Binary Search Tree, Red Black, etc.)
+        Trees have 1 root and multiple children, sometimes leaves
+            (leaves mean children w/o children)
+        Binary Trees only have 0 to 2 child nodes when navigating.
+        Binary Search Trees are Binary Trees w/ a specific order to
+            them.
+        Mind the different traversal methods.
     Heap
+        There are min heaps and max heaps.
+        Min heaps, children are always bigger than the parent, inserting
+            from left to right depending on the level.
+        You can use an algorithm to balance the heap to move insertions.
+        When removing the root, we take the last element and insert to
+            the root element.
     Hash Table (Very important)
+        Key => Value (Think dictionaries in Python)
+        Key => Hash Code => Index
+        Be weary of collisions if 2 keys === the same hash code, or if 2
+            hash codes === the same index.
+        Collisions can be fixed through chaining (linked lists to array
+            indices)
+        Getting and setting? O(1) (if it's a good hashtable)
+            O(n) (if it's a terrible hashtable)
     Directed/Undirected/Weighted Graphs
     Trie (pronounced "tree")
     Linked Hash Map
@@ -79,7 +99,7 @@ Things people say isn't important, but actually are.
     Databases
     Testing
     Linux
-    "I hope they don't ask me about x" (they will)
+    Random
 
 Writing Code
 
@@ -106,6 +126,18 @@ Databases
 Testing
 
     Write some code, test it, what's a TDD? (Technical Design Doc)
+
+Random
+
+    Difference between recursion and iteration?
+        Recursion calls itself while iteration keeps the motion.
+        Recursion is like doing 5x5 weight sets as iteration is
+            doing as much pull ups as you can.
+    Difference between override and overload?
+        Override is having two methods with the same name and
+            parameters.
+        Overload is having two methods with the same name but
+            different parameters.
 
 ###################################################################
 4a. BEHAVIORAL
