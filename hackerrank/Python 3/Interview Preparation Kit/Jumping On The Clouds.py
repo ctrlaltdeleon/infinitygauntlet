@@ -29,6 +29,3 @@ if __name__ == '__main__':
     # c = list(map(int, input().rstrip().split()))
 
     print("Number of jumps:", jumpingOnClouds(c))
-
-# 7
-# 0 0 1 0 0 1 0

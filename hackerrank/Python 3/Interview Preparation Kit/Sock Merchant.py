@@ -30,14 +30,10 @@ def sockMerchant(n, ar):
 
 
 if __name__ == '__main__':
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
-    n = int(input())
+    n = int(input("Number of socks: "))
 
-    ar = list(map(int, input().rstrip().split()))
+    ar = list(
+        map(int, input("Different socks (spaces in between): ").rstrip().split()))
 
     result = sockMerchant(n, ar)
-
-    fptr.write(str(result) + '\n')
-
-    fptr.close()
