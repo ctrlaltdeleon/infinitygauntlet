@@ -34,12 +34,13 @@ def rotLeft(a, d):
 
 if __name__ == '__main__':
 
-    nd = input().split()
+    nd = input(
+        "Input number of index values and number of rotations separated by a space: ").split()
 
     n = int(nd[0])
 
     d = int(nd[1])
 
-    a = list(map(int, input().rstrip().split()))
+    a = list(map(int, input("Input the index values: ").rstrip().split()))
 
-    result = rotLeft(a, d)
+    print("List manipulated: ", rotLeft(a, d))

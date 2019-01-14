@@ -36,4 +36,4 @@ if __name__ == '__main__':
     ar = list(
         map(int, input("Different socks (spaces in between): ").rstrip().split()))
 
-    result = sockMerchant(n, ar)
+    print("Pairs of socks seen: ", sockMerchant(n, ar))

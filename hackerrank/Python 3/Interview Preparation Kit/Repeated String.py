@@ -25,6 +25,6 @@ if __name__ == '__main__':
 
     s = input("""String containing 'a': """)
 
-    n = int(input("Max characters: "))
+    n = int(input("Max characters to be filled out by string: "))
 
-    result = repeatedString(s, n)
+    print("Number of letter 'a': ", repeatedString(s, n))

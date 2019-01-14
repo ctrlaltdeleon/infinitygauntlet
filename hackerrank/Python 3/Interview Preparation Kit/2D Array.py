@@ -28,15 +28,10 @@ def hourglassSum(arr):
 
 
 if __name__ == '__main__':
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
-
     arr = []
 
     for _ in range(6):
+        # input should be a 6 by 6 2D array
         arr.append(list(map(int, input().rstrip().split())))
 
-    result = hourglassSum(arr)
-
-    fptr.write(str(result) + '\n')
-
-    fptr.close()
+    print(hourglassSum(arr))
