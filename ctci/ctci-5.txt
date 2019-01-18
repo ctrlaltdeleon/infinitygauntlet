@@ -28,4 +28,31 @@ What questions should you ask the interviewer?
         "How does project planning happen on the team?"
         "What brought you to this company?"
     Insightful questions:
+        "I noticed you use tech X, how do you handle problem Y?"
+        "Why do you tend to go with this stack as aside from this stack?"
     Passion questions:
+        "I can see the areas of growth here, but what about in the future?"
+        "I'm not familiar with tech X, could you tell me more?"
+
+Know your Technical Projects:
+    Focus on 2 or 3 technical projects to master.
+    Be able to talk about:
+        Your role.
+        Mistakes made along the way.
+        Technical depth.
+        Scalability.
+        Challenges.
+
+Responding to Behavioral Questions:
+    Be specific, not arrogant.
+        Don't say "I did all the hard stuff".
+        To combat this, be specific about the challenges and have empathy.
+    Limit details.
+        Sometimes the interviewer doesn't know what you know.
+        Keep it elementary and offer to explain more as a choice to them.
+    Focus on yourself, not your team.
+        Although it's nice to say "we", when asked specifically about a role, focus on you.
+    Give structured answers:
+        Nugget V.S. SAR (Situation, Action, Result) (Also known as STAR or CAR)
+
+        page 45
