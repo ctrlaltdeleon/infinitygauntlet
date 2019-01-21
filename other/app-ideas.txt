@@ -8,3 +8,8 @@ Apply new total with percentages calculated
 DVD Logo website
 
 except that it will always hit the corners no matter what
+
+Comparison
+
+compares uber, lyft
+compares postmates, ubereats, etc.
