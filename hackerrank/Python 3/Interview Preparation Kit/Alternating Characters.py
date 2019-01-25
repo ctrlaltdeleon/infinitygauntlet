@@ -42,6 +42,6 @@ if __name__ == '__main__':
 
         # result = alternatingCharacters(s)
 
-    #     fptr.write(str(result) + '\n')
+    # fptr.write(str(result) + '\n')
 
     # fptr.close()
