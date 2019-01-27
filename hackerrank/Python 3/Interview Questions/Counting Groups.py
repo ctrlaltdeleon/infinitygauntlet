@@ -1,3 +1,0 @@
-def countingGroups():
-
-    return "YES"
