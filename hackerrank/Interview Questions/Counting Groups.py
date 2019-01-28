@@ -1,3 +1,8 @@
+"""
+@author: acfromspace
+"""
+
+
 def countingGroups():
 
     return "YES"
