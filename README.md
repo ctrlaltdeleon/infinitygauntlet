@@ -12,7 +12,7 @@
 </h3>
 <p align="center">
   <strong>Personal weapon that contains my workflow.</strong><br>
-  Music playlists, plugins, software, hardware, and jit jot code doodles.
+  Books, coding jit jots, information sessions, & music playlists.
 </p>
 
 <!-- INFORMATION (Shields:IO) -->
@@ -44,9 +44,9 @@
   <img src="./images/doggo.gif">
 </p>
 
-- [Feel Better](https://open.spotify.com/user/1252712964/playlist/0XVxReRFFUe7Z5DFYPdOSU?si=XlZu73QTShWlDcKZfiA9AQ)
+- [Feel Better](https://open.spotify.com/user/1252712964/playlist/1su6mhUPJxkVvwhmBAwpPj?si=QCDAH46XRmuKgT52NRQpxQ)
 - [Tender Vibes](https://open.spotify.com/user/1252712964/playlist/0XVxReRFFUe7Z5DFYPdOSU?si=wT4rC7BcRmq-SX41WupN8Q)
-- [Video Game Vibes](https://open.spotify.com/user/1252712964/playlist/5Awrm6Qg5ixDMxW7vQCn9o?si=L3srrHAeQuy3xfpXEOazzg)
+- [Video Game](https://open.spotify.com/user/1252712964/playlist/5Awrm6Qg5ixDMxW7vQCn9o?si=L3srrHAeQuy3xfpXEOazzg)
 
 <!-- QUICK INSTALLATION -->
 
