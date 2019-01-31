@@ -2,4 +2,47 @@ CRACKING THE CODING INTERVIEW
 
 6: BIG O
 
+Big O, Big Omega, and Big Theta:
+    O describes an upper bound. "This is the fastest it could be"
+    Omega describes a lower bound. "This is the slowest it could be"
+    Theta describes both. "It's around this speed"
+
+Best VS Worst VS Expected, Cases:
+    Quicksort!
+        Best:
+            All elements are equal, no need to shuffle.
+            It's already sorted, but needs to run through the data.
+            O(n)
+        Worst:
+            Pivot chosen is the biggest element.
+            O(n^2)
+        Expected:
+            Pivot chosen is a near average element.
+            O(n log n)
+    Barely discuss time complexity, because it's not a useful concept.
+    It's essentially because anything could be O(1).
+
+Space Complexity:
+    Array of size n? O(n) space.
+    2d array of size n x n? O(n^2) space.
+
+Drop the Constants:
+    Usually constants are comparisons such as "if".
+    Pay attention to the "for".
+
+Drop the Non-Dominant Terms:
+    Take the biggest n into consideration.
+    O(n^2 + n) --> O(n^2)
+
+Multi-Part Algorithms, Add VS Multiply:
+    Add:
+        for counter in array:
+            print("nice")
+        for counter in array:
+            print("good")
+    Multiply:
+        for counter in array:
+            for counter in array:
+                print("nice","good")
+
 page 49
