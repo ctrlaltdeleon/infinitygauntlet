@@ -2,6 +2,7 @@
 @author: acfromspace
 """
 
+# incomplete, need prompt and input to solve
 
 def countingGroups():
 
@@ -16,3 +17,5 @@ if __name__ == "__main__":
                [0, 0, 0, 1, 1, 1],
                [0, 0, 1, 0, 0, 0],
                [1, 0, 0, 0, 0, 0]]
+
+    print(countingGroups())
