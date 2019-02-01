@@ -14,6 +14,7 @@ def reversal(arr):
 
     arr.reverse()
     # for everything in the array, join the element with a " " and continue
+    # can replace "arr" with reversed(arr) for an in place sort
     solution = ' '.join(str(_) for _ in arr)
 
     return solution
