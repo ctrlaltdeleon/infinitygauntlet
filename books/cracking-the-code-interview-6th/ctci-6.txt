@@ -45,4 +45,17 @@ Multi-Part Algorithms, Add VS Multiply:
             for counter in array:
                 print("nice","good")
 
+Amortized Time:
+    Describes that a worst case happens every now and then.
+    An ArrayList for example doubles its space when insert() to full data.
+        That becomes O(n), because we need to recreate.
+    An ArrayList for insert() to non-full data is O(1).
+
+Log N Runtimes:
+    When performing an action, the data size is reduced each iteration.
+    Number of elements gets halved each time? O(log n)!
+    Binary Search is O(log n)!
+
+Recursive Runtimes:
+
 page 49
