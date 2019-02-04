@@ -2,6 +2,15 @@ CRACKING THE CODING INTERVIEW
 
 6: BIG O
 
+Slowest to Fastest (Operations VS. Elements):
+    O(n!)
+    O(2^n)
+    O(n^2)
+    O(n log n)
+    O(n)
+    O(log n)
+    O(1)
+
 Big O, Big Omega, and Big Theta:
     O describes an upper bound. "This is the fastest it could be"
     Omega describes a lower bound. "This is the slowest it could be"
@@ -22,6 +31,9 @@ Best VS Worst VS Expected, Cases:
     Barely discuss time complexity, because it's not a useful concept.
     It's essentially because anything could be O(1).
 
+Time Complexity:
+    How fast the program processes.
+
 Space Complexity:
     Array of size n? O(n) space.
     2d array of size n x n? O(n^2) space.
@@ -35,12 +47,12 @@ Drop the Non-Dominant Terms:
     O(n^2 + n) --> O(n^2)
 
 Multi-Part Algorithms, Add VS Multiply:
-    Add:
+    Add: (O(n))
         for counter in array:
             print("nice")
         for counter in array:
             print("good")
-    Multiply:
+    Multiply: (O(n^2))
         for counter in array:
             for counter in array:
                 print("nice","good")
@@ -57,5 +69,21 @@ Log N Runtimes:
     Binary Search is O(log n)!
 
 Recursive Runtimes:
+    O(2^n) since it calls upon itself.
+    Treat it as O(branches^depth)!
+    Space complexity is O(n)! Since it can only exist as O(n) at any time.
 
-page 55
+Examples and Exercises:
+    Usually is hard at first, but once the patterns appear, quite easy.
+    Notice the requirements of "if" statements within "for" statements.
+    Complexity can be overestimated easily by skipping "if"s.
+    Use "n" dependent on data structures vs strings.
+        Use "a" to represent data structures.
+        Use "b" to represent strings.
+        etc.
+    For log_2, recall:
+        2^P = Q --> log_2_Q = P
+        2^3 = 8 --> log_2_8 = 3
+    Always take note of the changing variables!
+
+page 63
