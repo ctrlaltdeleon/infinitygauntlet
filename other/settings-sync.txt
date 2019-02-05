@@ -1,0 +1,15 @@
+SETTINGS SYNC
+
+Shortcuts
+
+1. Upload Key : Shift + Alt + U
+2. Download Key : Shift + Alt + D
+
+New computer?
+
+1. Install "Settings Sync" into your favorite text editor. (If the plugin exists!)
+2. Press Shift + Alt + D it will ask your GitHub Gist ID. (Type ">Sync" In Command Palette into order download / upload)
+3. Enter Your GitHub Personal Access Token.
+4. Enter Your Gist ID.
+5. Press Shift + Alt + D.
+6. You're done!
