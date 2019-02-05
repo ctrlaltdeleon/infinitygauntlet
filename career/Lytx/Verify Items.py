@@ -6,7 +6,8 @@
 DESCRIPTION:
 
 Michael is a shop owner who keeps n list, L, of the name and sale price for each item in inventory. 
-The store employees record the name and sale price of every item sold. Michael suspects his manager, Alex, of embezzling money and modifying the sale prices of some of the items. 
+The store employees record the name and sale price of every item sold. 
+Michael suspects his manager, Alex, of embezzling money and modifying the sale prices of some of the items. 
 Write a program that finds the number of times Alex recorded an incorrect sale price.
  
 Complete the verifyItems function provided in your editor so that it returns the number of incorrect sale prices recorded by Alex. 
@@ -112,38 +113,41 @@ The price for tomato does not match the original price list, so we return 1 (the
 
 # function without the main function, fully works for Python3
 
+
 def verifyItems(origItems, origPrices, items, prices):
     # Write your code here
 
     incorrect = 0
 
     original = dict(zip(origItems, origPrices))
-    michael = dict(zip(items, prices))
+    alex = dict(zip(items, prices))
 
     # this only compares values though, not taking into account
-    for counter in michael.items():
+    for counter in alex.items():
         if counter not in original.items():
             incorrect += 1
 
     return incorrect
+
 
 if __name__ == "__main__":
 
     # unsure if this works, computer needs to restart Python3 libaries not loading
     origItems = []
     origPrices = []
-    items = []
-    prices = []
+    alexItems = []
+    alexPrices = []
 
     originalCount = int(input("Original count: "))
-    michaelCount = int(input("Michael count: "))
+    alexCount = int(input("Alex count: "))
 
-    for _ in range(originalCount)
+    for _ in range(originalCount):
         origItems.append(str(input("Input origItems #%s: " % (_+1))))
         origPrices.append(float(input("Input origPrices #%d: " % (_+1))))
 
-    for _ in range(michaelCount)
-        items.append(str(input("Input items #%s: " % (_+1))))
-        prices.append(float(input("Input prices #%d: " % (_+1))))
+    for _ in range(alexCount):
+        alexItems.append(str(input("Input alexItems #%s: " % (_+1))))
+        alexPrices.append(float(input("Input alexPrices #%d: " % (_+1))))
 
-    print("Amount incorrect made by Michael: ", verifyItems(origItems, origPrices, items, prices))
+    print("Amount incorrect made by Alex: ",
+          verifyItems(origItems, origPrices, alexItems, alexPrices))
