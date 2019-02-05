@@ -1,4 +1,0 @@
-HACKERRANK INTERVIEW PREP
-
-Do some challenges to get used to the format, testing input and output.
-Try previous Hackerrank contests held by companies to gauge the format.
