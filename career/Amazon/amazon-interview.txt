@@ -1,0 +1,37 @@
+AMAZON INTERVIEW
+
+DEADLINE: 11:59pm Pacific Time on Thursday, 2/7/2018
+
+SOFTWARE DEVELOPMENT ENGINEER (SDE) INTERVIEW PROCESS:
+
+1. Online Assessment, Part 1: 
+    Code debugging and logic/problem solving multiple choice
+2. Online Assessment, Part 2: 
+    Work style simulation and coding problems
+3. Final Technical Interview: 
+    You will be notified of your results in the weeks following your assessment completions.  
+    If eligible, we will provide information on scheduling your final technical interview.
+4. Offer
+5. Team Placement
+
+Prepare for the Assessment
+
+ü  Test Your Webcam
+
+o   Follow this link to ensure your webcam is properly working as you will need to take two photos using your computer on the day of the assessment to confirm your identity - if your webcam is not working, please let us know
+
+ü  Familiarize Yourself with the Assessment Environment
+
+o   Click here to answer two practice questions on the platform. This will not be scored and has no impact on your final outcome.
+
+ü  Study CS Fundamentals and Practice Coding
+
+o   In the debugging portion of Part 1, you will be viewing code in your choice of Java, C++, or C.  In the coding portion in Part 2, you will have the choice to code in Java, C++, Python, or C#
+
+ü  Research Helpful Resources
+
+o   Cracking the Coding Interview by Gayle McDowell
+
+o   Introduction to Algorithms by Thomas Cormen
+
+ü  Review the Amazon Leadership Principles  
