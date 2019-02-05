@@ -1,6 +1,6 @@
 SETTINGS SYNC
 
-Shortcuts
+Shortcuts!
 
 1. Upload Key : Shift + Alt + U
 2. Download Key : Shift + Alt + D
@@ -13,3 +13,8 @@ New computer?
 4. Enter Your Gist ID.
 5. Press Shift + Alt + D.
 6. You're done!
+
+Need information on plugins?
+
+1. Press Shift + Alt + U.
+2. Check the terminal output.

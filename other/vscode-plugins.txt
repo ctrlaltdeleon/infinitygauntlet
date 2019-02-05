@@ -1,0 +1,38 @@
+VSCODE PLUGINS
+
+Here are a list of all the extensions I use. Settings may change!
+
+For the updated .json files, look here: https://gist.github.com/acfromspace/93ed54c6d2960b36237c6af19b19b8fe (Coutresy of Settings Sync)
+
+extensions.json
+
+auto-close-tag v0.5.6
+auto-rename-tag v0.0.15
+code-settings-sync v3.2.4
+code-spell-checker v1.6.10
+color-highlight v2.3.0
+cpptools v0.21.0
+discord-vscode v3.2.1
+dotenv v1.0.1
+EditorConfig v0.12.8
+emoji v0.0.3
+es7-react-js-snippets v2.0.0
+gitkraken-glo v1.1.0
+html-snippets v0.2.1
+java v0.38.0
+LiveServer v5.3.1
+markdown-all-in-one v2.0.1
+markdown-preview-enhanced v0.3.11
+material-icon-theme v3.6.2
+material-palenight-theme v1.9.4
+path-intellisense v1.4.2
+prettier-vscode v1.8.1
+python v2019.1.0
+shell-launcher v0.3.0
+vscode-import-cost v2.12.0
+vscode-java-debug v0.16.0
+vscode-java-dependency v0.3.0
+vscode-java-pack v0.5.0
+vscode-java-test v0.14.0
+vscode-maven v0.14.1
+vscode-versionlens v0.22.0
