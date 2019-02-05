@@ -14,23 +14,18 @@ SOFTWARE DEVELOPMENT ENGINEER (SDE) INTERVIEW PROCESS:
 4. Offer
 5. Team Placement
 
-PREPARE FOR THE ASSESSMENT: (Check )
+PREPARE FOR THE ASSESSMENT:
 
 1. Test Your Webcam
-    Follow this link (https://assess.myamcat.com/troubleshoot/webcamSupport.php) to ensure your webcam is properly working as you will need to take two photos using your computer on the day of the assessment to confirm your identity - if your webcam is not working, please let us know
-
-ü  Familiarize Yourself with the Assessment Environment
-
-o   Click here to answer two practice questions on the platform. This will not be scored and has no impact on your final outcome.
-
-ü  Study CS Fundamentals and Practice Coding
-
-o   In the debugging portion of Part 1, you will be viewing code in your choice of Java, C++, or C.  In the coding portion in Part 2, you will have the choice to code in Java, C++, Python, or C#
-
-ü  Research Helpful Resources
-
-o   Cracking the Coding Interview by Gayle McDowell
-
-o   Introduction to Algorithms by Thomas Cormen
-
-ü  Review the Amazon Leadership Principles  
+    Follow this link (https://assess.myamcat.com/troubleshoot/webcamSupport.php) to ensure your webcam is properly working.
+    You will need to take two photos using your computer on the day of the assessment to confirm your identity - if your webcam is not working, please let us know.
+2. Familiarize Yourself with the Assessment Environment
+    Click here (https://bit.ly/2S6Vm7c) to answer two practice questions on the platform. 
+    This will not be scored and has no impact on your final outcome.
+3. Study CS Fundamentals and Practice Coding
+    In the debugging portion of Part 1, you will be viewing code in your choice of Java, C++, or C.
+    In the coding portion in Part 2, you will have the choice to code in Java, C++, Python, or C#
+4. Research Helpful Resources
+    Cracking the Coding Interview by Gayle McDowell
+    Introduction to Algorithms by Thomas Cormen
+5. Review the Amazon Leadership Principles (https://www.amazon.jobs/en/principles)
