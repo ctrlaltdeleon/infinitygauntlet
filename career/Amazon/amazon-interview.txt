@@ -2,6 +2,10 @@ AMAZON INTERVIEW
 
 DEADLINE: 11:59pm Pacific Time on Thursday, 2/7/2018
 
+INTERVIEWING AT AMAZON GUIDE:
+
+LINK: https://www.amazon.jobs/en/landing_pages/interviewing-at-amazon
+
 SOFTWARE DEVELOPMENT ENGINEER (SDE) INTERVIEW PROCESS:
 
 1. Online Assessment, Part 1: 
@@ -29,3 +33,47 @@ PREPARE FOR THE ASSESSMENT:
     Cracking the Coding Interview by Gayle McDowell
     Introduction to Algorithms by Thomas Cormen
 5. Review the Amazon Leadership Principles (https://www.amazon.jobs/en/principles)
+
+LEADERSHIP PRINCIPLES:
+
+1. Customer Obsession
+    Community first rather than competitors.
+2. Ownership
+    With great power comes great responsibility.
+3. Invent and Simplify
+    New possibilities await and always changing.
+4. Are Right, A Lot
+    Leaders are often right.
+5. Learn and Be Curious
+    Always learning.
+6. Hire and Develop the Best
+    Leaders develop leaders.
+7. Insist on the Highest Standards
+    Ensure that even minor details are correct.
+8. Think Big
+    Leaders create and communicate a bold direction that inspires.
+9. Bias for Action
+    Calculated risk taking.
+10. Frugality
+    Resourcefulness.
+11. Earn Trust
+    Listen.
+12. Dive Deep
+    Connect with all details.
+13. Have Backbone; Disagree and Commit
+    Challenge the unopposed.
+14. Deliver Results
+    Focus on space and time.
+
+TECHNICAL TOPICS:
+
+1. Programming language
+2. Data structures
+3. Algorithms
+4. Coding
+5. Object-oriented design
+6. Databases
+7. Distributed computing
+8. Operating systems
+9. Internet topics
+10. General machine learning and AI
