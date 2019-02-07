@@ -4,6 +4,7 @@
 
 # incomplete, need prompt and input to solve
 
+
 def countingGroups():
 
     return "YES"
