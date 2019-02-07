@@ -23,6 +23,7 @@ extensions.json
   horizon-theme-vscode v1.6.6
   html-snippets v0.2.1
   laserwave v1.2.3
+  LiveServer v5.4.0
   markdown-all-in-one v2.0.1
   material-icon-theme v3.6.2
   material-palenight-theme v1.9.4

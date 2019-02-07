@@ -21,6 +21,11 @@ Need information on plugins?
 
 How to change color and icons?
 
-1. Ctrl + Shift + P
-2. Preferences in "color" and "icon"
-3. Proceed accordingly
+1. Ctrl + Shift + P.
+2. Preferences in "color" and "icon".
+3. Proceed accordingly.
+
+Need to reset settings?
+
+1 Ctrl + Shift + P.
+2. ">Sync"
