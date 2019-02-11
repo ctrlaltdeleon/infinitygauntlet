@@ -1,3 +1,8 @@
+"""
+@author: acfromspace
+"""
+
+
 class FizzBuzz:
 
     def output(self):

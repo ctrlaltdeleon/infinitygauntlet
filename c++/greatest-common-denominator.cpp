@@ -1,6 +1,29 @@
 #include <iostream>
 using namespace std;
 
+/*
+DESCRIPTION:
+
+A list of numbers are given.
+Find the greatest commmon denominator amongst them.
+ 
+SAMPLE INPUT 1:
+
+[12, 36, 60]
+ 
+SAMPLE OUTPUT 1:
+
+12
+
+SAMPLE INPUT 2:
+
+[20, 28]
+ 
+SAMPLE OUTPUT 2:
+
+24
+*/
+
 int gcd(int a, int b)
 {
     if (a == 0)

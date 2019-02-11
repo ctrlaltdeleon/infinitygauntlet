@@ -1,6 +1,30 @@
 #include <iostream>
 using namespace std;
 
+/*
+DESCRIPTION:
+
+A colony of 8 cells are next to each other.
+Each day, for each cell, if its neighbors are both active or both inactive, the cell becomes active else inactive.
+Assume there are cells next to the end points that are not seen.
+ 
+SAMPLE INPUT 1:
+
+[1,0,0,0,0,1,0,0],1
+ 
+SAMPLE OUTPUT 1:
+
+[0,1,0,0,1,0,1,0]
+
+SAMPLE INPUT 2:
+
+[1,1,1,0,1,1,1,1,],2
+ 
+SAMPLE OUTPUT 2:
+
+[0,0,0,0,0,1,1,0]
+*/
+
 int *cellCompete(int *cells, int days)
 {
     for (int counter = 0; counter < days; counter++)
