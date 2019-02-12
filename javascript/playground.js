@@ -36,3 +36,6 @@ name.length;
 var name2 = new String("rex");
 name2;
 // Declares it as a string object
+
+//isNan()
+// This means "is not a number"
