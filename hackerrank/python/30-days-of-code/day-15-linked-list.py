@@ -27,6 +27,8 @@ class Solution:
             self.tail = head
         # insert the data at the end
         else:
+            # self.tail.next = self.tail = Node(data)
+            # this goes from right to left in order
             node = Node(data)
             self.tail.next = node
             self.tail = node
@@ -42,3 +44,5 @@ for i in range(T):
     head = mylist.insert(head, data)
 
 mylist.display(head)
+
+# important to note that head(), tail(), next() are built-in functions
