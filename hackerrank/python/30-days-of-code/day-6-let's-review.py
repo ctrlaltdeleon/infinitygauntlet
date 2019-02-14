@@ -21,8 +21,9 @@ if __name__ == "__main__":
 # One liner Python solution
 # for i in range(int(input())): s=input(); print(*["".join(s[::2]),"".join(s[1::2])])
 
-# To elaborate, print(even, odd)
-# Join to empty string every even number starting with 0
-# Join to empty string every odd number starting with 1
-# print(*["".join(s[::2]),"".join(s[1::2])
-# print(*["".join(string[::2]), "".join(string[1::2])])
+"""
+To elaborate, print(even, odd)
+Join to empty string every even number starting with 0
+Join to empty string every odd number starting with 1
+print(*["".join(string[::2]), "".join(string[1::2])])
+"""
