@@ -11,6 +11,8 @@
 ## Round 2 (Online Assessment, Part 2)
 
 - 3 hours, breaks in between
-- 120 minutes for work simulation
+- 120 minutes for work simulation (Videos, Decisions)
 - 70 minutes for coding (Java, Python, C#, C++)
 - Interview survey on the application process
+
+## Round 3
