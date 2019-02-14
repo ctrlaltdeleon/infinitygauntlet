@@ -85,5 +85,12 @@ Examples and Exercises:
         2^P = Q --> log_2_Q = P
         2^3 = 8 --> log_2_8 = 3
     Always take note of the changing variables!
+    Fibonacci sequence:
+        int fib(int n) {
+            if (n <= 0) return 0;
+            else if (n == 1) return 1;
+            return fib(n-1) + fib(n-2);
+        }
+        O(2^N) due to it being a single vs double call that multplies.
 
 page 63
