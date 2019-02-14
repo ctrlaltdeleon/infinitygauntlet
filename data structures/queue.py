@@ -19,6 +19,7 @@ class Queue:
 
 
 q = Queue()
+
 print(q.isEmpty())
 q.enqueue('hello')
 q.enqueue('dog')

@@ -1,12 +1,12 @@
 class Node:
     def __init__(self, data):
-        self.val = data
+        self.data = data
         self.next = None
 
 
 class DoublyNode:
     def __init__(self, data):
-        self.val = data
+        self.data = data
         self.prev = None
         self.next = None
 
@@ -25,23 +25,23 @@ class LinkedList:
 
         return count
 
-    def addFirst(self, newNodeData):
-        newNode = Node(newNodeData)
+    def addFirst(self, data):
+        node = Node(data)
         if self.head is None:
-            self.head = newNode
-            self.tail = newNode
+            self.head = node
+            self.tail = node
         else:
-            newNode.next = self.head
-            self.head = newNode
+            node.next = self.head
+            self.head = node
 
-    def addLast(self, newNodeData):
-        newNode = Node(newNodeData)
+    def addLast(self, data):
+        node = Node(data)
         if self.tail is None:
-            self.head = newNode
-            self.tail = newNode
+            self.head = node
+            self.tail = node
         else:
-            self.tail.next = newNode
-            self.tail = newNode
+            self.tail.next = node
+            self.tail = node
             self.tail.next = None
 
     def reverse(self):
@@ -56,17 +56,17 @@ class LinkedList:
     def showcase(self):
         curr = self.head
         while curr is not None:
-            print(curr.val, end=" ")
+            print(curr.data, end=" ")
             curr = curr.next
 
 
-newLL = LinkedList()
-randList = [11, 13, 275, 2, 5, 8, 64, 52]
-for num in randList:
-    newLL.addFirst(num)
-    newLL.addLast(num*2)
+ll = LinkedList()
 
-newLL.showcase()
-print("\n\n")
-newLL.reverse()
-newLL.showcase()
+randList = [10, 20, 275, 2, 5, 8, 64, 52]
+for num in randList:
+    ll.addFirst(num)
+    ll.addLast(num*2)
+ll.showcase()
+print("\n")
+ll.reverse()
+ll.showcase()

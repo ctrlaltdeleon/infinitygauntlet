@@ -1,23 +1,29 @@
-def bubbleSort(arr):
+# This version is more efficient than standard due to checking if sorted or not
 
-    lastIndex = len(arr)
+
+def bubbleSort(data):
+
+    lastIndex = len(data) - 1
+    # Checks last step to see if it was the last needed step
     earlyExit = False
+
     while lastIndex > 0 and not earlyExit:
-        for index in range(lastIndex - 1):
-            if arr[index] >= arr[index + 1]:
-                arr[index], arr[index + 1] = arr[index + 1], arr[index]
+        for index in range(lastIndex):
+            if data[index] > data[index + 1]:
+                data[index], data[index + 1] = data[index + 1], data[index]
                 earlyExit = False
             else:
                 earlyExit = True
         lastIndex -= 1
-    print("Early Exit: ", earlyExit, " | ", len(arr) - lastIndex, " Passes")
+
+    print("Early Exit: ", earlyExit, " | ", len(data) - lastIndex, " Passes")
 
 
 testList = [9, 5, 1]
 
 print(testList)
 bubbleSort(testList)
-print(testList, "\n\n")
+print(testList, "\n")
 
 print(testList)
 bubbleSort(testList)
