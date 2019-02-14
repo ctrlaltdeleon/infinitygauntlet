@@ -53,7 +53,7 @@ class LinkedList:
             self.head.next = prev
             prev = self.head
 
-    def print(self):
+    def showcase(self):
         curr = self.head
         while curr is not None:
             print(curr.val, end=" ")
@@ -66,7 +66,7 @@ for num in randList:
     newLL.addFirst(num)
     newLL.addLast(num*2)
 
-newLL.print()
+newLL.showcase()
 print("\n\n")
 newLL.reverse()
-newLL.print()
+newLL.showcase()
