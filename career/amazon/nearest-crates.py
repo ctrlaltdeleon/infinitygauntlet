@@ -17,6 +17,7 @@ def nearestCrates(totalCrates, allLocations, truckCapacity):
 
     # Retrieve all distances then sort the distances from smallest to biggest
     for point in allLocations:
+        # Distance from crate[point] to origin point (can customize)
         distance = compute_euclidean_distance(
             point[0], point[1], 0, 0)
         distances.append([point, distance])
