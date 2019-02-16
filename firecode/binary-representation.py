@@ -48,5 +48,4 @@ OUTPUT:
 if __name__ == "__main__":
 
     n = int(input("Input a decimal number: "))
-
     print(dec_to_bin(n))
