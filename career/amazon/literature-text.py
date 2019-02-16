@@ -35,4 +35,4 @@ if __name__ == "__main__":
     literatureText = "romeo oh romeo boi where art thou boi nice alright alright ok hello"
     wordsToExclude = ["oh", "art", "thou"]
 
-    print(retrieveMost(literatureText, wordsToExclude))
+    print("Most used words:", retrieveMost(literatureText, wordsToExclude))
