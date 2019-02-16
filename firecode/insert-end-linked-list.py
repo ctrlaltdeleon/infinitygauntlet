@@ -30,14 +30,16 @@ class SinglyLinkedList:
         self.head = head
 
     # Method for inserting a new node at the start of a Linked List
-    def insert_at_front(self, data):
+    def insertAtEnd(self, data):
         node = Node()
         node.setData(data)
         if self.head == None:
             self.head = node
         else:
-            node.setNext(self.head)
-            self.head = node
+            curr = self.head
+            while curr.next != None:
+                curr = curr.next
+            curr.next = node
 
     def showcase(self):
         curr = self.head
@@ -48,7 +50,7 @@ class SinglyLinkedList:
 
 
 test = SinglyLinkedList()
-test.insert_at_front(5)
-test.insert_at_front(6)
-test.insert_at_front(1)
+test.insertAtEnd(5)
+test.insertAtEnd(6)
+test.insertAtEnd(1)
 test.showcase()
