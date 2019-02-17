@@ -25,6 +25,11 @@ class Calculator(AdvancedArithmetic):
 
 
 """
+    Pythonic solution though still O(n):
+    sum(list(filter(lambda x: n % x == 0, [x for x in range(1, n+1)])))
+"""
+
+"""
     def divisorSum(self, n):
         sum = 0
         for index in range(1, n+1):
