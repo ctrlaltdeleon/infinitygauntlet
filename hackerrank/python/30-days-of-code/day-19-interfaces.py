@@ -17,10 +17,9 @@ class Calculator(AdvancedArithmetic):
         sum = 0
         for index in range(1, int(math.sqrt(n)+1)):
             if n % index == 0:
-                first, second = index, n/index
-                sum += first
-                if first != second:
-                    sum += second
+                sum += index
+                if index != n/index:
+                    sum += n/index
         return int(sum)
 
 
