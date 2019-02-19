@@ -91,6 +91,6 @@
       - Audio engineering.
     - Positive personality attribute:
       - Powerlifting.
-  - Sprinkle in shows of successes:
-    - Think about what you want to communicate about yourself.
-    - Have little tid bits every now and here that are shown here.
+- Sprinkle in shows of successes:
+  - Think about what you want to communicate about yourself.
+  - Have little tid bits every now and here that are shown here.

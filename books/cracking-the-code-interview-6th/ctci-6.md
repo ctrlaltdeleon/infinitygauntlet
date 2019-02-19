@@ -1,0 +1,97 @@
+# CRACKING THE CODING INTERVIEW
+
+## 6: BIG O
+
+### Slowest to Fastest (Operations VS. Elements):
+
+    -O(n!)
+    -O(2^n)
+    -O(n^2)
+    -O(n log n)
+    -O(n)
+    -O(log n)
+    -O(1)
+
+Big O, Big Omega, and Big Theta:
+O describes an upper bound. "This is the fastest it could be"
+Omega describes a lower bound. "This is the slowest it could be"
+Theta describes both. "It's around this speed"
+
+Best VS Worst VS Expected, Cases:
+Quicksort!
+Best:
+All elements are equal, no need to shuffle.
+It's already sorted, but needs to run through the data.
+O(n)
+Worst:
+Pivot chosen is the biggest element.
+O(n^2)
+Expected:
+Pivot chosen is a near average element.
+O(n log n)
+Barely discuss time complexity, because it's not a useful concept.
+It's essentially because anything could be O(1).
+
+Time Complexity:
+How fast the program processes.
+
+Space Complexity:
+Array of size n? O(n) space.
+2d array of size n x n? O(n^2) space.
+
+Drop the Constants:
+Usually constants are comparisons such as "if".
+Pay attention to the "for".
+
+Drop the Non-Dominant Terms:
+Take the biggest n into consideration.
+O(n^2 + n) --> O(n^2)
+
+Multi-Part Algorithms, Add VS Multiply:
+Add: (O(n))
+for counter in array:
+print("nice")
+for counter in array:
+print("good")
+Multiply: (O(n^2))
+for counter in array:
+for counter in array:
+print("nice","good")
+
+Amortized Time:
+Describes that a worst case happens every now and then.
+An ArrayList for example doubles its space when insert() to full data.
+That becomes O(n), because we need to recreate.
+An ArrayList for insert() to non-full data is O(1).
+
+Log N Runtimes:
+When performing an action, the data size is reduced each iteration.
+Number of elements gets halved each time? O(log n)!
+Binary Search is O(log n)!
+
+Recursive Runtimes:
+O(2^n) since it calls upon itself.
+Treat it as O(branches^depth)!
+Space complexity is O(n)! Since it can only exist as O(n) at any time.
+
+Examples and Exercises:
+Usually is hard at first, but once the patterns appear, quite easy.
+Notice the requirements of "if" statements within "for" statements.
+Complexity can be overestimated easily by skipping "if"s.
+Use "n" dependent on data structures vs strings.
+Use "a" to represent data structures.
+Use "b" to represent strings.
+etc.
+For log_2, recall:
+2^P = Q --> log_2_Q = P
+2^3 = 8 --> log_2_8 = 3
+Always take note of the changing variables!
+Fibonacci sequence:
+int fib(int n) {
+if (n <= 0) return 0;
+else if (n == 1) return 1;
+return fib(n-1) + fib(n-2);
+}
+O(2^N) due to it being a single vs double call that multplies.
+
+page 63
