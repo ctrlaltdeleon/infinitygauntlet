@@ -31,6 +31,4 @@
 - Did you communicate well with your interviewer?
 - The weighting of these areas will vary based on the question, interviewer, role, team, and company.
 
-In a standard algorithm question, it might be almost entirely the first three of those.
-
 The way people are accessed for a job is not only to the job description, but who's the best amongst the candidates.
