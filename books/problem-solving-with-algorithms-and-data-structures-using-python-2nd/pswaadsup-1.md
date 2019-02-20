@@ -277,57 +277,69 @@ pop             aset.pop()                      Removes an arbitrary element fro
 clear           aset.clear()                    Removes all elements from the set
 ```
 
+- Examples of set usage:
+
+```
+EXAMPLE                         YIELD
+
+mySet                           {False, 4.5, 3, 6, 'cat'}
+yourSet                         {99,3,100}
+mySet.union(yourSet)            {False, 4.5, 3, 100, 6, 'cat', 99}
+mySet | yourSet                 {False, 4.5, 3, 100, 6, 'cat', 99}
+mySet.intersection(yourSet)     {3}
+mySet & yourSet                 {3}
+mySet.difference(yourSet)       {False, 4.5, 6, 'cat'}
+mySet - yourSet                 {False, 4.5, 6, 'cat'}
+{3,100}.issubset(yourSet)       True (Is {3,100} part of yourSet?)
+{3,100}<=yourSet                True (Is {3,100} in yourSet?)
+mySet.add("house")
+mySet                           {False, 4.5, 3, 6, 'house', 'cat'}
+mySet.pop                       False
+mySet                           {4.5, 3, 6, 'house', 'cat'}
+mySet.clear()
+mySet                           set()
+```
+
 ### 1.8.2.5: DICTIONARIES
 
-Final unordered collection is called a dictionary.
-Key and value relationship.
+- Final Python collection is an unordered structure called a dictionary.
+- Dictionaries are a pair of items which each consist of a key and a value.
+- Example of a dictionary entry:
 
-EXAMPLE YIELD
-
-mySet {False, 4.5, 3, 6, 'cat'}
-yourSet {99,3,100}
-mySet.union(yourSet) {False, 4.5, 3, 100, 6, 'cat', 99}
-mySet | yourSet {False, 4.5, 3, 100, 6, 'cat', 99}
-mySet.intersection(yourSet) {3}
-mySet & yourSet {3}
-mySet.difference(yourSet) {False, 4.5, 6, 'cat'}
-mySet - yourSet {False, 4.5, 6, 'cat'}
-{3,100}.issubset(yourSet) True Is {3,100} part of yourSet?
-{3,100}<=yourSet True
-mySet.add("house")
-mySet {False, 4.5, 3, 6, 'house', 'cat'}
-mySet.pop False
-mySet {4.5, 3, 6, 'house', 'cat'}
-mySet.clear()
-mySet set()
-
-Final Python collection is an unordered structure called a dictionary.
-Dictionaries are a pair of items which each consist of a key and a value.
-
-EXAMPLE YIELD
-
+```
 capitals {'Wisconsin': 'Madison', 'Iowa': 'DesMoines'}
+```
 
-OPERATOR USE EXPLANATION
+- Examples of operators:
 
-[] myDict[k] Returns the value associated with k, otherwise its an error
-in key in adict Returns True if key is in the dictionary, False otherwise
-del del adict[key] Removes the entry from the dictionary
+```
+OPERATOR    USE             EXPLANATION
 
-METHOD USE EXPLANATION
+[]          myDict[k]       Returns the value associated with k, otherwise its an error
+in          key in adict    Returns True if key is in the dictionary, False otherwise
+del         del adict[key]  Removes the entry from the dictionary
+```
 
-keys adict.keys() Returns the keys of the dictionary in a dict_keys object
-values adict.values() Returns the values of the dictionary in a dict_values object
-items adict.items() Returns the key-value pairs in a dict_items object
-get adict.get(k) Returns the value associated with k, None otherwise
-get adict.get(k,alt) Returns the value associated with k, alt otherwise
+- Examples of methods:
+
+```
+METHOD      USE                 EXPLANATION
+
+keys        adict.keys()        Returns the keys of the dictionary in a dict_keys object
+values      adict.values()      Returns the values of the dictionary in a dict_values object
+items       adict.items()       Returns the key-value pairs in a dict_items object
+get         adict.get(k)        Returns the value associated with k, None otherwise
+get         adict.get(k,alt)    Returns the value associated with k, alt otherwise
+```
 
 ### 1.9: INPUT AND OUTPUT
 
 - Software and users need to have some sort of dialogue in order to best benefit the user and this is where input and output comes into play.
 - For example:
 
-`aName = input("This is a prompt that takes in the input: ")`
+```
+aName = input("This is a prompt that takes in the input: ")
+```
 
 - It's important to note the input will be a string representing the exact characters that were entered after the prompt.
 - To interpret as another type, the variable must be enclosed in a specific function.
@@ -342,176 +354,187 @@ doubleName = double(aName)
 
 - It's possible to change both the separator and end argument.
 - The separator is usually a white space unless specified.
+- Examples of string formatting:
 
-EXAMPLE YIELD
+```
+EXAMPLE                             YIELD
 
-print("Hello","World",sep="**_") Hello_**World
-print("Hello","World",end"**_") Hello World_**
+print("Hello","World",sep="**_")    Hello_**World
+print("Hello","World",end"**_")     Hello World_**
+```
 
-To put more control over the output, Python provides formatted
-strings.
-To use formatted strings, a "%" operator is used called the format
-operator.
+- To put more control over the output, Python provides formatted strings.
+- To use formatted strings, a "%" operator is used called the format operator.
+- Examples of format operators:
 
-EXAMPLE YIELD
+```
+EXAMPLE                                         YIELD
 
-print(aName, "is", age, "years old.") banana, 24
-print("%s is %d years old." % (aName, age)) banana, 24.00
+print(aName, "is", age, "years old.")           banana, 24
+print("%s is %d years old." % (aName, age))     banana, 24.00
+```
 
-This is useful if certain variables aren't formatted correctly
-or if for the specific output needs to be a certain way.
+- This is useful if certain variables aren't formatted correctly or if for the specific output needs to be a certain way.
+- Examples of different ways to format:
 
-CHARACTER OUTPUT FORMAT
+```
+CHARACTER       OUTPUT FORMAT
 
-i Integer
-d Double
-u Unsigned integer
-f Floating point as m.ddddd
-e Floating point as m.ddddde+/-xx
-E Floating point as m.dddddE+/-xx
-g Use "%e" for exponents < -4 || > 5, otherwise use %f
-c Single character
-s String, or any data object that can be converted to a string by using the str function
-% Insert a literal % character
+i               Integer
+d               Double
+u               Unsigned integer
+f               Floating point as m.ddddd
+e               Floating point as m.ddddde+/-xx
+E               Floating point as m.dddddE+/-xx
+g               Use "%e" for exponents < -4 || > 5, otherwise use %f
+c               Single character
+s               String, or any data object that can be converted to a string by using the str function
+%               Insert a literal % character
+```
 
-MODIFIER EXAMPLE DESCRIPTION
+- Examples of modifiers:
 
-number %20d Put the value in a field width of 20
+```
+MODIFIER    EXAMPLE     DESCRIPTION
 
--                 %-20d 	    Put the value in a field 20 characters wide, left-justified
+number      %20d        Put the value in a field width of 20
+-           %-20d 	    Put the value in a field 20 characters wide, left-justified
+*           %+20d 	    Put the value in a field 20 characters wide, right-justified
+0           %020d       Put the value in a field 20 characters wide, fill in with leading zeros
+.           %20.2f      Put the value in a field 20 characters wide with 2 characters to the right of the decimal point
+(name)      %(name)d    Get the value from the supplied dictionary using name as the key
+```
 
-*                 %+20d 	    Put the value in a field 20 characters wide, right-justified
-  0 %020d Put the value in a field 20 characters wide, fill in with leading zeros
-  . %20.2f Put the value in a field 20 characters wide with 2 characters to the right of the decimal point
-  (name) %(name)d Get the value from the supplied dictionary using name as the key
+- More examples of string formatting:
 
-EXAMPLE YIELD
+```
+EXAMPLE                                                 YIELD
 
 price = 24
 item = "banana"
-print("The %s costs %d cents"%(item,price)) The banana costs 24 cents
-print("The %+10s costs %5.2f cents"%(item,price)) The banana costs 24.00 cents
-print("The %+10s costs %10.2f cents"%(item,price)) The banana costs 24.00 cents
+print("The %s costs %d cents"%(item,price))             The banana costs 24 cents
+print("The %+10s costs %5.2f cents"%(item,price))       The     banana costs 24.00 cents
+print("The %+10s costs %10.2f cents"%(item,price))      The     banana costs      24.00 cents
 itemdict = {"item":"banana","cost":24}
-print("The %(item)s costs %(cost)7.1f cents"%itemdict) The banana costs 24.0 cents
+print("The %(item)s costs %(cost)7.1f cents"%itemdict)  The banana costs    24.0 cents
+
 (%(item)s = get the "item" and format to string)
 (%(cost)7.1f = get the "cost" and width of 7, w/ 1 decimal due to float)
+```
 
-In addition to these format modifiers, Python strings also
-include a format method that can be used in conjunction
-with a new Formatter class to implement complex string
-formatting.
+- In addition to these format modifiers, Python strings also include a format method that can be used in conjunction with a new Formatter class to implement complex string formatting.
 
-I would imagine something like print(format(something))
-depending on the rules already placed for the format
-function.
+### 1.10: CONTROL STRUCTURES
 
-###################################################################
-1.10: CONTROL STRUCTURES
-###################################################################
+- Algorithms require 2 important control structures:
+  - Iteration
+  - Selection
+- Iteration comes in terms such as "while" and "for" statements.
+- While is a general purpose iterative structure that checks to see if the condition is True or False.
+- Example of a "while" statement:
 
-Algorithms require 2 important control structures: iteration and
-selection.
-Iteration comes in terms such as "while" and "for" statements.
-While is a general purpose iterative structure that checks to see
-if the condition is True or False.
-For is a structure used for collections of sequences.
-An easy way to remember this is that if we know the number of
-iterations we use "for", otherwise we use "while".
-Especially in evolving data structures, this is very relevant.
+```py
+while counter <= 5 and not done:
+    print("hello")
 
-EXAMPLE
+"hello"
+"hello"
+"hello"
+"hello"
+"hello"
+```
 
-> > > for item in range(5):
-> > > ... print(item\*\*2)
-> > > ...
-> > > 0
-> > > 1
-> > > 4
-> > > 9
-> > > 16
+- For is a structure used for collections of sequences.
+- An easy way to remember this is that if we know the number of iterations we use "for", otherwise we use "while".
+- Especially in evolving data structures, this is very relevant.
+- "For" is very useful for iteration on each character of a string.
+- Example of a "for" statement:
 
-"For" is very useful for iteration on each character of a string.
+```py
+for item in range(5):
+    print(item**2)
 
-EXAMPLE
+0
+1
+4
+9
+16
+```
 
-Program:
+- Example of iteration:
+
+```py
 wordlist = ['cat','dog','rabbit']
 letterlist = [ ]
 for aword in wordlist:
-for aletter in aword:
-letterlist.append(aletter)
-print(letterlist)
+    for aletter in aword:
+        letterlist.append(aletter)
 
-Output:
+print(letterlist)
 ['c', 'a', 't', 'd', 'o', 'g', 'r', 'a', 'b', 'b', 'i', 't']
+```
 
-Selection statements allow programmers to ask questions and based
-on the result, perform different actions.
-These statements are usually provided as "ifelse" and "if".
-For nested statements "elif" can be used in the stead.
+- Selection statements allow programmers to ask questions and based on the result, perform different actions.
+- These statements are usually provided as "if else" and "if".
+- For nested statements "elif" can be used in the stead.
+- Example of selection being used:
 
-EXAMPLE
-
-Program:
+```py
 wordlist = ['cat','dog','rabbit']
 letterlist = [ ]
 for aword in wordlist:
-for aletter in aword:
-if aletter not in letterlist:
-letterlist.append(aletter)
+    for aletter in aword:
+        if aletter not in letterlist:
+        letterlist.append(aletter)
+
 print(letterlist)
-
-Output:
 ['c', 'a', 't', 'd', 'o', 'g', 'r', 'b', 'i']
+```
 
-Lists have an alternative method for creation that uses iteration
-and selection constructs known as list comprehension.
+- Lists have an alternative method for creation that uses iteration and selection constructs known as list comprehension.
+- Example of before using list comprehension:
 
-EXAMPLE
+```py
+sqlist = []
+for x in range(1,11):
+   sqlist.append(x*x)
 
-> > > sqlist=[]
-> > > for x in range(1,11):
+print(sqlist)
+[1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+```
 
-         sqlist.append(x*x)
+- Example of now using list comprehension:
 
-> > > sqlist
-> > > [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+```py
+sqlist = [x*x for x in range(1,11)]
 
-...this then turns into (w/ list comprehension)
+print(sqlist)
+[1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+```
 
-> > > sqlist=[x*x for x in range(1,11)]
-> > > sqlist
-> > > [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+- Even then, one could allow selection criteria so that certain items get added to the data structure.
+- Examples of using list comprehension with selection:
 
-Even then, one could allow selection criteria so that certain
-items get added to the data structure.
+```py
+sqlist = [x*x for x in range(1,11) if x%2 != 0]
 
-EXAMPLE
+print(sqlist)
+[1, 9, 25, 49, 81]
+```
 
-> > > sqlist=[x*x for x in range(1,11) if x%2 != 0]
-> > > sqlist
-> > > [1, 9, 25, 49, 81]
+```py
+comprehension = [ch.upper() for ch in 'comprehension' if ch not in 'aeiou']
 
-Try to figure this one out, it's pretty close to modern syntax
-of the human language in a way!
+print(comprehension)
+['C', 'M', 'P', 'R', 'H', 'N', 'S', 'N']
+```
 
-EXAMPLE
-
-> > > [ch.upper() for ch in 'comprehension' if ch not in 'aeiou']['c', 'm', 'p', 'r', 'h', 'n', 's', 'n']
-
-EXAMPLE
-
-Program:
+```py
 print([ch for ch in "".join(['cat','dog','rabbit'])])
 
-Output:
 ['c', 'a', 't', 'd', 'o', 'g', 'r', 'a', 'b', 'b', 'i', 't']
-
-###################################################################
-1.11: EXCEPTION HANDLING
-###################################################################
-
 ```
 
-```
+### 1.11: EXCEPTION HANDLING
+
+#### BOOKMARK
