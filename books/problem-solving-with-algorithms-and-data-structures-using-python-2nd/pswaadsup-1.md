@@ -1,0 +1,517 @@
+# PROBLEM SOLVING WITH ALGORITHMS AND DATA STRUCTURES USING PYTHON
+
+## INTRODUCTION
+
+### 1.1: OBJECTIVE
+
+~
+
+### 1.2: GETTING STARTED
+
+~
+
+### 1.3: WHAT IS COMPUTER SCIENCE?
+
+- The study of finding solutions using computational structures.
+
+### 1.4: WHAT IS PROGRAMMING?
+
+- A method to implement our solutions.
+
+### 1.5: WHY STUDY DATA STRUCTURES AND ABSTRACT DATA TYPES
+
+- Abstract data types (ADT) is a logical description of how we view interface vs the implementation.
+  - I use a car, but I don't know what goes on in the car, all I care for is that the car works which makes it an abstract data type.
+- Implementation of ADTs are referred to as data structures.
+- Data structures is a way to organize data.
+- To manage the complexity of problems and the problem-solving process:
+  - Focus on the "big" instead of the "small", data abstraction.
+  - Levels of abstraction means creating an encapsulation.
+- The users see one thing while developers see another.
+- Since there are different ways to implement ADTs this gives flexibility to the developer without harming the user.
+- The user can remain focused on the problem-solving process.
+
+### 1.6: WHY STUDY ALGORITHMS?
+
+Algorithm is a type of solution.
+
+By considering different algorithms and different problems, when
+we see a similar problem arise, we know which weapon to use.
+We consider time and space complexities:
+What if we only have 2 minutes to compute? (Time)
+What if we give a problem 1000000 inputs? (Space)
+Worst case scenario is that we have a problem that can't be solved
+or where solutions do exist but require too much time or other
+resources to work reasonably.
+We find solutions and choose the correct one depending on the situation.
+
+### 1.7: REVIEW OF BASIC PYTHON
+
+- Python is a modern, easy-t-learn, object-oriented programming language.
+- Built-in data types and easy-to-use control constructs.
+
+### 1.8: GETTING STARTED WITH DATA
+
+- Define a class to be a description of what the data will look like
+  (the state) and what the data can do (the behavior).
+  Classes are analogous to ADTs because a user of a class only sees
+  the state and behavior.
+  Data items are called objects in the object-oriented paradigm.
+  An object is an instance of a class.
+
+### 1.8.1: BUILT-IN ATOMIC DATA TYPES
+
+- Atomic data types:
+  - int
+  - float
+  - bool
+
+### 1.8.2: BUILT-IN COLLECTION DATA TYPES
+
+- Collection data types:
+
+```
+lists           []
+strings         ""
+tuples          ()
+sets            {}
+dictionaries    {'':''}
+```
+
+### 1.8.2.1: LISTS
+
+- List is an ordered collection. (ArrayList in other languages)
+- Table of operations to use on lists:
+
+```
+OPERATION       OPERATOR    EXPLANATION
+
+indexing        [ ]         Access an element of a sequence
+concatenation   +           Combine sequences together
+repetition      \*          Concatenate a repeated number of times
+membership      in          Ask whether an item is in a sequence
+length          len         Ask the number of items in the sequence
+slicing         [ : ]       Extract a part of a sequence
+```
+
+- Examples of operations:
+
+```
+EXAMPLE                 YIELDS
+
+myList = [1,2,3,4]
+A = [myList]\*3
+print(A)                [[1, 2, 3, 4], [1, 2, 3, 4], [1, 2, 3, 4]]
+myList[2]=45
+print(A)                [[1, 2, 45, 4], [1, 2, 45, 4], [1, 2, 45, 4]]
+```
+
+- Table of methods to use on lists:
+
+```
+METHOD      USE                     EXPLANATION
+
+append      alist.append(item)      Adds a new item to the end of a list
+insert      alist.insert(i,item)    Inserts an item at the ith position in a list
+pop         alist.pop()             Removes and returns the last item in a list
+pop         alist.pop(i)            Removes and returns the ith item in a list
+sort        alist.sort()            Modifies a list to be sorted
+reverse     alist.reverse()         Modifies a list to be in reverse order
+del         del alist[i]            Deletes the item in the ith position
+index       alist.index(item)       Returns the index of the first occurrence of item
+count       alist.count(item)       Returns the number of occurrences of item
+remove      alist.remove(item)      Removes the first occurrence of item
+```
+
+- Examples of methods:
+
+```
+EXAMPLE                             YIELDS
+
+myList = [1024, 3, True, 6.5]
+myList.append(False)
+print(myList)                       [1024, 3, True, 6.5, False]
+myList.insert(2,4.5)
+print(myList)                       [1024, 3, 4.5, True, 6.5, False]
+print(myList.pop()) False
+print(myList)                       [1024, 3, 4.5, True, 6.5]
+print(myList.pop(1))                [1024, 4.5, True, 6.5]
+print(myList)                       [1024, 4.5, True, 6.5, False]
+myList.pop(2)
+print(myList)                       [1024, 4.5, 6.5]
+myList.sort()
+print(myList)                       [4.5, 6.5, 1024]
+myList.reverse()
+print(myList)                       [1024, 6.5, 4.5]
+print(myList.count(6.5))            1
+print(myList.index(4.5))            2
+myList.remove(6.5)
+print(myList)                       [1024, 4.5]
+del myList[0]
+print(myList)                       [4.5]
+```
+
+- Range function is used with lists.
+- Note that the second parameter usually is the end point. (Range doesn't touch it!)
+- Range goes (start, end, increment/decrement).
+- Examples of the range function:
+
+```
+EXAMPLE                 YIELDS
+
+range(10)               range(0, 10)
+list(range(10))         [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+range(5,10)             range(5, 10)
+list(range(5,10))       [5, 6, 7, 8, 9]
+list(range(5,10,2))     [5, 7, 9]
+list(range(10,1,-1))    [10, 9, 8, 7, 6, 5, 4, 3, 2]
+```
+
+### 1.8.2.2: STRINGS
+
+- Strings are collections of characters annotated by "".
+- Examples of string manipulation:
+
+```
+EXAMPLE             YIELDS
+
+"David"             "David"
+myName = "David"
+myName[3]           "i"
+myName \* 2         "myNamemyName"
+len(myName)         5
+```
+
+- Since strings are sequences, they work as expected.
+- More examples of string manipulation:
+
+```
+EXAMPLE             YIELDS
+
+myName              "David"
+myName.upper()      "DAVID"
+myName.center(10)   "  David   "
+myName.find('v')    2
+myName.split('v')   ["Da","id"]
+```
+
+- Split is useful for processing data by returning a list of strings.
+- If no division is specified for split, whitespace is used.
+
+```
+METHOD      USE                     EXPLANATION
+
+center      astring.center(w)       Returns a string centered in a field of size w
+count       astring.count(item)     Returns the number of occurrences of item in the string
+ljust       astring.ljust(w)        Returns a string left-justified in a field of size w
+lower       astring.lower()         Returns a string in all lowercase
+rjust       astring.rjust(w)        Returns a string right-justified in a field of size w
+find        astring.find(item)      Returns the index of the first occurrence of item
+split       astring.split(schar)    Splits a string into substrings at schar
+```
+
+- Major difference between lists and strings is:
+  - lists can be modified
+  - strings can't be modified
+- This is referred to as mutability.
+  - lists are mutable
+  - strings are immutable
+- Examples of mutability among lists vs strings:
+
+```
+EXAMPLE         YIELDS
+
+myName          "David"
+myName[0]="X"   !ERROR!
+```
+
+### 1.8.2.3: TUPLES
+
+- Tuples are similar to lists in that they are sequences of data.
+- Difference is that tuples are immutable, like a string.
+- Sometimes you have to convert things to lists then revert back.
+- So why use tuples?
+  - If you want constant immutable data, like coordinates.
+
+### 1.8.2.4: SETS
+
+- A set is an unordered collection of zero or more immutable data objects.
+- Sets don't allow duplicates and are separated by commas in curly braces.
+- The set is mutable, you can remove or add, but you can not change.
+- Example of creating a set.
+
+```
+EXAMPLE                         YIELDS
+
+{3,6,"cat",4.5,False}           {False, 4.5, 3, 6, 'cat'}
+mySet = {3,6,"cat",4.5,False}
+mySet                           {False, 4.5, 3, 6, 'cat'}
+```
+
+- Examples of operations:
+
+```
+OPERATION       OPERATOR                EXPLANATION
+
+membership      in                      Set membership
+length          len                     Returns the cardinality of the set
+|               aset | otherset         Returns a new set with all elements from both sets
+&               aset & otherset         Returns a new set with only those elements common to both sets
+-               aset - otherset         Returns a new set with all items from the first set not in second
+<=              aset <= otherset        Asks whether all elements of the first set are in the second
+```
+
+- Sets have methods that should be familiar in a mathematical setting.
+- Examples of methods:
+
+```
+METHOD          USE                             EXPLANATION
+
+union           aset.union(otherset)            Returns a new set with all elements from both sets
+intersection    aset.intersection(otherset)     Returns a new set with only those elements common to both sets
+difference      aset.difference(otherset)       Returns a new set with all items from first set not in second
+issubset        aset.issubset(otherset)         Asks whether all elements of one set are in the other
+add             aset.add(item)                  Adds item to the set
+remove          aset.remove(item)               Removes item from the set
+pop             aset.pop()                      Removes an arbitrary element from the set
+clear           aset.clear()                    Removes all elements from the set
+```
+
+### 1.8.2.5: DICTIONARIES
+
+Final unordered collection is called a dictionary.
+Key and value relationship.
+
+EXAMPLE YIELD
+
+mySet {False, 4.5, 3, 6, 'cat'}
+yourSet {99,3,100}
+mySet.union(yourSet) {False, 4.5, 3, 100, 6, 'cat', 99}
+mySet | yourSet {False, 4.5, 3, 100, 6, 'cat', 99}
+mySet.intersection(yourSet) {3}
+mySet & yourSet {3}
+mySet.difference(yourSet) {False, 4.5, 6, 'cat'}
+mySet - yourSet {False, 4.5, 6, 'cat'}
+{3,100}.issubset(yourSet) True Is {3,100} part of yourSet?
+{3,100}<=yourSet True
+mySet.add("house")
+mySet {False, 4.5, 3, 6, 'house', 'cat'}
+mySet.pop False
+mySet {4.5, 3, 6, 'house', 'cat'}
+mySet.clear()
+mySet set()
+
+Final Python collection is an unordered structure called a dictionary.
+Dictionaries are a pair of items which each consist of a key and a value.
+
+EXAMPLE YIELD
+
+capitals {'Wisconsin': 'Madison', 'Iowa': 'DesMoines'}
+
+OPERATOR USE EXPLANATION
+
+[] myDict[k] Returns the value associated with k, otherwise its an error
+in key in adict Returns True if key is in the dictionary, False otherwise
+del del adict[key] Removes the entry from the dictionary
+
+METHOD USE EXPLANATION
+
+keys adict.keys() Returns the keys of the dictionary in a dict_keys object
+values adict.values() Returns the values of the dictionary in a dict_values object
+items adict.items() Returns the key-value pairs in a dict_items object
+get adict.get(k) Returns the value associated with k, None otherwise
+get adict.get(k,alt) Returns the value associated with k, alt otherwise
+
+### 1.9: INPUT AND OUTPUT
+
+- Software and users need to have some sort of dialogue in order to best benefit the user and this is where input and output comes into play.
+- For example:
+
+`aName = input("This is a prompt that takes in the input: ")`
+
+- It's important to note the input will be a string representing the exact characters that were entered after the prompt.
+- To interpret as another type, the variable must be enclosed in a specific function.
+- For example:
+
+```
+floatName = float(aName)
+doubleName = double(aName)
+```
+
+### 1.9.1: STRING FORMATTING
+
+- It's possible to change both the separator and end argument.
+- The separator is usually a white space unless specified.
+
+EXAMPLE YIELD
+
+print("Hello","World",sep="**_") Hello_**World
+print("Hello","World",end"**_") Hello World_**
+
+To put more control over the output, Python provides formatted
+strings.
+To use formatted strings, a "%" operator is used called the format
+operator.
+
+EXAMPLE YIELD
+
+print(aName, "is", age, "years old.") banana, 24
+print("%s is %d years old." % (aName, age)) banana, 24.00
+
+This is useful if certain variables aren't formatted correctly
+or if for the specific output needs to be a certain way.
+
+CHARACTER OUTPUT FORMAT
+
+i Integer
+d Double
+u Unsigned integer
+f Floating point as m.ddddd
+e Floating point as m.ddddde+/-xx
+E Floating point as m.dddddE+/-xx
+g Use "%e" for exponents < -4 || > 5, otherwise use %f
+c Single character
+s String, or any data object that can be converted to a string by using the str function
+% Insert a literal % character
+
+MODIFIER EXAMPLE DESCRIPTION
+
+number %20d Put the value in a field width of 20
+
+-                 %-20d 	    Put the value in a field 20 characters wide, left-justified
+
+*                 %+20d 	    Put the value in a field 20 characters wide, right-justified
+  0 %020d Put the value in a field 20 characters wide, fill in with leading zeros
+  . %20.2f Put the value in a field 20 characters wide with 2 characters to the right of the decimal point
+  (name) %(name)d Get the value from the supplied dictionary using name as the key
+
+EXAMPLE YIELD
+
+price = 24
+item = "banana"
+print("The %s costs %d cents"%(item,price)) The banana costs 24 cents
+print("The %+10s costs %5.2f cents"%(item,price)) The banana costs 24.00 cents
+print("The %+10s costs %10.2f cents"%(item,price)) The banana costs 24.00 cents
+itemdict = {"item":"banana","cost":24}
+print("The %(item)s costs %(cost)7.1f cents"%itemdict) The banana costs 24.0 cents
+(%(item)s = get the "item" and format to string)
+(%(cost)7.1f = get the "cost" and width of 7, w/ 1 decimal due to float)
+
+In addition to these format modifiers, Python strings also
+include a format method that can be used in conjunction
+with a new Formatter class to implement complex string
+formatting.
+
+I would imagine something like print(format(something))
+depending on the rules already placed for the format
+function.
+
+###################################################################
+1.10: CONTROL STRUCTURES
+###################################################################
+
+Algorithms require 2 important control structures: iteration and
+selection.
+Iteration comes in terms such as "while" and "for" statements.
+While is a general purpose iterative structure that checks to see
+if the condition is True or False.
+For is a structure used for collections of sequences.
+An easy way to remember this is that if we know the number of
+iterations we use "for", otherwise we use "while".
+Especially in evolving data structures, this is very relevant.
+
+EXAMPLE
+
+> > > for item in range(5):
+> > > ... print(item\*\*2)
+> > > ...
+> > > 0
+> > > 1
+> > > 4
+> > > 9
+> > > 16
+
+"For" is very useful for iteration on each character of a string.
+
+EXAMPLE
+
+Program:
+wordlist = ['cat','dog','rabbit']
+letterlist = [ ]
+for aword in wordlist:
+for aletter in aword:
+letterlist.append(aletter)
+print(letterlist)
+
+Output:
+['c', 'a', 't', 'd', 'o', 'g', 'r', 'a', 'b', 'b', 'i', 't']
+
+Selection statements allow programmers to ask questions and based
+on the result, perform different actions.
+These statements are usually provided as "ifelse" and "if".
+For nested statements "elif" can be used in the stead.
+
+EXAMPLE
+
+Program:
+wordlist = ['cat','dog','rabbit']
+letterlist = [ ]
+for aword in wordlist:
+for aletter in aword:
+if aletter not in letterlist:
+letterlist.append(aletter)
+print(letterlist)
+
+Output:
+['c', 'a', 't', 'd', 'o', 'g', 'r', 'b', 'i']
+
+Lists have an alternative method for creation that uses iteration
+and selection constructs known as list comprehension.
+
+EXAMPLE
+
+> > > sqlist=[]
+> > > for x in range(1,11):
+
+         sqlist.append(x*x)
+
+> > > sqlist
+> > > [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+
+...this then turns into (w/ list comprehension)
+
+> > > sqlist=[x*x for x in range(1,11)]
+> > > sqlist
+> > > [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+
+Even then, one could allow selection criteria so that certain
+items get added to the data structure.
+
+EXAMPLE
+
+> > > sqlist=[x*x for x in range(1,11) if x%2 != 0]
+> > > sqlist
+> > > [1, 9, 25, 49, 81]
+
+Try to figure this one out, it's pretty close to modern syntax
+of the human language in a way!
+
+EXAMPLE
+
+> > > [ch.upper() for ch in 'comprehension' if ch not in 'aeiou']['c', 'm', 'p', 'r', 'h', 'n', 's', 'n']
+
+EXAMPLE
+
+Program:
+print([ch for ch in "".join(['cat','dog','rabbit'])])
+
+Output:
+['c', 'a', 't', 'd', 'o', 'g', 'r', 'a', 'b', 'b', 'i', 't']
+
+###################################################################
+1.11: EXCEPTION HANDLING
+###################################################################
+
+```
+
+```

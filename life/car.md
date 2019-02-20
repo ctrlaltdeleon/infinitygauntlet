@@ -2,27 +2,27 @@
 
 Contains all lessons and the variance.
 
-# PAPERWORK
+## PAPERWORK
 
 Contains all legal documents in order to be driving the vehicle legally.
 
-## Car Registration
+### Car Registration
 
 Check registration fees online and can pay online or through DMV.
 
-## Insurance
+### Insurance
 
 Check car insurance and keep user information with you when driving.
 
-## Smog Check (California)
+### Smog Check (California)
 
 Required by law to make sure vehicles are eco-friendly.
 
-# MAINTENANCE
+## MAINTENANCE
 
 Contains all maintenance information. Be wary of weather conditions as well as leveled working area.
 
-## Checks
+### Checks
 
 Every 5000 miles or 6 months (1/2 year):
 
@@ -35,7 +35,7 @@ Every 30000 miles or 24 months (2 years):
 - Replace air filter
 - Replace spark plugs
 
-## Battery
+### Battery
 
 Don't electrocute yourself!
 
@@ -72,7 +72,7 @@ Don't electrocute yourself!
   - Remove **red clamp** from **working car**
   - Remove **black** clamp from **working car**
 
-## Fluids
+### Fluids
 
 Always check fluids on a leveled plane.
 
@@ -104,7 +104,7 @@ Power steering fluid:
 - Note the difference between ATF and power steering fluid as they are both different
   - ATF means "auto transmission fluid"
 
-## Tires
+### Tires
 
 Jack and tools will be required.
 
