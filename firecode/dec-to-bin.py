@@ -3,13 +3,15 @@
 """
 
 
-def dec_to_bin(n):
-
-    if n < 2:
-        return str(n)
+def dec_to_bin(number):
+    if number < 2:
+        return str(number)
     else:
-        return dec_to_bin(n//2) + dec_to_bin(n % 2)
+        return dec_to_bin(number // 2) + dec_to_bin(number % 2)
 
+
+number = int(input("Input a decimal number: "))
+print("dec_to_bin():", dec_to_bin(number))
 
 """
 INPUT:
@@ -44,8 +46,3 @@ FUNCTION:
 OUTPUT:
 1101
 """
-
-if __name__ == "__main__":
-
-    n = int(input("Input a decimal number: "))
-    print(dec_to_bin(n))

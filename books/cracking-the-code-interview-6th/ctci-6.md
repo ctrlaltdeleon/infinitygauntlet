@@ -59,17 +59,17 @@
 - Add: O(n)
 
 ```py
-for counter in array:
+for index in array:
     print("nice")
-for counter in array:
+for index in array:
     print("good")
 ```
 
 - Multiply: O(n^2)
 
 ```py
-for counter in array:
-    for counter in array:
+for index in array:
+    for index in array:
         print("nice","good")
 ```
 
@@ -99,9 +99,9 @@ for counter in array:
 - Take a look at this function:
 
 ```py
-def printSomething(listA, listB):
-    for index in len(listA):
-        for index in len(listB):
+def print_something(list_a, list_b):
+    for index in len(list_a):
+        for index in len(list_b):
             print("something")
 ```
 
@@ -117,7 +117,7 @@ for (int x = 2; x * x <= n; x++)
 - Then we have the fibonacci sequence here:
 
 ```py
-def fibonacci(n):
+def fib(n):
     if (n <= 0)
         return 0
     if (n == 1)

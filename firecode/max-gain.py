@@ -14,7 +14,5 @@ def max_gain(input_list):
     return 0 if maxi < 0 else maxi
 
 
-# Find max_gain from left to right only
-# Augmented "min" and "max" to "mini" and "maxi"
 gains = [10, 50, 100, 20, 40, 200, 0, 5]
-print("Max gain:", max_gain(gains))
+print("max_gain():", max_gain(gains))

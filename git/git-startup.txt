@@ -1,3 +1,0 @@
-git config --global --list
-    // Checks the user.name & user.email
-    // To access config, go to 'Users' then look for '.gitconfig'

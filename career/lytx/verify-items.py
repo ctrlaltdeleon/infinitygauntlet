@@ -134,5 +134,5 @@ for index in range(orig_count):
 for index in range(alex_count):
     alex_items.append(str(input("Input alex_items #%s: " % (index+1))))
     alex_prices.append(float(input("Input alex_prices #%d: " % (index+1))))
-print("Amount incorrect made by Alex: ",
+print("verify_items():",
       verify_items(orig_items, orig_prices, alex_items, alex_prices))

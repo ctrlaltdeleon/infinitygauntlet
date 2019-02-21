@@ -8,4 +8,4 @@ def flip_horizontal_axis(matrix):
 
 
 matrix = [[0, 1], [0, 2]]
-print(flip_horizontal_axis(matrix))
+print("flip_horizontal_axis():", flip_horizontal_axis(matrix))

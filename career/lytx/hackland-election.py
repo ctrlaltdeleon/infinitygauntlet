@@ -59,9 +59,9 @@ from collections import Counter
 
 
 def hackland_election(votes):
-    # Find the most votes on a person and organize in a dict
+    # Find the most votes on a person and organize in a dict.
     tally = Counter(votes).most_common()
-    # Returns the first most common given via when inputted, then syntactic output to solve the problem
+    # Returns the first most common given via when inputted, then syntactic output to solve the problem.
     return list([i[0] for i in tally])[0]
 
 
@@ -69,4 +69,4 @@ ballots = int(input("Number of HackLand Ballots: "))
 votes = []
 for index in range(ballots):
     votes.append(input("Give a name for ballot #%i: " % (index+1)))
-print("Solution:", hackland_election(votes))
+print("hackland_election():", hackland_election(votes))

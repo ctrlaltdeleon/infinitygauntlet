@@ -8,36 +8,34 @@ class Node:
         self.data = None
         self.next = None
 
-    def setData(self, data):
+    def set_data(self, data):
         self.data = data
 
-    def getData(self):
+    def get_data(self):
         return self.data
 
-    def setNext(self, next):
+    def set_next(self, next):
         self.next = next
 
-    def getNext(self):
+    def get_next(self):
         return self.next
 
 
 class SinglyLinkedList:
-    # constructor
+
     def __init__(self):
         self.head = None
 
-    # method for setting the head of the Linked List
-    def setHead(self, head):
+    def set_head(self, head):
         self.head = head
 
-    # Method for inserting a new node at the start of a Linked List
     def insert_at_front(self, data):
         node = Node()
-        node.setData(data)
+        node.set_data(data)
         if self.head == None:
             self.head = node
         else:
-            node.setNext(self.head)
+            node.set_next(self.head)
             self.head = node
 
     def reverse(self):
@@ -61,6 +59,9 @@ test = SinglyLinkedList()
 test.insert_at_front(5)
 test.insert_at_front(3)
 test.insert_at_front(11)
+test.showcase()
+print("\n")
+test.reverse()
 test.showcase()
 print("\n")
 test.reverse()

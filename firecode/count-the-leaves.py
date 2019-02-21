@@ -22,5 +22,5 @@ class BinaryTree:
         if root.left_child == None and root.right_child == None:
             return 1
         else:
-            # Do recursion until all trees are obtained
+            # Do recursion until all trees are obtained.
             return self.number_of_leaves(root.left_child) + self.number_of_leaves(root.right_child)

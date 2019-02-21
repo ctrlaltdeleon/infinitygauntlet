@@ -2,28 +2,24 @@
 @author: acfromspace
 """
 
-# Recursive form
 
-
-def fib(n):
-    if n < 2:
-        return n
+def fib_1(number):
+    if number < 2:
+        return number
     else:
-        return fib(n-1) + fib(n-2)
-
-# Iterative form
+        return fib_1(number-1) + fib_1(number-2)
 
 
-def fib2(n):
-    if n < 2:
-        return n
+def fib_2(number):
+    if number < 2:
+        return number
     prev = 0
     curr = 1
-    for index in range(2, n):
+    for index in range(2, number):
         curr, prev = curr+prev, curr
     return curr+prev
 
 
-n = int(input("Input the fibonacci sequence end amount: "))
-print(fib(n))
-print(fib2(n))
+number = int(input("Input the fibonacci sequence end amount: "))
+print("Recursive form, fib_1():", fib_1(number))
+print("Iterative form, fib_2():", fib_2(number))

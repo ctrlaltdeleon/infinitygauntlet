@@ -10,36 +10,33 @@ class Node:
         self.val = key
 
 
-# A function to do inorder tree traversal
 def inorder(root):
     if root:
-        # First recur on left child
+        # First recur on left child.
         inorder(root.left)
-        # Then print the data of node
+        # Then print the data of node.
         print(root.val),
-        # Now recur on right child
+        # Now recur on right child.
         inorder(root.right)
 
 
-# A function to do postorder tree traversal
 def postorder(root):
     if root:
-        # First recur on left child
+        # First recur on left child.
         postorder(root.left)
-        # The recur on right child
+        # The recur on right child.
         postorder(root.right)
-        # Now print the data of node
+        # Now print the data of node.
         print(root.val),
 
 
-# A function to do preorder tree traversal
 def preorder(root):
     if root:
-        # First print the data of node
+        # First print the data of node.
         print(root.val),
-        # Then recur on left child
+        # Then recur on left child.
         preorder(root.left)
-        # Finally recur on right child
+        # Finally recur on right child.
         preorder(root.right)
 
 

@@ -409,8 +409,8 @@ item = "banana"
 print("The %s costs %d cents"%(item,price))             The banana costs 24 cents
 print("The %+10s costs %5.2f cents"%(item,price))       The     banana costs 24.00 cents
 print("The %+10s costs %10.2f cents"%(item,price))      The     banana costs      24.00 cents
-itemdict = {"item":"banana","cost":24}
-print("The %(item)s costs %(cost)7.1f cents"%itemdict)  The banana costs    24.0 cents
+item_dict = {"item":"banana","cost":24}
+print("The %(item)s costs %(cost)7.1f cents"%item_dict)  The banana costs    24.0 cents
 
 (%(item)s = get the "item" and format to string)
 (%(cost)7.1f = get the "cost" and width of 7, w/ 1 decimal due to float)

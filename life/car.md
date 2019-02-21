@@ -2,7 +2,7 @@
 
 Contains all lessons and the variance.
 
-## PAPERWORK
+## Paperwork
 
 Contains all legal documents in order to be driving the vehicle legally.
 
@@ -18,7 +18,7 @@ Check car insurance and keep user information with you when driving.
 
 Required by law to make sure vehicles are eco-friendly.
 
-## MAINTENANCE
+## Maintenance
 
 Contains all maintenance information. Be wary of weather conditions as well as leveled working area.
 

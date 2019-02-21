@@ -8,4 +8,4 @@ def is_palindrome(input_string):
 
 
 input_string = "racecar"
-print(is_palindrome(input_string))
+print("is_palindrome():", is_palindrome(input_string))

@@ -8,16 +8,16 @@ class Node:
         self.data = None
         self.next = None
 
-    def setData(self, data):
+    def set_data(self, data):
         self.data = data
 
-    def getData(self):
+    def get_data(self):
         return self.data
 
-    def setNext(self, next):
+    def set_next(self, next):
         self.next = next
 
-    def getNext(self):
+    def get_next(self):
         return self.next
 
 
@@ -26,13 +26,12 @@ class SinglyLinkedList:
     def __init__(self):
         self.head = None
 
-    def setHead(self, head):
+    def set_head(self, head):
         self.head = head
 
-    # Method for inserting a new node at the start of a Linked List
-    def insertAtEnd(self, data):
+    def insert_at_end(self, data):
         node = Node()
-        node.setData(data)
+        node.set_data(data)
         if self.head == None:
             self.head = node
         else:
@@ -50,7 +49,7 @@ class SinglyLinkedList:
 
 
 test = SinglyLinkedList()
-test.insertAtEnd(5)
-test.insertAtEnd(6)
-test.insertAtEnd(1)
+test.insert_at_end(5)
+test.insert_at_end(6)
+test.insert_at_end(1)
 test.showcase()

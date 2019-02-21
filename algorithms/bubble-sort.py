@@ -2,7 +2,8 @@
 @author: acfromspace
 """
 
-# Standard O(n^2) complexity solution
+# Time complexity: O(n^2)
+# Space complexity: O(n)
 
 
 def bubble_sort_1(data):
@@ -14,9 +15,9 @@ def bubble_sort_1(data):
 
 
 def bubble_sort_2(data):
-    # last_index is here to keep check of amount of passes, not needed for bubble sort
+    # last_index is here to keep check of amount of passes, not needed for bubble sort.
     last_index = len(data) - 1
-    # Checks last step to see if it was the last needed step
+    # Checks last step to see if it was the last needed step.
     is_sorted = False
     while last_index > 0 and not is_sorted:
         for i in range(last_index):
@@ -44,12 +45,10 @@ test_list = [9, 5, 1, 3, 6, -2, -8]
 print(test_list)
 bubble_sort_1(test_list)
 print(test_list, "\n")
-
 test_list = [9, 5, 1, 3, 6, -2, -8]
 print(test_list)
 bubble_sort_2(test_list)
 print(test_list, "\n")
-
 test_list = [9, 5, 1, 3, 6, -2, -8]
 print(test_list)
 bubble_sort_3(test_list)
