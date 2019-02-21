@@ -1,3 +1,5 @@
+/* LINK: https://flexboxfroggy.com/ */
+
 #pond {
   /* Needed to display flexbox features */
   display: flex;
@@ -11,5 +13,3 @@
   flex-flow: column wrap;
   align-content: space-around;
 }
-
-/* https://flexboxfroggy.com/ */

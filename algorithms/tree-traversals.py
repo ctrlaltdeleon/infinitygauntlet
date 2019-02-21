@@ -1,6 +1,6 @@
-# LINK: https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/
-
-# Python program to for tree traversals
+"""
+@author: acfromspace
+"""
 
 
 class Node:
@@ -15,9 +15,9 @@ def inorder(root):
     if root:
         # First recur on left child
         inorder(root.left)
-        # then print the data of node
+        # Then print the data of node
         print(root.val),
-        # now recur on right child
+        # Now recur on right child
         inorder(root.right)
 
 
@@ -26,9 +26,9 @@ def postorder(root):
     if root:
         # First recur on left child
         postorder(root.left)
-        # the recur on right child
+        # The recur on right child
         postorder(root.right)
-        # now print the data of node
+        # Now print the data of node
         print(root.val),
 
 

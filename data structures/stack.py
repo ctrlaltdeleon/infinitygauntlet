@@ -1,3 +1,8 @@
+"""
+@author: acfromspace
+"""
+
+
 class Stack:
     def __init__(self):
         self.items = []
@@ -21,16 +26,15 @@ class Stack:
         return self.items
 
 
-s = Stack()
-
-print(s.isEmpty())
-s.push(4)
-s.push('dog')
-print(s.peek())
-s.push(True)
-print(s.size())
-print(s.isEmpty())
-s.push(8.4)
-print(s.pop())
-print(s.pop())
-print(s.size())
+stack = Stack()
+print(stack.isEmpty())
+stack.push(4)
+stack.push('dog')
+print(stack.peek())
+stack.push(True)
+print(stack.size())
+print(stack.isEmpty())
+stack.push(8.4)
+print(stack.pop())
+print(stack.pop())
+print(stack.size())

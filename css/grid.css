@@ -1,3 +1,6 @@
+/* LINK: http://cssgridgarden.com/ */
+/* LINK: https://alligator.io/css/css-grid-layout-fr-unit/ */
+
 #pond {
   /* Needed to display grid features */
   display: grid;
@@ -12,6 +15,3 @@
   order: 0;
   grid-template: 1fr 50px / 20% 1fr;
 }
-
-/* http://cssgridgarden.com/ */
-/* https://alligator.io/css/css-grid-layout-fr-unit/ */

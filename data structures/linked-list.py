@@ -1,3 +1,8 @@
+"""
+@author: acfromspace
+"""
+
+
 class Node:
     def __init__(self, data):
         self.data = data
@@ -22,7 +27,6 @@ class LinkedList:
         while curr is not None:
             curr = curr.next
             count += 1
-
         return count
 
     def addFirst(self, data):
@@ -60,13 +64,12 @@ class LinkedList:
             curr = curr.next
 
 
-ll = LinkedList()
-
-randList = [10, 20, 275, 2, 5, 8, 64, 52]
-for num in randList:
-    ll.addFirst(num)
-    ll.addLast(num*2)
-ll.showcase()
+linked_list = LinkedList()
+random_list = [10, 20, 275, 2, 5, 8, 64, 52]
+for number in random_list:
+    linked_list.addFirst(number)
+    linked_list.addLast(number*2)
+linked_list.showcase()
 print("\n")
-ll.reverse()
-ll.showcase()
+linked_list.reverse()
+linked_list.showcase()

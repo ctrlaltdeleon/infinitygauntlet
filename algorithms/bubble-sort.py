@@ -1,4 +1,10 @@
+"""
+@author: acfromspace
+"""
+
 # Standard O(n^2) complexity solution
+
+
 def bubble_sort_1(data):
     for i in range(len(data)-1, 0, -1):
         for j in range(i):
