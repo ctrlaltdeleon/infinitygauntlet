@@ -15,7 +15,7 @@ def insert_star_between_pairs(a_string):
     # Therefore we check the new string away from the stars
     elif a_string[0:1] == a_string[1:2]:
         return a_string[0:1] + "*" + insert_star_between_pairs(a_string[1:len(a_string)])
-
+    # Return the whole string, no new stars added
     return a_string[0:1] + insert_star_between_pairs(a_string[1:len(a_string)])
 
 
