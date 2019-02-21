@@ -7,7 +7,7 @@ class Stack:
     def __init__(self):
         self.items = []
 
-    def isEmpty(self):
+    def is_empty(self):
         return self.items == []
 
     def push(self, item):
@@ -27,13 +27,13 @@ class Stack:
 
 
 stack = Stack()
-print(stack.isEmpty())
+print(stack.is_empty())
 stack.push(4)
 stack.push('dog')
 print(stack.peek())
 stack.push(True)
 print(stack.size())
-print(stack.isEmpty())
+print(stack.is_empty())
 stack.push(8.4)
 print(stack.pop())
 print(stack.pop())

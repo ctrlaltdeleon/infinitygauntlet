@@ -29,7 +29,7 @@ class LinkedList:
             count += 1
         return count
 
-    def addFirst(self, data):
+    def add_first(self, data):
         node = Node(data)
         if self.head is None:
             self.head = node
@@ -38,7 +38,7 @@ class LinkedList:
             node.next = self.head
             self.head = node
 
-    def addLast(self, data):
+    def add_last(self, data):
         node = Node(data)
         if self.tail is None:
             self.head = node
@@ -67,8 +67,8 @@ class LinkedList:
 linked_list = LinkedList()
 random_list = [10, 20, 275, 2, 5, 8, 64, 52]
 for number in random_list:
-    linked_list.addFirst(number)
-    linked_list.addLast(number*2)
+    linked_list.add_first(number)
+    linked_list.add_last(number*2)
 linked_list.showcase()
 print("\n")
 linked_list.reverse()
