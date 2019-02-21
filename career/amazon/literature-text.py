@@ -1,38 +1,28 @@
-from collections import Counter
-
-
 """
 @author: acfromspace
 """
 
+from collections import Counter
 
-def retrieveMost(literatureText, wordsToExclude):
 
+def retrieve_most(literature_text, excluded_words):
     maximum = 0
     solution = []
-
     # Make string into a list of strings
-    indexLiterature = literatureText.split()
-
+    list_literature_text = literature_text.split()
     # Iterate through list, transform into dictionary with only exclusive words
-    indexLiterature = Counter([
-        word for word in indexLiterature if word not in wordsToExclude]).most_common()
-
+    list_literature_text = Counter([
+        word for word in list_literature_text if word not in excluded_words]).most_common()
     # Create a dictionary
-    dct = dict(indexLiterature)
-
+    dict_literature_text = dict(list_literature_text)
     # Only find the most used words
-    for key, value in dct.items():
+    for key, value in dict_literature_text.items():
         if value >= maximum:
             solution.append(key)
             maximum = value
-
     return " ".join(solution)
 
 
-if __name__ == "__main__":
-
-    literatureText = "romeo oh romeo boi where art thou boi nice alright alright ok hello"
-    wordsToExclude = ["oh", "art", "thou"]
-
-    print("Most used words:", retrieveMost(literatureText, wordsToExclude))
+literature_text = "romeo oh romeo boi where art thou boi nice alright alright ok hello"
+excluded_words = ["oh", "art", "thou"]
+print("Most used words:", retrieve_most(literature_text, excluded_words))

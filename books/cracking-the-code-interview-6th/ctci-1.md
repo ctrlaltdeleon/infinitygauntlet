@@ -1,6 +1,6 @@
 # CRACKING THE CODING INTERVIEW
 
-## 1: THE INTERVIEW PROCESS
+## 1: The Interview Process
 
 ### Analytical skills:
 
@@ -15,7 +15,7 @@
 - Was it clean and well-organized? Did you think about potential errors?
 - Did you use good style?
 
-### Technical knowledge/ Computer Science fundamentals:
+### Technical knowledge/Computer Science fundamentals:
 
 - Do you have a strong foundation in computer science and the relevant technologies?
 

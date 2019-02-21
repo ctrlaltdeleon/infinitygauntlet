@@ -1,6 +1,6 @@
 # CRACKING THE CODING INTERVIEW
 
-## 6: BIG O
+## 6: Big O
 
 ### Slowest to Fastest (Operations VS. Elements):
 

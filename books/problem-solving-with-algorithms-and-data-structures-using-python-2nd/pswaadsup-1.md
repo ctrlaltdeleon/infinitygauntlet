@@ -1,24 +1,24 @@
 # PROBLEM SOLVING WITH ALGORITHMS AND DATA STRUCTURES USING PYTHON
 
-## INTRODUCTION
+## Introduction
 
-### 1.1: OBJECTIVE
-
-~
-
-### 1.2: GETTING STARTED
+### 1.1: Objective
 
 ~
 
-### 1.3: WHAT IS COMPUTER SCIENCE?
+### 1.2: Getting Started
+
+~
+
+### 1.3: What is Computer Science?
 
 - The study of finding solutions using computational structures.
 
-### 1.4: WHAT IS PROGRAMMING?
+### 1.4: What is Programming?
 
 - A method to implement our solutions.
 
-### 1.5: WHY STUDY DATA STRUCTURES AND ABSTRACT DATA TYPES
+### 1.5: Why Study Data Structures and Abstract Data Types?
 
 - Abstract data types (ADT) is a logical description of how we view interface vs the implementation.
   - I use a car, but I don't know what goes on in the car, all I care for is that the car works which makes it an abstract data type.
@@ -31,42 +31,36 @@
 - Since there are different ways to implement ADTs this gives flexibility to the developer without harming the user.
 - The user can remain focused on the problem-solving process.
 
-### 1.6: WHY STUDY ALGORITHMS?
+### 1.6: Why Study Algorithms?
 
-Algorithm is a type of solution.
+- Algorithm is a type of solution.
+- By considering different algorithms and different problems, when we see a similar problem arise, we know which weapon to use.
+- We consider time and space complexities:
+  - What if we only have 2 minutes to compute? (Time)
+  - What if we give a problem 1000000 inputs? (Space)
+- Worst case scenario is that we have a problem that can't be solved or where solutions do exist but require too much time or other resources to work reasonably.
+- We find solutions and choose the correct one depending on the situation.
 
-By considering different algorithms and different problems, when
-we see a similar problem arise, we know which weapon to use.
-We consider time and space complexities:
-What if we only have 2 minutes to compute? (Time)
-What if we give a problem 1000000 inputs? (Space)
-Worst case scenario is that we have a problem that can't be solved
-or where solutions do exist but require too much time or other
-resources to work reasonably.
-We find solutions and choose the correct one depending on the situation.
-
-### 1.7: REVIEW OF BASIC PYTHON
+### 1.7: Review of Basic Python
 
 - Python is a modern, easy-t-learn, object-oriented programming language.
 - Built-in data types and easy-to-use control constructs.
 
-### 1.8: GETTING STARTED WITH DATA
+### 1.8: Getting Started with Data
 
-- Define a class to be a description of what the data will look like
-  (the state) and what the data can do (the behavior).
-  Classes are analogous to ADTs because a user of a class only sees
-  the state and behavior.
-  Data items are called objects in the object-oriented paradigm.
-  An object is an instance of a class.
+- Define a class to be a description of what the data will look like (the state) and what the data can do (the behavior).
+- Classes are analogous to ADTs because a user of a class only sees the state and behavior.
+- Data items are called objects in the object-oriented paradigm.
+- An object is an instance of a class.
 
-### 1.8.1: BUILT-IN ATOMIC DATA TYPES
+### 1.8.1: Built-in Atomic Data Types
 
 - Atomic data types:
   - int
   - float
   - bool
 
-### 1.8.2: BUILT-IN COLLECTION DATA TYPES
+### 1.8.2: Built-in Collection Data Types
 
 - Collection data types:
 
@@ -78,7 +72,7 @@ sets            {}
 dictionaries    {'':''}
 ```
 
-### 1.8.2.1: LISTS
+### 1.8.2.1: Lists
 
 - List is an ordered collection. (ArrayList in other languages)
 - Table of operations to use on lists:
@@ -99,56 +93,56 @@ slicing         [ : ]       Extract a part of a sequence
 ```
 EXAMPLE                 YIELDS
 
-myList = [1,2,3,4]
-A = [myList]\*3
+my_list = [1,2,3,4]
+A = [my_list]\*3
 print(A)                [[1, 2, 3, 4], [1, 2, 3, 4], [1, 2, 3, 4]]
-myList[2]=45
+my_list[2]=45
 print(A)                [[1, 2, 45, 4], [1, 2, 45, 4], [1, 2, 45, 4]]
 ```
 
 - Table of methods to use on lists:
 
 ```
-METHOD      USE                     EXPLANATION
+METHOD      USE                      EXPLANATION
 
-append      alist.append(item)      Adds a new item to the end of a list
-insert      alist.insert(i,item)    Inserts an item at the ith position in a list
-pop         alist.pop()             Removes and returns the last item in a list
-pop         alist.pop(i)            Removes and returns the ith item in a list
-sort        alist.sort()            Modifies a list to be sorted
-reverse     alist.reverse()         Modifies a list to be in reverse order
-del         del alist[i]            Deletes the item in the ith position
-index       alist.index(item)       Returns the index of the first occurrence of item
-count       alist.count(item)       Returns the number of occurrences of item
-remove      alist.remove(item)      Removes the first occurrence of item
+append      a_list.append(item)      Adds a new item to the end of a list
+insert      a_list.insert(i,item)    Inserts an item at the ith position in a list
+pop         a_list.pop()             Removes and returns the last item in a list
+pop         a_list.pop(i)            Removes and returns the ith item in a list
+sort        a_list.sort()            Modifies a list to be sorted
+reverse     a_list.reverse()         Modifies a list to be in reverse order
+del         del a_list[i]            Deletes the item in the ith position
+index       a_list.index(item)       Returns the index of the first occurrence of item
+count       a_list.count(item)       Returns the number of occurrences of item
+remove      a_list.remove(item)      Removes the first occurrence of item
 ```
 
 - Examples of methods:
 
 ```
-EXAMPLE                             YIELDS
+EXAMPLE                              YIELDS
 
-myList = [1024, 3, True, 6.5]
-myList.append(False)
-print(myList)                       [1024, 3, True, 6.5, False]
-myList.insert(2,4.5)
-print(myList)                       [1024, 3, 4.5, True, 6.5, False]
-print(myList.pop()) False
-print(myList)                       [1024, 3, 4.5, True, 6.5]
-print(myList.pop(1))                [1024, 4.5, True, 6.5]
-print(myList)                       [1024, 4.5, True, 6.5, False]
-myList.pop(2)
-print(myList)                       [1024, 4.5, 6.5]
-myList.sort()
-print(myList)                       [4.5, 6.5, 1024]
-myList.reverse()
-print(myList)                       [1024, 6.5, 4.5]
-print(myList.count(6.5))            1
-print(myList.index(4.5))            2
-myList.remove(6.5)
-print(myList)                       [1024, 4.5]
-del myList[0]
-print(myList)                       [4.5]
+my_list = [1024, 3, True, 6.5]
+my_list.append(False)
+print(my_list)                       [1024, 3, True, 6.5, False]
+my_list.insert(2,4.5)
+print(my_list)                       [1024, 3, 4.5, True, 6.5, False]
+print(my_list.pop()) False
+print(my_list)                       [1024, 3, 4.5, True, 6.5]
+print(my_list.pop(1))                [1024, 4.5, True, 6.5]
+print(my_list)                       [1024, 4.5, True, 6.5, False]
+my_list.pop(2)
+print(my_list)                       [1024, 4.5, 6.5]
+my_list.sort()
+print(my_list)                       [4.5, 6.5, 1024]
+my_list.reverse()
+print(my_list)                       [1024, 6.5, 4.5]
+print(my_list.count(6.5))            1
+print(my_list.index(4.5))            2
+my_list.remove(6.5)
+print(my_list)                       [1024, 4.5]
+del my_list[0]
+print(my_list)                       [4.5]
 ```
 
 - Range function is used with lists.
@@ -167,7 +161,7 @@ list(range(5,10,2))     [5, 7, 9]
 list(range(10,1,-1))    [10, 9, 8, 7, 6, 5, 4, 3, 2]
 ```
 
-### 1.8.2.2: STRINGS
+### 1.8.2.2: Strings
 
 - Strings are collections of characters annotated by "".
 - Examples of string manipulation:
@@ -176,56 +170,56 @@ list(range(10,1,-1))    [10, 9, 8, 7, 6, 5, 4, 3, 2]
 EXAMPLE             YIELDS
 
 "David"             "David"
-myName = "David"
-myName[3]           "i"
-myName \* 2         "myNamemyName"
-len(myName)         5
+my_name = "David"
+my_name[3]          "i"
+my_name \* 2        "my_namemy_name"
+len(my_name)        5
 ```
 
 - Since strings are sequences, they work as expected.
 - More examples of string manipulation:
 
 ```
-EXAMPLE             YIELDS
+EXAMPLE              YIELDS
 
-myName              "David"
-myName.upper()      "DAVID"
-myName.center(10)   "  David   "
-myName.find('v')    2
-myName.split('v')   ["Da","id"]
+my_name              "David"
+my_name.upper()      "DAVID"
+my_name.center(10)   "  David   "
+my_name.find('v')    2
+my_name.split('v')   ["Da","id"]
 ```
 
 - Split is useful for processing data by returning a list of strings.
 - If no division is specified for split, whitespace is used.
 
 ```
-METHOD      USE                     EXPLANATION
+METHOD      USE                      EXPLANATION
 
-center      astring.center(w)       Returns a string centered in a field of size w
-count       astring.count(item)     Returns the number of occurrences of item in the string
-ljust       astring.ljust(w)        Returns a string left-justified in a field of size w
-lower       astring.lower()         Returns a string in all lowercase
-rjust       astring.rjust(w)        Returns a string right-justified in a field of size w
-find        astring.find(item)      Returns the index of the first occurrence of item
-split       astring.split(schar)    Splits a string into substrings at schar
+center      a_string.center(w)       Returns a string centered in a field of size w
+count       a_string.count(item)     Returns the number of occurrences of item in the string
+ljust       a_string.ljust(w)        Returns a string left-justified in a field of size w
+lower       a_string.lower()         Returns a string in all lowercase
+rjust       a_string.rjust(w)        Returns a string right-justified in a field of size w
+find        a_string.find(item)      Returns the index of the first occurrence of item
+split       a_string.split(schar)    Splits a string into substrings at schar
 ```
 
 - Major difference between lists and strings is:
-  - lists can be modified
-  - strings can't be modified
+  - Lists can be modified
+  - Strings can't be modified
 - This is referred to as mutability.
-  - lists are mutable
-  - strings are immutable
+  - Lists are mutable
+  - Strings are immutable
 - Examples of mutability among lists vs strings:
 
 ```
-EXAMPLE         YIELDS
+EXAMPLE          YIELDS
 
-myName          "David"
-myName[0]="X"   !ERROR!
+my_name          "David"
+my_name[0]="X"   !ERROR!
 ```
 
-### 1.8.2.3: TUPLES
+### 1.8.2.3: Tuples
 
 - Tuples are similar to lists in that they are sequences of data.
 - Difference is that tuples are immutable, like a string.
@@ -233,7 +227,7 @@ myName[0]="X"   !ERROR!
 - So why use tuples?
   - If you want constant immutable data, like coordinates.
 
-### 1.8.2.4: SETS
+### 1.8.2.4: Sets
 
 - A set is an unordered collection of zero or more immutable data objects.
 - Sets don't allow duplicates and are separated by commas in curly braces.
@@ -241,11 +235,11 @@ myName[0]="X"   !ERROR!
 - Example of creating a set.
 
 ```
-EXAMPLE                         YIELDS
+EXAMPLE                          YIELDS
 
-{3,6,"cat",4.5,False}           {False, 4.5, 3, 6, 'cat'}
-mySet = {3,6,"cat",4.5,False}
-mySet                           {False, 4.5, 3, 6, 'cat'}
+{3,6,"cat",4.5,False}            {False, 4.5, 3, 6, 'cat'}
+my_set = {3,6,"cat",4.5,False}
+my_set                           {False, 4.5, 3, 6, 'cat'}
 ```
 
 - Examples of operations:
@@ -255,52 +249,52 @@ OPERATION       OPERATOR                EXPLANATION
 
 membership      in                      Set membership
 length          len                     Returns the cardinality of the set
-|               aset | otherset         Returns a new set with all elements from both sets
-&               aset & otherset         Returns a new set with only those elements common to both sets
--               aset - otherset         Returns a new set with all items from the first set not in second
-<=              aset <= otherset        Asks whether all elements of the first set are in the second
+|               a_set | otherset         Returns a new set with all elements from both sets
+&               a_set & otherset         Returns a new set with only those elements common to both sets
+-               a_set - otherset         Returns a new set with all items from the first set not in second
+<=              a_set <= otherset        Asks whether all elements of the first set are in the second
 ```
 
 - Sets have methods that should be familiar in a mathematical setting.
 - Examples of methods:
 
 ```
-METHOD          USE                             EXPLANATION
+METHOD          USE                              EXPLANATION
 
-union           aset.union(otherset)            Returns a new set with all elements from both sets
-intersection    aset.intersection(otherset)     Returns a new set with only those elements common to both sets
-difference      aset.difference(otherset)       Returns a new set with all items from first set not in second
-issubset        aset.issubset(otherset)         Asks whether all elements of one set are in the other
-add             aset.add(item)                  Adds item to the set
-remove          aset.remove(item)               Removes item from the set
-pop             aset.pop()                      Removes an arbitrary element from the set
-clear           aset.clear()                    Removes all elements from the set
+union           a_set.union(otherset)            Returns a new set with all elements from both sets
+intersection    a_set.intersection(otherset)     Returns a new set with only those elements common to both sets
+difference      a_set.difference(otherset)       Returns a new set with all items from first set not in second
+issubset        a_set.issubset(otherset)         Asks whether all elements of one set are in the other
+add             a_set.add(item)                  Adds item to the set
+remove          a_set.remove(item)               Removes item from the set
+pop             a_set.pop()                      Removes an arbitrary element from the set
+clear           a_set.clear()                    Removes all elements from the set
 ```
 
 - Examples of set usage:
 
 ```
-EXAMPLE                         YIELD
+EXAMPLE                          YIELD
 
-mySet                           {False, 4.5, 3, 6, 'cat'}
-yourSet                         {99,3,100}
-mySet.union(yourSet)            {False, 4.5, 3, 100, 6, 'cat', 99}
-mySet | yourSet                 {False, 4.5, 3, 100, 6, 'cat', 99}
-mySet.intersection(yourSet)     {3}
-mySet & yourSet                 {3}
-mySet.difference(yourSet)       {False, 4.5, 6, 'cat'}
-mySet - yourSet                 {False, 4.5, 6, 'cat'}
-{3,100}.issubset(yourSet)       True (Is {3,100} part of yourSet?)
-{3,100}<=yourSet                True (Is {3,100} in yourSet?)
-mySet.add("house")
-mySet                           {False, 4.5, 3, 6, 'house', 'cat'}
-mySet.pop                       False
-mySet                           {4.5, 3, 6, 'house', 'cat'}
-mySet.clear()
-mySet                           set()
+my_set                           {False, 4.5, 3, 6, 'cat'}
+your_set                         {99,3,100}
+my_set.union(your_set)           {False, 4.5, 3, 100, 6, 'cat', 99}
+my_set | your_set                {False, 4.5, 3, 100, 6, 'cat', 99}
+my_set.intersection(your_set)    {3}
+my_set & your_set                {3}
+my_set.difference(your_set)      {False, 4.5, 6, 'cat'}
+my_set - your_set                {False, 4.5, 6, 'cat'}
+{3,100}.issubset(your_set)       True (Is {3,100} part of your_set?)
+{3,100}<=your_set                True (Is {3,100} in your_set?)
+my_set.add("house")
+my_set                           {False, 4.5, 3, 6, 'house', 'cat'}
+my_set.pop                       False
+my_set                           {4.5, 3, 6, 'house', 'cat'}
+my_set.clear()
+my_set                           set()
 ```
 
-### 1.8.2.5: DICTIONARIES
+### 1.8.2.5: Dictionaries
 
 - Final Python collection is an unordered structure called a dictionary.
 - Dictionaries are a pair of items which each consist of a key and a value.
@@ -313,32 +307,32 @@ capitals {'Wisconsin': 'Madison', 'Iowa': 'DesMoines'}
 - Examples of operators:
 
 ```
-OPERATOR    USE             EXPLANATION
+OPERATOR    USE              EXPLANATION
 
-[]          myDict[k]       Returns the value associated with k, otherwise its an error
-in          key in adict    Returns True if key is in the dictionary, False otherwise
-del         del adict[key]  Removes the entry from the dictionary
+[]          my_dict[k]       Returns the value associated with k, otherwise its an error
+in          key in a_dict    Returns True if key is in the dictionary, False otherwise
+del         del a_dict[key]  Removes the entry from the dictionary
 ```
 
 - Examples of methods:
 
 ```
-METHOD      USE                 EXPLANATION
+METHOD      USE                  EXPLANATION
 
-keys        adict.keys()        Returns the keys of the dictionary in a dict_keys object
-values      adict.values()      Returns the values of the dictionary in a dict_values object
-items       adict.items()       Returns the key-value pairs in a dict_items object
-get         adict.get(k)        Returns the value associated with k, None otherwise
-get         adict.get(k,alt)    Returns the value associated with k, alt otherwise
+keys        a_dict.keys()        Returns the keys of the dictionary in a dict_keys object
+values      a_dict.values()      Returns the values of the dictionary in a dict_values object
+items       a_dict.items()       Returns the key-value pairs in a dict_items object
+get         a_dict.get(k)        Returns the value associated with k, None otherwise
+get         a_dict.get(k,alt)    Returns the value associated with k, alt otherwise
 ```
 
-### 1.9: INPUT AND OUTPUT
+### 1.9: Input and Output
 
 - Software and users need to have some sort of dialogue in order to best benefit the user and this is where input and output comes into play.
 - For example:
 
 ```
-aName = input("This is a prompt that takes in the input: ")
+a_name = input("This is a prompt that takes in the input: ")
 ```
 
 - It's important to note the input will be a string representing the exact characters that were entered after the prompt.
@@ -346,11 +340,11 @@ aName = input("This is a prompt that takes in the input: ")
 - For example:
 
 ```
-floatName = float(aName)
-doubleName = double(aName)
+float_name = float(a_name)
+double_name = double(a_name)
 ```
 
-### 1.9.1: STRING FORMATTING
+### 1.9.1: String Formatting
 
 - It's possible to change both the separator and end argument.
 - The separator is usually a white space unless specified.
@@ -368,10 +362,10 @@ print("Hello","World",end"**_")     Hello World_**
 - Examples of format operators:
 
 ```
-EXAMPLE                                         YIELD
+EXAMPLE                                          YIELD
 
-print(aName, "is", age, "years old.")           banana, 24
-print("%s is %d years old." % (aName, age))     banana, 24.00
+print(a_name, "is", age, "years old.")           banana, 24
+print("%s is %d years old." % (a_name, age))     banana, 24.00
 ```
 
 - This is useful if certain variables aren't formatted correctly or if for the specific output needs to be a certain way.
@@ -398,8 +392,8 @@ s               String, or any data object that can be converted to a string by 
 MODIFIER    EXAMPLE     DESCRIPTION
 
 number      %20d        Put the value in a field width of 20
--           %-20d 	    Put the value in a field 20 characters wide, left-justified
-*           %+20d 	    Put the value in a field 20 characters wide, right-justified
+-           %-20d 	Put the value in a field 20 characters wide, left-justified
+*           %+20d 	Put the value in a field 20 characters wide, right-justified
 0           %020d       Put the value in a field 20 characters wide, fill in with leading zeros
 .           %20.2f      Put the value in a field 20 characters wide with 2 characters to the right of the decimal point
 (name)      %(name)d    Get the value from the supplied dictionary using name as the key
@@ -424,7 +418,7 @@ print("The %(item)s costs %(cost)7.1f cents"%itemdict)  The banana costs    24.0
 
 - In addition to these format modifiers, Python strings also include a format method that can be used in conjunction with a new Formatter class to implement complex string formatting.
 
-### 1.10: CONTROL STRUCTURES
+### 1.10: Control Structures
 
 - Algorithms require 2 important control structures:
   - Iteration
@@ -444,7 +438,7 @@ while counter <= 5 and not done:
 "hello"
 ```
 
-- For is a structure used for collections of sequences.
+- "For" is a structure used for collections of sequences.
 - An easy way to remember this is that if we know the number of iterations we use "for", otherwise we use "while".
 - Especially in evolving data structures, this is very relevant.
 - "For" is very useful for iteration on each character of a string.
@@ -464,13 +458,13 @@ for item in range(5):
 - Example of iteration:
 
 ```py
-wordlist = ['cat','dog','rabbit']
-letterlist = [ ]
-for aword in wordlist:
-    for aletter in aword:
-        letterlist.append(aletter)
+word_list = ['cat','dog','rabbit']
+letter_list = [ ]
+for a_word in word_list:
+    for a_letter in a_word:
+        letter_list.append(a_letter)
 
-print(letterlist)
+print(letter_list)
 ['c', 'a', 't', 'd', 'o', 'g', 'r', 'a', 'b', 'b', 'i', 't']
 ```
 
@@ -480,14 +474,14 @@ print(letterlist)
 - Example of selection being used:
 
 ```py
-wordlist = ['cat','dog','rabbit']
-letterlist = [ ]
-for aword in wordlist:
-    for aletter in aword:
-        if aletter not in letterlist:
-        letterlist.append(aletter)
+word_list = ['cat','dog','rabbit']
+letter_list = [ ]
+for a_word in word_list:
+    for a_letter in a_word:
+        if a_letter not in letter_list:
+        letter_list.append(a_letter)
 
-print(letterlist)
+print(letter_list)
 ['c', 'a', 't', 'd', 'o', 'g', 'r', 'b', 'i']
 ```
 
@@ -495,20 +489,20 @@ print(letterlist)
 - Example of before using list comprehension:
 
 ```py
-sqlist = []
+squared_list = []
 for x in range(1,11):
-   sqlist.append(x*x)
+   squared_list.append(x*x)
 
-print(sqlist)
+print(squared_list)
 [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
 ```
 
 - Example of now using list comprehension:
 
 ```py
-sqlist = [x*x for x in range(1,11)]
+squared_list = [x*x for x in range(1,11)]
 
-print(sqlist)
+print(squared_list)
 [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
 ```
 
@@ -516,9 +510,9 @@ print(sqlist)
 - Examples of using list comprehension with selection:
 
 ```py
-sqlist = [x*x for x in range(1,11) if x%2 != 0]
+squared_list = [x*x for x in range(1,11) if x%2 != 0]
 
-print(sqlist)
+print(squared_list)
 [1, 9, 25, 49, 81]
 ```
 
@@ -535,6 +529,6 @@ print([ch for ch in "".join(['cat','dog','rabbit'])])
 ['c', 'a', 't', 'd', 'o', 'g', 'r', 'a', 'b', 'b', 'i', 't']
 ```
 
-### 1.11: EXCEPTION HANDLING
+### 1.11: Exception Handling
 
 #### BOOKMARK

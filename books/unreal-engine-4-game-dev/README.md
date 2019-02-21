@@ -2,6 +2,6 @@
 
 LINK: N/A
 
-## CHAPTERS
+## Chapters
 
-1. INTRODUCING UNREAL ENGINE 4
+1. Introducing Unreal Engine 4

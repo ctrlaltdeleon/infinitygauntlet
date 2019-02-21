@@ -1,6 +1,6 @@
 # UNREAL ENGINE 4 GAME DEVELOPMENT IN 24 HOURS
 
-## 1: INTRODUCING UNREAL ENGINE 4
+## 1: Introducing Unreal Engine 4
 
 - Install the Unreal launcher made by Epic Games then...
   - Open the Launcher and click the Library link.

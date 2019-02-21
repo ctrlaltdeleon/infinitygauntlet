@@ -2,13 +2,13 @@
 
 LINK: http://interactivepython.org/runestone/static/pythonds/index.html
 
-## CHAPTERS
+## Chapters
 
 1. Introduction
    1. Objectives
    2. Getting Started
-   3. What Is Computer Science?
-   4. What Is Programming?
+   3. What is Computer Science?
+   4. What is Programming?
    5. Why Study Data Structures and Abstract Data Types?
    6. Why Study Algorithms?
    7. Review of Basic Python

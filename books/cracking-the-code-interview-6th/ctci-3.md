@@ -1,6 +1,6 @@
 # CRACKING THE CODING INTERVIEW
 
-## 3: SPECIAL SITUATIONS
+## 3: Special Situations
 
 ### Testers and SDETs (software design engineers in test):
 

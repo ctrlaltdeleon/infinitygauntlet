@@ -2,6 +2,6 @@
 
 LINK: N/A
 
-## CHAPTERS
+## Chapters
 
-1. AN OVERVIEW OF HTML AND CSS ON THE WEB
+1. An Overview of HTML and CSS on the Web

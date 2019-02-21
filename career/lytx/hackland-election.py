@@ -58,21 +58,15 @@ Because Veronica is alphabetically last, we return her name as the winner.
 from collections import Counter
 
 
-def hacklandElection(votes):
-
+def hackland_election(votes):
     # Find the most votes on a person and organize in a dict
     tally = Counter(votes).most_common()
-
-    # returns the first most common given via when inputted, then syntactic output to solve the problem
+    # Returns the first most common given via when inputted, then syntactic output to solve the problem
     return list([i[0] for i in tally])[0]
 
 
-if __name__ == "__main__":
-
-    ballots = int(input("Number of HackLand Ballots: "))
-    votes = []
-
-    for counter in range(ballots):
-        votes.append(input("Give a name for ballot #%i: " % (counter+1)))
-
-    print("Solution:", hacklandElection(votes))
+ballots = int(input("Number of HackLand Ballots: "))
+votes = []
+for index in range(ballots):
+    votes.append(input("Give a name for ballot #%i: " % (index+1)))
+print("Solution:", hackland_election(votes))

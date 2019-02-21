@@ -2,6 +2,6 @@
 
 LINK: N/A
 
-## CHAPTERS
+## Chapters
 
-1. INTRODUCTION TO VULNERABILITY AND PENETRATION TESTING
+1. Introduction to Vulnerability and Penetration Testing

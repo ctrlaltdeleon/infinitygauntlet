@@ -1,6 +1,6 @@
 # POGUE'S BASICS (ESSENTIAL TIPS AND SHORTCUTS FOR SIMPLIFYING TECHNOLOGY)
 
-## 1: PHONES
+## 1: Phones
 
 ### Need to complete a sentence with a period?
 

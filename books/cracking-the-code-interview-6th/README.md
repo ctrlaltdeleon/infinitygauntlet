@@ -2,11 +2,11 @@
 
 LINK: N/A
 
-## CHAPTERS
+## Chapters
 
-1. THE INTERVIEW PROCESS
-2. BEHIND THE SCENES
-3. SPECIAL SITUATIONS
-4. BEFORE THE INTERVIEW
-5. BEHAVIORAL QUESTIONS
-6. BIG O
+1. The Interview Process
+2. Behind the Scenes
+3. Special Situations
+4. Before the Interview
+5. Behavioral Questions
+6. Big O

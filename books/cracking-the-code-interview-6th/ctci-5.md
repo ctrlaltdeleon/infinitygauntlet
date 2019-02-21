@@ -1,6 +1,6 @@
 # CRACKING THE CODING INTERVIEW
 
-## 5: BEHAVIORAL QUESTIONS
+## 5: Behavioral Questions
 
 ### Interview Preparation Grid:
 

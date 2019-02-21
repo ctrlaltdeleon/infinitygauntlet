@@ -1,6 +1,6 @@
 # POGUE'S BASICS (ESSENTIAL TIPS AND SHORTCUTS FOR SIMPLIFYING TECHNOLOGY)
 
-## 3. CAMERAS
+## 3: Cameras
 
 ### What are "megapixels" in the description?
 

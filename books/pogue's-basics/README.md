@@ -2,8 +2,8 @@
 
 LINK: N/A
 
-## CHAPTERS
+## Chapters
 
-1. PHONES
+1. Phones
 2. N/A
-3. CAMERAS
+3. Cameras

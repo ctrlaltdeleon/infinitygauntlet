@@ -1,6 +1,6 @@
 # CRACKING THE CODING INTERVIEW
 
-## 4: BEFORE THE INTERVIEW
+## 4: Before the Interview
 
 ### Getting the Right Experience:
 
