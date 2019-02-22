@@ -1,4 +1,6 @@
-# Question removed due to possible punishments
+"""
+@author: acfromspace
+"""
 
 """
 We're given an array with various numbers which need to equal a "target" variable.
@@ -38,20 +40,18 @@ To approach this problem:
 
 class Solution:
 
-    def twoSum(self, nums, target):
+    def two_sum(self, nums, target):
         """
         :type nums: List[int]
         :type target: int
         :rtype: List[int]
         """
         seen = {}
-
         for index, num in enumerate(nums):
             print("{}: " + str(seen))
             print("index, num: " + str(index), str(num))
             other = target - num
             print("other: " + str(other))
-
             if other in seen:
                 print("SOLUTION: " + str([seen[other], index]))
                 return [seen[other], index]
@@ -59,20 +59,16 @@ class Solution:
                 print("{}: " + str(seen))
                 print("DO AGAIN!")
                 seen[num] = index
-
         return []
 
 
 test_object = Solution()
-
 nums = [2, 7, 11, 15]
 target = 26
-
 print("Stages of the solution:")
 print("nums: " + str(nums))
 print("target: " + str(target))
-
-test_object.twoSum(nums, target)
+test_object.two_sum(nums, target)
 
 """
 Time complexity : O(n)
