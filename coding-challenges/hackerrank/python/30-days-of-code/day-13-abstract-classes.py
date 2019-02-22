@@ -15,17 +15,15 @@ class Book(object, metaclass=ABCMeta):
 
 
 class MyBook(Book):
-
     def __init__(self, title, author, price):
         # super(Book, self).__init__()
-        # though I like this syntax much more due to readability
+        # Though I like this syntax much more due to readability.
         Book.__init__(self, title, author)
         self.price = price
 
     def display(self):
         print("Title: %s" % (title))
         print("Author: %s" % (author))
-        # format to 2 decimal places
         print("Price: $%.2f" % (price))
 
 

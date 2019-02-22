@@ -6,35 +6,29 @@ import sys
 
 
 class Solution:
-
     def __init__(self):
         self.stack = []
         self.queue = []
 
-    def pushCharacter(self, ch):
+    def push_character(self, ch):
         self.stack.append(ch)
 
-    def enqueueCharacter(self, ch):
+    def enqueue_character(self, ch):
         self.queue.insert(0, ch)
 
-    def popCharacter(self):
+    def pop_character(self):
         return self.stack.pop()
 
-    def dequeueCharacter(self):
+    def dequeue_character(self):
         return self.queue.pop()
 
 
-# read the string s
 s = input("Input a string to see if it's a palindrome: ")
-# Create the Solution class object
 obj = Solution()
-
 l = len(s)
-# push/enqueue all the characters of string s to stack
 for i in range(l):
-    obj.pushCharacter(s[i])
-    obj.enqueueCharacter(s[i])
-
+    obj.push_character(s[i])
+    obj.enqueue_character(s[i])
 isPalindrome = True
 
 '''
@@ -44,10 +38,9 @@ Compare both the characters
 '''
 
 for i in range(l // 2):
-    if obj.popCharacter() != obj.dequeueCharacter():
+    if obj.pop_character() != obj.dequeue_character():
         isPalindrome = False
         break
-
 if isPalindrome:
     print("The word, "+s+", is a palindrome.")
 else:

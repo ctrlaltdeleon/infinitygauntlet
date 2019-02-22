@@ -2,12 +2,9 @@
 @author: acfromspace
 """
 
-# Enter your code here. Read input from STDIN. Print output to STDOUT
-
 if __name__ == "__main__":
 
     test_cases = int(input("Number of test cases: "))
-
     for counter in range(test_cases):
         even, odd = "", ""
         string = input("Input the string to divide even and odd indexes by: ")
@@ -18,12 +15,13 @@ if __name__ == "__main__":
                 odd += value
         print(even, odd)
 
-# One liner Python solution
-# for i in range(int(input())): s=input(); print(*["".join(s[::2]),"".join(s[1::2])])
 
 """
-To elaborate, print(even, odd)
-Join to empty string every even number starting with 0
-Join to empty string every odd number starting with 1
-print(*["".join(string[::2]), "".join(string[1::2])])
+Pythonic solution:
+    for i in range(int(input())): s=input(); print(*["".join(s[::2]),"".join(s[1::2])])
+
+To elaborate, print(even, odd):
+Join to empty string every even number starting with 0.
+Join to empty string every odd number starting with 1.
+    print(*["".join(string[::2]), "".join(string[1::2])])
 """

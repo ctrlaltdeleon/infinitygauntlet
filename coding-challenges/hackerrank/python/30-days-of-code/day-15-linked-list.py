@@ -4,15 +4,12 @@
 
 
 class Node:
-
     def __init__(self, data):
-        # creation of the linked list
         self.data = data
         self.next = None
 
 
 class Solution:
-
     def display(self, head):
         current = head
         while current:
@@ -20,29 +17,27 @@ class Solution:
             current = current.next
 
     def insert(self, head, data):
-        # can do "NewNode = Node(data)" and then apply that to the insertion
-        # no head? insert data
+        # Can do "NewNode = Node(data)" and then apply that to the insertion.
+        # No head? Insert data.
         if head is None:
             head = Node(data)
             self.tail = head
-        # insert the data at the end
+        # Insert the data at the end
         else:
             # self.tail.next = self.tail = Node(data)
-            # this goes from right to left in order
+            # This goes from right to left in order.
             node = Node(data)
             self.tail.next = node
             self.tail = node
         return head
 
 
-mylist = Solution()
+list_data = Solution()
 T = int(input("Input number of elements to exist: "))
 head = None
-
 for i in range(T):
     data = int(input("Insert element #%i: " % (i+1)))
-    head = mylist.insert(head, data)
+    head = list_data.insert(head, data)
+list_data.display(head)
 
-mylist.display(head)
-
-# important to note that head(), tail(), next() are built-in functions
+# Important to note that head(), tail(), next() are built-in functions in Python.
