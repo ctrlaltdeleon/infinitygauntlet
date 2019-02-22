@@ -1,9 +1,14 @@
-def isPrime(n):
-    for index in range(2, n):
-        if n % index == 0:
+"""
+@author: acfromspace
+"""
+
+
+def isPrime(number):
+    for index in range(2, number):
+        if number % index == 0:
             return False
     return True
 
 
-n = int(input())
-print(isPrime(n))
+number = int(input("Input a number to check if prime: "))
+print("isPrime():", isPrime(number))

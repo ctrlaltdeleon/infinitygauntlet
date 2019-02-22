@@ -27,32 +27,24 @@ SAMPLE OUTPUT 2:
 """
 
 
-def cellCompete(cells, days):
-
-    for counter in range(days):
+def cell_compete(cells, days):
+    for index in range(days):
         copy_cells = []
-        for counter in range(1, 9):
-            copy_cells.append(cells[counter-1])
-
+        for index in range(1, 9):
+            copy_cells.append(cells[index-1])
         copy_cells.insert(0, 0)
         copy_cells.append(0)
-
-        for counter in range(8):
-            if copy_cells[counter] is copy_cells[counter+2]:
-                cells[counter] = 0
+        for index in range(8):
+            if copy_cells[index] is copy_cells[index+2]:
+                cells[index] = 0
             else:
-                cells[counter] = 1
-
+                cells[index] = 1
     return cells
 
 
-if __name__ == "__main__":
-
-    list1 = [1, 0, 0, 0, 0, 1, 0, 0]
-    list2 = [1, 1, 1, 0, 1, 1, 1, 1]
-
-    cellCompete(list1, 1)
-    cellCompete(list2, 2)
-
-    print(list1)
-    print(list2)
+list1 = [1, 0, 0, 0, 0, 1, 0, 0]
+list2 = [1, 1, 1, 0, 1, 1, 1, 1]
+cell_compete(list1, 1)
+cell_compete(list2, 2)
+print("cell_compete(list1, 1):", list1)
+print("cell_compete(list2, 2):", list2)

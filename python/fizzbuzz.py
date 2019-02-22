@@ -4,7 +4,6 @@
 
 
 class FizzBuzz:
-
     def output(self):
         for i in range(1, 101):
             string = ""
@@ -15,7 +14,5 @@ class FizzBuzz:
             print(i, string)
 
 
-# create object from class solution
-test_object = FizzBuzz()
-
-test_object.output()
+test = FizzBuzz()
+test.output()

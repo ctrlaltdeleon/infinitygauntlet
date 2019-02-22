@@ -38,10 +38,8 @@ int *cell_compete(int *cells, int days)
         {
             data_cells[index] = cells[index - 1];
         }
-
         data_cells[0] = 0;
         data_cells[9] = 0;
-
         for (int index = 0; index < 8; index++)
         {
             cells[index] = data_cells[index] == data_cells[index + 2] ? 0 : 1;
@@ -54,9 +52,7 @@ int main()
 {
     int arr[8] = {1, 1, 1, 0, 1, 1, 1, 1};
     int arr2[8] = {1, 0, 0, 0, 0, 1, 0, 0};
-
     cell_compete(arr2, 1);
-
     for (int index = 0; index < 8; index++)
     {
         cout << arr2[index] << " ";

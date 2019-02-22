@@ -48,7 +48,6 @@ The file should load onto your browser and there you can play!
 WASD/Arrow keys: Movement based on direction
 
 Spacebar: Fire bullets
-
 ```
 
 Game was created with <a href="https://webmakerapp.com/app/" target="_blank">Web Maker.</a>

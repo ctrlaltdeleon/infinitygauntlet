@@ -1,4 +1,8 @@
 """
+@author: acfromspace
+"""
+
+"""
 DESCRIPTION:
 
 A list of numbers are given.
@@ -23,27 +27,20 @@ SAMPLE OUTPUT 2:
 
 
 def gcd(a, b):
-
     while(b):
         a, b = b, a % b
-
     return a
 
 
-def findingGCD(data, size):
-
+def finding_greatest_common_denominator(data, size):
     a = data[0]
     b = data[1]
     result = gcd(a, b)
-
-    for counter in range(2, size):
-        result = gcd(result, data[counter])
-
+    for index in range(2, size):
+        result = gcd(result, data[index])
     return result
 
 
-if __name__ == "__main__":
-
-    list1 = [4, 8, 16, 32]
-
-    print(findingGCD(list1, len(list1)))
+list1 = [4, 8, 16, 32]
+print("finding_greatest_common_denominator():",
+      finding_greatest_common_denominator(list1, len(list1)))

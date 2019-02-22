@@ -5,7 +5,7 @@ const initState = {
   posts: []
 };
 
-function myreducer(state = initState, action) {
+function myReducer(state = initState, action) {
   if (action.type == "ADD_TODO") {
     return {
       ...state,

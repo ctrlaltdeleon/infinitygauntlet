@@ -49,6 +49,6 @@ int main()
 {
     int arr[] = {2, 3, 5, 6, 10, 15, 30};
     int len = sizeof(arr) / sizeof(arr[0]);
-    cout << finding_greatest_common_denominator(arr, len) << endl;
+    cout << "finding_greatest_common_denominator(): " << finding_greatest_common_denominator(arr, len) << endl;
     return 0;
 }

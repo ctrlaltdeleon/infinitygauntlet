@@ -5,7 +5,6 @@ class Solution:
             print(i)
 
 
-# create object from class solution
 test_object = Solution()
 
 number = 10
