@@ -10,6 +10,9 @@
   - Protected can be used to make the variable/function available in all classes that extend the current class including the parent class.
 - "What is an XOR?"
   - If both values are equal, return 0, if not, return 1.
+- "What is an interface?"
+  - An interface is a programming structure/syntax that allows the computer to enforce certain properties on an object (class).
+  - For example a vehicle interface has a `start_engine()` method in which classes car, truck, and motorcycle share.
 - "Overriding vs Overloading?"
   - Overriding is when two methods are the same name and parameters, but one is the parent class and the other is the child class.
   - Overloading is when two methods are the same name and same class, but different parameters.

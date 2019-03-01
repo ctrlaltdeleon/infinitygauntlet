@@ -1,7 +1,10 @@
 # JAVA FOR DUMMIES
 
-LINK: N/A
+LINK: https://users.drew.edu/bburd/JavaForDummies/
 
 ## Chapters
 
-1.
+1. All about Java
+2. All about Software
+3. Using the Basic Building Blocks
+4. Making the Most of Variables and Their Values
