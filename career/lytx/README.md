@@ -7,6 +7,7 @@
 
 ## Round 2 (Hackerrank Coding Assessment)
 
+- 1 hour.
 - 2 easy, 1 hard. (respectively)
 
 1. **Verify Items.** Given four different arrays, determine the differences between two arrays to the other two arrays and increment a counter based on criteria.
