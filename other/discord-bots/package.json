@@ -1,0 +1,14 @@
+{
+  "name": "luna",
+  "version": "0.0.1",
+  "description": "First version of \"luna\" bot",
+  "main": "luna.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AC De Leon",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.0"
+  }
+}
