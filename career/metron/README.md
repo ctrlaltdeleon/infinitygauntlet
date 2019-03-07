@@ -17,7 +17,7 @@
   - Overriding is when two methods are the same name and parameters, but one is the parent class and the other is the child class.
   - Overloading is when two methods are the same name and same class, but different parameters.
 - "What does "static" mean in Java?"
-  - Static allows the access of a method
+  - Static allows the access of a method publicly.
 - "Difference between a method and function?"
   - A method is used exclusively in object-oriented programming.
   - A function is used to take input to give output.

@@ -38,15 +38,13 @@
 - **Diversity.** I give everything a chance and share my learnings with everyone.
 - **Aesthetic.** I just like the way the things look and this is heavily influence by retro, vaporwave, and lo-fi.
 
-## <span role="img" aria-label="Musical Note">🎵</span> Music I zone to! (Thanks Spotify)
+## <span role="img" aria-label="Musical Note">🎵</span> Music I zone to!
 
 <p align="center">
   <img src="./images/doggo.gif">
 </p>
 
-- [Feel Better](https://open.spotify.com/user/1252712964/playlist/1su6mhUPJxkVvwhmBAwpPj?si=QCDAH46XRmuKgT52NRQpxQ)
-- [Tender Vibes](https://open.spotify.com/user/1252712964/playlist/0XVxReRFFUe7Z5DFYPdOSU?si=wT4rC7BcRmq-SX41WupN8Q)
-- [Video Game](https://open.spotify.com/user/1252712964/playlist/5Awrm6Qg5ixDMxW7vQCn9o?si=L3srrHAeQuy3xfpXEOazzg)
+- [I made a website with those playlists, curated from Soundcloud, Spotify, and YouTube.](https://mindstone.netlify.com/)
 
 ## <span role="img" aria-label="Thinking Face">🤔</span> What's inside?
 
