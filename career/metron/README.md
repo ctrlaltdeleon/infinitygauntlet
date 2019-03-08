@@ -50,4 +50,4 @@ function fizzbuzz(number):
 
 ## Round 2 (Onsite Interview)
 
-- TBD.
+- Did not make it.
