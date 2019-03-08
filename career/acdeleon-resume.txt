@@ -3,7 +3,7 @@ COMPUTER SCIENCE GRADUATE
 
 Email: aadeleon@sdsu.edu 
 Website: https://spacestone.netlify.com 
-Location: San Francisco, CA
+Location: San Diego, CA
 Twitter: @acfromspace 
 LinkedIn: @acfromspace 
 Github: @acfromspace
@@ -13,7 +13,6 @@ EDUCATION
 San Diego State University
 B.S. Computer Science
 Class of August 2018, GPA 3.3
-Co-founded SDSU's Game Development Club: Aztec Game Lab
 College of Sciences Dean's List
 
 SKILLS
@@ -21,7 +20,7 @@ SKILLS
 PROGRAMMING LANGUAGES: JavaScript, Python, C#, C, C++, Java, TypeScript 
 WEB TECHNOLOGIES: React.js, Node.js, Redux, Gatsby.js, Apollo, GraphQL, Git, HTML, CSS 
 CREATIVE SOFTWARE ENGINES: Photoshop, Illustrator, Premiere, Lightroom, Unity, Unreal 
-DATABASES: Firebase, Firestore, NoSQL, SQL 
+DATABASES: Firebase, Firestore, MongoDB, SQL 
 
 EXPERIENCE
 
@@ -64,19 +63,14 @@ https://github.com/acfromspace/weatherchecker
 (React.js + Open Weather API + Bootstrap + Netlify) 
 Developed an application to show current weather information dependent on the location given by the user. 
 
-Learning Library Application 
 
-https://github.com/acfromspace/infinitygauntlet 
-Curated all my learnings which include coding challenges and tutorials, delving into new technologies, and experimenting with APIs in order to extend information to colleagues for reference and for future projects.
-
-Puzzle Game Application
-
-https://github.com/acfromspace/sirtet
-(Unity + C# + Photoshop)
-Developed a puzzle game with unique camera mechanics to enhance gameplay for the user.
-
-Multiplayer Battle Arena Game Application
+"Rick and Morty" Multiplayer Battle Arena Game Application
 
 https://github.com/acfromspace/knucklesbattle
 (Unity + C# + Photoshop)
 Developed a battle game with a team using networking capabilities, procedural generation, and artificial intelligence behaviors.
+
+Learning Library Application 
+
+https://github.com/acfromspace/infinitygauntlet 
+Curated all my learnings which include coding challenges and tutorials, delving into new technologies, and experimenting with APIs in order to extend information to colleagues for reference and for future projects.
