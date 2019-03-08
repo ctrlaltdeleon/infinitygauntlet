@@ -1,9 +1,9 @@
 AC DE LEON
-SOFTWARE ENGINEER
+COMPUTER SCIENCE GRADUATE
 
 Email: aadeleon@sdsu.edu 
 Website: https://spacestone.netlify.com 
-Location: San Diego, CA
+Location: San Francisco, CA
 Twitter: @acfromspace 
 LinkedIn: @acfromspace 
 Github: @acfromspace
@@ -16,41 +16,67 @@ Class of August 2018, GPA 3.3
 Co-founded SDSU's Game Development Club: Aztec Game Lab
 College of Sciences Dean's List
 
+SKILLS
+
+PROGRAMMING LANGUAGES: JavaScript, Python, C#, C, C++, Java, TypeScript 
+WEB TECHNOLOGIES: React.js, Node.js, Redux, Gatsby.js, Apollo, GraphQL, Git, HTML, CSS 
+CREATIVE SOFTWARE ENGINES: Photoshop, Illustrator, Premiere, Lightroom, Unity, Unreal 
+DATABASES: Firebase, Firestore, NoSQL, SQL 
+
 EXPERIENCE
 
-Aztec Game Lab · San Diego, CA 2017 - 2018
-Software Engineer
+San Diego State University · San Diego, CA 2018 - Current 
+Computer Science Mentor 
 
-Administered game development hackathons with 30+ participants in order to cultivate development and collaborations within the community and sponsors
-Fabricated a full-stack web application using modern technologies to engage with the community
-Facilitated intricate workshops and presentations about the video game industry and technical development
+Coordinated weekly meetings with 10+ students to mentor in data structures, algorithms, academic path, and mock interviews to promote productivity and learning. 
+Successfully analyzed and debugged code written across varying backgrounds (Python, Java, C++, React.js) and provided feedback. 
 
-Freelance · San Diego, CA 2015 - Current
-Software Engineer
+Aztec Game Lab · San Diego, CA 2017 - 2018 
+Front-End Developer 
 
-Produced easy to understand tutorials and presentations in various formats to consider learning styles
-Constructed a multitude of projects in order to try different emerging technologies and share my new research in the form of web applications to video game applications
-Taken the initiative to reach out to potential clients to offer my software development services and insight to launch satisfactory finished products
+https://github.com/AztecGameLab 
+(React.js + Node.js + Redux + Firebase + Firestore) 
+Contributed to design and source code to a full-stack web application using modern technologies to engage with the community. 
+Administered and participated in game development hackathons with 30+ participants in order to cultivate development and collaborations within the community. 
+Facilitated intricate workshops and presentations about the video game industry, product and game design, and the technical development process. 
+Practiced Agile and Scrum in 1 week sprints with other developers.
 
 PROJECTS
 
-Aztec Game Lab Social Hub 2018 - Current
-(React.js + Node.js + Redux + Firebase + Google Cloud Platform)
+React.js Hackathon Reactathon 
 
-Revitalized the idea to generate community interaction between eager students and prospective companies resulting in connections with Playstation, Psyonix, and VIVE
-Engineered a full-stack application website hosting hackathons, chat rooms, and game listings for 160+ users
-Agile/Scrum development process with 1 week sprints with 6 team members in total
+https://github.com/AztecGameLab/Meme-Brulee-Reactathon-2018 
+(React.js + Node.js + Redux + TokBox + Netlify) 
+Pioneered a live-streaming web application that won Top 6 Projects at Github HQ. 
+Won Creativity Award for best use of Netlify functions and services. 
+Programmed core application logic to play quick games, fetch API constructed images, and generate new posts. 
+Utilized emoji sentiment feature with Microsoft Cognitive Services machine learning to analyze players' facial expressions.
 
-React.js Hackathon Reactathon 2018
-(React.js + Node.js + Redux + TokBox + Netlify)
+DJ Soundboard Application 
 
-Pioneered a live-streaming web application that won Top 6 Projects at Github HQ
-Won Creativity Award for best use of Netlify functions and services
-Programmed core application logic to play quick games, fetch API constructed images, and generate new posts
-Utilized emoji sentiment feature with Microsoft Cognitive Services machine learning to analyze players' facial expressions
+https://thisismybeet.netlify.com 
+(JavaScript + HTML + CSS + Netlify) 
+Developed an input functional soundboard to have responsive design across desktop and native platforms. 
 
-SKILLS
+Weather Application 
 
-PROGRAMMING LANGUAGES: JavaScript, Python, C#, C/C++, Java, HTML, CSS
-WEB TECHNOLOGIES: React.js, Node.js, Redux, Firebase, SQL, Gatsby.js
-CREATIVE SOFTWARE ENGINES: Photoshop, Illustrator, Premiere, Lightroom, Unity, Unreal
+https://github.com/acfromspace/weatherchecker 
+(React.js + Open Weather API + Bootstrap + Netlify) 
+Developed an application to show current weather information dependent on the location given by the user. 
+
+Learning Library Application 
+
+https://github.com/acfromspace/infinitygauntlet 
+Curated all my learnings which include coding challenges and tutorials, delving into new technologies, and experimenting with APIs in order to extend information to colleagues for reference and for future projects.
+
+Puzzle Game Application
+
+https://github.com/acfromspace/sirtet
+(Unity + C# + Photoshop)
+Developed a puzzle game with unique camera mechanics to enhance gameplay for the user.
+
+Multiplayer Battle Arena Game Application
+
+https://github.com/acfromspace/knucklesbattle
+(Unity + C# + Photoshop)
+Developed a battle game with a team using networking capabilities, procedural generation, and artificial intelligence behaviors.
