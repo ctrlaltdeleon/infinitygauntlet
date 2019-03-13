@@ -15,3 +15,8 @@ Notes:
   - Noisy
   - Inaccurate
   - Arbitrary
+- Good interviewers are generous.
+- Good questions are like onions.
+  - Iteration on the same problem instead of multiple unrelated questions.
+- More signal; less noise.
+  - When the interviewee knows what they're getting into, the data becomes more reliable across candidates.
