@@ -44,7 +44,7 @@ The file should load onto your browser and there you can play!
 
 **Controls:**
 
-```txt
+```
 WASD/Arrow keys: Movement based on direction
 
 Spacebar: Fire bullets
