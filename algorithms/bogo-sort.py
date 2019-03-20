@@ -1,31 +1,30 @@
-
+"""
+@author: acfromspace
+"""
 
 import random
 import time
 
 
-def inorder(x):
-    i = 0
-    j = len(x)
-    while i + 1 < j:
-        if x[i] > x[i + 1]:
+def inorder(data):
+    for index in range(len(data)-1):
+        if data[index] > data[index + 1]:
             return False
-        i += 1
     return True
 
 
-def bogo(x):
-    while not inorder(x):
-        random.shuffle(x)
-    return x
+def bogo(data):
+    while not inorder(data):
+        random.shuffle(data)
+    return data
 
 
 random.seed()
-x = []
+data = []
 for i in range(0, 10):
-    x.append(random.randrange(0, 100))
+    data.append(random.randrange(0, 100))
 start = time.time()
-print("Before: ", x)
-x = bogo(x)
-print("After: ", x)
-print("%.2f seconds" % (time.time() - start))
+print("Before: ", data)
+data = bogo(data)
+print("After: ", data)
+print("Sort took %.2f seconds" % (time.time() - start))
