@@ -128,4 +128,27 @@ def fib(n):
 - Notice the return statement as it creates recursive calls.
 - O(2^N) due to it being a single vs double call that multiplies.
 
+```py
+def allFib(n):
+    for index in range(n):
+        print(index+1, ":", fib(index))
+
+
+def fib(n):
+    if (n <= 0):
+        return 0
+    if (n == 1):
+        return 1
+    return fib(n-1) + fib(n-2)
+```
+
+- People mistake this as O(N2^N).
+- This is actually O(2^N+1) because N does change.
+
+```py
+memoization
+```
+
+- This technique is called "memoization" which is useful for recursive functions.
+
 #### BOOKMARK PAGE 64
