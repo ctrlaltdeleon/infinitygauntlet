@@ -1,9 +1,9 @@
 const mongoose = require("mongoose");
 
-// Connect to mongodb
+// connect to mongodb
 mongoose.connect("mongodb://localhost/testaroo");
 
-// To use:
+// to use:
 // node connection.js
 mongoose.connection
   .once("open", function() {
