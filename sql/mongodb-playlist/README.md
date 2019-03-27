@@ -11,3 +11,7 @@ LINK: [Bookmark](https://www.youtube.com/watch?v=fUT4z1eQ6kM&list=PL4cUxeGkcC9jp
 5. Intro to Mocha Testing
 6. Saving Data to MongoDB
 7. Using ES6 Promises
+
+## Prereqs
+
+1. Have MongoDB installed, `package.json` will do the rest with `npm install`.
