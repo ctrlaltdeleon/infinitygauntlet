@@ -50,6 +50,6 @@ function fizzbuzz(number):
 - "Why do you like Software Engineering?"
   - I love finding solutions upon existing solutions. I love contributing to a technological world where it's constantly evolving. At the very essence, being on the frontier of discovery is what makes me love Software Engineering.
 
-## Round 2 (Onsite Interview)
+## Round 2 (On-site Interview)
 
 - Did not make it.
