@@ -34,16 +34,16 @@
 ### Fluids
 
 - Gas tank
-  - 13.2 gal (50 L)
+  - 13.2 gal (50 L) (1690 fluid ounces ~)
 - Engine oil
   - Oil pan
-    - 3.7 qt (3.5 L)
+    - 3.7 qt (3.5 L) (118 fluid ounces ~)
   - Oil filter
-    - 0.32 qt (0.3 L)
+    - 0.32 qt (0.3 L) (10 fluid ounces ~)
   - Engine oils should be ILSAC certified or conforming to API classification SL, SL/CF
-- Powering steering fluid
+- Powering steering
   - 1.1 qt (1.0 L) (32 fluid ounces ~)
-- Automatic transaxle
+- Automatic transmission
   - 8.1 qt (7.7 L) (260 fluid ounces ~)
   - DIAMOND ATF SP III
 - Brake and clutch
@@ -55,4 +55,4 @@
     - 7.0 qt (6.7 L) (222 fluid ounces ~) in total
   - Long life antifreeze coolant
 - Windshield washer fluid
-  - 4.4 qt (4.2 L)
+  - 4.4 qt (4.2 L) (142 fluid ounces ~)

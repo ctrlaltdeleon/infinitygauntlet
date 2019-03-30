@@ -97,9 +97,10 @@ Brake/Clutch fluid:
   - Fill with new fluid.
   - Seal tight!
 - Pay attention to either DOT3 or DOT4 fluids being required.
-- Pay attention to the color of the fluid as well, darker means more caution to change.
+- Pay attention to the color of the fluid as well, darker means more caution to change, but isn't a binary situation.
 - This type of fluid is hydroscopic which means it absorbs water which we don't want.
-- There are hydroscopic testers which test the amount of water inside the container.
+- **There are hydroscopic testers which test the amount of water inside the container.**
+  - When the fluid exceeds the copper limit or moisture limit, you change it.
 
 Engine oil:
 
