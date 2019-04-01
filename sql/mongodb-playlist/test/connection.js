@@ -19,3 +19,12 @@ before(function(done) {
       console.log("Connection error!", error);
     });
 });
+
+// drop the collections before each test
+beforeEach(function(done) {
+  // drop the collection
+  // asynchronous request
+  mongoose.connection.collections.mariochars.drop(function() {
+    done();
+  });
+});

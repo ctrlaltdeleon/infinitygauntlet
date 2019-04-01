@@ -1,6 +1,6 @@
 # mongodb-playlist
 
-LINK: [Bookmark](https://www.youtube.com/watch?v=fUT4z1eQ6kM&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u&index=9)
+LINK: [Bookmark](https://www.youtube.com/watch?v=fUT4z1eQ6kM&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u&index=10)
 
 ## Chapters
 
@@ -13,6 +13,7 @@ LINK: [Bookmark](https://www.youtube.com/watch?v=fUT4z1eQ6kM&list=PL4cUxeGkcC9jp
 7. Using ES6 Promises
 8. Robomongo
 9. Dropping a Collection
+10. Finding & Reading Data
 
 ## Prereqs
 
