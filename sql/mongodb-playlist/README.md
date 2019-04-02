@@ -19,3 +19,11 @@ LINK: [Bookmark](https://www.youtube.com/watch?v=fUT4z1eQ6kM&list=PL4cUxeGkcC9jp
 
 1. Have MongoDB installed, `package.json` will do the rest with `npm install`.
 2. Have Robomongo installed (renamed to Robo 3T).
+
+## Lessons Learned
+
+1. Make a connection to MongoDB using mongoose
+2. Set up a simple test environment with Mocha
+3. Create a model and Schema
+4. Create an instance of a model (a single record) and save it to the database
+5. Drop a collection from the database
