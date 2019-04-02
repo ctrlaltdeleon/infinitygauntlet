@@ -24,6 +24,7 @@ before(function(done) {
 beforeEach(function(done) {
   // drop the collection
   // asynchronous request
+  // mariochars is a connected function from "mariochar.js" but plural w/ an "s"
   mongoose.connection.collections.mariochars.drop(function() {
     done();
   });
