@@ -4,13 +4,13 @@
 
 
 def populateArray(col, row):
-    coolSquare = []
+    square = []
     for colNum in range(col):
-        coolSquare.append([])
+        square.append([])
         for rowNum in range(row):
-            nice = str(colNum) + "," + str(rowNum)
-            coolSquare[colNum].append(nice)
-    return coolSquare
+            coordinates = str(colNum) + "," + str(rowNum)
+            square[colNum].append(coordinates)
+    return square
 
 
 col = 4
