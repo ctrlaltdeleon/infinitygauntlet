@@ -19,3 +19,25 @@ before(function(done) {
       console.log("Connection error!", error);
     });
 });
+
+// drop the collections before each test
+beforeEach(function(done) {
+  // drop the collection
+  // asynchronous request
+  // mariochars is a connected function from "mariochar.js" but plural w/ an "s"
+  mongoose.connection.collections.mariochars.drop(function() {
+    done();
+  });
+});
+
+  // to use:
+  // node connection.js
+  mongoose.connection
+    .once("open", function() {
+      console.log("Connection to database successful.");
+      done();
+    })
+    .on("error", function(error) {
+      console.log("Connection error!", error);
+    });
+});

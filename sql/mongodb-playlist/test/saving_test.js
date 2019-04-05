@@ -6,6 +6,7 @@ const MarioChar = require("../models/mariochar");
 describe("describe: saving records...", function() {
   // create tests
   it("saves a record to the database", function(done) {
+    // note that this will keep creating unique ids every "npm run test"
     var char = new MarioChar({
       name: "Bowser",
     });

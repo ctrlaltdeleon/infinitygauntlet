@@ -13,6 +13,8 @@
 - 3 hours, breaks in between.
 - 120 minutes for work simulation. (Videos, Decisions)
 - 70 minutes for coding. (Java, Python, C#, C++)
+  1. **Literature Text.** Given a list of words and excluded words, find the most common words without the excluded words.
+  2. **Nearest Crates.** Given a list of coordinates (list of lists), find the nearest crates depending on capacity.
 - Interview survey on the application process.
 
 ## Round 3 (Phone Interview)
