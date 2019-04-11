@@ -66,14 +66,6 @@ Notes:
   - React's Future!
   - Loading data and caching.
 
-```
-export const getUser = async () => {
-    const response = await fetch(%URL%);
-    const results = {hello = await response.json()};
-    load data;
-}
-```
-
 Todo:
 
 - Let's do a talk!
