@@ -15,6 +15,7 @@
 * [Data Structures](data-structures/README.md)
 * [Info Sessions](info-sessions/README.md)
 * [Journal](journal/README.md)
+  * [2019](journal/journal-2019.md)
 * [Life](life/README.md)
   * [Car](life/car.md)
 * [Lightning Talks](lightning-talks/README.md)
