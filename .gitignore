@@ -1,2 +1,8 @@
-.vscode
+# Gitbook serve.
 _book
+
+# Visual studio code settings.
+.vscode
+
+# Classified.
+SCP_001
