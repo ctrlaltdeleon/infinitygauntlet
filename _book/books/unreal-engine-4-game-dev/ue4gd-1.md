@@ -1,0 +1,54 @@
+# UNREAL ENGINE 4 GAME DEVELOPMENT IN 24 HOURS
+
+## 1: Introducing Unreal Engine 4
+
+- Install the Unreal launcher made by Epic Games then...
+  - Open the Launcher and click the Library link.
+  - Go to the Unreal Engine version section and click "add version".
+  - Go to the newly created version slot, click the drop-down arrow, select desired version.
+  - Click "install".
+- Create a project!
+  - In the Launcher click "launch".
+  - Select the "new project" tab.
+  - Select the "blueprint" tab.
+  - Choose the "1st person" template.
+  - Select "desktop/console" for target hardware.
+  - Pick "scalable 3d or 2d" for target graphics quality.
+  - Select "with starter content".
+  - Pick a location to store the workspace.
+  - Give the project a name.
+  - Click "create project".
+- The Editors main interface has 7 key panels:
+  - Menu bar!
+    - Consists of "file, edit, window, and help" menus.
+    - Project management options will be here as well as editor settings.
+  - Modes panel!
+    - Various editing modes of the level editor.
+    - The term "actor" refers to any asset that has been placed in a level.
+    - Place mode:
+      - Places actors in a scene.
+    - Paint mode:
+      - Painting vertex color data on static mesh actors.
+    - Landscape mode:
+      - For editing landscape terrain actors.
+    - Foliage mode:
+      - Painting instanced foliage actors in a level.
+    - Geometry Editing mode:
+      - Editing BSP brush actors on the vertex edge face level.
+  - World Outliner panel!
+    - Displays all actors in the current level in a hierarchical tree view.
+  - Details panel!
+    - Will be used the most!
+    - Displays all editable properties for whichever actor is selected.
+  - Content Browser panel!
+    - Asset manager.
+  - Level Editor toolbar!
+    - Quick access to commonly used tools and operations.
+  - Viewport panel!
+    - Visual representation of what the game will look like!
+    - Perspective:
+      - 3d
+    - Orthographic:
+      - 2d
+    - Different light settings are available.
+    - Get comfortable with moving around the viewport.
