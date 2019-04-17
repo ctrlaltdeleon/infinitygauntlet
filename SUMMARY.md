@@ -14,6 +14,7 @@
 * [Coding Challenges](coding-challenges/README.md)
 * [Data Structures](data-structures/README.md)
 * [Info Sessions](info-sessions/README.md)
+* [Journal](journal/README.md)
 * [Life](life/README.md)
   * [Car](life/car.md)
 * [Lightning Talks](lightning-talks/README.md)
