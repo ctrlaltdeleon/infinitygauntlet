@@ -2,7 +2,7 @@
 
 - N/A
 
-# April 17, 2019
+# April 17 2019
 
 - Updated creddle.io resume.
   - Updated skills to go from "advanced, proficient, exploring" rather than placed by "programming languages, web technologies, creative software engines, databases".
@@ -14,7 +14,7 @@
 - Messaged the General Assembly group of LA about future hackathons.
   - Feels nice to have a community dev spot for me in LA!
 
-# April 16, 2019
+# April 16 2019
 
 - Created a Gitbook for the repository of `infinitygauntlet`.
   - Gitbook is a hosting platform to showcase markdown files in a repository. Great for making books.
