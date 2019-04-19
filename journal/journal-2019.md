@@ -2,6 +2,33 @@
 
 - N/A
 
+# April 18, 2019
+
+- Went over `ReactJS` technicalities.
+- Instead of writing `.bind(this)` to every method that exists...
+
+```js
+constructor(props){
+  super(props);
+  this.handleClick = this.handleClick.bind(this);
+}
+
+handleClick(event){
+  // do stuff!
+}
+```
+
+- We can instead use lexical scope.
+  - Lexical scope is where a variable can be referenced within the scope that it is defined in.
+
+```js
+handleClick = event => {
+  // do stuff!
+};
+```
+
+- With `Context` and `Hooks` available for `ReactJS` now, `Redux` may be a thing in the past.
+
 # April 17 2019
 
 - Updated creddle.io resume.
