@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](GITBOOK-README.md)
+* [README.md](README.md)
 * [Algorithms](algorithms/README.md)
 * [Books](books/README.md)
   * [Cracking the Coding Interview](books/cracking-the-code-interview-6th/README.md)
