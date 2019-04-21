@@ -1,6 +1,15 @@
-# Month Day, Year
+# April 20, 2019
 
-- N/A
+- Helped my father out with gardening.
+  - Learned that to prevent weeds, need a black tapestry over the dirt, but surrounding the wanted potted plants.
+- Did photography for grad pics!
+  - When popping the champagne, pre-pop it already without shaking and place a finger on the top.
+  - When ready to take the photo, shake the bottle and unleash the power!
+
+# April 19, 2019
+
+- Did photography for APSA SDSU's FTS!
+  - Took into account for shutter speed and ISO for dance performances (1/400, 400 ISO).
 
 # April 18, 2019
 

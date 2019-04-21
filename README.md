@@ -12,7 +12,7 @@
 </h3>
 <p align="center">
   <strong>Personal weapon that contains my workflow.</strong><br>
-  Books, coding jit jots, information sessions, & music playlists.
+  Books, coding jit jots, information sessions, music playlists, & more.
 </p>
 
 <!-- INFORMATION (Shields:IO) -->
