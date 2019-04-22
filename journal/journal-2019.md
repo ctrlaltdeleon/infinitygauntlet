@@ -1,3 +1,9 @@
+# April 21, 2019
+
+- Changed the catalytic converter in my car.
+  - Process took a while due to clearance, but that's what the WD-40 is there for.
+- Game of Thrones, Season 8, Episode 2!
+
 # April 20, 2019
 
 - Helped my father out with gardening.
