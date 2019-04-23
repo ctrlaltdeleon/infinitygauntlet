@@ -1,3 +1,6 @@
+# BOGO-SORT.PY
+
+```py
 """
 @author: acfromspace
 """
@@ -36,3 +39,4 @@ Before:  [66, 79, 79, 69, 64, 26, 74, 44, 74, 52]
 After:  [26, 44, 52, 64, 66, 69, 74, 74, 79, 79]
 Sort took 8.07 seconds
 """
+```

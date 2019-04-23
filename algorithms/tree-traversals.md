@@ -1,3 +1,6 @@
+# TREE-TRAVERSALS.PY
+
+```py
 """
 @author: acfromspace
 """
@@ -76,3 +79,4 @@ Postorder traversal of binary tree is:
 3
 1
 """
+```

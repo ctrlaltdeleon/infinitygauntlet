@@ -2,6 +2,9 @@
 
 * [README.md](README.md)
 * [Algorithms](algorithms/README.md)
+  * [Bogosort](algorithms/bogo-sort.md)
+  * [Bubblesort](algorithms/bubble-sort.md)
+  * [Tree Traversals](algorithms/tree-traversals.md)
 * [Books](books/README.md)
   * [Cracking the Coding Interview](books/cracking-the-code-interview-6th/README.md)
     * [Chapter 1](books/cracking-the-code-interview-6th/ctci-1.md)
