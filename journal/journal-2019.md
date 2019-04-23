@@ -1,3 +1,7 @@
+# April 22, 2019
+
+- N/A
+
 # April 21, 2019
 
 - Changed the catalytic converter in my car.
@@ -10,7 +14,8 @@
   - Learned that to prevent weeds, need a black tapestry over the dirt, but surrounding the wanted potted plants.
 - Did photography for grad pics!
   - When popping the champagne, pre-pop it already without shaking and place a finger on the top.
-  - When ready to take the photo, shake the bottle and unleash the power!
+  - When ready to take the photo, shake the bottle, and unleash the power!
+  - Always clean after yourself.
 
 # April 19, 2019
 
