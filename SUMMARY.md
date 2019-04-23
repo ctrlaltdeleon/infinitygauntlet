@@ -1,6 +1,6 @@
 # Summary
 
-* [README.md](GITBOOK-README.md)
+* [README.md](README.md)
 * [Algorithms](algorithms/README.md)
   * [Bogosort](algorithms/bogo-sort.md)
   * [Bubblesort](algorithms/bubble-sort.md)
