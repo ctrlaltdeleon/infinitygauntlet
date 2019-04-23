@@ -1,9 +1,9 @@
 <!-- HEADING -->
 
-<!-- <p align="center">
+<p align="center">
   <img src="./other/images/avatar.png" width="60">
 </p>
-<h1 align="center">️infinitygauntlet</h1> -->
+<h1 align="center">️infinitygauntlet</h1>
 
 <!-- DESCRIPTION -->
 
