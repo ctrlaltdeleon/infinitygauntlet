@@ -2,13 +2,13 @@
 
 <!-- <p align="center">
   <img src="./other/images/avatar.png" width="60">
-</p> -->
-<h1 align="center">️infinitygauntlet</h1>
+</p>
+<h1 align="center">️infinitygauntlet</h1> -->
 
 <!-- DESCRIPTION -->
 
 <h3 align="center">
-  <span role="img" aria-label="Sparkles">✨</span>
+  <span role="img" aria-label="Sparkles">✨ infinitygauntlet</span>
 </h3>
 <p align="center">
   <strong>Personal weapon that contains my workflow.</strong><br>
