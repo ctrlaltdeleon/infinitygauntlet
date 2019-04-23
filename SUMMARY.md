@@ -1,6 +1,6 @@
 # Summary
 
-* [README.md](README.md)
+* [README.md](GITBOOK-README.md)
 * [Algorithms](algorithms/README.md)
   * [Bogosort](algorithms/bogo-sort.md)
   * [Bubblesort](algorithms/bubble-sort.md)
@@ -33,6 +33,13 @@
   * [Unreal Engine 4 Game Development in 24 Hours](books/unreal-engine-4-game-dev/README.md)
     * [Unreal Engine 4 Game Development in 24 Hours](books/unreal-engine-4-game-dev/ue4gd-1.md)
 * [Career](career/README.md)
+  * [Amazon](career/amazon/README.md)
+  * [Black Mountain](career/black-mountain/README.md)
+  * [Hovercam](career/hovercam/README.md)
+  * [Lytx](career/lytx/README.md)
+  * [Metron](career/Metron/README.md)
+  * [Microsoft](career/microsoft/README.md)
+  * [Wrapify](career/wrapify/README.md)
 * [Coding Challenges](coding-challenges/README.md)
 * [Data Structures](data-structures/README.md)
 * [Info Sessions](info-sessions/README.md)

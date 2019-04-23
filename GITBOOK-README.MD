@@ -1,8 +1,5 @@
 <!-- HEADING -->
 
-<p align="center">
-  <img src="./other/images/avatar.png" width="60">
-</p>
 <h1 align="center">️infinitygauntlet</h1>
 
 <!-- DESCRIPTION -->
@@ -50,6 +47,6 @@
 
 【﻿ Ｃｏｎｓｔａｎｔ　ｕｐｄａｔｅｄ　ｒｅｆｉｎｅｄ　ｃｈａｏｓ！】 (ピザが大好き)
 
-## <span role="img" aria-label="Oncoming Police Car">🚔</span> [License](LICENSE)
+## <span role="img" aria-label="Oncoming Police Car">🚔</span> [License](https://github.com/acfromspace/infinitygauntlet/blob/master/LICENSE)
 
 The code in this project is under a specific open source license.

@@ -20,7 +20,7 @@ https://devskiller.com/coding-tests-skill/react/
 	<script type="text/babel">
 
 class CountDown extends React.Component {
-  // State? Does it re-render? Does it have any pieces thart move or change?
+  // State? Does it re-render? Does it have any pieces that move or change?
   // Life cycle methods? Do I need to make an API call? Does this need data?
   // Render function?
   // Class Methods? Do I need a handler? onClick? onHover?

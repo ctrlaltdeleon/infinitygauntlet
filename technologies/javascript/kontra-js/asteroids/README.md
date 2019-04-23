@@ -1,7 +1,7 @@
 <!-- HEADING -->
 
 <p align="center">
-  <img src="../../../images/avatar.png" width="60">
+  <img src="../../../../other/images/avatar.png" width="60">
 </p>
 <h1 align="center">️
   asteroids
