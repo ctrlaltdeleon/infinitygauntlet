@@ -2,6 +2,8 @@
 @author: acfromspace
 """
 
+# Inorder, postorder, preorder.
+
 
 class Node:
     def __init__(self, key):

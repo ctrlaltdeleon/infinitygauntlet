@@ -2,7 +2,7 @@
 
 ## 3: Special Situations
 
-### Testers and SDETs (software design engineers in test):
+### Testers and SDETs (software design engineers in test)
 
 - Prepare the Core Testing Problems:
   - How would you test a light bulb?
@@ -18,7 +18,7 @@
 - Note:
   - SDET position is easier than most, but a job to be stuck in.
 
-### Product (and Program) Management:
+### Product (and Program) Management
 
 - Handling Ambiguity:
   - They want to see you not get overwhelmed and stall.
@@ -41,7 +41,7 @@
 - Note:
   - Vary wildly across companies and even within a company.
 
-### Dev Lead and Managers:
+### Dev Lead and Managers
 
 - Teamwork/Leadership:
   - Explicit evaluation:
@@ -59,12 +59,12 @@
 - Note:
   - Strong coding skills are almost always required.
 
-### Startups:
+### Startups
 
 - Can be acquired by bigger companies.
 - Interview process for this determines fate of company and workers.
 
-### Interviewers:
+### Interviewers
 
 - Don't copy paste questions.
 - Ask medium and hard problems to vary the performance cluster.

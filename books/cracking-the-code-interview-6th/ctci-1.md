@@ -2,30 +2,30 @@
 
 ## 1: The Interview Process
 
-### Analytical skills:
+### Analytical skills
 
 - Did you need much help solving the problem?
 - How optimal was your solution?
 - How long did it take you to arrive at a solution?
 - If you had to design/architect a new solution, did you structure the problem well and think through the tradeoffs of different decisions?
 
-### Coding skills:
+### Coding skills
 
 - Were you able to successfully translate your algorithm to reasonable code
 - Was it clean and well-organized? Did you think about potential errors?
 - Did you use good style?
 
-### Technical knowledge/Computer Science fundamentals:
+### Technical knowledge/Computer Science fundamentals
 
 - Do you have a strong foundation in computer science and the relevant technologies?
 
-### Experience:
+### Experience
 
 - Have you made good technical decisions in the past?
 - Have you built interesting, challenging projects?
 - Have you shown drive, initiative, and other important factors?
 
-### Culture fit/Communication skills:
+### Culture fit/Communication skills
 
 - Do your personality and values fit with the company and team?
 - Did you communicate well with your interviewer?
