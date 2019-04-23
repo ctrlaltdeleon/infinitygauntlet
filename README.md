@@ -7,9 +7,12 @@
 
 <!-- DESCRIPTION -->
 
-<h3 align="center">
-  <span role="img" aria-label="Sparkles">✨ infinitygauntlet</span>
-</h3>
+<!-- <h3 align="center">
+  <span role="img" aria-label="Sparkles">✨</span>
+</h3> -->
+
+# ✨ infinitygauntlet
+
 <p align="center">
   <strong>Personal weapon that contains my workflow.</strong><br>
   Books, coding jit jots, information sessions, music playlists, & more.
@@ -50,6 +53,6 @@
 
 【﻿ Ｃｏｎｓｔａｎｔ　ｕｐｄａｔｅｄ　ｒｅｆｉｎｅｄ　ｃｈａｏｓ！】 (ピザが大好き)
 
-## <span role="img" aria-label="Oncoming Police Car">🚔</span> [License](LICENSE)
+## <span role="img" aria-label="Oncoming Police Car">🚔</span> [License](https://github.com/acfromspace/infinitygauntlet/blob/master/LICENSE)
 
 The code in this project is under a specific open source license.
