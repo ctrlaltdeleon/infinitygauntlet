@@ -29,7 +29,7 @@
 <!-- FEATURES -->
 
 <p align="center">
-  <img src="./images/vaporwave.gif">
+  <img src="./other/images/vaporwave.gif">
 </p>
 
 [_infinitygauntlet_](https://github.com/acfromspace/infinitygauntlet) is a repository with the following features:
@@ -41,7 +41,7 @@
 ## <span role="img" aria-label="Musical Note">🎵</span> Music I zone to!
 
 <p align="center">
-  <img src="./images/doggo.gif">
+  <img src="./other/images/doggo.gif">
 </p>
 
 - [I made a website with those playlists, curated from Soundcloud, Spotify, and YouTube.](https://mindstone.netlify.com/)
