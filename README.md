@@ -7,12 +7,11 @@
 
 <!-- DESCRIPTION -->
 
-<!-- <h3 align="center">
+<h3 align="center">
   <span role="img" aria-label="Sparkles">✨</span>
-</h3> -->
-
+</h3>
 <p align="center">
-  <strong>✨ infinitygauntlet<br>Personal weapon that contains my workflow.</strong><br>
+  <strong>Personal weapon that contains my workflow.</strong><br>
   Books, coding jit jots, information sessions, music playlists, & more.
 </p>
 
@@ -35,7 +34,7 @@
 
 [_infinitygauntlet_](https://github.com/acfromspace/infinitygauntlet) is a repository with the following features:
 
-- **Memes.** Usually wholesome, hidden away in secret ways.
+- **Memes.** Usually wholesome, hidden away in secret aways.
 - **Diversity.** I give everything a chance and share my learnings with everyone.
 - **Aesthetic.** I just like the way the things look and this is heavily influence by retro, vaporwave, and lo-fi.
 

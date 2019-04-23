@@ -1,6 +1,6 @@
 # Summary
 
-* [README.md](README.md)
+* [infinitygauntlet](README.md)
 * [Algorithms](algorithms/README.md)
   * [Bogosort](algorithms/bogo-sort.md)
   * [Bubblesort](algorithms/bubble-sort.md)
