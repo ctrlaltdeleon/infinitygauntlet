@@ -1,6 +1,13 @@
+# April 23, 2019
+
+- Gitbook is technical on `h1` formatting, so best to stick with the original Github look than catering to Gitbook itself.
+
 # April 22, 2019
 
-- N/A
+- Gym!
+  - 10 minute cardio.
+  - Back and biceps.
+  - Stretch and abs.
 
 # April 21, 2019
 
