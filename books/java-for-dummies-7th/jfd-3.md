@@ -2,7 +2,7 @@
 
 ## 3: Using the Basic Building Blocks
 
-### The words in a Java program
+### The Words in a Java Program
 
 - Java has two kinds of words:
   - Keywords.
@@ -25,4 +25,4 @@
 - End-of-line comments:
   - `// comment`
 - Javadoc comments:
-  - `/\*_ comment _/
+  - `/\*_ comment _/`

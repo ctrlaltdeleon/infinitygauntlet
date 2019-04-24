@@ -2,13 +2,13 @@
 
 ## 1: An Overview of HTML and CSS on the Web
 
-### HTML:
+### HTML
 
 - HyperText Markup Language!
 - When creating, keep in mind if people have CSS and JavaScript disabled.
 - The skeleton of a web page.
 
-### Get to know Internet protocols:
+### Get to Know Internet Protocols
 
 ```
 http://www.domain.com/mainfolder/subfolder/file.html
@@ -19,7 +19,7 @@ www.domain.com --> domain
 file.html --> filename
 ```
 
-### CSS:
+### CSS
 
 - Cascading Style Sheets!
 - The format manager of aesthetics.

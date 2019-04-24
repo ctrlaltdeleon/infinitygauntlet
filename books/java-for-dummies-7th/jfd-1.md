@@ -1,6 +1,6 @@
 # JAVA FOR DUMMIES
 
-## 1: All about Java
+## 1: All About Java
 
 - Java was derived from FORTRAN, the first modern programming language.
   - After this came Common Business Oriented Language (COBOL)

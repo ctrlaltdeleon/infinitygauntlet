@@ -1,9 +1,8 @@
 # POGUES BASICS (ESSENTIAL TIPS AND SHORTCUTS FOR SIMPLIFYING TECHNOLOGY)
 
-LINK: N/A
-
 ## Chapters
 
 1. Phones
 2. N/A
 3. Cameras
+4. ???

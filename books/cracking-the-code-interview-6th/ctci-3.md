@@ -2,7 +2,7 @@
 
 ## 3: Special Situations
 
-### Testers and SDETs (software design engineers in test)
+### Testers and SDETs (Software Design Engineers in Test)
 
 - Prepare the Core Testing Problems:
   - How would you test a light bulb?

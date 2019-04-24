@@ -1,8 +1,8 @@
 # JAVA FOR DUMMIES
 
-## 2: All about Software
+## 2: All About Software
 
-### Quick-Start Instructions:
+### Quick-Start Instructions
 
 - Install the Java Development Kit (JDK):
   - Look for Standard Edition (SE).
@@ -28,7 +28,7 @@ public class HelloWorld {
 }
 ```
 
-### What did I install on my computer?
+### What Did I Install on My Computer?
 
 - From the IDE you installed a compiler and java virtual machine.
 - Steps on how your code gets interpreted:

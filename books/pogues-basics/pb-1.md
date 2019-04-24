@@ -2,15 +2,15 @@
 
 ## 1: Phones
 
-### Need to complete a sentence with a period?
+### Need to Complete a Sentence With a Period?
 
 - Simply tap space bar twice.
 
-### Need to charge a phone fast?
+### Need to Charge a Phone Fast?
 
 - Put on airplane mode and charge, no need to turn off.
 
-### How do I increase my battery life?
+### How Do I Increase My Battery Life?
 
 - Screen brightness.
 - Turn off "push" notifications.
@@ -19,15 +19,15 @@
 - Airplane mode whenever you're not using internet.
 - Avoid 3-D games.
 
-### Phone ringing and need to turn off fast?
+### Phone Ringing and Need to Turn Off Fast?
 
 - Simply press any physical button.
 
-### Need to redial last person called?
+### Need to Redial Last Person Called?
 
 - Open the dialing pad and tap "call".
 
-### Help! My phone got wet!
+### Help! My Phone Got Wet!
 
 - Turn off the phone.
 - Remove and hand dry anything you can. (Battery, SIM)
@@ -36,26 +36,26 @@
 - Put on top of paper towel and look for signs of wetness.
 - Turn on the phone and enjoy, or possibly repair at a store!
 
-### Need to leave a voicemail fast?
+### Need to Leave a Voicemail Fast?
 
 - Call and await message tone then press...
 
-  ```
-  Dependent on your phone provider.
+```
+Dependent on your phone provider.
 
-  Verizon --> *
-  AT&T --> #
-  Sprint --> 1
-  ```
+Verizon --> *
+AT&T --> #
+Sprint --> 1
+```
 
-### Traveling overseas?
+### Traveling Overseas?
 
 - Turn on airplane mode and WiFi to avoid charges.
 
-### Someone take your phone or lose it?
+### Someone Take Your Phone or Lose It?
 
 - Activate lost phone softwares respectively.
 
-### Voice AI misheard you?
+### Voice AI Misheard You?
 
 - Simply tap on the sentence to edit!

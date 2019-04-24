@@ -2,17 +2,17 @@
 
 ## 3: Cameras
 
-### What are "megapixels" in the description?
+### What Are "Megapixels" in the Description?
 
 - Megapixels don't matter (tells nothing if a photo is good, just amount of pixels), sensor size of a camera does.
   - Usually found only online, not on box.
   - Bigger sensor size the better.
   - sensor-size.com
 
-### How to utilize sunlight?
+### How to Utilize Sunlight?
 
 - Bright sunlight makes harsh shadows, utilize soft shadows.
 
-### How to recover my data?
+### How to Recover My Data?
 
 - To recover deleted photos on the SD, use a data recovery tool.

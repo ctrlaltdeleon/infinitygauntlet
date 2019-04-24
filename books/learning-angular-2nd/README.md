@@ -1,11 +1,10 @@
 # LEARNING ANGULAR: A HANDS-ON GUIDE TO ANGULAR 2 AND ANGULAR 4
 
-LINK: N/A
-
 ## Chapters
 
 1. Introduction
-2. Jumping into JavaScript
-3. Jumping into TypeScript
-4. Getting Started with Angular
+2. Jumping Into JavaScript
+3. Jumping Into TypeScript
+4. Getting Started With Angular
 5. Angular Components
+6. ???

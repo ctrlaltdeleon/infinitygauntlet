@@ -12,7 +12,7 @@
   - Conflicts
   - What You'd Do Differently
 
-### What are your weaknesses?
+### What Are Your Weaknesses?
 
 - Give a real weakness.
   - "Attention to detail, due to that I need someone to check my work."
@@ -21,7 +21,7 @@
   - "It takes me a bit to know people and situations before I weigh in on something they're discussing. I'm usually listening and analyzing, but when I contribute I make it worthwhile and sometimes it takes a while to find that balance for me."
 - Also could be treated as "Where do you need to improve?"
 
-### What questions should you ask the interviewer?
+### What Questions Should You Ask the Interviewer?
 
 - Genuine questions:
   - "What is the ratio of testers to devs to program managers?"
@@ -34,7 +34,7 @@
   - "I can see the areas of growth here, but what about in the future?"
   - "I'm not familiar with tech X, could you tell me more?"
 
-### Know your Technical Projects
+### Know Your Technical Projects
 
 - Focus on 2 or 3 technical projects to master.
 - Be able to talk about:
@@ -67,7 +67,7 @@
   - Teamwork/Helpfulness!
   - Overall, try to convey that you're a wholesome person.
 
-### So tell me about yourself...
+### So Tell Me About Yourself...
 
 - Structure:
   - Current role:
