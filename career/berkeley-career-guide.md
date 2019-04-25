@@ -1,8 +1,8 @@
 # BERKELEY CAREER GUIDE
 
-LINK: https://career.berkeley.edu/sites/default/files/pdf/Guide/EntireGuide.pdf
-
 # Career Center Berkeley Job and Internship Guide
+
+LINK: https://career.berkeley.edu/sites/default/files/pdf/Guide/EntireGuide.pdf
 
 ## Chapters
 
