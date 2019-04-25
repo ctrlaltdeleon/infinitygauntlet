@@ -136,3 +136,23 @@ for index in range(alex_count):
     alex_prices.append(float(input("Input alex_prices #%d: " % (index+1))))
 print("verify_items():",
       verify_items(orig_items, orig_prices, alex_items, alex_prices))
+
+"""
+Output:
+
+Original count: 3
+Alex count: 3
+Input orig_items #1: chocolate
+Input orig_prices #1: 15.00
+Input orig_items #2: cheese
+Input orig_prices #2: 300.90
+Input orig_items #3: tomato
+Input orig_prices #3: 23.44
+Input alex_items #1: cheese
+Input alex_prices #1: 300.90
+Input alex_items #2: tomato
+Input alex_prices #2: 23.44
+Input alex_items #3: chocolate
+Input alex_prices #3: 10.00
+verify_items(): 1
+"""

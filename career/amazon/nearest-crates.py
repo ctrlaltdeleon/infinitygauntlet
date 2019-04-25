@@ -30,3 +30,9 @@ all_locations = [[6, 3], [2, 1], [5, 2], [3, 2], [9, 0], [-1, 1]]
 truck_capacity = 2
 neighbors = nearest_crates(total_crates, all_locations, truck_capacity)
 print("nearest_crates():", neighbors)
+
+"""
+Output:
+
+nearest_crates(): [[-1, 1], [2, 1]]
+"""

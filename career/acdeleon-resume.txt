@@ -3,7 +3,7 @@ COMPUTER SCIENCE GRADUATE
 
 Email: aadeleon@sdsu.edu 
 Website: https://spacestone.netlify.com 
-Location: San Diego, CA
+Location: San Diego, San Francisco
 Twitter: @acfromspace 
 LinkedIn: @acfromspace 
 Github: @acfromspace
@@ -17,10 +17,9 @@ College of Sciences Dean's List
 
 SKILLS
 
-PROGRAMMING LANGUAGES: JavaScript, Python, C#, C, C++, Java, TypeScript 
-WEB TECHNOLOGIES: React.js, Node.js, Redux, Gatsby.js, Apollo, GraphQL, Git, HTML, CSS 
-CREATIVE SOFTWARE ENGINES: Photoshop, Illustrator, Premiere, Lightroom, Unity, Unreal 
-DATABASES: Firebase, Firestore, MongoDB, SQL 
+Advanced: ReactJS, JavaScript, UI/UX Design, Git, HTML, CSS, Agile/Scrum 
+Proficient: Mentoring, Leadership, Python, Redux, NodeJS 
+Exploring: GraphQL, MongoDB, TypeScript, Apollo, Firebase, Firestore 
 
 EXPERIENCE
 
@@ -28,13 +27,13 @@ San Diego State University · San Diego, CA 2018 - Current
 Computer Science Mentor 
 
 Coordinated weekly meetings with 10+ students to mentor in data structures, algorithms, academic path, and mock interviews to promote productivity and learning. 
-Successfully analyzed and debugged code written across varying backgrounds (Python, Java, C++, React.js) and provided feedback. 
+Successfully analyzed and debugged code written across varying backgrounds (Python, ReactJS, Java, Git) and provided feedback.
 
 Aztec Game Lab · San Diego, CA 2017 - 2018 
-Frontend Developer 
-
+Front-End Developer 
 https://github.com/AztecGameLab 
-(React.js + Node.js + Redux + Firebase + Firestore) 
+(ReactJS + Node.js + Redux + Firebase + Firestore + Unity + Unreal)
+
 Contributed to design and source code to a full-stack web application using modern technologies to engage with the community. 
 Administered and participated in game development hackathons with 30+ participants in order to cultivate development and collaborations within the community. 
 Facilitated intricate workshops and presentations about the video game industry, product and game design, and the technical development process. 
@@ -42,35 +41,39 @@ Practiced Agile and Scrum in 1 week sprints with other developers.
 
 PROJECTS
 
-React.js Hackathon Reactathon 
-
+ReactJS Hackathon Reactathon 
 https://github.com/AztecGameLab/Meme-Brulee-Reactathon-2018 
-(React.js + Node.js + Redux + TokBox + Netlify) 
+(ReactJS + Node.js + Redux + TokBox + Netlify)
+
 Pioneered a live-streaming web application that won Top 6 Projects at Github HQ. 
 Won Creativity Award for best use of Netlify functions and services. 
 Programmed core application logic to play quick games, fetch API constructed images, and generate new posts. 
 Utilized emoji sentiment feature with Microsoft Cognitive Services machine learning to analyze players' facial expressions.
 
-DJ Soundboard Application 
+SpaceX Application 
+https://github.com/acfromspace/acfromspacex
+(ReactJS + SpaceX API + GraphQL + Apollo + Bootswatch + Heroku)
 
-https://thisismybeet.netlify.com 
-(JavaScript + HTML + CSS + Netlify) 
-Developed an input functional soundboard to have responsive design across desktop and native platforms. 
+Developed an application to show history of SpaceX launches and rockets in chronological order.
+Working on search capabilities, UI/UX design, and fleshed out information display of the launches and rockets
 
 Weather Application 
-
 https://github.com/acfromspace/weatherchecker 
-(React.js + Open Weather API + Bootstrap + Netlify) 
-Developed an application to show current weather information dependent on the location given by the user. 
+(ReactJS + Open Weather API + Bootstrap + Netlify) 
 
+Developed an application to show current weather information dependent on user input. 
+Provided formatted data through fetch API calls garnered from asynchronous feedback. 
 
-"Rick and Morty" Multiplayer Battle Arena Game Application
+DJ Soundboard Application 
+https://github.com/acfromspace/thisismybeet 
+(JavaScript + HTML + CSS + Netlify) 
 
-https://github.com/acfromspace/knucklesbattle
-(Unity + C# + Photoshop)
-Developed a battle game with a team using networking capabilities, procedural generation, and artificial intelligence behaviors.
+Developed a functional soundboard from preloaded data to link with user input. 
+Created easy to read documented functions to have responsive design across desktop and native platforms. 
 
 Learning Library Application 
-
 https://github.com/acfromspace/infinitygauntlet 
-Curated all my learnings which include coding challenges and tutorials, delving into new technologies, and experimenting with APIs in order to extend information to colleagues for reference and for future projects.
+(Gitbook) 
+
+Curated all my learnings which include coding challenges and tutorials, delving into new technologies, and experimenting with APIs in order to extend information to colleagues for reference. 
+Rapidly prototype designs for the design process and user testing to build a foundation for future projects.

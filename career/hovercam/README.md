@@ -1,6 +1,6 @@
 # HOVERCAM
 
-## Round 1 (Phone Interview)
+## Round 1 (Phone)
 
 - 30 minutes.
 - Behavioral questions from Office Manager.
@@ -9,7 +9,7 @@
 - "How would you start designing a product?"
 - "What kind of dogs do you have?"
 
-## Round 2 (On-Site Interview)
+## Round 2 (On-Site)
 
 - Technical questions from CEO and Lead Engineer.
 - Office Manager was present observing.
@@ -70,6 +70,6 @@ class Hero {
   - Test cases.
   - Scalability.
 
-## Round 3 (?)
+## Round 3 (Offer)
 
-- ???
+- Did not make it.

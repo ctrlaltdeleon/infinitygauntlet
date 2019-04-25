@@ -26,3 +26,9 @@ def retrieve_most(literature_text, excluded_words):
 literature_text = "romeo oh romeo boi where art thou boi nice alright alright ok hello"
 excluded_words = ["oh", "art", "thou"]
 print("retrieve_most():", retrieve_most(literature_text, excluded_words))
+
+"""
+Output:
+
+retrieve_most(): romeo boi alright
+"""

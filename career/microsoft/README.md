@@ -1,6 +1,6 @@
 # MICROSOFT
 
-## Round 1 (Phone Interview)
+## Round 1 (Phone)
 
 - 30 minutes.
 - Behavioral, definition, riddle questions.

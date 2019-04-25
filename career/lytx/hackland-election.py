@@ -70,3 +70,15 @@ votes = []
 for index in range(ballots):
     votes.append(input("Give a name for ballot #%i: " % (index+1)))
 print("hackland_election():", hackland_election(votes))
+
+"""
+Output:
+
+Number of HackLand Ballots: 5
+Give a name for ballot #1: ac
+Give a name for ballot #2: jinsoul
+Give a name for ballot #3: ac
+Give a name for ballot #4: jinsoul
+Give a name for ballot #5: jinsoul
+hackland_election(): jinsoul
+"""

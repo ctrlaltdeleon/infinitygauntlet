@@ -1,13 +1,13 @@
 # PERSONAL INTERVIEW TEMPLATE
 
-## Essential:
+## Essential
 
 - COMPANY NAME:
-- JOB TITLE: Software Engineer/Software Developer/Frontend Developer
+- JOB TITLE: Software Engineer/Front-End Developer
 - INTERVIEWER NAME:
 - INTERVIEWER JOB TITLE:
 
-## About the Company:
+## About the Company
 
 - MISSION:
 - PRODUCTS/SERVICES:
@@ -15,7 +15,7 @@
 - CULTURE:
 - RECENT NEWS:
 
-## About me:
+## About me
 
 - ELEVATOR PITCH:
 - RELEVANT EXPERIENCE:
@@ -23,14 +23,14 @@
 - WEAKNESSES:
 - WHY THIS ROLE/COMPANY:
 
-## Questions to Prepare for: (CAR Method! Context, Actions, Results!)
+## Questions to Prepare for (CAR Method! Context, Actions, Results!)
 
 - Made a mistake?
 - Handled a difficult situation?
 - Went above & beyond?
 - Stepped up as a leader?
 
-## Questions for the Company:
+## Questions for the Company
 
 - How is the interview process?
 - What are the next steps I should take?
