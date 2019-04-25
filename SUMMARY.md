@@ -40,6 +40,7 @@
   - [Metron](career/Metron/README.md)
   - [Microsoft](career/microsoft/README.md)
   - [Wrapify](career/wrapify/README.md)
+  - [Berkeley Career Guide](career/berkeley-career-guide.md)
   - [Interview Prep Template](career/interview-prep-template.md)
 - [Coding Challenges](coding-challenges/README.md)
 - [Data Structures](data-structures/README.md)
