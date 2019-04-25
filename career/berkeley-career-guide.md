@@ -1,5 +1,3 @@
-# BERKELEY CAREER GUIDE
-
 # Career Center Berkeley Job and Internship Guide
 
 LINK: https://career.berkeley.edu/sites/default/files/pdf/Guide/EntireGuide.pdf
@@ -14,7 +12,7 @@ LINK: https://career.berkeley.edu/sites/default/files/pdf/Guide/EntireGuide.pdf
 3. Career Fairs and Employer Info Sessions
 4. Resume and Cover Letters
    1. The 5 Steps of Resume Development
-   2. The Resume Bullet: How to say It
+   2. The Resume Bullet: How to Say It
    3. Top 10 Attributes Employers seek on Candidate Resumes
    4. References Layout
    5. Verb List for Resumes and Letters
@@ -22,7 +20,7 @@ LINK: https://career.berkeley.edu/sites/default/files/pdf/Guide/EntireGuide.pdf
 5. Interviewing
    1. Preparing for a Phone or Video Interview
    2. Preparing for a Second Round Interview
-   3. Thank You Letter: How to say It
+   3. Thank You Letter: How to Say It
    4. Types of Interview Questions
    5. Behavioral Questions: Planning Your Responses
    6. Difficult Questions
@@ -278,7 +276,7 @@ Printed name
   - Film or record your responses and review your performance.
   - Ask yourself:
     - “Did I look/sound confident, relaxed, and enthusiastic?”
-    - “What does my body language say?”
+    - “What does my body language Say?”
     - “How were my pace and volume?”
 - Types of interviews include:
   - One-on-one:
