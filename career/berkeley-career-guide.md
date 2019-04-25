@@ -65,7 +65,7 @@ Name
 - Keep questions open ended instead of binary.
 
 ```
-Greetings, I'm AC, recently graduated from SDSU with a Bachelor's in Computer Science...
+Greetings, I'm AC, graduated from SDSU with a Bachelor's in Computer Science...
 What's the tech stack that you work with and what do you like about it?
 ```
 
