@@ -1,3 +1,4 @@
+```py
 """
 @author: acfromspace
 """
@@ -77,3 +78,4 @@ showcase(): [4, 'dog']
 size(): 2
 showcase(): [4, 'dog']
 """
+```

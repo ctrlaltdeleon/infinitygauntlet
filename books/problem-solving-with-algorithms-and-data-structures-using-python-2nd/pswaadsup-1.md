@@ -10,11 +10,11 @@
 
 ~
 
-### 1.3: What is Computer Science?
+### 1.3: What Is Computer Science?
 
 - The study of finding solutions using computational structures.
 
-### 1.4: What is Programming?
+### 1.4: What Is Programming?
 
 - A method to implement our solutions.
 
@@ -46,21 +46,21 @@
 - Python is a modern, easy-t-learn, object-oriented programming language.
 - Built-in data types and easy-to-use control constructs.
 
-### 1.8: Getting Started with Data
+### 1.8: Getting Started With Data
 
 - Define a class to be a description of what the data will look like (the state) and what the data can do (the behavior).
 - Classes are analogous to ADTs because a user of a class only sees the state and behavior.
 - Data items are called objects in the object-oriented paradigm.
 - An object is an instance of a class.
 
-### 1.8.1: Built-in Atomic Data Types
+### 1.8.1: Built-In Atomic Data Types
 
 - Atomic data types:
   - int
   - float
   - bool
 
-### 1.8.2: Built-in Collection Data Types
+### 1.8.2: Built-In Collection Data Types
 
 - Collection data types:
 

@@ -1,3 +1,4 @@
+```py
 """
 @author: acfromspace
 """
@@ -54,3 +55,4 @@ showcase(): [5, 'dog', 'hello']
 dequeue(): hello
 showcase(): [5, 'dog']
 """
+```
