@@ -78,7 +78,7 @@ handleClick = event => {
 
 - With `Context` and `Hooks` available for `ReactJS` now, `Redux` may be a thing in the past.
 
-# April 17 2019
+# April 17, 2019
 
 - Messaged Anthony, host of San Diego JavaScript Community Talks, about performing a talk.
 - Messaged the General Assembly group of LA about future hackathons.
@@ -90,7 +90,7 @@ handleClick = event => {
 - Applied to CyberCoders.
 - Cleaned out the Thunderbird email!
 
-# April 16 2019
+# April 16, 2019
 
 - Created a `Gitbook` for the repository of `infinitygauntlet`.
   - `Gitbook` is a hosting platform to showcase markdown files in a repository. Great for making books.
