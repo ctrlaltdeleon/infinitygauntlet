@@ -1,32 +1,32 @@
-# COMPUTER & VSCODE PLUGINS
+# COMPUTER AND VSCODE PLUGINS
 
 Everything software related that I use for my computer and editor setup.
 
 ## Computer Plugins:
 
-- BleachBit
-  - Cleans caches on everything
-- DisplayFusion
-  - Monitor Enhancer, 2+ monitors
-- 'Everything' Search Utility
-  - Looks up your files faster than windows search
-- Flux
-  - Monitor dimmer at night
-- PC Decrapifier
-  - Removes bloatware and junk from your system
-- QTTabBar
-  - Adds tabs to windows explorer
-- Rainmeter
-  - Desktop customiser
-    - 10-foot HUD Japanese clock
-    - DINAJ
-    - ReflectSoundVisu
-    - SimpleMedia (date, time)
-    - illustro (gadgets, cpu usage, network meter, drives meter)
-- Revo Uninstaller
-  - Completely uninstalls files
-- WizTree
-  - Hard drive look up, super fast
+- BleachBit.
+  - Cleans caches on everything.
+- DisplayFusion.
+  - Monitor Enhancer, 2+ monitors.
+- 'Everything' Search Utility.
+  - Looks up your files faster than windows search.
+- Flux.
+  - Monitor dimmer at night.
+- PC Decrapifier.
+  - Removes bloatware and junk from your system.
+- QTTabBar.
+  - Adds tabs to windows explorer.
+- Rainmeter.
+  - Desktop customiser.
+    - 10-foot HUD Japanese clock.
+    - DINAJ.
+    - ReflectSoundVisu.
+    - SimpleMedia (date, time).
+    - illustro (gadgets, cpu usage, network meter, drives meter).
+- Revo Uninstaller.
+  - Completely uninstalls files.
+- WizTree.
+  - Hard drive look up, super fast.
 
 ## Visual Studio Code Plugins
 

@@ -4,6 +4,7 @@
   "description": "lightning-talks",
   "repository": "https://github.com/acfromspace/infinitygauntlet/lightning-talks",
   "author": "acfromspace",
+  "license": "MIT",
   "scripts": {
     "start": "mdx-deck deck.mdx",
     "build": "mdx-deck build deck.mdx",

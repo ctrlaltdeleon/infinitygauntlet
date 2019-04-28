@@ -1,3 +1,3 @@
 # VISUAL BASIC
 
-Contains all Visual Basic and the variance.
+Contains all Visual Basic exercises and the variance.

@@ -1,3 +1,3 @@
 # SQL
 
-Contains all SQL and the variance.
+Contains all SQL exercises and the variance.

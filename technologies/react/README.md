@@ -2,6 +2,9 @@
 
 Contains all React and the variance.
 
-## Note
+## Note!
 
-- `npm start` or `yarn start` to host React application locally.
+```
+npm
+npm start
+```

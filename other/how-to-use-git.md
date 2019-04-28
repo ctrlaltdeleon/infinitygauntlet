@@ -1,4 +1,4 @@
-# GIT
+# HOW TO USE GIT
 
 Contains all git workflows and the variance.
 

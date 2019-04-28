@@ -1,3 +1,3 @@
 # PYTHON
 
-Contains all Python and the variance.
+Contains all Python exercises and the variance.

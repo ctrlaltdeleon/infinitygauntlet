@@ -3,7 +3,7 @@
 ```
 Name:       Keith Harris
 Time:       Saturday, December 8, 2018
-Bio:        Part of the Aztec Mentor Program (AMP). Has helped 12 Computer Engineering/Computer Science majors.
+Bio:        Part of the Aztec Mentor Program (AMP)
 Contact:    Keith Harris (keith@aztecforlife.com or the email in your email)
 ```
 
