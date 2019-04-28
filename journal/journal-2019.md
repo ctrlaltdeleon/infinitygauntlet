@@ -2,6 +2,8 @@
 
 - Photography!
   - Shot more graduation pictures, this time a group of 3.
+- Finished curating the `Gitbook`!
+- Posted to LinkedIn about the `Gitbook`.
 
 # April 26, 2019
 
