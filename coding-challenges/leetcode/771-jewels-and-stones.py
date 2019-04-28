@@ -51,5 +51,3 @@ print("Jewels: " + J)
 print("Stones: " + S)
 print("Number of true jewels in stones: " + str(list(map(J.count, S))))
 print("Amount of jewels: " + str(test_object.num_jewels_in_stones(J, S)))
-
-# Consider time and space complexity
