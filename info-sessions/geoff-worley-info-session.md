@@ -1,4 +1,13 @@
-# GEOFF STUDY POWER HOUR
+# GEOFF WORLEY INFO SESSION
+
+```
+Name:       Geoff Worley
+Time:       N/A
+Bio:        Amazon Software Development Engineer
+Contact:    N/A
+```
+
+Notes:
 
 - Difference between Stack and Queue?
   - Stack is FILO

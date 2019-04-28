@@ -3,7 +3,7 @@
 ```
 Name:       MathWizJohn Tutoring Orientation
 Time:       Sunday, January 27, 2019
-Bio:        Tutoring service, being held by Corey Ebersole. Going over MWJMasterOrientation.ppt.
+Bio:        Tutoring Service
 Contact:    mathwizjohn@gmail.com
 ```
 

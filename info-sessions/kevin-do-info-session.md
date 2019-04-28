@@ -1,6 +1,13 @@
-# KEVIN STUDY POWER HOUR
+# KEVIN DO INFO SESSION
 
-https://devskiller.com/coding-tests-skill/react/
+```
+Name:       Kevin Do
+Time:       N/A
+Bio:        Northrop Grumman Intern, PlayStation Intern, and Twitch Software Developer Engineer
+Contact:    N/A
+```
+
+Notes:
 
 ```js
 <html>
@@ -92,6 +99,7 @@ ReactDOM.render(
 // Make a network API call to get username
 ```
 
+- https://devskiller.com/coding-tests-skill/react/
 - What’d you think of the take home test? (if they did a take home test)
 - TypeScript experience? Overall JavaScript experience? Overall async experience?
 - Styling? Sass, inline, other?
