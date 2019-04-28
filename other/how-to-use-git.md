@@ -2,12 +2,23 @@
 
 ## Setting up git
 
+Sets up your `user.name`.
+
+```
+git config --global user.name "%MY_NAME%"
+```
+
+Sets up your `user.email`.
+
+```
+git config --global user.email "%MY_EMAIL%"
+```
+
+Checks the `user.name` & `user.email`.
+
 ```
 git config --global --list
 ```
-
-- Checks the `user.name` & `user.email`.
-- To access config, go to `Users` then look for `.gitconfig`.
 
 ## Commands
 
