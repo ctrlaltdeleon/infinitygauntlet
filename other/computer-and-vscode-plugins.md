@@ -2,7 +2,7 @@
 
 Everything software related that I use for my computer and editor setup.
 
-## Computer Plugins:
+## Computer Plugins
 
 - BleachBit.
   - Cleans caches on everything.

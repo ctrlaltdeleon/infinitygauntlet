@@ -30,7 +30,7 @@ Can also input scripts to modify eggs, note sidekick key names to obtain correct
   - WC15 --> Dew, Dilius, Deliquess
   - PC00 --> Pris, Prima, Prismaticus
 
-Get all new sidekicks
+Get all new sidekicks!
 
 ```
 var count = e.instances.length - 6;
@@ -43,7 +43,7 @@ e.instances[count++].modelID = "Item:sidekick:WC15";
 e.instances[count++].modelID = "Item:sidekick:PC00";
 ```
 
-Max sidekicks
+Max sidekicks!
 
 ```
 for (var i = e.instances.length - 6; i < e.instances.length; i++) {
