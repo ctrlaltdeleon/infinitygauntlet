@@ -1,7 +1,5 @@
 # COMPUTER AND VSCODE PLUGINS
 
-Everything software related that I use for my computer and editor setup.
-
 ## Computer Plugins
 
 - BleachBit.
