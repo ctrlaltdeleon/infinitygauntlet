@@ -17,9 +17,9 @@
 - Tire size.
   - P195/60R15.
 
-## Engine Specifications
+# ENGINE SPECIFICATIONS
 
-### Hardware
+## Hardware
 
 - Spark plug.
   - NGK BKR5E-11.
@@ -31,7 +31,7 @@
 - Firing Order.
   - 1, 3, 4, 2.
 
-### Fluids
+## Fluids
 
 - Gas tank.
   - 13.2 gal (50 L) (1690 fluid ounces ~).
@@ -57,7 +57,7 @@
 - Windshield washer fluid.
   - 4.4 qt (4.2 L) (142 fluid ounces ~).
 
-## Journal
+# JOURNAL
 
 - April 2019.
   - Changed oil.

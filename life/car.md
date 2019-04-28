@@ -2,27 +2,27 @@
 
 Contains all lessons and the variance.
 
-## Paperwork
+# PAPERWORK
 
 Contains all legal documents in order to be driving the vehicle legally.
 
-### Car Registration
+## Car Registration
 
 Check registration fees online and can pay online or through DMV.
 
-### Insurance
+## Insurance
 
 Check car insurance and keep user information with you when driving.
 
-### Smog Check (California)
+## Smog Check (California)
 
 Required by law to make sure vehicles are eco-friendly.
 
-## Maintenance
+# MAINTENANCE
 
 Contains all maintenance information. Be wary of weather conditions as well as leveled working area.
 
-### Checks
+## Checks
 
 Every 5000 miles or 6 months (1/2 year):
 
@@ -39,7 +39,7 @@ Every 60000 miles or 48 months (4 years):
 
 - Replace timing belt.
 
-### Battery
+## Battery
 
 Don't electrocute yourself!
 
@@ -76,11 +76,11 @@ Don't electrocute yourself!
   - Remove **red clamp** from **working car**.
   - Remove **black** clamp from **working car**.
 
-### Fluids
+## Fluids
 
 Always check fluids on a leveled plane.
 
-#### Automatic transmission fluid:
+### Automatic transmission fluid:
 
 - Changing directions:
   - Have an empty pan ready under the car to catch fluids.
@@ -89,7 +89,7 @@ Always check fluids on a leveled plane.
   - Fill with new fluid.
   - Seal tight!
 
-#### Brake/Clutch fluid:
+### Brake/Clutch fluid:
 
 - Changing directions:
   - Use a turkey baster to suck out the fluids.
@@ -102,7 +102,7 @@ Always check fluids on a leveled plane.
 - **There are hydroscopic testers which test the amount of water inside the container.**
   - When the fluid exceeds the copper limit or moisture limit, you change it.
 
-#### Engine oil:
+### Engine oil:
 
 - Changing directions:
   - Have an empty pan ready under the car to catch fluids.
@@ -112,7 +112,7 @@ Always check fluids on a leveled plane.
   - Fill with new fluid.
   - Seal tight!
 
-#### Power steering fluid:
+### Power steering fluid:
 
 - Changing directions:
   - Use a turkey baster to suck out the fluids.
@@ -121,20 +121,20 @@ Always check fluids on a leveled plane.
 - Note the difference between ATF and power steering fluid as they are both different.
   - ATF means "auto transmission fluid".
 
-#### Windshield washer fluid:
+### Windshield washer fluid:
 
 - Changing directions:
   - Simply fill when needed.
 - Use windshield antifreeze fluid if in very freezing places to avoid frosting.
 - Any windshield fluid should suffice.
 
-### Spark Plugs
+## Spark Plugs
 
 Seek iridium tipped type spark plugs as they last longer.
 
 - Dependent on how many cylinders your vehicle has, usually 4.
 
-### Tires
+## Tires
 
 Jack and tools will be required.
 
