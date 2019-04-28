@@ -1,18 +1,18 @@
 # CAR
 
-# PAPERWORK
+## PAPERWORK
 
 Contains all legal documents in order to be driving the vehicle legally.
 
-## Car Registration
+### Car Registration
 
 Check registration fees online and can pay online or through DMV.
 
-## Insurance
+### Insurance
 
 Check car insurance and keep user information with you when driving.
 
-## Smog Check (California)
+### Smog Check (California)
 
 Required by law to make sure vehicles are eco-friendly.
 
