@@ -51,7 +51,6 @@
   - [2019](journal/journal-2019.md)
 - [Life](life/README.md)
   - [Car](life/car.md)
-  - [Personal Car](life/personal-car.md)
 - [Lightning Talks](lightning-talks/README.md)
 - [Other](other/README.md)
   - [Armageddon](other/armageddon.md)
