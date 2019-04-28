@@ -80,7 +80,7 @@ Don't electrocute yourself!
 
 Always check fluids on a leveled plane.
 
-Automatic transmission fluid:
+#### Automatic transmission fluid:
 
 - Changing directions:
   - Have an empty pan ready under the car to catch fluids.
@@ -89,7 +89,7 @@ Automatic transmission fluid:
   - Fill with new fluid.
   - Seal tight!
 
-Brake/Clutch fluid:
+#### Brake/Clutch fluid:
 
 - Changing directions:
   - Use a turkey baster to suck out the fluids.
@@ -102,7 +102,7 @@ Brake/Clutch fluid:
 - **There are hydroscopic testers which test the amount of water inside the container.**
   - When the fluid exceeds the copper limit or moisture limit, you change it.
 
-Engine oil:
+#### Engine oil:
 
 - Changing directions:
   - Have an empty pan ready under the car to catch fluids.
@@ -112,7 +112,7 @@ Engine oil:
   - Fill with new fluid.
   - Seal tight!
 
-Power steering fluid:
+#### Power steering fluid:
 
 - Changing directions:
   - Use a turkey baster to suck out the fluids.
@@ -121,7 +121,7 @@ Power steering fluid:
 - Note the difference between ATF and power steering fluid as they are both different.
   - ATF means "auto transmission fluid".
 
-Windshield washer fluid:
+#### Windshield washer fluid:
 
 - Changing directions:
   - Simply fill when needed.
