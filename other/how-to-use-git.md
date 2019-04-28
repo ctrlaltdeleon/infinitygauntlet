@@ -1,6 +1,6 @@
 # HOW TO USE GIT
 
-## Setting up git
+## Setting up Git!
 
 Sets up your `user.name`.
 

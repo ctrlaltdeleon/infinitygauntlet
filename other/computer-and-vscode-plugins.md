@@ -70,31 +70,31 @@ First install plugin to Visual Studio Code.
 
 ### Shortcuts!
 
-- Upload command
-  - Shift + Alt + U
-- Download command
-  - Shift + Alt + D
+- Upload command.
+  - `Shift + Alt + U`
+- Download command.
+  - `Shift + Alt + D`
 
 ### New computer?
 
-- Install "Settings Sync" into your favorite text editor. (If the plugin exists!)
-- Press Shift + Alt + D it will ask your GitHub Gist ID. (Type ">Sync" In Command Palette into order download / upload)
-- Enter Your GitHub Personal Access Token. (Check Todoist)
-- Enter Your Gist ID. (93ed54c6d2960b36237c6af19b19b8fe)
-- Press Shift + Alt + D.
+- Install "Settings Sync" into your favorite text editor (If the plugin exists!).
+- Press `Shift + Alt + D` it will ask your GitHub Gist ID (Type ">Sync" In Command Palette into order download / upload).
+- Enter Your GitHub Personal Access Token.
+- Enter Your Gist ID (93ed54c6d2960b36237c6af19b19b8fe).
+- Press `Shift + Alt + D`.
 
 ### Need information on plugins?
 
-- Press Shift + Alt + U.
+- Press `Shift + Alt + U`.
 - Check the terminal output.
 
 ### How to change color and icons?
 
-- Ctrl + Shift + P.
+- `Ctrl + Shift + P`
 - Preferences in "color" and "icon".
 - Proceed accordingly.
 
 ### Need to reset settings?
 
-- Ctrl + Shift + P.
-- ">Sync"
+- `Ctrl + Shift + P`
+- `>Sync`

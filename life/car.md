@@ -1,7 +1,5 @@
 # CAR
 
-Contains all lessons and the variance.
-
 # PAPERWORK
 
 Contains all legal documents in order to be driving the vehicle legally.
