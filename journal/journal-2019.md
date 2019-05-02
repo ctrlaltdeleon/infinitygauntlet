@@ -1,3 +1,22 @@
+# May 1, 2019
+
+- Performed `Leetcode` questions.
+
+# April 30, 2019
+
+- **Avengers: Endgame!** Round Two!
+- Minecraft!
+  - Got updated with the recent patches and gathered a team to build in a snow biome.
+- Applied to Viasat.
+
+# April 29, 2019
+
+- Updated personal website.
+
+# April 28, 2019
+
+- House work.
+
 # April 27, 2019
 
 - Photography!
