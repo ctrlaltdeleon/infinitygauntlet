@@ -3,6 +3,8 @@
 """
 
 """
+Notes!
+
 Alright so how do we tackle this?
 
 J: jewels (which happen to be stones)

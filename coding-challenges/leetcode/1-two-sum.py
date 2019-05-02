@@ -3,6 +3,8 @@
 """
 
 """
+Notes:
+
 We're given an array with various numbers which need to equal a "target" variable.
 
 What we could do is compare the [n] element to the array itself (avoiding the same element).
@@ -30,11 +32,11 @@ enumerate(): takes in a data structure and "enumerates" it
 
 To approach this problem:
 
-1. Create an empty set
-2. With the array, enumerate it so properly pass
-3. Get the difference from target minus [number]
-4. If difference is in the set (which it won't be for the first tries) return the solution
-5. Else keep going through the enumerate
+1. Create an empty set.
+2. With the array, enumerate it so properly pass.
+3. Get the difference from target minus [number].
+4. If difference is in the set (which it won't be for the first tries) return the solution.
+5. Else keep going through the enumerate.
 """
 
 
@@ -48,7 +50,7 @@ class Solution:
         """
         seen = {}
         for index, num in enumerate(nums):
-            print("{}: " + str(seen))
+            print("seen: " + str(seen))
             print("index, num: " + str(index), str(num))
             other = target - num
             print("other: " + str(other))
@@ -56,8 +58,8 @@ class Solution:
                 print("SOLUTION: " + str([seen[other], index]))
                 return [seen[other], index]
             else:
-                print("{}: " + str(seen))
-                print("DO AGAIN!")
+                print("seen: " + str(seen))
+                print("Solution not found, retrying...")
                 seen[num] = index
         return []
 
@@ -71,9 +73,7 @@ print("target: " + str(target))
 test_object.two_sum(nums, target)
 
 """
-Time complexity : O(n)
-We traverse the list containing "n" elements only once. Each look up in the table costs only O(1) time.
+Time complexity : O(n). We traverse the list containing "n" elements only once. Each look up in the table costs only O(1) time.
 
-Space complexity : O(n)
-The extra space required depends on the number of items stored in the hash table, which stores at most "n" elements.
+Space complexity : O(n). The extra space required depends on the number of items stored in the hash table, which stores at most "n" elements.
 """
