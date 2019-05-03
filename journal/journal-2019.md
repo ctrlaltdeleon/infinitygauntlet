@@ -1,3 +1,41 @@
+# May 3, 2019
+
+- Photography!
+  - Shot for an organization's banquet, lots of clicking.
+- Main differences between Java VS JavaScript.
+  - Java.
+    - Object oriented programming language.
+      - Compiled (non-human readable code) then executed.
+    - Mainly runs on the Java Virtual Machine (JVM).
+  - JavaScript.
+    - Object oriented scripting language.
+      - Interpreted (not compiled).
+    - Mainly runs on browser (More applications through React now).
+- JavaScript Data Types?
+  - Number.
+  - String.
+  - Boolean.
+  - Object (When you don't know what it'll be during compile time).
+  - Undefined.
+- In JavaScript, what is the use of `isNaN` function?
+  - `isNaN` returns true if argument is not a number, else false.
+- How do you achieve negative infinity in JavaScript?
+  - `%NEGATIVE_NUMBER%/0`
+- What does `console.log(A || B) do?
+  - Same as a ternary, if A exists, print A, otherwise B.
+- Difference between a method and function?
+  - Methods are functions that are members of a class.
+  - All methods are functions, but not all functions are methods.
+- When to use `throw` vs `throw e`?
+  - `throw` shows all information.
+  - `throw e` resets the stack trace and shows core information.
+  - Best practice to use `throw`.
+- `DateTime`!
+  - Remember when creating updates to new objects, it doesn't update, it creates new, so must assign everytime.
+  - Instead of `clockerino.AddDays(1);`, do `clockerino = clockerino.AddDays(1);`
+- What do you do if you encounter a `for` loop with augmenting a string?
+  - Use `StringBuilder` if available, fast and less memory.
+  
 # May 2, 2019
 
 - More OOP understanding.
