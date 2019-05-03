@@ -1,6 +1,27 @@
+# May 2, 2019
+
+- More OOP understanding.
+  - Classes are like blueprints.
+    - These classes contain properties and methods.
+      - Properties are such as "fire type".
+      - Methods are such as "flamethrower".
+
 # May 1, 2019
 
 - Performed `Leetcode` questions.
+- Object oriented programming revolves around 4 pillars.
+  - Encapsulation.
+    - Reduce complexity + increase resuability.
+    - Charmander is hungry. You can feed() Charmander, but you can't change how hungry the cat is directly because that's private properties.
+  - Abstraction.
+    - Reduce complexity + isolate impact of changes.
+    - Charmander can use flamethrower, but you don't know how it does it, you just use it.
+  - Inheritance.
+    - Eliminate redundant code.
+    - Charizard inherits Charmander's traits and moves, no need to recreate.
+  - Polymorphism.
+    - Refactor ugly switch/case statements.
+    - Charizard can use "flamethrower" like Charmander, but a different version called "fire blast!".
 
 # April 30, 2019
 
