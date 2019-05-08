@@ -146,7 +146,8 @@ def fib(n):
 - This is actually O(2^N+1) because N does change.
 
 ```py
-memoization
+def allFib(n):
+    int memo???
 ```
 
 - This technique is called "memoization" which is useful for recursive functions.

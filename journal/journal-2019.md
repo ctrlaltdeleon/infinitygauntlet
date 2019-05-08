@@ -1,7 +1,27 @@
+# May 8, 2019
+
+- N/A
+
+# May 7, 2019
+
+- **Code Geass: Lelouch of the Re;surrection!**
+
+# May 6, 2019
+
+- Cut my own hair.
+
+# May 5, 2019
+
+- Game of Thrones, Season 8, Episode 4!
+
+# May 4, 2019
+
+- Star Wars!
+
 # May 3, 2019
 
 - Photography!
-  - Shot for an organization's banquet, lots of clicking.
+  - Shot photos for an organization's banquet, over 700+ photos.
 - Main differences between Java VS JavaScript.
   - Java.
     - Object oriented programming language.
@@ -35,7 +55,7 @@
   - Instead of `clockerino.AddDays(1);`, do `clockerino = clockerino.AddDays(1);`
 - What do you do if you encounter a `for` loop with augmenting a string?
   - Use `StringBuilder` if available, fast and less memory.
-  
+
 # May 2, 2019
 
 - More OOP understanding.
@@ -74,6 +94,7 @@
 
 # April 28, 2019
 
+- Game of Thrones, Season 8, Episode 3!
 - House work.
 
 # April 27, 2019
