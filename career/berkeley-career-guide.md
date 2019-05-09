@@ -138,8 +138,8 @@ What's the tech stack that you work with and what do you like about it?
 - My personal resume can be used as reference.
   - LINK: https://resume.creddle.io/resume/ayjgtizt9n7
 - I suggest using creddle.io as a great start off point.
-- I would also suggest keeping a .txt file around with everything organized when a website won't allow .pdf files.
-- Be wary of .json resumes as it might be the next thing.
+- I would also suggest keeping a `.txt` file around with everything organized when a website won't allow `.pdf` files.
+- Be wary of `.json` resumes as it might be the next thing.
 
 ### 4.1: The 5 Steps of Resume Development
 
@@ -169,16 +169,16 @@ What's the tech stack that you work with and what do you like about it?
 
 ### 4.3: Top 10 Attributes Employers Seek on Candidate Resumes
 
-1. Leadership
-2. Ability to work in a team
-3. Communication (Written)
-4. Problem-solving skills
-5. Communication (Verbal)
-6. Strong work ethic
-7. Initiative
-8. Analytical/Quantitative skills
-9. Adaptability
-10. Technical skills
+1. Leadership.
+2. Ability to work in a team.
+3. Communication (Written).
+4. Problem-solving skills.
+5. Communication (Verbal).
+6. Strong work ethic.
+7. Initiative.
+8. Analytical/Quantitative skills.
+9. Adaptability.
+10. Technical skills.
 
 ### 4.4: References Layout
 
