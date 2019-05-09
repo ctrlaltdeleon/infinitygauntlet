@@ -56,9 +56,9 @@
 ### 1.8.1: Built-In Atomic Data Types
 
 - Atomic data types:
-  - int
-  - float
-  - bool
+  - `int`
+  - `float`
+  - `bool`
 
 ### 1.8.2: Built-In Collection Data Types
 
@@ -421,11 +421,11 @@ print("The %(item)s costs %(cost)7.1f cents"%item_dict)  The banana costs    24.
 ### 1.10: Control Structures
 
 - Algorithms require 2 important control structures:
-  - Iteration
-  - Selection
-- Iteration comes in terms such as "while" and "for" statements.
+  - Iteration.
+  - Selection.
+- Iteration comes in terms such as `while` and `for` statements.
 - While is a general purpose iterative structure that checks to see if the condition is True or False.
-- Example of a "while" statement:
+- Example of a `while` statement:
 
 ```py
 while counter <= 5 and not done:
@@ -438,11 +438,11 @@ while counter <= 5 and not done:
 "hello"
 ```
 
-- "For" is a structure used for collections of sequences.
-- An easy way to remember this is that if we know the number of iterations we use "for", otherwise we use "while".
+- `For` is a structure used for collections of sequences.
+- An easy way to remember this is that if we know the number of iterations we use `for`, otherwise we use `while`.
 - Especially in evolving data structures, this is very relevant.
-- "For" is very useful for iteration on each character of a string.
-- Example of a "for" statement:
+- `For` is very useful for iteration on each character of a string.
+- Example of a `for` statement:
 
 ```py
 for item in range(5):
@@ -469,8 +469,8 @@ print(letter_list)
 ```
 
 - Selection statements allow programmers to ask questions and based on the result, perform different actions.
-- These statements are usually provided as "if else" and "if".
-- For nested statements "elif" can be used in the stead.
+- These statements are usually provided as `if else` and `if`.
+- For nested statements `elif` can be used in the stead.
 - Example of selection being used:
 
 ```py
@@ -529,6 +529,26 @@ print([ch for ch in "".join(['cat','dog','rabbit'])])
 ['c', 'a', 't', 'd', 'o', 'g', 'r', 'a', 'b', 'b', 'i', 't']
 ```
 
+- Iteration uses `for` and `while`.
+- Selection uses `if`.
+
 ### 1.11: Exception Handling
+
+- Two types of errors in programming.
+  - Syntax.
+    - Human error.
+  - Logic.
+    - Wrong conclusion (dividing by zero, out of scope variable).
+    - Logic errors eventually create runtime errors (exceptions).
+- Runtime errors are called exceptions.
+- When an exception occurs, that means the error has been "raised".
+  - One can handle the "raised" error with a `try` statement.
+  - If the `try` statement can't complete, an `except` block catches the exception and prints relevant information to the user such as `"Sorry, information not allowed."`
+- One could put in a built in "raised" error using the `raise` statement.
+  - If you are asking for user input, but selectively want positive integers, you can `raise` a `RuntimeError("Positive integers only!")`.
+
+### 1.12: Defining Functions
+
+`http://interactivepython.org/runestone/static/pythonds/Introduction/DefiningFunctions.html`
 
 #### BOOKMARK

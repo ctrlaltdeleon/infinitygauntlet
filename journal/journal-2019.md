@@ -1,6 +1,25 @@
 # May 8, 2019
 
-- N/A
+- Is it possible to break JavaScript code into several lines?
+  - Yes through utilizing the backslash `\`.
+- Which company developed JavaScript?
+  - Netscape is the software company who developed JavaScript.
+  - Brendan Eich in 1995 was the one who spearheaded the language.
+- Differences between undeclared and undefined variables?
+  - Undeclared variables are variables that don't exist yet.
+  - Undefined variables are variables that don't have meaning yet.
+- Write the code for adding new elements dynamically in JavaScript?
+  - Inside the `.html` file, put a `<script src="/index.js" type="text/javascript" charset="UTF-8">` with the code within.
+  - `src` takes the source code and redistributes it into the `.html`.
+  - Old browsers take in the type of `text/javascript` while newer ones also take in both the previous and `application/javascript`.
+  - `charset` tells the browser how to interpret the characters (needed for foreign languages).
+- The difference between `==` and `===`?
+  - `==` checks value while `===` checks value and type.
+  - For example `"24" == 24` would be true, but `"24" === 24` would be false because it is comparing a string and an integer.
+- What's the use of lambda functions?
+  - They are used as small anonymous functions.
+  - They can take any parameters, but can only have one expression.
+  - `lambda a : a + 10` takes in parameter `a` and adds 10 to it.
 
 # May 7, 2019
 
