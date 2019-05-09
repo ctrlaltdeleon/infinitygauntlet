@@ -549,6 +549,36 @@ print([ch for ch in "".join(['cat','dog','rabbit'])])
 
 ### 1.12: Defining Functions
 
+- Creating functions require 3 things.
+  - Name.
+  - Parameters.
+  - Body.
+
+```py
+def square(n):
+	return n**2
+```
+
+- Shakespeare program.
+
+```py
+import random
+
+def generateString(inputString):
+	alphabet = "abcdefghijklmnopqrstuvwxyz"
+	res = ""
+	for indexLoop in range(inputString):
+		res = res + alphabet[random.randrange(27)]
+	return res
+
+def compareString():
+
+def scoreString(goal, inputString):
+
+solution = "me thinks its a weasel"
+
+```
+
 `http://interactivepython.org/runestone/static/pythonds/Introduction/DefiningFunctions.html`
 
 #### BOOKMARK
