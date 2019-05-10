@@ -1,3 +1,92 @@
+# May 10, 2019
+
+- What is overloading?
+  - When you have the same function taking in different parameters.
+- Why would you use overloading?
+
+```java
+void println_emptyLine()
+void println_boolean(boolean x)
+void println_character(char x)
+
+// with overloading...
+
+void println()
+void println(boolean x)
+void println(char x)
+
+// MOTIVATES CLEAN CODE!
+```
+
+- Does Python support overloading?
+  - No, it's because you don't need to, it's flexible with default values.
+- What is overriding?
+  - When you have an inherited function, but would like to have it do something else.
+- Why would you use overloading?
+
+```java
+class Thought {
+    public void message() {
+        System.out.println("I feel like I am diagonally parked in a parallel universe.");
+    }
+}
+
+public class Advice extends Thought {
+    @Override  // @Override annotation in Java 5 is optional but helpful.
+    public void message() {
+        System.out.println("Warning: Dates in calendar are closer than they appear.");
+    }
+}
+```
+
+- What is polymorphism?
+  - Poly --> Many, Morphism --> Forms.
+  - Many forms of one thing to achieve a result.
+- Why use polymorphism?
+
+```py
+class Bird:
+	def intro(self):
+		print("There are many types of birds.")
+
+	def flight(self):
+		print("Most of the birds can fly but some cannot.")
+
+class sparrow(Bird):
+	def flight(self):
+		print("Sparrows can fly.")
+
+class ostrich(Bird):
+	def flight(self):
+		print("Ostriches cannot fly.")
+
+obj_bird = Bird()
+obj_spr = sparrow()
+obj_ost = ostrich()
+
+obj_bird.intro()
+obj_bird.flight()
+
+obj_spr.intro()
+obj_spr.flight()
+
+obj_ost.intro()
+obj_ost.flight()
+
+"""
+Output:
+
+There are many types of birds.
+Most of the birds can fly but some cannot.
+There are many types of birds.
+Sparrows can fly.
+There are many types of birds.
+Ostriches cannot fly.
+"""
+
+# MOTIVATES IMPLEMENTING INHERITANCE!
+```
+
 # May 9, 2019
 
 - What's object oriented programming?
