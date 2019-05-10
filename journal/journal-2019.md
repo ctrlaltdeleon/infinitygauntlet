@@ -1,3 +1,41 @@
+# May 9, 2019
+
+- What's object oriented programming?
+  - A way to describe what a thing is and what i can do.
+  - I made a button and what it does is log out the user.
+- What's an API?
+  - Application program interface.
+- What are interfaces?
+  - A class with no implementation, just prototyping.
+  - They provide no variables, but specific functions to be expected in an implementing class.
+- Why use interfaces?
+  - Because it means that you know two pieces will fit together wherever it's needed.
+  - Don't have to worry about if a car or truck works on a road, because they both implement the interface of vehicle.
+- Design patterns are solutions to recurring problems.
+- Types of design patterns!
+  - Creational!
+    - Focused on instantiating an object or group of related objects.
+  - Structural!
+    - Concerned with object composition (how entities can use each other).
+    - "How to create a software component?"
+  - Behavioral!
+    - Concerned with assignment of responsibilities between objects.
+    - Difference between this and structural is that not only do they specify the structure, but also outline patterns for communication between them.
+    - "How to run a behavior in software component?"
+- Examples of creational design patterns.
+  - Singleton!
+    - There can only be one president at a time. The same president has to be brought to action when needed. The president is a singleton with.
+    - Strictly create a global instance of only 1 object with all methods.
+- Examples of structural design patterns.
+  - Bridge!
+    - To have different themes for different pages, instead of creating multiple themed pages, this would apply a theme to the page.
+    - This pushes implementation details from a hierarchy to another object with a separate hierarchy.
+    - One interface would dictate webpages and getting a theme while the other would dictate the theme.
+- Examples of behavioral design patterns.
+  - State!
+    - Think `React`.
+    - If the user is logged in, update the UI to show relevant information to the user.
+
 # May 8, 2019
 
 - Is it possible to break JavaScript code into several lines?
