@@ -22,7 +22,7 @@ void println(char x)
   - No, it's because you don't need to, it's flexible with default values.
 - What is overriding?
   - When you have an inherited function, but would like to have it do something else.
-- Why would you use overloading?
+- Why would you use overriding?
 
 ```java
 class Thought {
@@ -40,7 +40,7 @@ public class Advice extends Thought {
 ```
 
 - What is polymorphism?
-  - Poly --> Many, Morphism --> Forms.
+  - Poly === Many, Morphism === Forms.
   - Many forms of one thing to achieve a result.
 - Why use polymorphism?
 
