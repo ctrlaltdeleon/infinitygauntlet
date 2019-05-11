@@ -563,22 +563,89 @@ def square(n):
 
 ```py
 import random
+import time
 
-def generateString(inputString):
-	alphabet = "abcdefghijklmnopqrstuvwxyz"
-	res = ""
-	for indexLoop in range(inputString):
-		res = res + alphabet[random.randrange(27)]
-	return res
 
-def compareString():
+def generateString(input_string):
+    alphabet = "abcdefghijklmnopqrstuvwxyz "
+    res = ""
+    for index in range(input_string):
+        res = res + alphabet[random.randrange(27)]
+    return res
 
-def scoreString(goal, inputString):
 
-solution = "me thinks its a weasel"
+def score(goal_string, input_string):
+    same = 0
+    for index in range(len(goal_string)):
+        if goal_string[index] == input_string[index]:
+            same += 1
+    return same/len(goal_string)
 
+
+past = time.time()
+goal_string = "i am iron man"
+input_string = generateString(len(goal_string))
+best = 0
+new_score = score(goal_string, input_string)
+while new_score < 1:
+    if new_score > best:
+        print("Current time: {0:.4f} seconds | Current score: {1:.2f}".format(time.time()-past, new_score),
+              "| Input string found:", input_string)
+        best = new_score
+    input_string = generateString(len(goal_string))
+    new_score = score(goal_string, input_string)
+now = time.time()
+# "Format" takes 0 index and shortens to the two decimals afterwards taking out insignificant zeroes
+print("It took {0:.2g} seconds to find:".format(now-past), input_string)
 ```
 
-`http://interactivepython.org/runestone/static/pythonds/Introduction/DefiningFunctions.html`
+- Simply switch the `goal_string` to test out different inputs.
+
+### 1.13: Object-Oriented Programming in Python: Defining Classes
+
+- Power to the users to using abstract classes.
+
+### 1.13.1: A Fraction Class
+
+- An example of a user made class that defines what fractions can do.
+
+```py
+def greatestCommonDenominator(m,n):
+    while m%n != 0:
+        oldm = m
+        oldn = n
+
+        m = oldn
+        n = oldm%oldn
+    return n
+
+class Fraction:
+     def __init__(self,top,bottom):
+         self.num = top
+         self.den = bottom
+
+     def __str__(self):
+         return str(self.num)+"/"+str(self.den)
+
+     def show(self):
+         print(self.num,"/",self.den)
+
+     def __add__(self,otherfraction):
+         newnum = self.num*otherfraction.den + self.den*otherfraction.num
+         newden = self.den * otherfraction.den
+         common = greatestCommonDenominator(newnum,newden)
+         return Fraction(newnum//common,newden//common)
+
+     def __eq__(self, other):
+         firstnum = self.num * other.den
+         secondnum = other.num * self.den
+
+         return firstnum == secondnum
+
+x = Fraction(1,2)
+y = Fraction(2,3)
+print(x+y)
+print(x == y)
+```
 
 #### BOOKMARK

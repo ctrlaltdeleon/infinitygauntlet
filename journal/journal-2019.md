@@ -1,5 +1,15 @@
 # May 10, 2019
 
+- Made a `python` file which makes several strings and stops running when a specific string is found.
+  - Had a lot of fun with this, formatted the output to be digestible.
+
+```py
+Current time: 0.0000 seconds | Current score: 0.25 | Input string found: yyaa
+Current time: 0.0040 seconds | Current score: 0.50 | Input string found: rnss
+Current time: 0.0317 seconds | Current score: 0.75 | Input string found: tess
+It took 0.22 seconds to find: yess
+```
+
 - What is overloading?
   - When you have the same function taking in different parameters.
 - Why would you use overloading?
@@ -86,6 +96,15 @@ Ostriches cannot fly.
 
 # MOTIVATES IMPLEMENTING INHERITANCE!
 ```
+
+- What is boxing and unboxing?
+  - Boxing is to convert a data type to an object.
+  - Unboxing is the opposite, to convert an object to a data type.
+- What's the difference between libraries and frameworks?
+  - A library performs specific defined functions, like getting a piece of furniture that completes your home.
+  - A framework provides a foundation where you input where you can, like selecting a house, but there's little options you can augment, but at the end of the day, it's up to the framework.
+- What is a web service?
+  - Another name for remote APIs.
 
 # May 9, 2019
 

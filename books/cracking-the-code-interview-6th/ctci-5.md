@@ -5,12 +5,12 @@
 ### Interview Preparation Grid
 
 - Have 3 separate projects for each of the common questions.
-  - Challenges
-  - Mistakes/Failures
-  - Enjoyed
-  - Leadership
-  - Conflicts
-  - What You'd Do Differently
+  - Challenges.
+  - Mistakes/Failures.
+  - Enjoyed.
+  - Leadership.
+  - Conflicts.
+  - What You'd Do Differently.
 
 ### What Are Your Weaknesses?
 

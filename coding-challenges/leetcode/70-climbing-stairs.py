@@ -23,7 +23,7 @@ class Solution:
         # Formula input of f(n) = f(n-1) + f(n-2).
         step1 = 1
         step2 = 2
-        for indexLoop in range(2, n):
+        for index in range(2, n):
             temp = step2
             step2 = temp + step1
             step1 = temp
