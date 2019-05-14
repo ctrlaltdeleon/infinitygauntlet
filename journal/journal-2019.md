@@ -1,3 +1,40 @@
+# May 12, 2019
+
+- `<div class="">` vs `<div id="">`?
+  - `class` is applied to many things (`.someClass`).
+  - `id` is specific for one area (`#someID`).
+- What is best practice for `<div class="">` vs `<div id="">`?
+  - Usually want to `id` things such as `header`, `footer`, `sidebar` because there's only 1 `header` as such.
+  - For something like `card`, a `class` would be wonderful because there is usually more than one `card` on a webpage.
+- What happens if you use both `<div class="">` and `<div id="">`?
+  - `id` will take precedence over the `class` selectors.
+  - In the below code, `Hello!` would be red.
+
+```html
+<!-- index.html -->
+
+<p id="intro" class="foo">Hello!</p>
+```
+
+```css
+/* style.css */
+
+#intro {
+  color: red;
+}
+.foo {
+  color: blue;
+}
+```
+
+# May 11, 2019
+
+- What does `HTML` mean?
+  - HyperText Markup Language.
+- `HTML5` vs `HTML`?
+  - `HTML5` offers more such as new tags `<canvas>`. `<video>`, `<audio>`, and more bring much more.
+  - `HTML` does not, but still is supported on all browsers as opposed to the updated `HTML5` which doesn't.
+
 # May 10, 2019
 
 - Made a `python` file which makes several strings and stops running when a specific string is found.
