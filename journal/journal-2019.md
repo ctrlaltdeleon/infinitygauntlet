@@ -1,3 +1,7 @@
+# May 14, 2019
+
+- Worked on Mindera interview.
+
 # May 13, 2019
 
 - What is `jQuery`?
@@ -21,21 +25,21 @@ $("img").width(50);
 ```
 
 - How do you do a `fetch` call in `JavaScript`?
-  
+
 ```js
 // enclosed in a script tag
 
 var apiUrl = "%WHERE_THE_FILE_IS%";
-  fetch(apiUrl)
-    .then(response => {
-      return response.json();
-    })
-    .then(data => {
-      console.log("Work with the JSON data here: ", data);
-    })
-    .catch(err => {
-      console.log("Work with the errors here:", err);
-    });
+fetch(apiUrl)
+  .then(response => {
+    return response.json();
+  })
+  .then(data => {
+    console.log("Work with the JSON data here: ", data);
+  })
+  .catch(err => {
+    console.log("Work with the errors here:", err);
+  });
 ```
 
 - How should someone load a `.json` onto `HTML` ?
