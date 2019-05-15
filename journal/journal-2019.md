@@ -1,3 +1,52 @@
+# May 13, 2019
+
+- What is `jQuery`?
+  - A library of JavaScript functions that make it easier to do common tasks such as:
+    - Manipulating webpage.
+    - Responding to user events.
+    - Getting data from servers.
+    - Building effects and animation.
+
+```js
+// javascript
+
+var images = document.getElementsByTagName("img");
+for (var i = 0; i < images.length; i++) {
+  images[i].style.width = "50px";
+}
+
+// jquery
+
+$("img").width(50);
+```
+
+- How do you do a `fetch` call in `JavaScript`?
+  
+```js
+// enclosed in a script tag
+
+var apiUrl = "%WHERE_THE_FILE_IS%";
+  fetch(apiUrl)
+    .then(response => {
+      return response.json();
+    })
+    .then(data => {
+      console.log("Work with the JSON data here: ", data);
+    })
+    .catch(err => {
+      console.log("Work with the errors here:", err);
+    });
+```
+
+- How should someone load a `.json` onto `HTML` ?
+  - By using fragments so that when a large data set comes, it'll be pieced together rather than waiting for the whole load.
+- Difference between `margin` and `padding`?
+  - `Margin` takes place outside the `border`.
+  - `Padding` takes place inside the `border`.
+- How does `padding` work in terms of placement?
+  - Think like the top of a clock.
+  - `padding: top right bottom left;`
+
 # May 12, 2019
 
 - `<div class="">` vs `<div id="">`?
