@@ -1,5 +1,31 @@
+# May 15, 2019
+
+- What is `React`?
+  - React is a front-end JavaScript library developed by Facebook in 2011.
+  - It follows component based approach which helps in reusable UI components.
+- What are the features of `React`?
+  - Virtual DOM.
+  - Server-side rendering.
+  - Uni-directional data flow.
+- What's a `DOM`?
+  - Document Object Model.
+  - Gives characteristics to specific parts of an application.
+  - It's a tree.
+
+```txt
+      html
+    /      \
+  head    body
+   |     /    \
+  title h1    div
+```
+
+- Gym!
+  - Back and biceps.
+
 # May 14, 2019
 
+- **Avengers: Endgame!** Round Three?
 - Worked on Mindera interview.
 
 # May 13, 2019
@@ -50,6 +76,8 @@ fetch(apiUrl)
 - How does `padding` work in terms of placement?
   - Think like the top of a clock.
   - `padding: top right bottom left;`
+- Gym!
+  - Freedom workout.
 
 # May 12, 2019
 
@@ -260,6 +288,8 @@ Ostriches cannot fly.
 # May 7, 2019
 
 - **Code Geass: Lelouch of the Re;surrection!**
+- Gym!
+  - Legs and shoulders.
 
 # May 6, 2019
 
@@ -277,8 +307,6 @@ Ostriches cannot fly.
 
 # May 3, 2019
 
-- Photography!
-  - Shot photos for an organization's banquet, over 700+ photos.
 - Main differences between Java VS JavaScript.
   - Java.
     - Object oriented programming language.
@@ -312,6 +340,10 @@ Ostriches cannot fly.
   - Instead of `clockerino.AddDays(1);`, do `clockerino = clockerino.AddDays(1);`
 - What do you do if you encounter a `for` loop with augmenting a string?
   - Use `StringBuilder` if available, fast and less memory.
+- Photography!
+  - Shot photos for an organization's banquet, over 700+ photos.
+- Gym!
+  - Chest and triceps.
 
 # May 2, 2019
 
@@ -337,6 +369,8 @@ Ostriches cannot fly.
   - Polymorphism.
     - Refactor ugly switch/case statements.
     - Charizard can use "flamethrower" like Charmander, but a different version called "fire blast!".
+- Gym!
+  - Back and biceps.
 
 # April 30, 2019
 
