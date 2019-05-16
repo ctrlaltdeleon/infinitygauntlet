@@ -374,10 +374,10 @@ Ostriches cannot fly.
 
 # April 30, 2019
 
+- Applied to Viasat.
 - **Avengers: Endgame!** Round Two!
 - Minecraft!
   - Got updated with the recent patches and gathered a team to build in a snow biome.
-- Applied to Viasat.
 
 # April 29, 2019
 
@@ -390,11 +390,13 @@ Ostriches cannot fly.
 
 # April 27, 2019
 
-- Photography!
-  - Shot more graduation pictures, this time a group of 3.
 - Finished curating the `Gitbook`!
 - Posted to LinkedIn about the `Gitbook`.
 - Tried out different online coding assessment testing such as `DevSkiller` and `Codility`.
+- Photography!
+  - Shot more graduation pictures, this time a group of 3.
+- Gym!
+  - Legs and shoulders.
 
 # April 26, 2019
 
@@ -480,8 +482,11 @@ handleClick = event => {
     - I thought this was necessary to avoid questions on topics I wasn't too familiar about because there were no skill levels to differentiate.
 - Applied to CyberCoders.
 - Cleaned out the Thunderbird email!
+- Gym!
+  - Legs and shoulders.
 
 # April 16, 2019
 
 - Created a `Gitbook` for the repository of `infinitygauntlet`.
   - `Gitbook` is a hosting platform to showcase markdown files in a repository. Great for making books.
+- Started the journal! About time.
