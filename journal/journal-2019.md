@@ -1,3 +1,7 @@
+# May 17, 2019
+
+- N/A
+
 # May 16, 2019
 
 - Remember to fix the `PATH` when using `Visual Studio Code` to reference compilers!
@@ -27,6 +31,15 @@ render() {
   - `componentWillReceiveProps` is called before `componentWillUpdate`.
   - `componentWillReceiveProps` allows to `setState`.
   - `componentWillUpdate` allows a response to the `setState` change.
+- What is business logic in terms of computer software?
+  - Part of the program that encodes the real-world business rules that determines how data can be create, displayed, stored, and changed.
+  - Usually falls into these 3 categories:
+    - Verification. (Identifying the user accessing what.)
+    - Transformation. (Augmenting what the user can do.)
+    - Processing. (How the data gets transferred securely.)
+- When is it appropriate to use component state vs `Redux` store?
+  - If a component just needs to display data and can receive data from a parent, use `Redux` store.
+  - Otherwise if it needs the state, use component state.
 
 # May 15, 2019
 
