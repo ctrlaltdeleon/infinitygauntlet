@@ -1,3 +1,33 @@
+# May 16, 2019
+
+- Remember to fix the `PATH` when using `Visual Studio Code` to reference compilers!
+- What are advantages of `React`?
+  - Increase application performance.
+  - Easily integrated with other frameworks.
+- What are disadvantages of `React`?
+  - Just a library, not a full framework.
+  - Library is large and takes time to understand.
+  - Difficult for novice programmers to understand.
+  - Code gets complex through inline templating and `JSX`.
+- What is `JSX`?
+  - `JavaScript XML`.
+  - A `React` extension that allows to write `JavaScript` that looks like `HTML`.
+
+```js
+render() {
+  return(
+    <div>
+      <h1>This is JSX!</h1>
+    </div>
+  )
+}
+```
+
+- Difference between `componentWillReceiveProps` and `componentWillUpdate`?
+  - `componentWillReceiveProps` is called before `componentWillUpdate`.
+  - `componentWillReceiveProps` allows to `setState`.
+  - `componentWillUpdate` allows a response to the `setState` change.
+
 # May 15, 2019
 
 - What is `React`?
