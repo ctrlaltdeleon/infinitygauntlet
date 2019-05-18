@@ -1,10 +1,164 @@
 # May 17, 2019
 
-- N/A
+- When would you use `shouldComponentUpdate`?
+  - When something is being updated, but don't want to re-render.
+  - When something about the application starts to feel slow.
+  - Downside is that if implemented incorrectly, many bugs may arise.
+- When do you make a component reusable?
+  - When it's being re-written in other components (more than 1).
+- At what point is a component too big?
+  - A component is too big if it's doing more than 1 job.
+- When do you split a component into several smaller components?
+  - A component is split into several smaller components when reusable components are predictable as well as simplifying unit testing.
+- What is `React Context`?
+  - Provides a way to pass data through the component tree without having to pass `props` down manually at every level.
+- What are some use cases for `React Context`?
+
+```jsx
+// Without React Context.
+class App extends React.Component {
+  render() {
+    return <Toolbar theme="dark" />;
+  }
+}
+
+function Toolbar(props) {
+  // The Toolbar component must take an extra "theme" prop
+  // and pass it to the ThemedButton. This can become painful
+  // if every single button in the app needs to know the theme
+  // because it would have to be passed through all components.
+  return (
+    <div>
+      <ThemedButton theme={props.theme} />
+    </div>
+  );
+}
+
+class ThemedButton extends React.Component {
+  render() {
+    return <Button theme={this.props.theme} />;
+  }
+}
+
+// WITH REACT CONTEXT!
+
+// Context lets us pass a value deep into the component tree
+// without explicitly threading it through every component.
+// Create a context for the current theme (with "light" as the default).
+const ThemeContext = React.createContext('light');
+
+class App extends React.Component {
+  render() {
+    // Use a Provider to pass the current theme to the tree below.
+    // Any component can read it, no matter how deep it is.
+    // In this example, we're passing "dark" as the current value.
+    return (
+      <ThemeContext.Provider value="dark">
+        <Toolbar />
+      </ThemeContext.Provider>
+    );
+  }
+}
+
+// A component in the middle doesn't have to
+// pass the theme down explicitly anymore.
+function Toolbar(props) {
+  return (
+    <div>
+      <ThemedButton />
+    </div>
+  );
+}
+
+class ThemedButton extends React.Component {
+  // Assign a contextType to read the current theme context.
+  // React will find the closest theme Provider above and use its value.
+  // In this example, the current theme is "dark".
+  static contextType = ThemeContext;
+  render() {
+    return <Button theme={this.context} />;
+  }
+}
+```
+
+- `React Context` vs `React Redux`, when should I use each one?
+  - If you're only using `Redux` to avoid passing down `props`, context could replace `Redux` - but then you probably didn't need `Redux` in the first place.
+  - `Context` also doesn't give you anything like the `Redux DevTools`, the ability to trace your state updates, middleware to add centralized application logic, and other powerful capabilities that `Redux` enables.
+- How to handle errors in `React`?
+  - Without specification from the developer, that page will turn blank to prevent spilling any info to malicious users.
+
+```jsx
+// Error handler component.
+
+class ErrorHandler extends React.Component {
+  constructor(props) {
+    super(props)
+    this.state = { errorOccurred: false }
+  }
+
+  componentDidCatch(error, info) {
+    this.setState({ errorOccurred: true })
+    logErrorToMyService(error, info) // If you use a service such as Sentry, Roller, Airbrake, or others.
+  }
+
+  render() {
+    return this.state.errorOccurred ? <h1>Something went wrong!</h1> : this.props.children
+  }
+}
+
+// Then wrap the component being monitored for errors like so.
+
+<ErrorHandler>
+  <SomeOtherComponent />
+</ErrorHandler>
+```
+
+- What is the difference between an action, and an action creator in `Redux`?
+  - An action is a payload of information we send to the store.
+  - An action creator is a function that creates and returns an action.
+
+```js
+// Action.
+
+type Action = {    
+  type: string;     // Actions MUST have a type.   
+  payload?: any;    // Actions MAY have a payload.    
+  meta?: any;       // Actions MAY have meta information.    
+  error?: boolean;  // Actions MAY have an error field.                  
+                    // When true, payload SHOULD contain an Error.
+};
+
+// Action creator.
+
+const getUserDetailsRequest = id => ({  
+  type: Actions.GET_USER_DETAILS_REQUEST,
+  payload: id,
+});
+```
+
+- What is the `Redux` store?
+  - The whole state of the app in an immutable object tree.
+- Why use the `Redux` store?
+  - Instead of passing `props` consistently down to all children, the children can just reference the store to reduce complexity.
+- What's a reducer?
+  - Specify how the app's state changes in response to actions sent to the store. 
+  - Remember that actions only describe what happened, but don't describe how the application's state changes.
+- How does unit testing work?
+  - Usually through use of testing libraries.
+
+```js
+// Example of unit testing using Enzyme.
+
+describe('<MyComponent />', () => {
+  it('Renders three <Wow /> components!', () => {
+    const wrapper = shallow(<MyComponent />);
+    expect(wrapper.find(Wow)).to.have.lengthOf(3);
+  });
+```
 
 # May 16, 2019
 
-- Remember to fix the `PATH` when using `Visual Studio Code` to reference compilers!
+- Remember to fix the `PATH` when using `Visual Studio Code` to reference compilers (especially with `Python`)!
 - What are advantages of `React`?
   - Increase application performance.
   - Easily integrated with other frameworks.
@@ -17,7 +171,7 @@
   - `JavaScript XML`.
   - A `React` extension that allows to write `JavaScript` that looks like `HTML`.
 
-```js
+```jsx
 render() {
   return(
     <div>
@@ -44,13 +198,13 @@ render() {
 # May 15, 2019
 
 - What is `React`?
-  - React is a front-end JavaScript library developed by Facebook in 2011.
+  - React is a front-end `JavaScript` library developed by Facebook in 2011.
   - It follows component based approach which helps in reusable UI components.
 - What are the features of `React`?
   - Virtual DOM.
   - Server-side rendering.
   - Uni-directional data flow.
-- What's a `DOM`?
+- What's a DOM?
   - Document Object Model.
   - Gives characteristics to specific parts of an application.
   - It's a tree.
@@ -74,21 +228,21 @@ render() {
 # May 13, 2019
 
 - What is `jQuery`?
-  - A library of JavaScript functions that make it easier to do common tasks such as:
+  - A library of `JavaScript` functions that make it easier to do common tasks such as:
     - Manipulating webpage.
     - Responding to user events.
     - Getting data from servers.
     - Building effects and animation.
 
 ```js
-// javascript
+// JavaScript.
 
 var images = document.getElementsByTagName("img");
 for (var i = 0; i < images.length; i++) {
   images[i].style.width = "50px";
 }
 
-// jquery
+// JQuery.
 
 $("img").width(50);
 ```
@@ -96,7 +250,7 @@ $("img").width(50);
 - How do you do a `fetch` call in `JavaScript`?
 
 ```js
-// enclosed in a script tag
+// Enclosed in a <script></script>.
 
 var apiUrl = "%WHERE_THE_FILE_IS%";
 fetch(apiUrl)
@@ -126,10 +280,10 @@ fetch(apiUrl)
 
 - `<div class="">` vs `<div id="">`?
   - `class` is applied to many things (`.someClass`).
-  - `id` is specific for one area (`#someID`).
+  - `id` is specific for 1 area (`#someID`).
 - What is best practice for `<div class="">` vs `<div id="">`?
   - Usually want to `id` things such as `header`, `footer`, `sidebar` because there's only 1 `header` as such.
-  - For something like `card`, a `class` would be wonderful because there is usually more than one `card` on a webpage.
+  - For something like `card`, a `class` would be wonderful because there is usually more than 1 `card` on a webpage.
 - What happens if you use both `<div class="">` and `<div id="">`?
   - `id` will take precedence over the `class` selectors.
   - In the below code, `Hello!` would be red.
@@ -161,7 +315,7 @@ fetch(apiUrl)
 
 # May 10, 2019
 
-- Made a `python` file which makes several strings and stops running when a specific string is found.
+- Made a `Python` file which makes several strings and stops running when a specific string is found.
   - Had a lot of fun with this, formatted the output to be digestible.
 
 ```py
@@ -180,7 +334,7 @@ void println_emptyLine()
 void println_boolean(boolean x)
 void println_character(char x)
 
-// with overloading...
+// With overloading...
 
 void println()
 void println(boolean x)
@@ -189,7 +343,7 @@ void println(char x)
 // MOTIVATES CLEAN CODE!
 ```
 
-- Does Python support overloading?
+- Does `Python` support overloading?
   - No, it's because you don't need to, it's flexible with default values.
 - What is overriding?
   - When you have an inherited function, but would like to have it do something else.
@@ -212,7 +366,7 @@ public class Advice extends Thought {
 
 - What is polymorphism?
   - Poly === Many, Morphism === Forms.
-  - Many forms of one thing to achieve a result.
+  - Many forms of 1 thing to achieve a result.
 - Why use polymorphism?
 
 ```py
@@ -278,7 +432,7 @@ Ostriches cannot fly.
   - A class with no implementation, just prototyping.
   - They provide no variables, but specific functions to be expected in an implementing class.
 - Why use interfaces?
-  - Because it means that you know two pieces will fit together wherever it's needed.
+  - Because it means that you know 2 pieces will fit together wherever it's needed.
   - Don't have to worry about if a car or truck works on a road, because they both implement the interface of vehicle.
 - Design patterns are solutions to recurring problems.
 - Types of design patterns!
@@ -293,7 +447,7 @@ Ostriches cannot fly.
     - "How to run a behavior in software component?"
 - Examples of creational design patterns.
   - Singleton!
-    - There can only be one president at a time. The same president has to be brought to action when needed. The president is a singleton with.
+    - There can only be 1 president at a time. The same president has to be brought to action when needed. The president is a singleton with.
     - Strictly create a global instance of only 1 object with all methods.
 - Examples of structural design patterns.
   - Bridge!
@@ -307,15 +461,15 @@ Ostriches cannot fly.
 
 # May 8, 2019
 
-- Is it possible to break JavaScript code into several lines?
+- Is it possible to break `JavaScript` code into several lines?
   - Yes through utilizing the backslash `\`.
-- Which company developed JavaScript?
-  - Netscape is the software company who developed JavaScript.
-  - Brendan Eich in 1995 was the one who spearheaded the language.
+- Which company developed `JavaScript`?
+  - Netscape is the software company who developed `JavaScript`.
+  - Brendan Eich in 1995 was the 1 who spearheaded the language.
 - Differences between undeclared and undefined variables?
   - Undeclared variables are variables that don't exist yet.
   - Undefined variables are variables that don't have meaning yet.
-- Write the code for adding new elements dynamically in JavaScript?
+- Write the code for adding new elements dynamically in `JavaScript`?
   - Inside the `.html` file, put a `<script src="/index.js" type="text/javascript" charset="UTF-8">` with the code within.
   - `src` takes the source code and redistributes it into the `.html`.
   - Old browsers take in the type of `text/javascript` while newer ones also take in both the previous and `application/javascript`.
@@ -325,7 +479,7 @@ Ostriches cannot fly.
   - For example `"24" == 24` would be true, but `"24" === 24` would be false because it is comparing a string and an integer.
 - What's the use of lambda functions?
   - They are used as small anonymous functions.
-  - They can take any parameters, but can only have one expression.
+  - They can take any parameters, but can only have 1 expression.
   - `lambda a : a + 10` takes in parameter `a` and adds 10 to it.
 
 # May 7, 2019
@@ -350,26 +504,26 @@ Ostriches cannot fly.
 
 # May 3, 2019
 
-- Main differences between Java VS JavaScript.
-  - Java.
+- Main differences between `Java` VS `JavaScript`.
+  - `Java`.
     - Object oriented programming language.
       - Compiled (non-human readable code) then executed.
-    - Mainly runs on the Java Virtual Machine (JVM).
-  - JavaScript.
+    - Mainly runs on the `Java` Virtual Machine (JVM).
+  - `JavaScript`.
     - Object oriented scripting language.
       - Interpreted (not compiled).
-    - Mainly runs on browser (More applications through React now).
-- JavaScript Data Types?
+    - Mainly runs on browser (More applications through `React` now).
+- `JavaScript` Data Types?
   - Number.
   - String.
   - Boolean.
   - Object (When you don't know what it'll be during compile time).
   - Undefined.
-- In JavaScript, what is the use of `isNaN` function?
+- In `JavaScript`, what is the use of `isNaN` function?
   - `isNaN` returns true if argument is not a number, else false.
-- How do you achieve negative infinity in JavaScript?
+- How do you achieve negative infinity in `JavaScript`?
   - `%NEGATIVE_NUMBER%/0`
-- What does `console.log(A || B) do?
+- What does `console.log(A || B)` do?
   - Same as a ternary, if A exists, print A, otherwise B.
 - Difference between a method and function?
   - Methods are functions that are members of a class.
@@ -393,8 +547,8 @@ Ostriches cannot fly.
 - More OOP understanding.
   - Classes are like blueprints.
     - These classes contain properties and methods.
-      - Properties are such as "fire type".
-      - Methods are such as "flamethrower".
+      - Properties are such as `var type = fire`.
+      - Methods are such as `flamethrower()`.
 
 # May 1, 2019
 
@@ -402,7 +556,7 @@ Ostriches cannot fly.
 - Object oriented programming revolves around 4 pillars.
   - Encapsulation.
     - Reduce complexity + increase resuability.
-    - Charmander is hungry. You can feed() Charmander, but you can't change how hungry the cat is directly because that's private properties.
+    - Charmander is hungry. You can `feed()` Charmander, but you can't change how hungry the Charmander is directly because that's private properties.
   - Abstraction.
     - Reduce complexity + isolate impact of changes.
     - Charmander can use flamethrower, but you don't know how it does it, you just use it.
@@ -411,7 +565,7 @@ Ostriches cannot fly.
     - Charizard inherits Charmander's traits and moves, no need to recreate.
   - Polymorphism.
     - Refactor ugly switch/case statements.
-    - Charizard can use "flamethrower" like Charmander, but a different version called "fire blast!".
+    - Charizard can use `flamethrower()` like Charmander, but a different version called `fireBlast()`.
 - Gym!
   - Back and biceps.
 
@@ -435,7 +589,7 @@ Ostriches cannot fly.
 
 - Finished curating the `Gitbook`!
 - Posted to LinkedIn about the `Gitbook`.
-- Tried out different online coding assessment testing such as `DevSkiller` and `Codility`.
+- Tried out different online coding assessment testing such as DevSkiller and Codility.
 - Photography!
   - Shot more graduation pictures, this time a group of 3.
 - Gym!
@@ -489,7 +643,7 @@ Ostriches cannot fly.
 
 # April 18, 2019
 
-- Went over `ReactJS` technicalities.
+- Went over `React` technicalities.
 - Instead of writing `.bind(this)` to every method that exists...
 
 ```js
@@ -499,7 +653,7 @@ constructor(props){
 }
 
 handleClick(event){
-  // do stuff!
+  // Do stuff!
 }
 ```
 
@@ -508,19 +662,19 @@ handleClick(event){
 
 ```js
 handleClick = event => {
-  // do stuff!
+  // Do stuff!
 };
 ```
 
-- With `Context` and `Hooks` available for `ReactJS` now, `Redux` may be a thing in the past.
+- With `Context` and `Hooks` available for `React` now, `Redux` may be a thing in the past.
 
 # April 17, 2019
 
-- Messaged Anthony, host of San Diego JavaScript Community Talks, about performing a talk.
+- Messaged Anthony, host of San Diego `JavaScript` Community Talks, about performing a talk.
 - Messaged the General Assembly group of LA about future hackathons.
   - Feels nice to have a community dev spot for me in LA!
 - Updated creddle.io resume.
-  - Removed the `knucklesbattle` repo with the `acfromspacex` repo to harbor current technologies I'm working with which is mainly `ReactJS` as well as touching other technologies such as `GraphQL` and `Apollo'.
+  - Removed the `knucklesbattle` repo with the `acfromspacex` repo to harbor current technologies I'm working with which is mainly `React` as well as touching other technologies such as `GraphQL` and `Apollo`.
   - Updated skills to go from "advanced, proficient, exploring" rather than placed by "programming languages, web technologies, creative software engines, databases".
     - I thought this was necessary to avoid questions on topics I wasn't too familiar about because there were no skill levels to differentiate.
 - Applied to CyberCoders.

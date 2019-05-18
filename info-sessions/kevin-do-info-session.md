@@ -100,10 +100,13 @@ ReactDOM.render(
 ```
 
 - https://devskiller.com/coding-tests-skill/react/
-- What’d you think of the take home test? (if they did a take home test)
-- TypeScript experience? Overall JavaScript experience? Overall async experience?
-- Styling? Sass, inline, other?
-- React
+- What’d you think of the take home test? (If they did a take home test.)
+- TypeScript experience? 
+- Overall JavaScript experience? 
+- Overall async experience?
+- Styling? 
+  - Sass, inline, other?
+- React?
   - General experience with React?
   - Difference between componentWillUpdate and componentWillReceiveProps?
   - Where do you put business logic?
@@ -115,22 +118,29 @@ ReactDOM.render(
   - What are some use cases for React Context?
   - Any pitfalls?
   - Error handling?
-- Redux / Flux
+- Redux/Flux?
   - General experience with Redux and Flux patterns?
   - What is the difference between an action, and an action creator?
   - If Redux experience:
-  - What is the Redux store?
-  - What’s a reducer?
-  - What’s a container component?
-  - How do you deal with async actions?
-  - Thunks, sagas, other?
-  - if Flux experience:
-  - What’s a store?
-  - Separation of logic between action creators and stores?
-  - Pros and cons of single dispatch?
-  - How do you deal with async actions?
+    - What is the Redux store?
+    - What’s a reducer?
+    - What’s a container component?
+    - How do you deal with async actions?
+    - Thunks, sagas, other?
+  - If Flux experience:
+    - What’s a store?
+    - Separation of logic between action creators and stores?
+    - Pros and cons of single dispatch?
+    - How do you deal with async actions?
 - Error handling?
-- Testing experience? Unit tests Manual tests
-- Cultural - Bias for Action
-- Give me an example of a calculated risk that you have taken where speed was critical. What was the situation and how did you handle it? What steps did you take to mitigate the risk? What was the outcome?
-- Describe a situation where you made an important business decision without consulting your manager. What was the situation and how did it turn out?
+  - How would you handle errors?
+- Testing experience? 
+  - Unit tests?
+  - Manual vs automatic tests?
+- Cultural?
+  - Bias for action?
+- Give me an example of a calculated risk that you have taken where speed was critical. 
+  - What was the situation and how did you handle it? 
+  - What steps did you take to mitigate the risk? What was the outcome?
+- Describe a situation where you made an important business decision without consulting your manager. 
+  - What was the situation and how did it turn out?
