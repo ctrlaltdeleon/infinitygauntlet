@@ -1,3 +1,10 @@
+# May 18, 2019
+
+- What's `React Hooks`?
+  - If you're familiar with `Redux`, it's a state management system for your app.
+  - It's slowly being included in `React`, previous being `React Context`, but `React Hooks` provides a more fulfilling role.
+- `React Hooks` replacing `Redux` seems to be a hot topic nowadays, it'll depend more on what each has to offer as `React Hooks` is new.
+
 # May 17, 2019
 
 - When would you use `shouldComponentUpdate`?
