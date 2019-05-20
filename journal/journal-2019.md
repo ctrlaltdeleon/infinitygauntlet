@@ -1,3 +1,8 @@
+# May 19, 2019
+
+- Decided to start applying for careers through the phone, needed to set up phone in order to do so.
+- Disneyland!
+
 # May 18, 2019
 
 - What's `React Hooks`?
@@ -52,7 +57,7 @@ class ThemedButton extends React.Component {
 // Context lets us pass a value deep into the component tree
 // without explicitly threading it through every component.
 // Create a context for the current theme (with "light" as the default).
-const ThemeContext = React.createContext('light');
+const ThemeContext = React.createContext("light");
 
 class App extends React.Component {
   render() {
@@ -99,17 +104,21 @@ class ThemedButton extends React.Component {
 
 class ErrorHandler extends React.Component {
   constructor(props) {
-    super(props)
-    this.state = { errorOccurred: false }
+    super(props);
+    this.state = { errorOccurred: false };
   }
 
   componentDidCatch(error, info) {
-    this.setState({ errorOccurred: true })
-    logErrorToMyService(error, info) // If you use a service such as Sentry, Roller, Airbrake, or others.
+    this.setState({ errorOccurred: true });
+    logErrorToMyService(error, info); // If you use a service such as Sentry, Roller, Airbrake, or others.
   }
 
   render() {
-    return this.state.errorOccurred ? <h1>Something went wrong!</h1> : this.props.children
+    return this.state.errorOccurred ? (
+      <h1>Something went wrong!</h1>
+    ) : (
+      this.props.children
+    );
   }
 }
 
@@ -117,7 +126,7 @@ class ErrorHandler extends React.Component {
 
 <ErrorHandler>
   <SomeOtherComponent />
-</ErrorHandler>
+</ErrorHandler>;
 ```
 
 - What is the difference between an action, and an action creator in `Redux`?
@@ -127,17 +136,17 @@ class ErrorHandler extends React.Component {
 ```js
 // Action.
 
-type Action = {    
-  type: string;     // Actions MUST have a type.   
-  payload?: any;    // Actions MAY have a payload.    
-  meta?: any;       // Actions MAY have meta information.    
-  error?: boolean;  // Actions MAY have an error field.                  
-                    // When true, payload SHOULD contain an Error.
+type Action = {
+  type: string, // Actions MUST have a type.
+  payload?: any, // Actions MAY have a payload.
+  meta?: any, // Actions MAY have meta information.
+  error?: boolean, // Actions MAY have an error field.
+  // When true, payload SHOULD contain an Error.
 };
 
 // Action creator.
 
-const getUserDetailsRequest = id => ({  
+const getUserDetailsRequest = id => ({
   type: Actions.GET_USER_DETAILS_REQUEST,
   payload: id,
 });
@@ -148,7 +157,7 @@ const getUserDetailsRequest = id => ({
 - Why use the `Redux` store?
   - Instead of passing `props` consistently down to all children, the children can just reference the store to reduce complexity.
 - What's a reducer?
-  - Specify how the app's state changes in response to actions sent to the store. 
+  - Specify how the app's state changes in response to actions sent to the store.
   - Remember that actions only describe what happened, but don't describe how the application's state changes.
 - How does unit testing work?
   - Usually through use of testing libraries.
