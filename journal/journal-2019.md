@@ -1,3 +1,7 @@
+# May 20, 2019
+
+- N/A
+
 # May 19, 2019
 
 - Decided to start applying for careers through the phone, needed to set up phone in order to do so.
