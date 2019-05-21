@@ -1,6 +1,7 @@
 # May 20, 2019
 
-- N/A
+- Data type is to variable as class is to object!
+- Applied to more places and cleaned out my emails!
 
 # May 19, 2019
 
