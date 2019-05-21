@@ -1,3 +1,7 @@
+# May 21, 2019
+
+- N/A
+
 # May 20, 2019
 
 - Data type is to variable as class is to object!
