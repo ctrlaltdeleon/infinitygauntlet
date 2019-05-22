@@ -1,6 +1,6 @@
 # May 21, 2019
 
-- N/A
+- SF Game Development Meetup!
 
 # May 20, 2019
 
