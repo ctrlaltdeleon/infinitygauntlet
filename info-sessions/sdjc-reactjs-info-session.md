@@ -3,7 +3,7 @@
 ```
 Name:       San Diego JavaScript Community: ReactJS Monthly Meetup @ Amazon
 Time:       Wednesday, April 10, 2019
-Bio:        San Diego JavaScript Group
+Bio:        San Diego JavaScript Community
 Contact:    Organizer, Anthony Valera (@anthonyvalera anthonyvalera.com)
 ```
 
