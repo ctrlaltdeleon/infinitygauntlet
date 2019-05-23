@@ -1,3 +1,11 @@
+# May 23, 2019
+
+- N/A
+
+# May 22, 2019
+
+- Helped build a new computer for a friend!
+
 # May 21, 2019
 
 - SF Game Development Community Meetup!
