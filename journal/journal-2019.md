@@ -1,6 +1,7 @@
 # May 23, 2019
 
-- N/A
+- C# training.
+- Fixed resume due to school email expiring soon.
 
 # May 22, 2019
 
