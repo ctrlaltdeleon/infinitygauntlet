@@ -1,9 +1,23 @@
+# May 26, 2019
+
+- C# training.
+
+# May 25, 2019
+
+- C# training.
+- Gym!
+  - Freedom.
+
 # May 24, 2019
 
 - What's the difference between `float`, `double`, and `decimal`?
   - `float` is 32 bit (7 digits).
   - `double` is 64 bit (15-16 digits).
   - `decimal` is 128 bit (28-29 significant digits).
+- When would you use `float`, `double`, and `decimal`?
+  - `float` for graphics due to high processing power.
+  - `double` for everything else.
+  - `decimal` for financial apps.
 
 # May 23, 2019
 

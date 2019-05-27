@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// 1:00:15
+
 namespace Giraffe
 {
     class Program
@@ -19,7 +21,6 @@ namespace Giraffe
             Console.WriteLine(num / 2.0); // Returns a decimal.
             Console.WriteLine(Math.Abs(-num)); // Calling methods.
             Console.WriteLine(Math.Max(num, num + 5)); // Finds the max number between 2 parameters.
-
 
             Console.ReadLine();
         }

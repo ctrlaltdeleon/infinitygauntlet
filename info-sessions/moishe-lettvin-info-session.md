@@ -12,9 +12,9 @@ Notes:
 - Committee reviews a packet of data dependent on the interview.
   - The 4/5 on-site interviewers are the ones who create the packet.
 - Interviews are:
-  - Noisy
-  - Inaccurate
-  - Arbitrary
+  - Noisy.
+  - Inaccurate.
+  - Arbitrary.
 - Good interviewers are generous.
 - Good questions are like onions.
   - Iteration on the same problem instead of multiple unrelated questions.
