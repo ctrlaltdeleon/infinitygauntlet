@@ -22,8 +22,20 @@ namespace Giraffe
             Console.WriteLine(Math.Abs(-num)); // Calling methods.
             Console.WriteLine(Math.Max(num, num + 5)); // Finds the max number between 2 parameters.
 
+            Console.Write("Enter your name: ");
+            string name = Console.ReadLine(); // Allocate user input to a string data type.
+            Console.WriteLine("Hello " + name);
+
+            Console.Write("Addition Calculator!");
+            Console.Write("Enter a number: ");
+            double num1 = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Enter another number: ");
+            double num2 = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine(num1 + num2);
+
             Console.ReadLine();
         }
+
         public static string Reverse(string phrase)
         {
             char[] charArray = phrase.ToCharArray(); // Load string to character array.
