@@ -22,6 +22,7 @@ Notes:
       2. FCL contributes to providing libraries such as `Math`, etc.
 3. What is boxing and unboxing?
    1. Boxing is the process of converting a value type to the type `object` or to any interface type implemented by this value type.
+   2. This process enables a unified view of the system wherein a value of an type can be an object.
 
 ```cs
 // Boxing.
@@ -154,3 +155,43 @@ static void Main()
     1. Deep copy copes references and the object to which is referred.
     2. Shallow copy copies references only.
 21. What is multicast delegate?
+    1. It's a delegate in itself, but may have singlecast if it'd like to.
+22. List some different ways for equality check in `.NET`:
+    1. `ReferenceEquals()` checks if reference type variables are referred to the same memory address.
+    2. Virtual `Equals()` checks if two objects are the equal.
+    3. Static `Equals()` checks if there's a null.
+    4. IEquatable `Equals()`.
+    5. `==` similar to the `ReferenceEquals()`.
+23. What is the difference between lambdas and delegates?
+    1. Lambdas are statement functions.
+    2. Delegates are references to functions.
+24. Could you explain the difference between Func vs. Action vs. Predicate?
+    1. Predicate asks "does the specified argument satisfy the condition?"
+    2. Action performs the action given the arguments.
+    3. Func is used extensively in LINQ, to transform the argument.
+25. Implement the "Where" method.
+
+```cs
+public static IEnumerable<T> Where<T>(this IEnumerable<T> items, Predicate<T> predicate)
+{
+  foreach(var item in items)
+  {
+      if (predicate(item))
+      {
+           // for lazy/deffer execution plus avoid temp collection defined
+           yield return item;
+      }
+  }
+}
+```
+
+26. What is a weak reference?
+    1. Permits the garbage collector to collect the object while the app still has access to the object.
+    2. Useful for objects that use a lot of memory, but can be recreated through reclamation by garbage collection.
+27. Name some disadvantages of LINQ over stored procedures (sprocs).
+    1. Network traffic.
+       1. It gets bad when queries are very complex.
+    2. Less flexible.
+       1. Sprocs are able to take full advantage of a database's feature set, LINQ tends to be more generic.
+    3. Recompiling.
+       1. Needed for LINQ, sprocs sometimes allows w/o recompiling.

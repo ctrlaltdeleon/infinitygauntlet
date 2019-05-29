@@ -1,3 +1,13 @@
+# May 29, 2019
+
+- What are differences between stack and heap?
+  - Stack uses static memory.
+  - Heap uses dynamic memory.
+- What are the differences between `static` and `virtual` members?
+  - A `static` member is something that does not relate to instance, only class.
+  - A `virtual` member is something that does not relate to class, only instance.
+- In `C#`, for a method to be overridden, the base class must have `virtual` to a method so the sub class can `override` the method.
+
 # May 28, 2019
 
 - What's the difference between static vs non-static methods?
@@ -440,6 +450,7 @@ public class Advice extends Thought {
 - What is polymorphism?
   - Poly === Many, Morphism === Forms.
   - Many forms of 1 thing to achieve a result.
+  - Polymorphism is a super class to overloading and overriding.
 - Why use polymorphism?
 
 ```py
