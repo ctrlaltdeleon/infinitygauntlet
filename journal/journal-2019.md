@@ -531,7 +531,7 @@ Ostriches cannot fly.
     - "How to run a behavior in software component?"
 - Examples of creational design patterns.
   - Singleton!
-    - There can only be 1 president at a time. The same president has to be brought to action when needed. The president is a singleton with.
+    - There can only be 1 president at a time. The same president has to be brought to action when needed.
     - Strictly create a global instance of only 1 object with all methods.
 - Examples of structural design patterns.
   - Bridge!
