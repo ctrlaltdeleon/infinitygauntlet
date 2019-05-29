@@ -1,3 +1,17 @@
+# May 28, 2019
+
+- What's the difference between static vs non-static methods?
+  - Static methods must be called with the class name `Math.Pow()`.
+    - This is kind to processing power and allows a "one and done" mentality.
+  - Non-static methods are attached to the object the class it inherits from.
+    - For example, `object.addCoolNumbers()` may rely on other information provided with the object.
+- Operator overloading?
+  - Defines custom actions for operators.
+  - Say you have two object boxes, an example of operator overloading is `Box b3 = b1 + b2`.
+- What are structs?
+  - Structs is a value type used to encapsulate small groups of related variables.
+  - Much like classes, but limited to variables and no inheritance.
+
 # May 27, 2019
 
 - C# training.
