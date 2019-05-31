@@ -48,7 +48,7 @@
   - [Queue](data-structures/queue.md)
   - [Stack](data-structures/stack.md)
 - [Journal](journal/README.md)
-  - [2019](journal/journal-2019.md)
+  - [2019](journal/README.md)
 - [Life](life/README.md)
   - [Car](life/car.md)
 - [Lightning Talks](lightning-talks/README.md)
@@ -56,3 +56,4 @@
   - [Armageddon](other/armageddon.md)
   - [Computer and VSCode Plugins](other/computer-and-vscode-plugins.md)
   - [How to use Git](other/how-to-use-git.md)
+  - [Photography Sites](other/photography-sites.md)

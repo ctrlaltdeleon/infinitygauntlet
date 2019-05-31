@@ -1,5 +1,12 @@
+# May 30, 2019
+
+- Reorganizing everything.
+- Gym!
+  - Back and biceps.
+
 # May 29, 2019
 
+- Performed a phone interview and passed!
 - What are differences between stack and heap?
   - Stack uses static memory.
   - Heap uses dynamic memory.
