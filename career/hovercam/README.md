@@ -11,6 +11,7 @@
 
 ## Round 2 (On-Site)
 
+- 1 hour.
 - Technical questions from CEO and Lead Engineer.
 - Office Manager was present observing.
 - "What's the difference between C/C++?"

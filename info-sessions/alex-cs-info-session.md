@@ -74,7 +74,7 @@ public class Example {
 6. What are reference types?
    1. Contain a reference to variables via memory location.
 7. What is the difference between Interface and Abstract Class?
-   1. Interface provides a template of functions, but not implemented., provides multiple inheritance
+   1. Interface provides a template of functions, but not implemented, provides multiple inheritance.
    2. Abstract class may provide state (data members) and/or implementation (methods).
 
 ```txt
