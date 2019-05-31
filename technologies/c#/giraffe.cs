@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// 1:00:15
+// 1:21:20
 
 namespace Giraffe
 {
@@ -32,6 +32,18 @@ namespace Giraffe
             Console.Write("Enter another number: ");
             double num2 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine(num1 + num2);
+
+            Console.Write("Mad lib!");
+            string color, pluralNoun, celebrity;
+            Console.Write("Enter a color: ");
+            color = Console.ReadLine();
+            Console.Write("Enter a plural noun: ");
+            pluralNoun = Console.ReadLine();
+            Console.Write("Enter a celebrity: ");
+            celebrity = Console.ReadLine();
+            Console.WriteLine("Roses are " + color);
+            Console.WriteLine(pluralNoun + " are blue");
+            Console.WriteLine("I love " + celebrity);
 
             Console.ReadLine();
         }
