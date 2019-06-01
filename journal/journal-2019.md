@@ -1,3 +1,11 @@
+# May 31, 2019
+
+- What does it mean to be synchronous vs asynchronous?
+  - Synchronous means to execute one at a time.
+  - Asynchronous means to execute all at once.
+- Are promises synchronous or asynchronous?
+  - Promises aren't exactly synchronous or asynchronous, but deal with asynchronous code.
+
 # May 30, 2019
 
 - Reorganizing everything.

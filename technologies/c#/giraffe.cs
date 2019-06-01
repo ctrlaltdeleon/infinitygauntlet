@@ -22,28 +22,38 @@ namespace Giraffe
             Console.WriteLine(Math.Abs(-num)); // Calling methods.
             Console.WriteLine(Math.Max(num, num + 5)); // Finds the max number between 2 parameters.
 
-            Console.Write("Enter your name: ");
+            Console.WriteLine("Enter your name: ");
             string name = Console.ReadLine(); // Allocate user input to a string data type.
             Console.WriteLine("Hello " + name);
 
-            Console.Write("Addition Calculator!");
-            Console.Write("Enter a number: ");
+            Console.WriteLine("Addition Calculator!");
+            Console.WriteLine("Enter a number: ");
             double num1 = Convert.ToDouble(Console.ReadLine());
-            Console.Write("Enter another number: ");
+            Console.WriteLine("Enter another number: ");
             double num2 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine(num1 + num2);
 
-            Console.Write("Mad lib!");
+            Console.WriteLine("Mad lib!");
             string color, pluralNoun, celebrity;
-            Console.Write("Enter a color: ");
+            Console.WriteLine("Enter a color: ");
             color = Console.ReadLine();
-            Console.Write("Enter a plural noun: ");
+            Console.WriteLine("Enter a plural noun: ");
             pluralNoun = Console.ReadLine();
-            Console.Write("Enter a celebrity: ");
+            Console.WriteLine("Enter a celebrity: ");
             celebrity = Console.ReadLine();
             Console.WriteLine("Roses are " + color);
             Console.WriteLine(pluralNoun + " are blue");
             Console.WriteLine("I love " + celebrity);
+
+            Console.WriteLine("Arrays!");
+            int[] luckyNumbers = { 4, 8, 15, 42, 69, 420 };
+            string[] friends = new string[5]; // Creating an empty allocation for an array of strings.
+            Console.WriteLine(luckyNumbers[5]);
+
+            Console.WriteLine("Methods!");
+            SayHi("AC");
+            SayHi("Sora");
+            SayHi("Mega Man");
 
             Console.ReadLine();
         }
@@ -53,6 +63,15 @@ namespace Giraffe
             char[] charArray = phrase.ToCharArray(); // Load string to character array.
             Array.Reverse(charArray); // Reverse the array.
             return new string(charArray); // Return the string.
+        }
+
+        static void SayHi(string name)
+        {
+            Console.WriteLine("Hi " + name + "!");
+        }
+
+        static int Cubed(int number){
+            int cubed = number * number* 
         }
     }
 }
