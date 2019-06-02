@@ -56,4 +56,5 @@
   - [Armageddon](other/armageddon.md)
   - [Computer and VSCode Plugins](other/computer-and-vscode-plugins.md)
   - [How to use Git](other/how-to-use-git.md)
+  - [Odd Achievements](other/odd-achievements.md)
   - [Photography Sites](other/photography-sites.md)

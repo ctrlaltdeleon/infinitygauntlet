@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// 1:21:20
+// 1:50:00
 
 namespace Giraffe
 {
@@ -12,16 +12,19 @@ namespace Giraffe
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Strings!");
             string phrase = "nice one";
             Console.WriteLine(phrase[0]); // "n".
             Console.WriteLine(phrase.IndexOf("one")); // Finds the first occurrence, which is at 5.
 
+            Console.WriteLine("Numbers!");
             int num = 5;
             Console.WriteLine(num / 2); // Returns an integer.
             Console.WriteLine(num / 2.0); // Returns a decimal.
             Console.WriteLine(Math.Abs(-num)); // Calling methods.
             Console.WriteLine(Math.Max(num, num + 5)); // Finds the max number between 2 parameters.
 
+            Console.WriteLine("User input!");
             Console.WriteLine("Enter your name: ");
             string name = Console.ReadLine(); // Allocate user input to a string data type.
             Console.WriteLine("Hello " + name);
@@ -54,6 +57,9 @@ namespace Giraffe
             SayHi("AC");
             SayHi("Sora");
             SayHi("Mega Man");
+            Cubed(3);
+
+            Console.WriteLine("If statements!");
 
             Console.ReadLine();
         }
@@ -70,8 +76,10 @@ namespace Giraffe
             Console.WriteLine("Hi " + name + "!");
         }
 
-        static int Cubed(int number){
-            int cubed = number * number* 
+        static int Cubed(int number)
+        {
+            int cubed = number * number * number;
+            return cubed;
         }
     }
 }

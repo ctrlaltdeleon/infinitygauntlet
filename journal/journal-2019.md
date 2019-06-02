@@ -1,3 +1,7 @@
+# June 1, 2019
+
+- C# training.
+
 # May 31, 2019
 
 - What does it mean to be synchronous vs asynchronous?
