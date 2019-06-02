@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// 2:02:00
+// 2:33:33
 
 namespace Giraffe
 {
@@ -57,22 +57,52 @@ namespace Giraffe
             SayHi("AC");
             SayHi("Sora");
             SayHi("Mega Man");
-            Cubed(3);
+            Console.WriteLine(Cubed(3));
 
             Console.WriteLine("If statements!");
             bool isCool, isAwesome = true;
-            if (isCool)
+            if (isCool || isAwesome)
             {
-                Console.WriteLine("You are cool!");
-            }
-            else if (isAwesome)
-            {
-                Console.WriteLine("You are awesome!");
+                Console.WriteLine("You are cool or awesome!");
             }
             else if (!isCool && !isAwesome)
             {
                 Console.WriteLine("You are not cool nor awesome. :(");
             }
+            Console.WriteLine(getMax(5, 10)); // Comparison operators used.
+
+            Console.WriteLine("Better Calculator!");
+            Console.WriteLine("Enter the first number: ");
+            double num1 = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Enter in an operator: ");
+            string op = Console.ReadLine();
+            Console.WriteLine("Enter the second number: ");
+            double num2 = Convert.ToDouble(Console.ReadLine());
+            if (op == "+")
+            {
+                Console.WriteLine(num1 + num2);
+            }
+            else if (op == "-")
+            {
+                Console.WriteLine(num1 - num2);
+            }
+            else if (op == "*")
+            {
+                Console.WriteLine(num1 * num2);
+            }
+            else if (op == "/")
+            {
+                Console.WriteLine(num1 / num2);
+            }
+            else
+            {
+                Console.WriteLine("ERROR! Not a valid operator!");
+            }
+
+            Console.WriteLine("Switch statements!");
+            Console.WriteLine(getDay(0));
+
+            Console.WriteLine("While loops!");
 
             Console.ReadLine();
         }
@@ -89,10 +119,59 @@ namespace Giraffe
             Console.WriteLine("Hi " + name + "!");
         }
 
-        static int Cubed(int number)
+        static int Cubed(int num)
         {
-            int cubed = number * number * number;
+            int cubed = num * num * num;
             return cubed;
+        }
+
+        static int getMax(int num1, int num2)
+        {
+            int result;
+            if (num1 > num2)
+            {
+                result = num1;
+            }
+            else
+            {
+                result = num2;
+            }
+            return result;
+        }
+
+        static string getDay(int dayNum)
+        {
+            string dayName;
+
+            switch (dayNum)
+            {
+                case 0:
+                    dayName = "Sunday";
+                    break;
+                case 1:
+                    dayName = "Monday";
+                    break;
+                case 2:
+                    dayName = "Tuesday";
+                    break;
+                case 3:
+                    dayName = "Wednesday";
+                    break;
+                case 4:
+                    dayName = "Thursday";
+                    break;
+                case 5:
+                    dayName = "Friday";
+                    break;
+                case 6:
+                    dayName = "Saturday";
+                    break;
+                default:
+                    dayName = "Invalid dayNum!";
+                    break;
+            }
+
+            return dayName;
         }
     }
 }

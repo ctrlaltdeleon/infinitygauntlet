@@ -1,3 +1,10 @@
+# June 2, 2019
+
+- Difference between `while`, `dowhile`, and `for` loops?
+  - `while` is when the stopping point is unknown for iterating.
+  - `dowhile` at least does `while` loop once despite whether true or false.
+  - `for` is when the stopping point is known for iterating.
+
 # June 1, 2019
 
 - C# training.
