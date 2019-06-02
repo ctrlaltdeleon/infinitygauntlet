@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// 1:50:00
+// 2:02:00
 
 namespace Giraffe
 {
@@ -60,6 +60,19 @@ namespace Giraffe
             Cubed(3);
 
             Console.WriteLine("If statements!");
+            bool isCool, isAwesome = true;
+            if (isCool)
+            {
+                Console.WriteLine("You are cool!");
+            }
+            else if (isAwesome)
+            {
+                Console.WriteLine("You are awesome!");
+            }
+            else if (!isCool && !isAwesome)
+            {
+                Console.WriteLine("You are not cool nor awesome. :(");
+            }
 
             Console.ReadLine();
         }
