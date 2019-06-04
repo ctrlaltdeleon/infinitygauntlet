@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// 2:33:33
+// 3:15:25 / 4:31:08
 
 namespace Giraffe
 {
@@ -29,7 +29,7 @@ namespace Giraffe
             string name = Console.ReadLine(); // Allocate user input to a string data type.
             Console.WriteLine("Hello " + name);
 
-            Console.WriteLine("Addition Calculator!");
+            Console.WriteLine("Addition calculator!");
             Console.WriteLine("Enter a number: ");
             double num1 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Enter another number: ");
@@ -71,7 +71,7 @@ namespace Giraffe
             }
             Console.WriteLine(getMax(5, 10)); // Comparison operators used.
 
-            Console.WriteLine("Better Calculator!");
+            Console.WriteLine("Better calculator!");
             Console.WriteLine("Enter the first number: ");
             double num1 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Enter in an operator: ");
@@ -103,6 +103,63 @@ namespace Giraffe
             Console.WriteLine(getDay(0));
 
             Console.WriteLine("While loops!");
+            int index = 6;
+            while (index < 5)
+            {
+                Console.WriteLine("The index for while is " + index + ".");
+                index++;
+            }
+            index = 6;
+            do
+            {
+                Console.WriteLine("The index for dowhile is " + index + ".");
+                index++;
+            } while (index <= 5);
+
+            Console.WriteLine("Guessing game!");
+            string secretWord = "yeet";
+            string guess = "";
+            int guessCount = 0;
+            int guessLimit = 3;
+            bool outOfGuesses = false;
+            while (guess != secretWord && !outOfGuesses)
+            {
+                if (guessCount < guessLimit)
+                {
+                    Console.WriteLine("Enter a guess!");
+                    guess = Console.ReadLine();
+                    guessCount++;
+                }
+                else
+                {
+                    outOfGuesses = true;
+                }
+            }
+            if (outOfGuesses)
+            {
+                Console.WriteLine("You lose!");
+            }
+            else
+            {
+                Console.WriteLine("You win!");
+            }
+
+            Console.WriteLine("For loops!");
+            for (int forIndex = 1; forIndex <= 5; forIndex++)
+            {
+                Console.WriteLine("The for loop index is: " + forIndex);
+            }
+            for (int forIndex = 0; forIndex < luckyNumbers.Length; forIndex++)
+            {
+                Console.WriteLine("luckyNumbers[" + forIndex + "]: " + luckyNumbers[forIndex]);
+            }
+
+            Console.WriteLine("Exponent method!");
+            Console.WriteLine(GetPow(2, 3));
+
+            Console.WriteLine("Comments!"); // This is a comment lol.
+
+            Console.WriteLine("Exceptions!");
 
             Console.ReadLine();
         }
@@ -172,6 +229,17 @@ namespace Giraffe
             }
 
             return dayName;
+        }
+        static int GetPow(int baseNum, int powNum)
+        {
+            int result = 1;
+
+            for (int i = 0; i < powNum; i++)
+            {
+                result *= baseNum;
+            }
+
+            return result;
         }
     }
 }

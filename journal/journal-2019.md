@@ -1,3 +1,9 @@
+# June 3, 2019
+
+- C# training.
+- Gym!
+  - Chest and triceps.
+
 # June 2, 2019
 
 - Difference between `while`, `dowhile`, and `for` loops?
