@@ -1,3 +1,14 @@
+# June 5, 2019
+
+- Amazon meetup!
+- C# training.
+- When naming methods, how should capitalization work?
+  - Camel case!
+  - First word of a method should be a verb and lowercase.
+  - `getName` vs `Name`.
+- Gym!
+  - Legs and shoulders.
+
 # June 4, 2019
 
 - C# training.

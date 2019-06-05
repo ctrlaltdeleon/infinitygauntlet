@@ -164,7 +164,7 @@ namespace Giraffe
             Console.ReadLine();
         }
 
-        public static string Reverse(string phrase)
+        static string Reverse(string phrase)
         {
             char[] charArray = phrase.ToCharArray(); // Load string to character array.
             Array.Reverse(charArray); // Reverse the array.
@@ -182,7 +182,7 @@ namespace Giraffe
             return cubed;
         }
 
-        static int getMax(int num1, int num2)
+        static int GetMax(int num1, int num2)
         {
             int result;
             if (num1 > num2)
@@ -196,7 +196,7 @@ namespace Giraffe
             return result;
         }
 
-        static string getDay(int dayNum)
+        static string GetDay(int dayNum)
         {
             string dayName;
 
