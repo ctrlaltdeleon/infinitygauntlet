@@ -1,3 +1,9 @@
+# June 4, 2019
+
+- C# training.
+- Car!
+  - Rotated tires myself.
+
 # June 3, 2019
 
 - C# training.
