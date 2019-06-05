@@ -9,3 +9,4 @@ Contains all career experiences and the variance.
   - **Phone.** Interviewing through the phone.
   - **On-Site.** Interviewing in person with humans.
   - **Offer.** Last phase of the interview process.
+- All files are on desktop.
