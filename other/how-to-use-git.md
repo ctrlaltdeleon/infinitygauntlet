@@ -69,6 +69,12 @@ git add .
 git push
 ```
 
+## Ignoring Files
+
+Create a `.gitignore` file stating the specific folders and files you would like not to be tracked.
+
+Be aware that files already on a repository online can not be "untracked" unless deleted or hidden away else where.
+
 ## Rebasing
 
 If you only ever commit to your `master` branch, your directed acyclic graph (DAG) will look like this:
