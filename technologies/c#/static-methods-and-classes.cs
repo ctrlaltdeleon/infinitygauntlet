@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Giraffe
+namespace Program
 {
     // Creates production on the class level rather than the object level.
     static class UsefulTools

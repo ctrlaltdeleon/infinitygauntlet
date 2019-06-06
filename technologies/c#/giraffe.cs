@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 // 3:15:25 / 4:31:08
 
-namespace Giraffe
+namespace Program
 {
     class Program
     {

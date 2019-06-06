@@ -1,3 +1,7 @@
+# June 6, 2019
+
+- C# training.
+
 # June 5, 2019
 
 - Amazon meetup!
@@ -52,9 +56,6 @@
 - What are differences between stack and heap?
   - Stack uses static memory.
   - Heap uses dynamic memory.
-- What are the differences between `static` and `virtual` members?
-  - A `static` member is something that does not relate to instance, only class.
-  - A `virtual` member is something that does not relate to class, only instance.
 - In `C#`, for a method to be overridden, the base class must have `virtual` to a method so the sub class can `override` the method.
 
 # May 28, 2019
