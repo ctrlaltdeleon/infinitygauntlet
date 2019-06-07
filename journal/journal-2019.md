@@ -1,6 +1,10 @@
 # June 6, 2019
 
 - C# training.
+- When do you use `namespace`?
+  - To handle an abundance amount of classes to lessen code.
+- When do you use `using`?
+  - To lessen code by referencing specific keywords such as `namespace`.
 
 # June 5, 2019
 
