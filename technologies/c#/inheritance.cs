@@ -8,6 +8,9 @@ namespace Program
 {
     class Chef
     {
+        public int recipeNumber;
+        public string recipeName;
+
         public void MakeChicken()
         {
             Console.WriteLine("Chicken made!");
@@ -16,6 +19,17 @@ namespace Program
         public void MakeSalad()
         {
             Console.WriteLine("Salad made!");
+        }
+
+        // Examples of overloading, taking different parameters for the same function.
+        public void SearchRecipe(int recipeNumber)
+        {
+            Console.WriteLine("Looking for recipe #" + recipeNumber);
+        }
+
+        public void SearchRecipe(string recipeName)
+        {
+            Console.WriteLine("Looking for recipe " + recipeName);
         }
 
         // Virtual allows overriding.
@@ -46,6 +60,8 @@ namespace Program
             Chef chef = new Chef();
             chef.MakeChicken();
             chef.MakeSpecial();
+            chef.SearchRecipe(1);
+            chef.SearchRecipe("ramen");
 
             ItalianChef italianChef = new ItalianChef();
             italianChef.MakeChicken();
