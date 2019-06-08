@@ -1,3 +1,7 @@
+# June 8, 2019
+
+- Photography!
+
 # June 7, 2019
 
 - `C#` training.
