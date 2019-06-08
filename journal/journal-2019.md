@@ -1,6 +1,37 @@
+# June 7, 2019
+
+- `C#` training.
+- What is MVC and how does it work?
+  - MVC is model view controller, a design pattern for web applications.
+  - Model is the data.
+    - A boba shop has many different types of drinks in inventory (model).
+  - View is the presentation of data.
+    - The customer is viewing the menu and pictures of said drinks (view).
+  - Controller is the logic of the application.
+    - The owner presents the boba to the customer (controller).
+- What is `C#`?
+  - General purpose object-oriented programming language.
+  - Created by Microsoft.
+  - Part of the many languages used with `.NET`.
+  - Relatively easy to learn.
+- What is `.NET`?
+  - Framework for building Windows applications (and web apps).
+  - Not limited to `C#`.
+  - Consists of Common Language Runtime (CLR) & Class Library.
+    - Gives reusable classes and methods.
+- What is CLR?
+  - Virtual machine component.
+  - Manages execution of `.NET` programs.
+  - "Just in Time" (JIT) converts compiled code into machine instructions.
+  - Also includes memory and thread management.
+  - All `.NET` programs are executed by CLR.
+- What is an IDE?
+  - Integrated Development Environment.
+  - Text editor on steroids.
+
 # June 6, 2019
 
-- C# training.
+- `C#` training.
 - When do you use `namespace`?
   - To handle an abundance amount of classes to lessen code.
 - When do you use `using`?
@@ -9,7 +40,7 @@
 # June 5, 2019
 
 - Amazon meetup!
-- C# training.
+- `C#` training.
 - When naming methods, how should capitalization work?
   - Camel case!
   - First word of a method should be a verb and lowercase.
@@ -19,13 +50,13 @@
 
 # June 4, 2019
 
-- C# training.
+- `C#` training.
 - Car!
   - Rotated tires myself.
 
 # June 3, 2019
 
-- C# training.
+- `C#` training.
 - Gym!
   - Chest and triceps.
 
@@ -38,7 +69,7 @@
 
 # June 1, 2019
 
-- C# training.
+- `C#` training.
 
 # May 31, 2019
 
@@ -78,15 +109,15 @@
 
 # May 27, 2019
 
-- C# training.
+- `C#` training.
 
 # May 26, 2019
 
-- C# training.
+- `C#` training.
 
 # May 25, 2019
 
-- C# training.
+- `C#` training.
 - Gym!
   - Freedom.
 
@@ -103,7 +134,7 @@
 
 # May 23, 2019
 
-- C# training.
+- `C#` training.
 - Fixed resume due to school email expiring soon.
 
 # May 22, 2019
