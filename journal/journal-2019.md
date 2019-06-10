@@ -1,3 +1,8 @@
+# June 9, 2019
+
+- Photography!
+  - Edited photos.
+
 # June 8, 2019
 
 - Photography!
