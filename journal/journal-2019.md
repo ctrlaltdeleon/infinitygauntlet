@@ -11,6 +11,13 @@
   - Core is for cross-platform (Windows, Mac, Linux), microservices, best performance and scale.
   - Framework is for monolithic applications on Windows.
   - Xamarin is for mobile devices.
+- What is AAA?
+  - Arrange.
+    - Setup the needed environment to test.
+  - Act.
+    - Execute the test.
+  - Assert.
+    - Check and verify the results.
 - Gym!
   - Back and biceps.
 
