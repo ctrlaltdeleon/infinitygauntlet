@@ -7,6 +7,10 @@
   - `private` is a method accessible within the class.
   - `static` is a method accessible without an instance of the class.
   - `void` is a method without a return value.
+- `.NET` core vs `.NET` framework vs Xamarin?
+  - Core is for cross-platform (Windows, Mac, Linux), microservices, best performance and scale.
+  - Framework is for monolithic applications on Windows.
+  - Xamarin is for mobile devices.
 - Gym!
   - Back and biceps.
 
