@@ -1,8 +1,4 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 using First;
 using Second;
@@ -32,6 +28,9 @@ public class TestNamespace
 {
     public static void Main()
     {
+        // If not using `using`, would reference in this way.
+        // First.Hello h1 = new First.Hello();  
+        // Second.Hello h2 = new Second.Hello();  
         Hello h1 = new Hello();
         Welcome w1 = new Welcome();
         h1.sayHello();

@@ -1,10 +1,6 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-
+// Delegates allow objects to run multiple functions at once.
 public delegate void Valid(int a);
 
 public class Test
@@ -55,5 +51,7 @@ public class Driver
         v1(254);
         v1(255);
         v1(256);
+
+        Console.ReadLine();
     }
 }

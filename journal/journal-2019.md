@@ -1,6 +1,12 @@
 # June 10, 2019
 
-- C# training.
+- `C#` training.
+- What is the difference between `public`, `protected`, `private`, `static`, and `void`?
+  - `public` is a method accessible by anyone.
+  - `protected` is a method accessible within the class and subclasses.
+  - `private` is a method accessible within the class.
+  - `static` is a method accessible without an instance of the class.
+  - `void` is a method without a return value.
 - Gym!
   - Back and biceps.
 
