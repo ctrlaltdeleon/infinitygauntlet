@@ -1,13 +1,13 @@
-# June 9, 2019
+# June 10, 2019
 
-<<<<<<< Updated upstream
-- Photography!
-  - Edited photos.
-=======
 - C# training.
 - Gym!
   - Back and biceps.
->>>>>>> Stashed changes
+
+# June 9, 2019
+
+- Photography!
+  - Edited photos.
 
 # June 8, 2019
 
