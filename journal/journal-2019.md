@@ -1,3 +1,7 @@
+# June 11, 2019
+
+- `C#` training.
+
 # June 10, 2019
 
 - `C#` training.
