@@ -7,6 +7,10 @@
   - The solution is having a single "smart" endpoint that can take complex queries.
     - GraphQL, please do these things and come back when you're done.
   - GraphQL also gets specific details, instead of a whole store which thus reduces requests and payloads.
+- Naming conventions for variables within a class?
+  - Within the class itself, put an `_` in front of the variable.
+    - `double _balance`.
+  - Leave the parameters asynchronous with the way they're called from class to class.
 
 # June 10, 2019
 
