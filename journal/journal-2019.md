@@ -1,6 +1,12 @@
 # June 11, 2019
 
 - `C#` training.
+- ELI5 GraphQL!
+  - The problem before is having multiple "dumb" endpoints recieving data which slowed down an application.
+    - I need to go get a pizza, get groceries, and my dry cleaning.
+  - The solution is having a single "smart" endpoint that can take complex queries.
+    - GraphQL, please do these things and come back when you're done.
+  - GraphQL also gets specific details, instead of a whole store which thus reduces requests and payloads.
 
 # June 10, 2019
 
