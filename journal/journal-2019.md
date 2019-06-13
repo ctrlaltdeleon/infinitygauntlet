@@ -1,3 +1,9 @@
+# June 13, 2019
+
+- `C#` training.
+- On-site interview!
+  - ???
+
 # June 12, 2019
 
 - What are lambda expressions?
@@ -152,7 +158,8 @@
 
 # May 29, 2019
 
-- Performed a phone interview and passed!
+- Phone interview!
+  - Passed!
 - What are differences between stack and heap?
   - Stack uses static memory.
   - Heap uses dynamic memory.
@@ -456,7 +463,8 @@ render() {
 # May 14, 2019
 
 - **Avengers: Endgame!** Round Three?
-- Worked on Mindera interview.
+- Online assessment interview.
+  - Did not pass.
 
 # May 13, 2019
 
