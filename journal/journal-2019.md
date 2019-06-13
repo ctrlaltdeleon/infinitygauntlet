@@ -1,3 +1,22 @@
+# June 12, 2019
+
+- What are lambda expressions?
+  - A block of code (an expression or a statement block) that is treated as an object.
+  - Usually denoted with `=>`.
+- What is the structure of defining a method?
+
+```cs
+<Access Specifier> <Return Type> <Method Name>(Parameter List) {
+   Method Body
+}
+```
+
+- What is method syntax?
+  - Also known as fluent syntax, uses extension methods included in the `Enumerable` or `Queryable` static class, similar to how you would call the extension method of any class.
+  - `var result = stringList.Where(s => s.Contains("Tutorials"));`
+- What are `IEnumerable`, `ICollection`, and `IList`?
+  - Interfaces available to use that provide various functionalities.
+
 # June 11, 2019
 
 - `C#` training.
