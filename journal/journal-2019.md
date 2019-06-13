@@ -1,5 +1,6 @@
 # June 12, 2019
 
+<<<<<<< Updated upstream
 - What are lambda expressions?
   - A block of code (an expression or a statement block) that is treated as an object.
   - Usually denoted with `=>`.
@@ -16,6 +17,9 @@
   - `var result = stringList.Where(s => s.Contains("Tutorials"));`
 - What are `IEnumerable`, `ICollection`, and `IList`?
   - Interfaces available to use that provide various functionalities.
+=======
+- `C#` training.
+>>>>>>> Stashed changes
 
 # June 11, 2019
 
