@@ -1,3 +1,15 @@
+# June 16, 2019
+
+- Travelings.
+
+# June 15, 2019
+
+- Traveling.
+
+# June 14, 2019
+
+- Traveling.
+
 # June 13, 2019
 
 - `C#` training.
