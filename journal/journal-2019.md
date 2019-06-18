@@ -1,10 +1,14 @@
+# June 17, 2019
+
+- Updated Hackerrank challenge due to code review from colleague, made `luck-balance.py` more efficient by subtracting an unneeded variable and utilizing an existing one.
+
 # June 16, 2019
 
-- Travelings.
+- Happy Father's Day!
 
 # June 15, 2019
 
-- Traveling.
+- Second Sky Festival!
 
 # June 14, 2019
 

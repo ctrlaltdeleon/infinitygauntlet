@@ -12,13 +12,13 @@ import sys
 
 def luck_balance(k, contests):
     contests.sort(reverse=True)
-    luck, important = 0, 0
+    luck = 0
     for contest in contests:
         if contest[1] == 0:
             luck += contest[0]
-        elif important < k:
+        elif k > 0:
             luck += contest[0]
-            important += 1
+            k -= 1
         else:
             luck -= contest[0]
     return luck
