@@ -1,3 +1,13 @@
+# June 19, 2019
+
+- Applications.
+- Gym!
+  - Back and biceps.
+
+# June 18, 2019
+
+- House work.
+
 # June 17, 2019
 
 - Updated Hackerrank challenge due to code review from colleague, made `luck-balance.py` more efficient by subtracting an unneeded variable and utilizing an existing one.
