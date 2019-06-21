@@ -1,3 +1,8 @@
+# June 20, 2019
+
+- Front-End Developer Handbook.
+- Met up with friends.
+
 # June 19, 2019
 
 - Applications.
