@@ -1,5 +1,10 @@
 # June 20, 2019
 
+- Phone interview!
+  - ???
+
+# June 20, 2019
+
 - Front-End Developer Handbook.
 - Met up with friends.
 
