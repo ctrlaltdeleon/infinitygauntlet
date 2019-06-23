@@ -1,3 +1,7 @@
+# June 21, 2019
+
+- Sick. :(
+
 # June 20, 2019
 
 - Phone interview!
@@ -7,6 +11,8 @@
 
 - Front-End Developer Handbook.
 - Met up with friends.
+- Gym!
+  - Chest and triceps.
 
 # June 19, 2019
 
