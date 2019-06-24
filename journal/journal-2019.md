@@ -1,12 +1,20 @@
+# June 24, 2019
+
+- Sick. :(
+- Photography!
+- Obtained AX pass and met a new friend!
+- Gym!
+  - Legs and shoulders.
+
+# June 23, 2019
+
+- Sick. :(
+
 # June 22, 2019
 
 - Sick. :(
 
 # June 21, 2019
-
-- Sick. :(
-
-# June 20, 2019
 
 - Phone interview!
   - ???
