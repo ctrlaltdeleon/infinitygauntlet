@@ -1,7 +1,7 @@
 /* LINK: http://cssgridgarden.com/ */
 /* LINK: https://alligator.io/css/css-grid-layout-fr-unit/ */
 
-#pond {
+#grid {
   /* Needed to display grid features. */
   display: grid;
   grid-column-start: 1;

@@ -2,21 +2,21 @@ const { createStore } = Redux;
 
 const initState = {
   todos: [],
-  posts: []
+  posts: [],
 };
 
 function myReducer(state = initState, action) {
   if (action.type == "ADD_TODO") {
     return {
       ...state,
-      todos: [...state.todos, action.payloadTodo]
+      todos: [...state.todos, action.payloadTodo],
     };
   }
 
   if (action.type == "ADD_POST") {
     return {
       ...state,
-      posts: [...state.posts, action.payloadPost]
+      posts: [...state.posts, action.payloadPost],
     };
   }
 }

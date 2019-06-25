@@ -1,6 +1,6 @@
 /* LINK: https://flexboxfroggy.com/ */
 
-#pond {
+#flex {
   /* Needed to display flexbox features. */
   display: flex;
   justify-content: baseline;

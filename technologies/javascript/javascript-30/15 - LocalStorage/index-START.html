@@ -56,7 +56,7 @@
     <script>
       const addItems = document.querySelector(".add-items");
       const itemsList = document.querySelector(".plates");
-      const items = [];
+      const items = JSON.parse(localStorage.getItem("items")) || [];
 
       function addItem(e) {
         // Just like in React, prevents the page from reloading
@@ -71,6 +71,7 @@
         };
         items.push(item);
         populateList(items, itemsList);
+        localStorage.setItem("items", JSON.stringify(items));
         // Resets the form after submit
         this.reset();
       }
@@ -97,9 +98,20 @@
           .join("");
       }
 
+      function toggleDone(e) {
+        if (!e.target.matches("input")) return;
+        const el = e.target;
+        console.log(el.dataset.index);
+        items[index].done = !items[index].done;
+        localStorage.setItem("items", JSON.stringify(items));
+        populateList(items, itemsList);
+      }
+
       // Click, Enter are qualified as submit
       addItems.addEventListener("submit", addItem);
-      // 11:40
+      itemsList.addEventListener("click", toggleDone);
+
+      populateList(items, itemsList);
     </script>
   </body>
 </html>
