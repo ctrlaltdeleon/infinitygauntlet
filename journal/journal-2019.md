@@ -1,3 +1,8 @@
+# June 25, 2019
+
+- Sick. :(
+- Toy Story 4!
+
 # June 24, 2019
 
 - Sick. :(
