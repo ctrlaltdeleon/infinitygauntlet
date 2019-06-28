@@ -1,3 +1,14 @@
+# June 27, 2019
+
+- Family day.
+
+# June 26, 2019
+
+- Sick. :(
+- JavaScript30 course.
+- Gym!
+  - Back and biceps.
+
 # June 25, 2019
 
 - Sick. :(
