@@ -44,21 +44,17 @@
         --blur: 10px;
       }
 
-      /* "--" is the syntax for CSS variables */
+      /* "--" is the syntax for CSS variables. */
       img {
         padding: var(--spacing);
         background: var(--base);
-        /* filter has different functions, in this case we use blur */
+        /* Filter has different functions, in this case we use blur. */
         filter: blur(var(--blur));
       }
 
       .h1 {
         color: var(--base);
       }
-
-      /*
-    misc styles, nothing to do with CSS variables
-  */
 
       body {
         text-align: center;
@@ -82,21 +78,19 @@
       const inputs = document.querySelectorAll(".controls input");
 
       function handleUpdate() {
-        // console.log(this.dataset)
-        // dataset is an object that contains the elements of said object, in this case, sizing from "data-sizing"
-        // we put "|| ''" due to error of undefined
+        // `this.dataset` is an object that contains the elements of said object, in this case, sizing from `data-sizing`.
+        // We put `|| ""` due to error of undefined.
         const suffix = this.dataset.sizing || "";
-        // console.log(this.name)
-        // this.name is referenced through the input "name" attribute
+        // `this.name` is referenced through the input `name` attribute.
         document.documentElement.style.setProperty(
           `--${this.name}`,
-          this.value + suffix,
+          this.value + suffix
         );
       }
 
       inputs.forEach(input => input.addEventListener("change", handleUpdate));
       inputs.forEach(input =>
-        input.addEventListener("mousemove", handleUpdate),
+        input.addEventListener("mousemove", handleUpdate)
       );
     </script>
   </body>

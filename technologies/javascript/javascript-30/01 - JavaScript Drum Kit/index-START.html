@@ -57,58 +57,58 @@
     <audio data-key="76" src="sounds/tink.wav"></audio>
 
     <script>
-      // User using keyboard
+      // User using keyboard.
       function playByKeyboard(e) {
-        // Take the input with "e" and set the audio variable equal to audio[data-key=USER_INPUT]
-        // This will take care of the button music itself
+        // Take the input with `e` and set the audio variable equal to `audio[data-key=USER_INPUT]`.
+        // Button music.
         const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
-        // Take the input with "e" and set the key variable equal to div[data-key=USER_INPUT]
-        // This will take care of the button animation itself
+        // Take the input with `e` and set the key variable equal to `div[data-key=USER_INPUT]`.
+        // Button animation.
         const key = document.querySelector(`div[data-key="${e.keyCode}"]`);
-        // Ensures when button is activated, the sound byte starts from the beginning
+        // Ensures when button is activated, the sound byte starts from the beginning.
         audio.currentTime = 0;
         // Play the sound!
         audio.play();
-        // Animation for the button starts
+        // Animation for the button starts.
         key.classList.add("playing");
       }
 
-      // User using mouse or touch
+      // User using mouse or touch.
       function playByClick(e) {
-        // Get the attribute of the object clicked
+        // Get the attribute of the object clicked.
         const keyCode = this.getAttribute("data-key");
-        // Transform the input into readable input for the document.querySelector
-        // Take the input with "e" and set the audio variable equal to audio[data-key=USER_INPUT]
-        // This will take care of the button music itself
+        // Transform the input into readable input for the `document.querySelector`.
+        // Take the input with `e` and set the audio variable equal to `audio[data-key=USER_INPUT]`.
+        // Button music.
         const audio = document.querySelector(`audio[data-key="${keyCode}"]`);
-        // Take the input with "e" and set the key variable equal to div[data-key=USER_INPUT]
-        // This will take care of the button animation itself
+        // Take the input with `e` and set the key variable equal to `div[data-key=USER_INPUT]`.
+        // Button animation.
         const key = document.querySelector(`.key[data-key="${keyCode}"]`);
-        // Ensures when button is activated, the sound byte starts from the beginning
+        // Ensures when button is activated, the sound byte starts from the beginning.
         audio.currentTime = 0;
         // Play the sound!
         audio.play();
-        // Animation for the button starts
+        // Animation for the button starts.
         key.classList.add("playing");
       }
 
-      // Smooth transition between keys
+      // Smooth transition between keys.
       function removeTransition(e) {
-        // If the variable propertyName is not "transform" don't return anything
-        // Variable.target.classList uses the function "remove" to remove specific .css styling
+        // If the variable propertyName is not `transform` don't return anything.
+        // `variable.target.classList` uses the function `remove` to remove specific CSS styling.
         if (e.propertyName !== "transform") return undefined;
         e.target.classList.remove("playing");
       }
 
-      // Listeners for the user
-      // Find all elements in the document with a class "key"
+      // Listeners for the user.
+      // Find all elements in the document with a class `.key`.
       const keys = Array.from(document.querySelectorAll(".key"));
-      // These listeners are specifically for keys
+      // These listeners are specifically for keys.
       keys.forEach(key =>
-        key.addEventListener("transitionend", removeTransition),
+        key.addEventListener("transitionend", removeTransition)
       );
       keys.forEach(key => key.addEventListener("click", playByClick));
-      // This listener is specifically for the active window
+      // This listener is specifically for the active window.
       window.addEventListener("keydown", playByKeyboard);
     </script>
   </body>

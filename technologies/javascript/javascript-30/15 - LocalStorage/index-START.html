@@ -59,30 +59,30 @@
       const items = JSON.parse(localStorage.getItem("items")) || [];
 
       function addItem(e) {
-        // Just like in React, prevents the page from reloading
+        // Just like in React, prevents the page from reloading.
         e.preventDefault();
-        // Useful for targeting a specific form using "this"
+        // Useful for targeting a specific form using `this`.
         // <input name="item"> === [name=item]
         const text = this.querySelector("[name=item]").value;
         const item = {
           text: text,
-          // or just "text" thanks to ES6
+          // or just "text" thanks to ES6.
           done: false,
         };
         items.push(item);
         populateList(items, itemsList);
         localStorage.setItem("items", JSON.stringify(items));
-        // Resets the form after submit
+        // Resets the form after submit.
         this.reset();
       }
 
-      // Empty array so that it doesn't break the code for passing null
-      // Any array of plates and any destination HTML element
-      // We do this just incase there's more than 1 menu
+      // Empty array so that it doesn't break the code for passing null.
+      // Any array of plates and any destination HTML element.
+      // We do this just incase there's more than 1 menu.
       function populateList(plates = [], platesList) {
-        // This creates a new platesList each time something is added
-        // React does a great way of managing this by updating only a section
-        // platesList.innerHTML acts as a variable
+        // This creates a new platesList each time something is added.
+        // React does a great way of managing this by updating only a section.
+        // platesList.innerHTML acts as a variable.
         platesList.innerHTML = plates
           .map((plate, i) => {
             return `
@@ -94,7 +94,7 @@
                     </li>
                   `;
           })
-          // We use .join because .map makes an array when we need a string
+          // We use .join because .map makes an array when we need a string.
           .join("");
       }
 
@@ -107,7 +107,7 @@
         populateList(items, itemsList);
       }
 
-      // Click, Enter are qualified as submit
+      // Click, Enter are qualified as submit.
       addItems.addEventListener("submit", addItem);
       itemsList.addEventListener("click", toggleDone);
 

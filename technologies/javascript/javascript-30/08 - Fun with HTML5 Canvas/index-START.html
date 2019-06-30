@@ -5,25 +5,25 @@
     <title>HTML5 Canvas</title>
   </head>
   <body>
-    <!-- Creates a canvas to draw on -->
+    <!-- Creates a canvas to draw on. -->
     <canvas id="draw" width="800" height="800"></canvas>
     <script>
       const canvas = document.querySelector("#draw");
       const ctx = canvas.getContext("2d");
 
-      // Drawing space is dependent on the full window you're viewing
+      // Drawing space is dependent on the full window you're viewing.
       canvas.width = window.innerWidth;
       canvas.height = window.innerHeight;
 
       ctx.strokeStyle = "#000000";
-      // When the drawing starts
+      // When the drawing starts.
       ctx.lineJoin = "round";
-      // When the drawing ends
+      // When the drawing ends.
       ctx.lineCap = "round";
-      // Stroke size
+      // Stroke size.
       ctx.lineWidth = 11;
-      // Photoshop blend modes can work
-      // ctx.globalCompositeOperation = "multiply";
+      // Photoshop blend modes can work.
+      // `ctx.globalCompositeOperation = "multiply";`
 
       let isDrawing = false;
       let lastX = 0;
@@ -32,31 +32,31 @@
       let direction = true;
 
       function draw(e) {
-        if (!isDrawing) return; // Stop function if mouse is not down
+        if (!isDrawing) return; // Stop function if mouse is not down.
         console.log(e);
         ctx.strokeStyle = `hsl(${hue}, 100%, 50%)`;
         ctx.beginPath();
-        // Start from
+        // Start from.
         ctx.moveTo(lastX, lastY);
-        // Go to
+        // Go to.
         ctx.lineTo(e.offsetX, e.offsetY);
         ctx.stroke();
 
-        // Don't put the below code if you want a "sun" drawing
-        // Destructuring an array
+        // Don't put the below code if you want a "sun" drawing.
+        // Destructuring an array.
         [lastX, lastY] = [e.offsetX, e.offsetY];
-        // Cycles through the rainbow
+        // Cycles through the rainbow.
         hue++;
         if (hue >= 360) {
           hue = 0;
         }
 
         if (ctx.lineWidth >= 50 || ctx.lineWidth <= 10) {
-          // Changes directions of the stroke in terms of size
+          // Changes directions of the stroke in terms of size.
           direction = !direction;
         }
 
-        // Grow bigger/grow smaller
+        // Grow bigger/grow smaller.
         if (direction) {
           ctx.lineWidth++;
         } else {
