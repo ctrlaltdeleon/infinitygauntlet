@@ -1,6 +1,15 @@
+# June 30, 2019
+
+- Gym!
+  - Chest and triceps.
+
 # June 29, 2019
 
+- House work.
+
 # June 28, 2019
+
+- **Avengers: Endgame!** Round Four. (With extras this time!)
 
 # June 27, 2019
 
