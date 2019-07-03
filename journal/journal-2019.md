@@ -1,6 +1,15 @@
+# July 4, 2019
+
+- Anime Expo!
+
+# July 3, 2019
+
+- House work.
+
 # July 2, 2019
 
-- Family gathering.
+- **Spiderman: Far From Home!**
+- Caught up with an old friend from Oregon.
 
 # July 1, 2019
 
