@@ -6,10 +6,10 @@ using System.Collections.Generic;
 namespace LINQ
 {
     // Language Integrated Query (LINQ) provides
-    // many tools for working with data
+    // many tools for working with data.
     // LINQ is similar to SQL, but it can work
-    // with data aside from databases
-    // You manipulate data using Query Expressions
+    // with data aside from databases.
+    // You manipulate data using Query Expressions.
 
     class Program
     {
@@ -38,7 +38,7 @@ namespace LINQ
                             orderby dog descending // Put in reverse alphabetical order.
                             select dog; // Choose those dogs.
 
-            foreach(var i in dogSpaces)
+            foreach (var i in dogSpaces)
             {
                 Console.WriteLine(i);
             }
@@ -54,7 +54,7 @@ namespace LINQ
                        orderby num
                        select num;
 
-            foreach(var i in gt20)
+            foreach (var i in gt20)
             {
                 Console.WriteLine(i);
             }
@@ -99,7 +99,7 @@ namespace LINQ
                                orderby animal.Name
                                select animal;
 
-            foreach(var animal in smallAnimals)
+            foreach (var animal in smallAnimals)
             {
                 Console.WriteLine($"{animal.Name} weighs {animal.Weight}.");
             }
@@ -120,7 +120,7 @@ namespace LINQ
                           orderby dog.Name
                           select dog;
 
-            foreach(var dog in bigDogs)
+            foreach (var dog in bigDogs)
             {
                 Console.WriteLine($"A {dog.Name} weighs {dog.Weight} lbs.");
             }
@@ -164,7 +164,7 @@ namespace LINQ
             };
 
             var nameHeight = from a in animals
-                             // Create a new selection of a specific category.
+                                 // Create a new selection of a specific category.
                              select new
                              {
                                  a.Name,
@@ -173,7 +173,7 @@ namespace LINQ
 
             Array arrNameHeight = nameHeight.ToArray();
 
-            foreach(var i in arrNameHeight)
+            foreach (var i in arrNameHeight)
             {
                 Console.WriteLine(i.ToString());
             }
@@ -184,7 +184,7 @@ namespace LINQ
                             equals owner.OwnerID
                             select new { OwnerName = owner.Name, AnimalName = animal.Name };
 
-            foreach(var i in innerJoin)
+            foreach (var i in innerJoin)
             {
                 Console.WriteLine($"{i.OwnerName} owns {i.AnimalName}!");
             }
@@ -207,10 +207,10 @@ namespace LINQ
 
             int totalAnimals;
 
-            foreach(var ownerGroup in groupJoin)
+            foreach (var ownerGroup in groupJoin)
             {
                 Console.WriteLine(ownerGroup.Owner);
-                foreach(var animal in ownerGroup.Animals)
+                foreach (var animal in ownerGroup.Animals)
                 {
                     Console.WriteLine($"* {animal.Name}");
                 }

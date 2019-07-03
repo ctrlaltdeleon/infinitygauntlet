@@ -52,7 +52,8 @@
     <!--
       The following is a common layout you would see in an email client.
 
-      When a user clicks a checkbox, holds Shift, and then clicks another checkbox a few rows down, all the checkboxes inbetween those two checkboxes should be checked.
+      When a user clicks a checkbox, holds Shift, and then clicks another checkbox a few rows down, 
+      all the checkboxes in between those two checkboxes should be checked.
     -->
     <div class="inbox">
       <div class="item">
@@ -94,19 +95,19 @@
     </div>
 
     <script>
-      // Collect all the checkboxes and put them to a variable
-      // .inbox -> <div class="inbox">
-      // input[type="checkbox"] -> check for input types "checkbox"
+      // Collect all the checkboxes and put them to a variable.
+      // `.inbox -> <div class="inbox">`
+      // `input[type="checkbox"]` -> check for input types "checkbox".
       const checkboxes = document.querySelectorAll(
-        '.inbox input[type="checkbox"]',
+        '.inbox input[type="checkbox"]'
       );
 
-      // Allows to be changed even if not in scope
+      // Allows to be changed even if not in scope.
       let lastChecked;
 
       function handleCheck(e) {
         let inBetween = false;
-        // Check if the shift key is down
+        // Check if the shift key is down.
         // Check that they are checking something!
         if (e.shiftKey && this.checked) {
           checkboxes.forEach(checkbox => {
@@ -121,9 +122,9 @@
         lastChecked = this;
       }
 
-      // Data structure gets separated into individual variables to check for click
+      // Data structure gets separated into individual variables to check for click.
       checkboxes.forEach(checkbox =>
-        checkbox.addEventListener("click", handleCheck),
+        checkbox.addEventListener("click", handleCheck)
       );
 
       console.log(checkboxes);

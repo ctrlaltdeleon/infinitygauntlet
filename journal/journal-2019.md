@@ -1,3 +1,11 @@
+# July 2, 2019
+
+- Family gathering.
+
+# July 1, 2019
+
+- Family gathering.
+
 # June 30, 2019
 
 - Gym!
