@@ -1,3 +1,12 @@
+# July 5, 2019
+
+- Anime Expo!
+- What is the difference between `join` vs `map`?
+  - `join` combines the elements to a string.
+  - `map` combines the elements to an array.
+- Photography!
+  - 3 clients!
+
 # July 4, 2019
 
 - Anime Expo!
