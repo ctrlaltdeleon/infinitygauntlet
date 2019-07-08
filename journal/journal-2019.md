@@ -1,3 +1,12 @@
+# July 8, 2019
+
+- What is the difference between `npm` and `npx`?
+  - `npm` installs packages.
+  - `npx` executes packages without needing to install on your computer.
+- Why would I use `npx` over `npm`?
+  - Usually for `create-react-app`, instead of constantly updating the package on your computer then executing, you could just execute the latest version on the cloud every time.
+  - Saves a few steps.
+
 # July 7, 2019
 
 - Worked on personal website, updating details and familiarizing myself with `scss`.
