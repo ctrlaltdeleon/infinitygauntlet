@@ -6,6 +6,9 @@
 - Why would I use `npx` over `npm`?
   - Usually for `create-react-app`, instead of constantly updating the package on your computer then executing, you could just execute the latest version on the cloud every time.
   - Saves a few steps.
+- What files are required for a `React` project to execute?
+  - `public/index.html` for the page template.
+  - `src/index.js` for the `JavaScript` entry point.
 
 # July 7, 2019
 
@@ -65,7 +68,7 @@
 # June 26, 2019
 
 - Sick. :(
-- JavaScript30 course.
+- `JavaScript30` course.
 - Gym!
   - Back and biceps.
 
