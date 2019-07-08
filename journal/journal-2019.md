@@ -1,3 +1,15 @@
+# July 7, 2019
+
+- Worked on personal website, updating details and familiarizing myself with `scss`.
+- What does the `<span>` tag do?
+  - The `<span>` tag provides a way to add a hook to a part of a text or a part of a document.
+
+# July 6, 2019
+
+- Anime Expo!
+- Photography!
+  - 4 clients!
+
 # July 5, 2019
 
 - Anime Expo!
@@ -5,7 +17,7 @@
   - `join` combines the elements to a string.
   - `map` combines the elements to an array.
 - Photography!
-  - 3 clients!
+  - 4 clients!
 
 # July 4, 2019
 
