@@ -1,3 +1,7 @@
+# July 10, 2019
+
+- I'm homeless now.
+
 # July 9, 2019
 
 - Editing photos.
