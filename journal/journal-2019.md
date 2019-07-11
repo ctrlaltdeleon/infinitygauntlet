@@ -1,3 +1,7 @@
+# July 9, 2019
+
+- Editing photos.
+
 # July 8, 2019
 
 - What is the difference between `npm` and `npx`?
@@ -9,6 +13,16 @@
 - What files are required for a `React` project to execute?
   - `public/index.html` for the page template.
   - `src/index.js` for the `JavaScript` entry point.
+- How do you implement a `<script>` within a `React` component?
+
+```js
+componentDidMount() {
+  const script = document.createElement("script");
+  script.src = "www.cornify.com/js/cornify.js";
+  script.async = true;
+  document.body.appendChild(script);
+}
+```
 
 # July 7, 2019
 
