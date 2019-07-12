@@ -46,7 +46,7 @@
   - [Car](life/car.md)
 - [Lightning Talks](lightning-talks/README.md)
 - [Other](other/README.md)
-  - [Armageddon](other/armageddon.md)
+  - [Bash Scripts](other/bash-scripts.md)
   - [Computer and VSCode Plugins](other/computer-and-vscode-plugins.md)
   - [How to Google](other/how-to-google.md)
   - [How to use Git](other/how-to-use-git.md)
