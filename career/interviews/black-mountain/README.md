@@ -100,8 +100,10 @@ init();
 
 ## Round 4 (On-Site)
 
-- N/A
+- ER diagram.
+- Coding solution.
+- Culture fit.
 
 ## Round 5 (Offer)
 
-- N/A
+- Did not make it.
