@@ -1,3 +1,19 @@
+# July 13, 2019
+
+- Went hiking with apsa friends.
+- Applied to several places.
+
+# July 12, 2019
+
+- Went golfing with old friends.
+- Learned a few `bash` scripts.
+
+# July 11, 2019
+
+- I left to live with my friend.
+- Gym!
+  - Legs and shoulders.
+
 # July 10, 2019
 
 - I'm homeless now.
