@@ -1,6 +1,11 @@
+# July 14, 2019
+
+- Gym!
+  - Chest and triceps.
+
 # July 13, 2019
 
-- Went hiking with apsa friends.
+- Went hiking with APSA friends.
 - Applied to several places.
 
 # July 12, 2019
