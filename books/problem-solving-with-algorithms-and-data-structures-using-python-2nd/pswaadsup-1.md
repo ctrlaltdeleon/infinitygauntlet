@@ -1,6 +1,6 @@
 # PROBLEM SOLVING WITH ALGORITHMS AND DATA STRUCTURES USING PYTHON
 
-## Introduction
+## 1: Introduction
 
 ### 1.1: Objective
 
