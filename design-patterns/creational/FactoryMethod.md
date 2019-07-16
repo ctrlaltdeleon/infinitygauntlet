@@ -76,13 +76,19 @@ const markQs = markMgr.takeInterview();
 function App() {
   return (
     <div className="App">
-      <p>Dev manager will be {devQs}</p>{" "}
-      {/* Dev manager will be asking about design patterns! */}
-      <p>Marketing manager will be {markQs}</p> {/* Marketing manager will be asking about social media! */}
+      <p>Dev manager will be {devQs}</p>
+      <p>Marketing manager will be {markQs}</p>
     </div>
   );
 }
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(<App />, rootElement);
+```
+
+## Output
+
+```
+Dev manager will be asking about design patterns!
+Marketing manager will be asking about social media!
 ```
