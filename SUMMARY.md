@@ -49,6 +49,7 @@
 - [Life](life/README.md)
   - [Car](life/car.md)
 - [Lightning Talks](lightning-talks/README.md)
+  - [Demo](lightning-talks/demo.mdx)
 - [Other](other/README.md)
   - [Bash Scripts](other/bash-scripts.md)
   - [Computer and VSCode Plugins](other/computer-and-vscode-plugins.md)
