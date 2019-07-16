@@ -1,6 +1,6 @@
 # ER DIAGRAM
 
-# What is an ER diagram?
+## What is an ER diagram?
 
 - Entity Relationship (ER) diagram.
 - Shows how entities relate to each other within a system.
@@ -8,7 +8,7 @@
 - "A unified view of data" (Peter Chen, founder of the modern ER diagrams).
 - Previously known as Unified MOdeling Language (UML), which is widely used in software design.
 
-# The components and features of an ER diagram
+## The components and features of an ER diagram
 
 - Entity is defined by a rectangle.
   - A group of definable things such as students or athletes.
@@ -29,7 +29,7 @@
   - Many-to-many.
     - Students with teachers and teachers with students.
 
-# Mapping natural language
+## Mapping natural language
 
 - Common nouns are entities.
   - Student.
@@ -42,7 +42,7 @@
 - Adverbs are attributes.
   - Digitally.
 
-# ERD symbols and notations
+## ERD symbols and notations
 
 - Chen style.
   - Rectangles, diamonds, and circles.
@@ -50,13 +50,13 @@
   - Rectangles with entities and attributes combined.
   - Lines with relationships attached, no diamonds.
 
-# Limitations of ER diagrams and models
+## Limitations of ER diagrams and models
 
 - Shows relationships, but that's about it.
 - Not for unstructured data because of being messy.
 - Difficulty integrating with an existing database.
 
-# How to draw a basic ER diagram
+## How to draw a basic ER diagram
 
 - Purpose and scope.
   - Define the purpose and scope of what you're modeling.

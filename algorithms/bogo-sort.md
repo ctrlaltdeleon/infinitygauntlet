@@ -1,4 +1,4 @@
-# BOGO-SORT.PY
+# BOGO SORT
 
 ```py
 """

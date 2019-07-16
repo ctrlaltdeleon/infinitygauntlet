@@ -48,7 +48,6 @@
     - [Factory Method](design-patterns/creational/FactoryMethod.md)
   - [Structural](design-patterns/structural)
 - [Journal](journal/README.md)
-  - [2019](journal/README.md)
 - [Life](life/README.md)
   - [Car](life/car.md)
 - [Other](other/README.md)

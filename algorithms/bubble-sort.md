@@ -1,4 +1,4 @@
-# BUBBLE-SORT.PY
+# BUBBLE SORT
 
 ```py
 """
