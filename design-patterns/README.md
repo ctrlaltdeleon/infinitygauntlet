@@ -8,13 +8,30 @@ Design patterns are solutions to recurring problems; guidelines on how to tackle
 
 ## What types of design patterns are there?
 
+### Behavioral!
+
+- It is concerned with assignment of responsibilities between the objects. What makes them different from structural patterns is they don't just specify the structure but also outline the patterns for message passing/communication between them.
+- "How to run a behavior in software component?"
+- Types of behavioral patterns:
+  - Chain of Responsibility.
+  - Command.
+  - Interpreter.
+  - Iterator.
+  - Mediator.
+  - Memento.
+  - Observer.
+  - State.
+  - Strategy.
+  - Template Method.
+  - Visitor.
+
 ### Creational!
 
 - Creational patterns are focused towards how to instantiate an object or group of related objects.
 - Types of creational patterns:
-  - Factory Method.
   - Abstract Factory.
   - Builder.
+  - Factory Method.
   - Prototype.
   - Singleton.
 
@@ -30,20 +47,3 @@ Design patterns are solutions to recurring problems; guidelines on how to tackle
   - Facade.
   - Flyweight.
   - Proxy.
-
-### Behavioral!
-
-- It is concerned with assignment of responsibilities between the objects. What makes them different from structural patterns is they don't just specify the structure but also outline the patterns for message passing/communication between them.
-- "How to run a behavior in software component?"
-- Types of behavioral patterns:
-  - Chain of Responsibility.
-  - Command.
-  - Interpreter.
-  - Iterator.
-  - Mediator.
-  - Memento.
-  - Observer.
-  - Visitor.
-  - Strategy.
-  - State.
-  - Template Method.

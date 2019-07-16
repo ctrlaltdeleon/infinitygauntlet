@@ -1,9 +1,11 @@
-# What is it?
+# FACTORY METHOD
+
+## What is it?
 
 - It provides a way to delegate the instantiation logic to child classes.
 - Instead of the hiring manager interviewing all candidates, have specialized interviewers interview sections of candidates.
 
-# When to use?
+## When to use?
 
 - Useful when there is some generic processing in a class but the required sub-class is dynamically decided at runtime.
 - Or putting it in other words, when the client doesn't know what exact sub-class it might need.
