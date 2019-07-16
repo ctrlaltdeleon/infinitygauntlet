@@ -3,7 +3,7 @@
 ## What is it?
 
 - A factory of factories; a factory that groups the individual but related/dependent factories together without specifying their concrete classes.
-- Instead of micromanaging which worker to which door, we would just need to access the correct factory and that will handle the door and the worker itself.
+- Instead of micromanaging which expert to which door, we would just need to access the correct factory and that will handle the door and the expert itself.
 
 ## When to use?
 
