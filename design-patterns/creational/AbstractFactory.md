@@ -14,13 +14,14 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-// Create different types of doors.
+// Different types of doors with the base of being a door.
 class Door {
   constructor() {
     this.getDescription = () => {};
   }
 }
 
+// An iron door.
 class IronDoor extends Door {
   constructor() {
     super();
@@ -28,6 +29,7 @@ class IronDoor extends Door {
   }
 }
 
+// A wooden door.
 class WoodenDoor extends Door {
   constructor() {
     super();
@@ -35,13 +37,14 @@ class WoodenDoor extends Door {
   }
 }
 
-// Create different types of experts according to the doors.
+// Experts according to the doors.
 class DoorFittingExpert {
   constructor() {
     this.getDescription = () => {};
   }
 }
 
+// A welder is expected to fit iron doors.
 class Welder extends DoorFittingExpert {
   constructor() {
     super();
@@ -49,6 +52,7 @@ class Welder extends DoorFittingExpert {
   }
 }
 
+// A carpenter is expected to fit wooden doors.
 class Carpenter extends DoorFittingExpert {
   constructor() {
     super();
@@ -56,7 +60,7 @@ class Carpenter extends DoorFittingExpert {
   }
 }
 
-// Create a door factory which encapsulates the correct door to the correct expert.
+// The door factory encapsulates the correct door to the correct expert.
 class DoorFactory {
   constructor() {
     this.makeDoor = () => {};
@@ -64,6 +68,7 @@ class DoorFactory {
   }
 }
 
+// A wooden door factory creates wooden doors with carpenters.
 class WoodenDoorFactory extends DoorFactory {
   constructor() {
     super();
@@ -72,6 +77,7 @@ class WoodenDoorFactory extends DoorFactory {
   }
 }
 
+// An iron door factory creates iron doors with welders.
 class IronDoorFactory extends DoorFactory {
   constructor() {
     super();
@@ -80,10 +86,12 @@ class IronDoorFactory extends DoorFactory {
   }
 }
 
+// Create a wooden factory with the proper door, a wooden door, and proper expert, a carpenter.
 const woodFactory = new WoodenDoorFactory();
 const woodDoor = woodFactory.makeDoor().getDescription();
 const woodExpert = woodFactory.makeFittingExpert().getDescription();
 
+// Create an iron factory with the proper door, an iron door, and proper expert, a welder.
 const ironFactory = new IronDoorFactory();
 const ironDoor = ironFactory.makeDoor().getDescription();
 const ironExpert = ironFactory.makeFittingExpert().getDescription();
