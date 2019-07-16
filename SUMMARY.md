@@ -13,7 +13,7 @@
     - [Chapter 4](books/cracking-the-code-interview-6th/ctci-4.md)
     - [Chapter 5](books/cracking-the-code-interview-6th/ctci-5.md)
     - [Chapter 6](books/cracking-the-code-interview-6th/ctci-6.md)
-  - [Front-End Developer Handbook](books/front-end-developer-handbook-2018/README.md)
+  - [Front-End Developer Handbook](books/front-end-developer-handbook-2019/README.md)
     - [Chapter 1](books/front-end-developer-handbook-2019/fedh-1.md)
     - [Chapter 2](books/front-end-developer-handbook-2019/fedh-2.md)
   - [Hacking for Dummies (6th Edition)](books/hacking-for-dummies-6th/README.md)
