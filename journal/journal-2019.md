@@ -1,11 +1,14 @@
+# July 16, 2019
+
+- Gym!
+  - Back and biceps.
+
 # July 15, 2019
 
 - What does it mean if there's a `super()` within a constructor?
   - `super()` is used to call the constructor, methods and properties of parent class.
   - In `React`, if utilizing a subclass `super()` is always called because ES6 class constructors must call it.
     - To utilize `this` keyword, `super()` is needed to know what to reference, such for the common `this.props`.
-- Gym!
-  - Back and biceps.
 
 # July 14, 2019
 
