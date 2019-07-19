@@ -1,5 +1,17 @@
+# July 18, 2019
+
+- SDCC!
+  - Blizzard Entertainment.
+
+# July 17, 2019
+
+- SDCC!
+  - Blizzard Entertainment.
+
 # July 16, 2019
 
+- SDCC!
+  - Blizzard Entertainment.
 - Gym!
   - Back and biceps.
 
