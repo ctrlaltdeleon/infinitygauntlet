@@ -1,3 +1,21 @@
+# July 21, 2019
+
+- SDCC!
+  - Blizzard Entertainment.
+
+# July 20, 2019
+
+- SDCC!
+  - Blizzard Entertainment.
+  - Announcements for Phase 4 of the Marvel Cinematic Universe!
+- Gym!
+  - Chest and triceps.
+
+# July 19, 2019
+
+- SDCC!
+  - Blizzard Entertainment.
+
 # July 18, 2019
 
 - SDCC!
