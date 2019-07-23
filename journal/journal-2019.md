@@ -1,5 +1,9 @@
 # July 22, 2019
 
+- What does `HOC` mean?
+  - Higher order of components.
+  - A function that takes a component and returns a new component.
+  - As opposed to a component constantly changing, create a new one.
 - Gym!
   - Leg and shoulders.
 
