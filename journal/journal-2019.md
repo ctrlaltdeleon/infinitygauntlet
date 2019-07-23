@@ -2,6 +2,12 @@
 
 - SDCC!
   - Blizzard Entertainment.
+  -
+
+# July 21, 2019
+
+- SDCC!
+  - Blizzard Entertainment.
 
 # July 20, 2019
 
