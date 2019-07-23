@@ -1,8 +1,7 @@
-# July 21, 2019
+# July 22, 2019
 
-- SDCC!
-  - Blizzard Entertainment.
-  -
+- Gym!
+  - Leg and shoulders.
 
 # July 21, 2019
 
