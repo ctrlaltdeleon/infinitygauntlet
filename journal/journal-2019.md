@@ -1,3 +1,14 @@
+# July 24, 2019
+
+- Performed a few leetcode questions.
+- Cleaned out my emails.
+- House warming party for the Olympus gang.
+
+# July 23, 2019
+
+- Photography!
+  - Experimented with smoke bombs as well as city shots.
+
 # July 22, 2019
 
 - What does `HOC` mean?
