@@ -1,3 +1,8 @@
+# July 25, 2019
+
+- Gym!
+  - Back and biceps.
+
 # July 24, 2019
 
 - Performed a few leetcode questions.
