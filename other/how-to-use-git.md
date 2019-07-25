@@ -59,16 +59,6 @@ git commit -m "Merge %OTHER_REPO% into %NEW_REPO%"
 git push
 ```
 
-What if I clone another repo into an existing repo?
-
-```
-Open up a terminal
-Change directory to respective parent folder
-git rm --cached %PATH/TO/CLONED/REPO%
-git add .
-git push
-```
-
 ## Ignoring Files
 
 Create a `.gitignore` file stating the specific folders and files you would like not to be tracked.
