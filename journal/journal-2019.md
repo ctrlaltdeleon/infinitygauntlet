@@ -1,5 +1,28 @@
+# July 27, 2019
+
+- Set up in my room sort of.
+- Looking forward to interviews.
+- Game night with Navajo team.
+
+# July 26, 2019
+
+- Moved in with my brother.
+- Bonfire with Navajo team.
+
 # July 25, 2019
 
+- What are scoped packages?
+  - A package name tied to a specific author.
+  - `"name": "@acfromspace/weeb"`
+  - The `@acfromspace` before the `/weeb` allows for scoped packages to be made as opposed to if we just made `"name": weeb`, which may be unavailable.
+- What is semantic versioning?
+  - When updating software it goes by `MAJOR.MINOR.PATCH`.
+  - `MAJOR` version when making incompatible API changes.
+  - `MINOR` version when adding functionality in a backwards-compatible manner.
+  - `PATCH` version when making backwards-compatible bug fixes.
+- Comments are not allowed in `.JSON` files!
+- Packages made in `NPM` are automatically private unless said otherwise.
+  - Fixed with `npm publish --access=public`.
 - Gym!
   - Back and biceps.
 
@@ -7,7 +30,7 @@
 
 - Performed a few leetcode questions.
 - Cleaned out my emails.
-- House warming party for the Olympus gang.
+- House warming party for the Olympus team.
 
 # July 23, 2019
 
