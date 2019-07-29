@@ -28,17 +28,17 @@ function AnimatedVisibility({
 AnimatedVisibility.defaultProps = {
   animationOutDuration: 1000,
   disappearOffset: 350,
-  visible: true
+  visible: true,
 };
 
 AnimatedVisibility.propTypes = {
   children: PropTypes.oneOfType([
     PropTypes.arrayOf(PropTypes.node),
-    PropTypes.node
+    PropTypes.node,
   ]),
   animationOutDuration: PropTypes.number,
   disappearOffset: PropTypes.number,
-  visible: PropTypes.bool
+  visible: PropTypes.bool,
 };
 
 function makeAnimated(
@@ -47,7 +47,7 @@ function makeAnimated(
   animationOut,
   animationInDuration,
   animationOutDuration,
-  disappearOffset
+  disappearOffset,
 ) {
   return function({ open, className, ...props }) {
     return (

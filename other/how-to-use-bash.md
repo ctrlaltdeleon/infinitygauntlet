@@ -1,4 +1,18 @@
-# BASH SCRIPTS
+# HOW TO USE BASH
+
+## Commands
+
+Need to remove a directory?
+
+```bash
+rm -rf %DIRECTORY%
+```
+
+Need to check the contents of the area you're in?
+
+```bash
+ls
+```
 
 ## Computer Freeze
 

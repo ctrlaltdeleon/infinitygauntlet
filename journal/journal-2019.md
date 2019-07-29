@@ -1,3 +1,8 @@
+# July 28, 2019
+
+- Gym!
+  - Chest and triceps.
+
 # July 27, 2019
 
 - Set up in my room sort of.
