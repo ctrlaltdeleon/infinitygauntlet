@@ -1,3 +1,47 @@
+# July 29, 2019
+
+- What is the life cycle of a `React` component?
+  - Birth/Mount.
+  - Growth/Update.
+  - Death/Unmount.
+- What is the difference between props and state?
+  - Props is passed down by a parent component.
+  - State is attached to the relevant component.
+- What is a callback?
+  - A callback is a function that is to be executed after another function has finished executing.
+
+```js
+// Example.
+function doHomework(subject, callback) {
+  alert(`Starting my ${subject} homework.`);
+  callback();
+}
+
+function alertFinished() {
+  alert("Finished!");
+}
+
+doHomework("math", alertFinished);
+```
+
+```js
+// Twitter API example.
+T.get("search/tweets", params, function(err, data, response) {
+  if (!err) {
+    // This is where the magic will happen.
+  } else {
+    console.log(err);
+  }
+});
+```
+
+- What are unique about functions in JavaScript?
+  - Functions are objects.
+  - Because of this, functions can take functions as arguments and be returned by other functions.
+  - These in such are called higher-order functions.
+  - Any function that is passed as an argument is called a callback function.
+- Facebook interview prep.
+
 # July 28, 2019
 
 - Gym!
