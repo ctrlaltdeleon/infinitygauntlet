@@ -2,8 +2,8 @@
 
 ## Round 1 (Phone)
 
-- 30 minutes.
-- Behavioral questions from Office Manager.
+- 30 minutes with Office Manager.
+- Behavioral.
 - "Tell me about yourself."
 - "Tell me about a typical day."
 - "How would you start designing a product?"
@@ -11,8 +11,8 @@
 
 ## Round 2 (On-Site)
 
-- 1 hour.
-- Technical questions from CEO and Lead Engineer.
+- 1 hour with CEO and Lead Engineer.
+- Technical.
 - Office Manager was present observing.
 - "What's the difference between C/C++?"
   - C.
@@ -26,8 +26,8 @@
 - "How would you make a class?"
   - It's a blueprint to an object, so you describe it with attributes needed.
 
-```javascript
-// javascript
+```js
+// JavaScript.
 
 class Hero {
   constructor(name, level) {

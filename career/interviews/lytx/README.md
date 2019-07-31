@@ -2,13 +2,14 @@
 
 ## Round 1 (Phone Interview)
 
-- 15 minutes.
-- Behavioral questions, company culture, reason for applying.
+- 15 minutes with Recruiter.
+- Behavioral and cultural.
+- "Why did you apply here?"
 
-## Round 2 (Coding Challenge)
+## Round 2 (Online)
 
-- 1 hour.
-- 2 easy, 1 hard. (respectively)
+- 1 hour with no person.
+- 2 easy, 1 hard. (Respectively.)
 - **Verify Items.**
   - Given four different arrays, determine the differences between two arrays to the other two arrays and increment a counter based on criteria.
 - **HackLand Election.**

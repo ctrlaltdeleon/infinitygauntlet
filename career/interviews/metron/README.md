@@ -2,8 +2,8 @@
 
 ## Round 1 (Phone)
 
-- 30 minutes.
-- Technical questions from a Senior Software Engineer.
+- 30 minutes with Senior Software Engineer.
+- Technical.
 - "What is the differences between public, private, and protected scope?"
   - Public can be used to make the variable/function available anywhere.
   - Private can be used to make the variable/function available within it's own class.

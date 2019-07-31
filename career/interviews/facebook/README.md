@@ -2,6 +2,8 @@
 
 ## Round 1 (Phone)
 
+- 30 minutes with Referral Advisor.
+- Behavioral and cultural.
 - Background check.
   - Experience.
   - Details on a project you've worked on.
