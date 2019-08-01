@@ -1,3 +1,17 @@
+# August 1, 2019
+
+- Met up with a Super Potion friend.
+- Gym!
+  - Actually just ran around Rohr park with friends.
+
+# July 31, 2019
+
+- **Once Upon a Time in Hollywood**
+
+# July 30, 2019
+
+- Met up with a friend about a job.
+
 # July 29, 2019
 
 - What is the life cycle of a `React` component?
@@ -873,9 +887,9 @@ fetch(apiUrl)
 
 ```py
 Current time: 0.0000 seconds | Current score: 0.25 | Input string found: yyaa
-Current time: 0.0040 seconds | Current score: 0.50 | Input string found: rnss
-Current time: 0.0317 seconds | Current score: 0.75 | Input string found: tess
-It took 0.22 seconds to find: yess
+Current time: 0.0040 seconds | Current score: 0.50 | Input string found: rees
+Current time: 0.0317 seconds | Current score: 0.75 | Input string found: yees
+It took 0.22 seconds to find: yeet
 ```
 
 - What is overloading?
