@@ -2,7 +2,7 @@
 
 - Met up with a Super Potion friend.
 - Gym!
-  - Actually just ran around Rohr park with friends.
+  - Actually just ran around Rohr Park with friends.
 
 # July 31, 2019
 
