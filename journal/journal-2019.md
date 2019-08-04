@@ -1,3 +1,19 @@
+
+# August 4, 2019
+
+- Gym!
+  - Back and biceps.
+
+# August 3, 2019
+
+- Photography!
+  - Shot for a dog party, very cute doggos.
+
+# August 2, 2019
+
+- Finished interview packet.
+- Dungeons & Dragons studying.
+
 # August 1, 2019
 
 - Met up with a Super Potion friend.
