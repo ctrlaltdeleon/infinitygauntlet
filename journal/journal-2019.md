@@ -1,6 +1,15 @@
 
 # August 4, 2019
 
+- What is standard deviation (SD)?
+  - A measure of how much variation exists in a set of data.
+  - Low SD means uniform data points, close to average.
+  - High SD means chaotic data points, far from average.
+- How do you calculate SD?
+  - `sqrt( sum((i-mean)^2) / len(i) - 1)`
+  - `statistics.stdev(array)`
+- Why is SD important?
+  - To understand how spread apart the data is in a data set.
 - Gym!
   - Back and biceps.
 

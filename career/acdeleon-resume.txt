@@ -28,7 +28,7 @@ Front-End Developer
 https://github.com/AztecGameLab 
 (ReactJS + Node.js + Redux + Firebase + Firestore + Unity + Unreal)
 
-Developed the user settings interface of a full stack web application, including UI/UX. 
+Developed the user settings interface of a full stack web application, including UI/UX and unit testing components. 
 Administered and participated in game development hackathons with 30+ participants in order to cultivate development and collaborations within the community. 
 Facilitated intricate workshops and presentations about the video game industry, product and game design, and the technical development process. 
 Practiced Agile and Scrum in 1 week sprints with other developers.
