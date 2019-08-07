@@ -1,3 +1,11 @@
+# August 6, 2019
+
+- Gym!
+  - Chest and triceps.
+
+# August 5, 2019
+
+- Felt down today.
 
 # August 4, 2019
 

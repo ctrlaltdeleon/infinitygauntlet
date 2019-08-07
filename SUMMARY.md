@@ -55,6 +55,7 @@
   - [Computer and VSCode Plugins](other/computer-and-vscode-plugins.md)
   - [ER Diagram](other/er-diagram.md)
   - [How to Google](other/how-to-google.md)
+  - [How to Minecraft Mod](other/how-to-minecraft-mod.md)
   - [How to use Bash](other/how-to-use-bash.md)
   - [How to use Git](other/how-to-use-git.md)
   - [Odd Achievements](other/odd-achievements.md)
