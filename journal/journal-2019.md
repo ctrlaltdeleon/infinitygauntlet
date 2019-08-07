@@ -1,5 +1,12 @@
+# August 7, 2019
+
+- Meeting with a friend to catch up since I haven't seen her in a while.
+- Also meeting with another friend because they're cool.
+
 # August 6, 2019
 
+- Photography!
+  - Edited photos.
 - Gym!
   - Chest and triceps.
 
@@ -131,6 +138,7 @@ T.get("search/tweets", params, function(err, data, response) {
 # July 23, 2019
 
 - Photography!
+  - Shot for a friend who wanted fashion photos.
   - Experimented with smoke bombs as well as city shots.
 
 # July 22, 2019
@@ -246,7 +254,7 @@ componentDidMount() {
 
 - Anime Expo!
 - Photography!
-  - 4 clients!
+  - Shot 4 clients with cosplay.
 
 # July 5, 2019
 
@@ -255,7 +263,7 @@ componentDidMount() {
   - `join` combines the elements to a string.
   - `map` combines the elements to an array.
 - Photography!
-  - 4 clients!
+  - Shot 4 clients with cosplay.
 
 # July 4, 2019
 
@@ -307,6 +315,7 @@ componentDidMount() {
 
 - Sick. :(
 - Photography!
+  - Shot headshots for my boba friend.
 - Obtained AX pass and met a new friend!
 - Gym!
   - Legs and shoulders.
@@ -427,6 +436,7 @@ componentDidMount() {
 # June 8, 2019
 
 - Photography!
+  - Shot photos for a under the weather friend.
 
 # June 7, 2019
 
@@ -1139,7 +1149,7 @@ Ostriches cannot fly.
 - What do you do if you encounter a `for` loop with augmenting a string?
   - Use `StringBuilder` if available, fast and less memory.
 - Photography!
-  - Shot photos for an organization's banquet, over 700+ photos.
+  - Shot for an organization's banquet, over 700+ photos.
 - Gym!
   - Chest and triceps.
 
@@ -1192,14 +1202,14 @@ Ostriches cannot fly.
 - Posted to LinkedIn about the `Gitbook`.
 - Tried out different online coding assessment testing such as DevSkiller and Codility.
 - Photography!
-  - Shot more graduation pictures, this time a group of 3.
+  - Shot for 3 clients, all grad photos.
 - Gym!
   - Legs and shoulders.
 
 # April 26, 2019
 
 - Photography!
-  - Spent the whole day editing photos and working out the Flickr account intricacies.
+  - Edited photos.
 
 # April 25, 2019
 
@@ -1232,6 +1242,7 @@ Ostriches cannot fly.
   - Helped my father out with gardening.
   - Learned that to prevent weeds, need a black tapestry over the dirt, but surrounding the wanted potted plants.
 - Photography!
+  - Shot for a special someone, grad photos.
   - When popping the champagne, pre-pop it already without shaking and place a finger on the top.
   - When ready to take the photo, shake the bottle, and unleash the power!
   - Always clean after yourself, confetti is everywhere from other people.
