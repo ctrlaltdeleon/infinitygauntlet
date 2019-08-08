@@ -1,4 +1,4 @@
-# MOISHE INFO SESSION
+# 250 GOOGLE INTERVIEWS
 
 ```
 Name:       What I Learned Doing 250 Interviews at Google
