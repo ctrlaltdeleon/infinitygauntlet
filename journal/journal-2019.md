@@ -1,3 +1,14 @@
+# August 9, 2019
+
+- Hour of Python.
+- Gym!
+  - Tried a friend's workout with his brother and himself.
+
+# August 8, 2019
+
+- Gym!
+  - Legs and shoulders.
+
 # August 7, 2019
 
 - Meeting with a friend to catch up since I haven't seen her in a while.
