@@ -1,3 +1,7 @@
+# August 10, 2019
+
+- Friend's Super Smash tournament.
+
 # August 9, 2019
 
 - Hour of Python.
