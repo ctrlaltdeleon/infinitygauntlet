@@ -1,5 +1,33 @@
 # August 10, 2019
 
+- What different ways are there to iterate over a dictionary in Python?
+  - Through all keys.
+  - Through all values.
+  - Through all key and values.
+
+```py
+# Through all keys.
+
+for state in statesAndCapitals:
+  print(state)
+```
+
+```py
+# Through all values.
+
+for capital in statesAndCapitals.values():
+  print(capital)
+```
+
+```py
+# Through all keys and values.
+
+for state, capital in statesAndCapitals.items():
+  print(state, ":", capital)
+```
+
+- What does `type()` do in Python?
+  - Returns the kind of object is, whether it be an integer, string, etc.
 - Friend's Super Smash tournament.
 
 # August 9, 2019
