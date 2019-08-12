@@ -1,3 +1,12 @@
+# August 12, 2019
+
+-
+
+# August 11, 2019
+
+- Presentations at a FS friend's place.
+- Went through some problems on leetcode.
+
 # August 10, 2019
 
 - What different ways are there to iterate over a dictionary in Python?
