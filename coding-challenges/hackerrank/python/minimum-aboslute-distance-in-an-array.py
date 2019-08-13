@@ -2,7 +2,6 @@
 @author: acfromspace
 """
 
-
 import math
 import os
 import random

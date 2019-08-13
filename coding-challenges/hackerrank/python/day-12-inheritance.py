@@ -2,7 +2,6 @@
 @author: acfromspace
 """
 
-
 class Person:
     def __init__(self, firstName, lastName, idNumber):
         self.firstName = firstName

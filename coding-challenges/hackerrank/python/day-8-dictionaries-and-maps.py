@@ -2,7 +2,6 @@
 @author: acfromspace
 """
 
-
 queries = int(input("Input amount of queries: "))
 name_phone = [input("Input key (name) and value (phone number) seperated by a space: ").split()
               for _ in range(queries)]

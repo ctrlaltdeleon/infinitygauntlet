@@ -11,4 +11,5 @@ Contains all coding challenges and the variance.
   - **Codingame.** Gives you a video game feel. One of my favorites as it feels fun and enriching!
   - **Firecode.** Gives you problems that machine learn your completion. Also reviews previous questions to condition your habits.
   - **Hackerrank.** Gives tons of problems, albeit sometimes the website isn't complete in certain areas! Great discussion boards.
+  - **Hour of Python.** Gives a great introduction and overall cover of Python. Great for learning key things, but doesn't go over everything.
   - **Leetcode.** Gives problems that strictly relate to data structures and algorithms. Curates company questions!

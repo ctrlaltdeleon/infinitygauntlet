@@ -2,7 +2,6 @@
 @author: acfromspace
 """
 
-
 n = int(input("Input number of integers to input: ").strip())
 a = list(map(int, input(
     "Input integers elements with spaces in between: ").strip().split(' ')))
