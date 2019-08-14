@@ -1,6 +1,15 @@
+# August 14, 2019
+
+- Gym!
+
+# August 13, 2019
+
+- Gym!
+  - Ran around Rohr park with a friend.
+
 # August 12, 2019
 
--
+- Stargazing.
 
 # August 11, 2019
 

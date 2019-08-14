@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Check the console!</title>
+  </head>
+
+  <body>
+    secondInteger: <input id="secondInteger" value="12" /> secondDecimal:
+    <input id="secondDecimal" value="4.32" /> secondString:
+    <input id="secondString" value="dancing in the dark." />
+
+    <button
+      onclick="performOperation(document.getElementById('secondInteger').value, document.getElementById('secondDecimal').value, document.getElementById('secondString').value)"
+    >
+      performOperation()
+    </button>
+
+    <hr />
+
+    Output: <output id="output1"></output> <output id="output2"></output
+    > <output id="output3"></>
+
+    <script>
+      function performOperation(secondInteger, secondDecimal, secondString) {
+        const firstInteger = 4;
+        const firstDecimal = 4.0;
+        const firstString = "Slow ";
+
+        document.getElementById("output1").innerHTML =
+          firstInteger + parseInt(secondInteger);
+        document.getElementById("output2").innerHTML =
+          firstDecimal + parseFloat(secondDecimal);
+        document.getElementById("output3").innerHTML =
+          firstString + secondString;
+
+        // Write code that uses `console.log` to print the sum of the `firstInteger` and `secondInteger` (converted to a `Int` type) on a new line.
+        console.log(firstInteger + parseInt(secondInteger));
+
+        // Write code that uses `console.log` to print the sum of firstDecimal` and `secondDecimal` (converted to a `Float` type) on a new line.
+        console.log(firstDecimal + parseFloat(secondDecimal));
+
+        // Write code that uses `console.log` to print the concatenation of `firstString` and `secondString` on a new line. The variable `firstString` must be printed first.
+        console.log(firstString + secondString);
+      }
+    </script>
+  </body>
+</html>
