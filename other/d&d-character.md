@@ -52,4 +52,28 @@ School of Illusion.
     - Arcane: F or M
     - Divine: DF
 - XP Cost (XP)
-  - Some powerful spells entail an experience point cost to you. No spell can restore the XP lost in this manner. You cannot spend so much XP that you lose a level, so you cannot cast the spell unless you have enough XP to spare. However, you may, on gaining enough XP to attain a new level, use those XP for casting a spell rather than keeping them and advancing a level. The XP are treated just like a material component—expended when you cast the spell, whether or not the casting succeeds. 
+  - Some powerful spells entail an experience point cost to you. No spell can restore the XP lost in this manner. You cannot spend so much XP that you lose a level, so you cannot cast the spell unless you have enough XP to spare. However, you may, on gaining enough XP to attain a new level, use those XP for casting a spell rather than keeping them and advancing a level. The XP are treated just like a material component—expended when you cast the spell, whether or not the casting succeeds.
+
+## Spells
+
+Cantrips
+
+- Fire Bolt
+- Message
+- Prestidigitation
+- Ray of Frost
+- Thaumaturgy
+
+Level 1
+
+- Disguise Self
+- Find Familiar
+- Jump
+- Silent Image
+- Hellish Rebuke
+
+Level 2
+
+- Enlarge/Reduce
+- Invisibility
+- Mirror Image

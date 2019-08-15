@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Check the console!</title>
+  </head>
+
+  <body>
+    Length: <input id="length" value="3" /> Width:
+    <input id="width" value="4.5" />
+
+    <button
+      onclick="getArea(document.getElementById('length').value, document.getElementById('width').value)"
+    >
+      getArea()
+    </button>
+
+    <button
+      onclick="getPerimeter(document.getElementById('length').value, document.getElementById('width').value)"
+    >
+      getPerimeter()
+    </button>
+
+    <hr />
+
+    Output: <output id="output1"></output>
+
+    <script>
+      function getArea(length, width) {
+        let area;
+        area = length * width;
+        //   return area
+        document.getElementById("output1").innerHTML = area;
+        console.log(area);
+      }
+
+      function getPerimeter(length, width) {
+        let perimeter;
+        perimeter = 2 * length + 2 * width;
+        //   return perimeter
+        document.getElementById("output1").innerHTML = perimeter;
+        console.log(perimeter);
+      }
+    </script>
+  </body>
+</html>
