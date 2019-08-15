@@ -1,7 +1,32 @@
+# August 15, 2019
+
+- Recommended awy of formatting strings in `Python`?
+
+```py
+# Recommended.
+print("Hello {0} {1}! You just delved into python.".format(a, b))
+
+# Deprecated.
+print(("Hello %s %s! You just delved into python.") % (a, b))
+```
+- How does `true` statements work in `Python`?
+  - When a given statement is `true` it equates to `1` thus working with math expressions.
+
+```py
+def timeConversion(s):
+    h, m, sec = map(int, s[:-2].split(':'))
+    ending = s[-2:]
+    # Example given below.
+    h = h % 12 + (ending.upper() == 'PM') * 12
+    return ('%02d:%02d:%02d') % (h, m, sec)
+```
+
 # August 14, 2019
 
+- Worked on `Hackerrank` problems.
 - Gym!
-
+  - Tried a friend's workout with him.
+  
 # August 13, 2019
 
 - Gym!
@@ -14,11 +39,11 @@
 # August 11, 2019
 
 - Presentations at a FS friend's place.
-- Went through some problems on leetcode.
+- Went through some problems on `Leetcode`.
 
 # August 10, 2019
 
-- What different ways are there to iterate over a dictionary in Python?
+- What different ways are there to iterate over a dictionary in `Python`?
   - Through all keys.
   - Through all values.
   - Through all key and values.
@@ -44,13 +69,13 @@ for state, capital in statesAndCapitals.items():
   print(state, ":", capital)
 ```
 
-- What does `type()` do in Python?
+- What does `type()` do in `Python`?
   - Returns the kind of object is, whether it be an integer, string, etc.
 - Friend's Super Smash tournament.
 
 # August 9, 2019
 
-- Hour of Python.
+- Hour of `Python`.
 - Gym!
   - Tried a friend's workout with his brother and himself.
 
@@ -192,7 +217,7 @@ T.get("search/tweets", params, function(err, data, response) {
 
 # July 24, 2019
 
-- Performed a few leetcode questions.
+- Performed a few `Leetcode` questions.
 - Cleaned out my emails.
 - House warming party for the Olympus team.
 
@@ -413,7 +438,7 @@ componentDidMount() {
 
 # June 17, 2019
 
-- Updated Hackerrank challenge due to code review from colleague, made `luck-balance.py` more efficient by subtracting an unneeded variable and utilizing an existing one.
+- Updated `Hackerrank` challenge due to code review from colleague, made `luck-balance.py` more efficient by subtracting an unneeded variable and utilizing an existing one.
 
 # June 16, 2019
 
