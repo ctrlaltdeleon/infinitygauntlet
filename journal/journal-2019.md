@@ -21,6 +21,9 @@ def timeConversion(s):
     return ('%02d:%02d:%02d') % (h, m, sec)
 ```
 
+- How to check if a string is formed of alpha and numeric characters in `Python`?
+  - `%YOUR_STRING%.isalnum()`
+
 # August 14, 2019
 
 - Worked on `Hackerrank` problems.
