@@ -55,6 +55,7 @@ if __name__ == '__main__':
     # 3 88 3
     # 3 42 4
 
+    path = open("career\interviews\yelp\input1.txt")
     lines = list(fileinput.input())
     biz_owner_id = lines[0].rstrip()
 
