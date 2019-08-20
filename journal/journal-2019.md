@@ -1,6 +1,22 @@
+# August 19, 2019
+
+- Created a new Google script function to count depending on the color.
+
+# August 18, 2019
+
+- Relaxed at home.
+
+# August 17, 2019
+
+- **KCON!**
+
+# August 16, 2019
+
+- Scheduled some interviews.
+
 # August 15, 2019
 
-- Recommended awy of formatting strings in `Python`?
+- Recommended way of formatting strings in `Python`?
 
 ```py
 # Recommended.
@@ -135,7 +151,7 @@ for state, capital in statesAndCapitals.items():
 
 # July 31, 2019
 
-- **Once Upon a Time in Hollywood**
+- **Once Upon a Time in Hollywood!**
 
 # July 30, 2019
 
