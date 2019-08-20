@@ -1,3 +1,7 @@
+# August 20, 2019
+
+- ?
+
 # August 19, 2019
 
 - Created a new Google script function to count depending on the color.
