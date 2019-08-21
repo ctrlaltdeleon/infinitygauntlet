@@ -33,14 +33,15 @@ def business_responsiveness_rate(biz_owner_id, all_messages):
     # Suggested fix to the issue is to replace:
     # `all_messages[index]["sender"]`
     # to...
-    # `all_messages.index.sender`
+    # `index.sender`
     # because that is the way to access an object's attributes.
     owner_response, total_conversations = [], []
-    for index in range(len(all_messages)):
-        if all_messages.index.sender == biz_owner_id:
-            owner_response.append(all_messages.index.conversation_id)
-        if all_messages.index.recipient == biz_owner_id:
-            total_conversations.append(all_messages.index.conversation_id)
+
+    for index in all_messages:
+        if index.sender == biz_owner_id:
+            owner_response.append(index.conversation_id)
+        if index.recipient == biz_owner_id:
+            total_conversations.append(index.conversation_id)
     return math.floor(len(set(owner_response))/len(set(total_conversations)) * 100)
 
 
@@ -55,8 +56,7 @@ if __name__ == '__main__':
     # 3 88 3
     # 3 42 4
 
-    path = open("career\interviews\yelp\input1.txt")
-    lines = list(fileinput.input())
+    lines = list(fileinput.input("career\interviews\yelp\input1.txt"))
     biz_owner_id = lines[0].rstrip()
 
     all_messages = []
