@@ -1,5 +1,4 @@
 import fileinput
-import math
 
 
 class Event:
@@ -11,44 +10,52 @@ class Event:
 
 
 def find_active_businesses(events):
-    active_businesses = []
+    active_businesses, secondary, preliminary = [], [], []
     ads_average, ads_number = 0, 0
     page_views_average, page_views_number = 0, 0
     photos_views_average, photo_views_number = 0, 0
     reviews_average, reviews_number = 0, 0
 
-    for index in events:
-        print(index)
-        active_businesses.append(index)
-    return active_businesses
+    # Look for average `occurrences` in `event_type`.
+    for event in events:
+        if event.event_type == "ads" and event.occurrences > 0:
+            ads_average += event.occurrences
+            ads_number += 1
+        if event.event_type == "page_views" and event.occurrences > 0:
+            page_views_average += event.occurrences
+            page_views_number += 1
+        if event.event_type == "photo_views" and event.occurrences > 0:
+            photos_views_average += event.occurrences
+            photo_views_number += 1
+        if event.event_type == "reviews" and event.occurrences > 0:
+            reviews_average += event.occurrences
+            reviews_number += 1
+        if event.biz_id not in preliminary:
+            preliminary.append(event.biz_id)
+        else:
+            secondary.append(event.biz_id)
 
-    # for index in range(len(events)):
-    #     if events.index.event_type == "ads" and events.index.occurrences > 0:
-    #         ads_average += events.index.occurrences
-    #         ads_number += 1
-    #     if events.index.event_type == "page_views" and events.index.occurrences > 0:
-    #         page_views_average += events.index.occurrences
-    #         page_views_number += 1
-    #     if events.index.event_type == "photo_views" and events.index.occurrences > 0:
-    #         photos_views_average += events.index.occurrences
-    #         photo_views_number += 1
-    #     if events.index.event_type == "reviews" and events.index.occurrences > 0:
-    #         reviews_average += events.index.occurrences
-    #         reviews_number += 1
-    # ads_average = ads_average/ads_number
-    # page_views_average = page_views_average/page_views_number
-    # photos_views_average = photos_views_average/photos_views_number
-    # reviews_average = reviews_average/reviews_number
+    ads_average = ads_average/ads_number
+    page_views_average = page_views_average/page_views_number
+    photos_views_average = photos_views_average/photo_views_number
+    reviews_average = reviews_average/reviews_number
 
-    # for index in range(len(events)):
-    #     biz_ids = []
-    #     if events.index.biz_id != biz_ids:
-    #         biz_ids.append(events.index.biz_id)
-    #     # Compare if the business has more than 2 event types.
-    #     # Compare if the business has a greater than average number.
-    #     active_businesses.append(biz_id)  # If it applies.
+    # Create a list of `biz_id` with >= 2 `event_type`.
+    secondary = list(set(secondary))
 
-    # return active_businesses
+    # If the `event.occurrences` >= `event_type.occurrence` average, it is an `active_business`.
+    for event in events:
+        if event.biz_id in secondary:
+            if event.event_type == "ads" and event.occurrences >= ads_average:
+                active_businesses.append(event.biz_id)
+            if event.event_type == "page_views" and event.occurrences >= page_views_average:
+                active_businesses.append(event.biz_id)
+            if event.event_type == "photos_views" and event.occurrences >= photos_views_average:
+                active_businesses.append(event.biz_id)
+            if event.event_type == "reviews" and event.occurrences >= reviews_average:
+                active_businesses.append(event.biz_id)
+
+    return list(set(active_businesses))
 
 
 if __name__ == "__main__":
