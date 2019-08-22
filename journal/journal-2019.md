@@ -1,6 +1,14 @@
+# August 21, 2019
+
+- Finally figured out the interview question, though I feel the complexity of it can be further decreased. (Faster runtime!)
+- Photography!
+  - Shot for a clothing company.
+- Gym!
+  - Back and biceps!
+
 # August 20, 2019
 
-- ?
+- Grocery shopping, got soba ingredients with a friend.
 
 # August 19, 2019
 

@@ -4,6 +4,7 @@
 
 - 1 hour with Software Engineer (Alex Hay).
 - Technical.
+- "What projects are you doing?"
 - "What is the range of values of a signed 16-bit?"
   - `-(2^16)` to `2^16`
   - `-32768` to `32767`
