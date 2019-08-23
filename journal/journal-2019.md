@@ -1,3 +1,7 @@
+# August 22, 2019
+
+- ?
+
 # August 21, 2019
 
 - Finally figured out the interview question, though I feel the complexity of it can be further decreased. (Faster runtime!)
@@ -37,6 +41,7 @@ print("Hello {0} {1}! You just delved into python.".format(a, b))
 # Deprecated.
 print(("Hello %s %s! You just delved into python.") % (a, b))
 ```
+
 - How does `true` statements work in `Python`?
   - When a given statement is `true` it equates to `1` thus working with math expressions.
 
@@ -56,8 +61,9 @@ def timeConversion(s):
 
 - Worked on `Hackerrank` problems.
 - Gym!
+
   - Tried a friend's workout with him.
-  
+
 # August 13, 2019
 
 - Gym!
