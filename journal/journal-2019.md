@@ -1,6 +1,12 @@
+# August 24, 2019
+
+- Photography!
+  - Shot for my friends at Belmont Park.
+
 # August 23, 2019
 
-- ?
+- Photography!
+  - Shot for a rave group at a event called "Friday Night Lights".
 
 # August 22, 2019
 
