@@ -1,6 +1,10 @@
-# August 22, 2019
+# August 23, 2019
 
 - ?
+
+# August 22, 2019
+
+- Friend's had a drinking contest as I watched, one of them did 12 shots, the other 11.
 
 # August 21, 2019
 
