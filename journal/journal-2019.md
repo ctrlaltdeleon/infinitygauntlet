@@ -1,3 +1,8 @@
+# August 25, 2019
+
+- Gym!
+  - Chest and triceps.
+
 # August 24, 2019
 
 - Photography!
