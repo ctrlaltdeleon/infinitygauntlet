@@ -1,3 +1,8 @@
+# August 26, 2019
+
+- Photography!
+  - Edited photos.
+
 # August 25, 2019
 
 - Gym!
