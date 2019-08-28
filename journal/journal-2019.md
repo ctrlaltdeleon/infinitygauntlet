@@ -1,3 +1,12 @@
+# August 28, 2019
+
+- Hung out with friends in Lynnwood.
+
+# August 27, 2019
+
+- Heading to Seattle for PAX.
+  - Thank you to my friends for funding me I love you.
+
 # August 26, 2019
 
 - Photography!
@@ -474,7 +483,7 @@ componentDidMount() {
 # June 21, 2019
 
 - Phone interview!
-  - ???
+  - ?
 
 # June 20, 2019
 
@@ -513,7 +522,7 @@ componentDidMount() {
 
 - `C#` training.
 - On-site interview!
-  - ???
+  - ?
 
 # June 12, 2019
 

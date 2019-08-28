@@ -1,3 +1,3 @@
 # OTHER
 
-Contains ??? and the variance.
+Contains ? and the variance.
