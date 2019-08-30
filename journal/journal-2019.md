@@ -1,3 +1,7 @@
+# August 29, 2019
+
+- Hung out with friends in Lynnwood.
+
 # August 28, 2019
 
 - Hung out with friends in Lynnwood.
