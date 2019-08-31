@@ -1,3 +1,11 @@
+# August 31, 2019
+
+- PAX.
+
+# August 30, 2019
+
+- PAX.
+
 # August 29, 2019
 
 - Hung out with friends in Lynnwood.
