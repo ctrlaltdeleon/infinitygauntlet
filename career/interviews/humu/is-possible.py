@@ -11,6 +11,7 @@ def isPossible(a, b, c, d):
     pairs = []
     pairs.append([a, b])
     while len(pairs) > 0:
+        print(pairs)
         if pairs[0] == [c, d]:
             return "Yes"
         sumo = pairs[0][0] + pairs[0][1]
@@ -19,12 +20,19 @@ def isPossible(a, b, c, d):
         if sumo <= d:
             pairs.append([pairs[0][1], sumo])
         pairs.pop(0)
+    print(pairs)
     return "No"
 
 
 x1, y1 = 1, 4
 x2, y2 = 5, 9
-print(isPossible(x1, y2, x2, y2))
+print(isPossible(x1, y1, x2, y2))
+x1, y1 = 1, 1
+x2, y2 = 6, 10
+print(isPossible(x1, y1, x2, y2))
+x1, y1 = 1, 1
+x2, y2 = 3, 4
+print(isPossible(x1, y1, x2, y2))
 
 # Complete the 'isPossible' function below.
 #

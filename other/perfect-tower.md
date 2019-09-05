@@ -7,4 +7,5 @@ Codes:
 - `lina`
 - `mytower42`
 - `perfecttower2`
-- `gitgud...`
+- `gitgud`
+
