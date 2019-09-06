@@ -28,7 +28,7 @@
 ## Questions to Prepare for (CAR Method! Context, Actions, Results!)
 
 - How do you deal with failure?
-  - I take a step back to reassess the situation without emotions.
+  - I take a step back to reassess the situation without emotions, recognize the failure.
   - Am I feeling emotional?
   - Why do I feel emotional?
   - What can I do to prevent this in the future?

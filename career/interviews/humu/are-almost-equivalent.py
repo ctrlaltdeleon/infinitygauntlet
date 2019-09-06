@@ -5,15 +5,40 @@ import os
 import random
 import re
 import sys
-import collections
+
+from collections import Counter
 
 
 def areAlmostEquivalent(s, t):
-    return s, t
+    if len(s) == len(t):
+        if all(c.islower() for c in s):
+            if all(c.islower() for c in t):
+                firstString = Counter(s)
+                secondString = Counter(t)
+                firstString.subtract(secondString)
+                # `subtract` does what you think, the opposite is `update`.
+                for index in firstString:
+                    if firstString[index] > 3 or firstString[index] < -3:
+                        return "No"
+                return "Yes"
+    return "No"
+
+# Rules:
+# 1. Equal length.
+# 2. Only English lowercase letters.
+# 3. Occurrences of a specific character must not differ > 3 or < -3.
+# 4. If all is satisfied, return "YES", else "NO".
 
 
-s = "aabaab"
+s = "aab4ab"
 t = "bbabbc"
+print(areAlmostEquivalent(s, t))
+s = "aabbasfuf"
+t = "bbabbc"
+print(areAlmostEquivalent(s, t))
+s = "yeet"
+t = "joji"
+print(areAlmostEquivalent(s, t))
 
 # Complete the 'areAlmostEquivalent' function below.
 #

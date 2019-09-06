@@ -1,3 +1,32 @@
+# September 5, 2019
+
+- What is a microservice?
+  - It focuses on a single business capability.
+  - Each has their own data service instead of one monolithic data area.
+- Why use microservice?
+  - Makes systems loosely coupled.
+  - No need to disassemble the whole engine, just a single part causing a malfunction.
+  - Most common method of communication is `HTTP` and messaging.
+- What makes a great microservice?
+  - Make communication stateless:
+    - Each pair of request and response communication makes an independent transaction.
+    - Gives the ability to scale.
+- Gym!
+  - Freedom workout.
+
+# September 4, 2019
+
+- Relaxed.
+- Gym!
+  - Freedom workout.
+
+# September 3, 2019
+
+- Relaxed.
+- Played "Deception" with some friends.
+- Gym!
+  - Freedom workout.
+
 # September 2, 2019
 
 - Went to a friend's BBQ.

@@ -14,11 +14,11 @@ def isPossible(a, b, c, d):
         print(pairs)
         if pairs[0] == [c, d]:
             return "Yes"
-        sumo = pairs[0][0] + pairs[0][1]
-        if sumo <= c:
-            pairs.append([sumo, pairs[0][1]])
-        if sumo <= d:
-            pairs.append([pairs[0][1], sumo])
+        sumOfPairs = pairs[0][0] + pairs[0][1]
+        if sumOfPairs <= c:
+            pairs.append([sumOfPairs, pairs[0][1]])
+        if sumOfPairs <= d:
+            pairs.append([pairs[0][1], sumOfPairs])
         pairs.pop(0)
     print(pairs)
     return "No"
