@@ -12,6 +12,7 @@
 ## Round 2 (Phone)
 
 - 30 minutes with Hiring Manager.
+- Did not make it.
 
 ## Round 3 (Online)
 
