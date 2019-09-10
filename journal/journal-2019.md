@@ -1,3 +1,43 @@
+# September 10, 2019
+
+- ?
+
+# September 9, 2019
+
+- Spent the day with Mags.
+- Gym!
+  - Freedom.
+
+# September 8, 2019
+
+- Differences between `const`, `let`, and `var`?
+  - `const` is enclosed to the block it's in w/o re-assignment.
+    - This doesn't mean an object's values can't be changed, it's just the object itself.
+  - `let` is enclosed to the block it's in.
+  - `var` is enclosed to the function it's in.
+
+```js
+const name = "AC";
+name = "Nope"; // TypeError: Assignment to constant variable.
+
+const obj = {};
+obj.a = 42;
+console.log(obj.a); // 42
+
+var globalVariable = 42;
+let blockScopedVariable = 43;
+
+console.log(globalVariable); // 42
+console.log(blockScopedVariable); // 43
+
+console.log(this.globalVariable); // 42
+console.log(this.blockScopedVariable); // undefined
+```
+
+# September 7, 2019
+
+- ?
+
 # September 6, 2019
 
 - ?
