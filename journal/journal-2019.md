@@ -1,6 +1,16 @@
+# September 12, 2019
+
+- Interview with Apptio.
+- Got myself situated here in San Diego.
+- I miss Seattle.
+
+# September 11, 2019
+
+- Came home to San Diego from Seattle.
+
 # September 10, 2019
 
-- ?
+- I love my friends.
 
 # September 9, 2019
 

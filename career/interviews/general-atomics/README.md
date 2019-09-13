@@ -14,7 +14,7 @@
   - Modularity of calls.
   - Giving what the client exactly needs instead of extra fluff.
 - "How would you design a certain function if multiple clients were trying to access a single mission plan?"
-  - Multithreading.
+  - Multi-threading.
 - "How would you record feedback of a pilot who inputs values at a certain time?"
   - With a dictionary.
   - `{ %TIME_STAMP% : %KEY_PRESSED%, ...}`
