@@ -1,8 +1,94 @@
+# September 13, 2019
+
+- How does `continue` work?
+  - If met, skips the following leftover code in the block and goes through the iteration again.
+
+```js
+for (i = 0; i < 10; i++) {
+  if (i == 5) {
+    continue;
+  }
+  console.log(i);
+}
+
+// Output: 0, 1, 2, 3, 4, 6, 7, 8, 9
+```
+
+- How do you look for the first `<p>` element and modify it?
+
+```js
+<p id="demo"></p>
+
+<script>
+document.getElementsByTag("p")[0].innerHTML = "Hello";
+</script>
+```
+
+- How do you change the first element via `class`?
+
+```js
+<p class="test"></p>
+<p class="test"></p>
+
+<script>
+document.getElementsByClassName("test")[0].innerHTML = "Hello";
+</script>
+```
+
+- How do you change the `src` of an `img` element?
+  - Treat it as if it's an object with properties that can be manipulated.
+
+```js
+
+<img id="image" src="smiley.gif">
+
+<script>
+document.getElementById("image").src = "pic_mountain.jpg";
+</script>
+```
+
+- How do you change the text color of a specific `id`?
+
+```js
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").style.color = "red";
+</script>
+```
+
+- How do you change the display of a specific `id`?
+
+```js
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").style.display = "none";
+</script>
+```
+
+- How do you assign an `eventListener` to a function?
+
+```js
+<button id="demo">Click me!</button>
+
+<script>
+document.getElementById("demo").addEventListener("click", myFunction);
+</script>
+```
+
+- How can you detect the client's browser name?
+  - `navigator.appName`
+
+- D&D!
+
 # September 12, 2019
 
 - Interview with Apptio.
 - Got myself situated here in San Diego.
 - I miss Seattle.
+- Gym!
+  - Back and biceps.
 
 # September 11, 2019
 
