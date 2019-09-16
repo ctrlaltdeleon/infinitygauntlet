@@ -1,3 +1,18 @@
+# September 16, 2019
+
+- Interview.
+
+# September 15, 2019
+
+- Met up with old friends and played "Advance Wars: Dual Strike".
+- Brand Ambassador!
+  - Amazon Carnival.
+
+# September 14, 2019
+
+- Relaxed.
+- Met up with the community college friends that I haven't seen in a while.
+
 # September 13, 2019
 
 - How does `continue` work?
@@ -78,6 +93,7 @@ document.getElementById("demo").addEventListener("click", myFunction);
 ```
 
 - How can you detect the client's browser name?
+
   - `navigator.appName`
 
 - D&D!
