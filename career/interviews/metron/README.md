@@ -2,8 +2,12 @@
 
 ## Round 1 (Phone)
 
-- 30 minutes with Senior Software Engineer.
-- Technical.
+**Environment:** 30 minutes with Senior Software Engineer.
+
+**Type:** Technical.
+
+**Notes:**
+
 - "What is the differences between public, private, and protected scope?"
   - Public can be used to make the variable/function available anywhere.
   - Private can be used to make the variable/function available within it's own class.
@@ -51,5 +55,11 @@ function fizzbuzz(number):
   - I love finding solutions upon existing solutions. I love contributing to a technological world where it's constantly evolving. At the very essence, being on the frontier of discovery is what makes me love Software Engineering.
 
 ## Round 2 (On site)
+
+**Environment:** ?
+
+**Type:** ?
+
+**Notes:**
 
 - Did not make it.

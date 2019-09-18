@@ -2,8 +2,12 @@
 
 ## Round 1 (Phone)
 
-- 30 minutes with Office Manager.
-- Behavioral.
+**Environment:** 30 minutes with Office Manager.
+
+**Type:** Behavioral.
+
+**Notes:**
+
 - "Tell me about yourself."
 - "Tell me about a typical day."
 - "How would you start designing a product?"
@@ -11,8 +15,12 @@
 
 ## Round 2 (On site)
 
-- 1 hour with CEO and Lead Engineer.
-- Technical.
+**Environment:** 1 hour with CEO and Lead Engineer.
+
+**Type:** Technical.
+
+**Notes:**
+
 - Office Manager was present observing.
 - "What's the difference between C/C++?"
   - C.
@@ -72,5 +80,11 @@ class Hero {
   - Scalability.
 
 ## Round 3 (Offer)
+
+**Environment:** ?
+
+**Type:** ?
+
+**Notes:**
 
 - Did not make it.

@@ -2,8 +2,12 @@
 
 ## Round 1 (Phone)
 
-- 30 minutes with Referral Advisor.
-- Behavioral and cultural.
+**Environment:** 30 minutes with Referral Advisor.
+
+**Type:** Behavioral and cultural.
+
+**Notes:**
+
 - Background check.
   - Experience.
   - Details on a project you've worked on.
@@ -12,5 +16,11 @@
 - Answer questions about process.
 
 ## Round 2 (?)
+
+**Environment:** ?
+
+**Type:** ?
+
+**Notes:**
 
 - Did not make it.

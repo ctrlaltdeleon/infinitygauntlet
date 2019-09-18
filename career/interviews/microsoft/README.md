@@ -2,8 +2,12 @@
 
 ## Round 1 (Phone)
 
-- 30 minutes with Recruiter.
-- Behavioral and technical.
+**Environment:** 30 minutes with Recruiter.
+
+**Type:** Behavioral and technical.
+
+**Notes:**
+
 - Apples and oranges riddle.
   - In front of you are 3 boxes.
   - One box contains only apples, another box contains only oranges, and the last contains both apples and oranges.
@@ -15,5 +19,11 @@
 - "Why do you want to work for Microsoft?"
 
 ## Round 2 (?)
+
+**Environment:** ?
+
+**Type:** ?
+
+**Notes:**
 
 - Did not make it.

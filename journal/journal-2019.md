@@ -1,6 +1,13 @@
+# September 17, 2019
+
+- Interview.
+- Friends at Tea N More.
+
 # September 16, 2019
 
 - Interview.
+- Gym!
+  - Chest and triceps.
 
 # September 15, 2019
 

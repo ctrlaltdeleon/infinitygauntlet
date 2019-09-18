@@ -2,7 +2,12 @@
 
 ## Round 1 (Online)
 
-- 30 minutes with no person.
+**Environment:** 30 minutes with no person.
+
+**Type:** Technical.
+
+**Notes:**
+
 - 1 intermediate.
 - **Active Businesses.**
   - Given a list of business objects, return a list of business id attributes of those which are considered active businesses.

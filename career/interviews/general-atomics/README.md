@@ -2,8 +2,12 @@
 
 ## Round 1 (Phone)
 
-- 1 hour with Software Engineer (Alex Hay).
-- Technical.
+**Environment:** 1 hour with Software Engineer.
+
+**Type:** Technical.
+
+**Notes:**
+
 - "What projects are you doing?"
 - "What is the range of values of a signed 16-bit?"
   - `-(2^16)` to `2^16`
@@ -23,5 +27,11 @@
   - `C#` heavy.
 
 ## Round 2 (On site)
+
+**Environment:** 1 hour with Software Engineer.
+
+**Type:** Technical.
+
+**Notes:**
 
 - Did not make it.

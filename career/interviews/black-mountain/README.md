@@ -2,8 +2,12 @@
 
 ## Round 1 (Online)
 
-- No time limit with no person.
-- Technical.
+**Environment:** No time limit with no person.
+
+**Type:** Technical.
+
+**Notes:**
+
 - Coding reasoning questions in `C#`.
 - "How would you build a string in `C#` efficiently?"
   - Using the `StringBuilder` library for speed and less consuming of memory.
@@ -124,14 +128,22 @@ countingFunctions.forEach(function(f) {f();});
 
 ## Round 2 (Phone)
 
-- 30 minutes with Senior Recruiter.
-- Behavioral.
+**Environment:** 30 minutes with Senior Recruiter.
+
+**Type:** Behavioral and cultural.
+
+**Notes:**
+
 - Introduction to the company.
 
 ## Round 3 (Phone)
 
-- 30 minutes with Software Engineer.
-- Behavioral and technical.
+**Environment:** 30 minutes with Software Engineer.
+
+**Type:** Behavioral and technical.
+
+**Notes:**
+
 - Questions based on `C#` and `JavaScript`.
 - "Name me some design patterns!"
   - Creational.
@@ -220,8 +232,12 @@ init();
 
 ## Round 4 (On site)
 
-- 4 hours with Senior Software Engineer.
-- Behavioral, cultural, and technical.
+**Environment:** 4 hours with Senior Software Engineer.
+
+**Type:** Behavioral, cultural, and technical.
+
+**Notes:**
+
 - ER diagram.
   - Given a series of entities and relationships, how would they interact with each other?
 - Coding solution.
@@ -229,5 +245,11 @@ init();
 - Culture fit.
 
 ## Round 5 (Offer)
+
+**Environment:** ?
+
+**Type:** ?
+
+**Notes:**
 
 - Did not make it.
