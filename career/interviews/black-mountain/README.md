@@ -218,7 +218,7 @@ function init() {
 init();
 ```
 
-## Round 4 (On-Site)
+## Round 4 (On site)
 
 - 4 hours with Senior Software Engineer.
 - Behavioral, cultural, and technical.

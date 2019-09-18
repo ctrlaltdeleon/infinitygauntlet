@@ -20,6 +20,6 @@
 - 1 hour with Software Engineer.
 - Technical, Pair Programming.
 
-## Round 4 (On-Site)
+## Round 4 (On site)
 
 - ?

@@ -17,6 +17,6 @@
 - **Counting Groups.**
   - Did not finish so can not put further input.
 
-## Round 3 (On-Site)
+## Round 3 (On site)
 
 - Did not make it.

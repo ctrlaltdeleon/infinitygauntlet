@@ -22,6 +22,6 @@
   - Mission Assistance Rancho Bernardo.
   - `C#` heavy.
 
-## Round 2 (On-site)
+## Round 2 (On site)
 
 - Did not make it.

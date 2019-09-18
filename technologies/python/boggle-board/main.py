@@ -75,7 +75,9 @@ class Boggle(object):
 
 
 def load_tree(tree):
-    # Must take absolute path, not relative path
+    # Must take absolute path, not relative path.
+    # Right click on file and "copy path".
+    # This will be changed according to the respective system this file is being ran on.
     with open(r'''C:\Users\EVADELEON\Desktop\infinitygauntlet\python\boggle-board\dictionary.txt''') as f:
         for line in f:
             word = line.rstrip().upper()

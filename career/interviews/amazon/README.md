@@ -2,8 +2,12 @@
 
 ## Round 1 (Online)
 
-- 1.5 hours, breaks in between, with no person.
-- Behavioral and technical.
+**Environment:** 1.5 hours, breaks in between, with no person.
+
+**Type:** Behavioral and technical.
+
+**Notes:**
+
 - 20 minutes for code debugging. (Java, C, C++)
 - 35 minutes for logic problems.
 - Survey on your work style.
@@ -11,8 +15,12 @@
 
 ## Round 2 (Online)
 
-- 3 hours, breaks in between, with no person.
-- Behavioral, cultural, and technical.
+**Environment:** 3 hours, breaks in between, with no person.
+
+**Type:** Behavioral, cultural, and technical.
+
+**Notes:**
+
 - 120 minutes for work simulation. (Videos, Decisions)
 - 70 minutes for coding. (Java, Python, C#, C++)
 - **Literature Text.**

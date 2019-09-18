@@ -7,6 +7,10 @@ Contains all career experiences and the variance.
 - Career is broken down into companies with these specific interviews:
   - **Online.** Interviewing through a computer.
   - **Phone.** Interviewing through the phone.
-  - **On-Site.** Interviewing in person with humans.
+  - **On site.** Interviewing in person with humans.
   - **Offer.** Last phase of the interview process.
-- All files are on desktop.
+- Each "Round" will be prefaced with (before the details):
+  - Environment: `%TIME% with %INTERVIEWER_POSITION%`
+    - 30 minutes on with Recruiter.
+  - Type: `Behavioral, Cultural, and/or Technical`
+    - Behavioral.

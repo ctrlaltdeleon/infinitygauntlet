@@ -290,8 +290,8 @@ Printed name
   - Working:
     - You are put to work and observed.
   - Phone or Video:
-    - Often used as a screening tool before inviting you to an on-site interview.
-  - On-Site or Second Round:
+    - Often used as a screening tool before inviting you to an on site interview.
+  - On site or Second Round:
     - After you have made it through a screening interview, this is a more extended interview at the employer site that may include a series of different types of interviews, a site tour, and a meal.
 
 ### 5.1: Preparing for a Phone or Video Interview

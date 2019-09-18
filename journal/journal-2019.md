@@ -726,7 +726,7 @@ componentDidMount() {
 # June 13, 2019
 
 - `C#` training.
-- On-site interview!
+- On site interview!
   - ?
 
 # June 12, 2019

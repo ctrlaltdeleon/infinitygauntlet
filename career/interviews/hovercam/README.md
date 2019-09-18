@@ -9,7 +9,7 @@
 - "How would you start designing a product?"
 - "What kind of dogs do you have?"
 
-## Round 2 (On-Site)
+## Round 2 (On site)
 
 - 1 hour with CEO and Lead Engineer.
 - Technical.

@@ -14,11 +14,11 @@
 - "Are you open to relocation?"
 - "Show your eagerness to learn!"
 
-## Round 3 (Phone)
+## Round 3 (Online & Phone)
 
 - 1 hour with Hiring Manager.
 - Behavioral and technical.
 
-## Round 4 (On Site)
+## Round 4 (On site)
 
 - ?

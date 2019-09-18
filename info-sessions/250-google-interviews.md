@@ -10,7 +10,7 @@ Contact:    Moishe Lettvin (mlettvin@etsy.com)
 Notes:
 
 - Committee reviews a packet of data dependent on the interview.
-  - The 4/5 on-site interviewers are the ones who create the packet.
+  - The 4/5 on site interviewers are the ones who create the packet.
 - Interviews are:
   - Noisy.
   - Inaccurate.
