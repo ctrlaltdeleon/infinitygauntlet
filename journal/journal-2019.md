@@ -1,3 +1,52 @@
+# September 19, 2019
+
+- Interview.
+
+# September 18, 2019
+
+- What is a binary search?
+  - Also known as a half-interval search.
+  - For the search to be binary, the array must be sorted initially.
+  - Establishes a mid point and looks if the target is `<`,`>`, or `==` and then proceeds to divide the search by two each iteration until the target is found.
+- What is a heap?
+  - A tree-based data structure where the nodes are in a specific order dependent in priority.
+  - Essentially a priority queue.
+  - If a max-heap was made, it would have the biggest elements at the top.
+  - If a min-heap was made, it would have the smallest elements at the top.
+- How do you put `""` within `""`?
+
+```py
+# Using single and double quotes together.
+print('"A word that needs quotation marks"')
+
+# Escape the double quotes within the string.
+print("\"A word that needs quotation marks\"")
+
+# Use triple-quoted strings.
+print(""" "A word that needs quotation marks" """)
+```
+
+- Recursion vs iteration?
+  - For high-level approaches, recursion is easier to understand than iteration.
+  - For low-level approaches, iteration runs smoother (less memory) than recursion.
+- What's a hash table (hash map)?
+  - A data structure that provides a specific way to map keys to values.
+  - `Python` has a similar structure called a dictionary.
+- What's a tree?
+  - A data structure that simulates a hierarchy with parent nodes and children nodes that are linked together.
+- Array vs list?
+  - Array:
+    - Fixed.
+    - Hard to insert/shuffle because it takes memory and moving multiple parts.
+    - Static and continuous.
+    - Lookup time fast due to indexed values.
+  - List:
+    - Organically growing.
+    - Easy to insert/shuffle as you would just need to change what points to what.
+    - Dynamic and random.
+    - Lookup time slow due to going one node at a time.
+- Met up with a friend.
+
 # September 17, 2019
 
 - Interview.
@@ -894,8 +943,16 @@ componentDidMount() {
 - Phone interview!
   - Passed!
 - What are differences between stack and heap?
-  - Stack uses static memory.
-  - Heap uses dynamic memory.
+  - Stack:
+    - Uses static memory.
+    - Stores local variables and function calls.
+    - May have stack overflow if memory has run out.
+    - Limited.
+  - Heap:
+    - Uses dynamic memory.
+    - Stores changing object data.
+    - May have fragmentation if allocating too much memory.
+    - Unlimited (kind of).
 - In `C#`, for a method to be overridden, the base class must have `virtual` to a method so the sub class can `override` the method.
 
 # May 28, 2019
@@ -1479,7 +1536,7 @@ Ostriches cannot fly.
 
 # May 3, 2019
 
-- Main differences between `Java` VS `JavaScript`.
+- Main differences between `Java` vs `JavaScript`.
   - `Java`.
     - Object oriented programming language.
       - Compiled (non-human readable code) then executed.
