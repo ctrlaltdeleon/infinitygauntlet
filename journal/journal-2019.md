@@ -1,5 +1,20 @@
 # September 19, 2019
 
+- How to properly call class methods in `Python`?
+
+```py
+class Solution():
+
+    def add(self, num1, num2):
+        return num1 + num2
+    
+# Create an instance of the class first to then access the methods.
+# Can't do `Solution.add(5, 6)` because there's no object attached.
+s = Solution()
+print(s.add(5, 6))
+# Expect `11`.
+```
+
 - Interview.
 
 # September 18, 2019

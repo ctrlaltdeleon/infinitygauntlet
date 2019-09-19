@@ -5,7 +5,7 @@
 """
 Notes:
 
-Reverse the number, did it by converting to a string.
+Given "n" non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
 """
 
 
@@ -32,7 +32,8 @@ class Solution:
 
 height = [0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1]
 
-print(Solution.trap(height))
+s = Solution()
+print("Total water units to be contained:", s.trap(height))
 
 """
 Time complexity : O(n). Single iteration.
