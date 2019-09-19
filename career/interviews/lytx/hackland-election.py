@@ -60,6 +60,7 @@ from collections import Counter
 
 def hackland_election(votes):
     # Find the most votes on a person and organize in a dict.
+    # Create a class `Counter` using `votes` as the object and using the method `most_common()` to sort the tally.
     tally = Counter(votes).most_common()
     # Returns the first most common given via when inputted, then syntactic output to solve the problem.
     return list([i[0] for i in tally])[0]

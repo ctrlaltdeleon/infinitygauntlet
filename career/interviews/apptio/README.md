@@ -30,7 +30,11 @@
 
 **Notes:**
 
-- ?
+- "What have you been doing the past year?"
+- "Can you reverse a string?"
+- "Can you do an iterative solution to a factorial function?"
+- "Can you do a recursive solution to a factorial function?"
+- "Can you make an object oriented design for a deck of cards?"
 
 ## Round 4 (On site)
 
