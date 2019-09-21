@@ -1,3 +1,8 @@
+"""
+@author: acfromspace
+"""
+
+
 class Solution:
     def range(self, list1):
         highest = list1[0]

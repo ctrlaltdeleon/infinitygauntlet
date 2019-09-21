@@ -1,3 +1,7 @@
+# September 20, 2019
+
+- Relaxed.
+
 # September 19, 2019
 
 - How to properly call class methods in `Python`?
@@ -13,6 +17,13 @@ class Solution():
 s = Solution()
 print(s.add(5, 6))
 # Expect `11`.
+```
+
+- How to reverse a string in `Python` without the use of `reverse()` or `[::-1]`?
+  
+```py
+def reverseThis(text):
+    return text if len(text) <= 1 else reverse(textThis[1:]) + text[0]
 ```
 
 - Interview.
