@@ -21,7 +21,8 @@ class Deck:
 
     def build(self):
         for suit in ["Clubs", "Spades", "Hearts", "Diamonds"]:
-            for value in range(1, 14):
+            # for value in range(1, 14):
+            for value in ["Ace", 2, 3, 4, 5, 6, 7, 8, 9, 10, "Jack", "Queen", "King"]:
                 self.cards.append(Card(value, suit))
 
     def shuffle(self):
@@ -52,9 +53,10 @@ class Player:
             card.show()
 
 
-# Create a deck and shuffle the cards.
+# Create a deck, shuffle the cards, and show the cards.
 deck = Deck()
 deck.shuffle()
+deck.show()
 
 # Create a player to draw a card from the deck and show the cards.
 ac = Player("AC")

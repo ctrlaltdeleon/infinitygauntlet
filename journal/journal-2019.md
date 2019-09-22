@@ -1,3 +1,11 @@
+# September 22, 2019
+
+- My light in the stars vanished.
+
+# September 21, 2019
+
+- My light in the stars visited.
+
 # September 20, 2019
 
 - Relaxed.
