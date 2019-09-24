@@ -1,6 +1,0 @@
-photo_views 10 3
-ads 8 2
-ads 5 1
-page_views 12 3
-reviews 7 2
-page_views 11 2
