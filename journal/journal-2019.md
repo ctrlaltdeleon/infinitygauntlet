@@ -1,5 +1,13 @@
+# September 23, 2019
+
+- Interview.
+
 # September 22, 2019
 
+- What is `Express`?
+  - A light-weight web application framework to help organize the web application into an MVC architecture on the server side.
+  - Helps manage routes, handling requests, and views.
+- Met up with computer science friends to go over a new app.
 - My light in the stars vanished.
 
 # September 21, 2019

@@ -12,13 +12,13 @@
 
 ## Round 2 (Online & Phone)
 
-**Environment:** ?
+**Environment:** 1 hour with Senior Software Engineer.
 
-**Type:** ?
+**Type:** Technical.
 
 **Notes:**
 
-- ?
+- ...
 
 ## Round 3 (On site)
 
@@ -28,4 +28,4 @@
 
 **Notes:**
 
-- ?
+- Did not make it.

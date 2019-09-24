@@ -24,7 +24,7 @@
 
 ## Round 3 (Online & Phone)
 
-**Environment:** 1 hour with Hiring Manager.
+**Environment:** 1 hour with Vice President of Engineering.
 
 **Type:** Behavioral and technical.
 
