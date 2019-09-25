@@ -2,8 +2,9 @@
 
 - [README.md](README.md)
 - [Algorithms](algorithms/README.md)
-  - [Bogosort](algorithms/bogo-sort.md)
-  - [Bubblesort](algorithms/bubble-sort.md)
+  - [Bogo Sort](algorithms/bogo-sort.md)
+  - [Boyer Moore Majority Vote](algorithms/boyer-moore-majority-vote.md)
+  - [Bubble Sort](algorithms/bubble-sort.md)
   - [Tree Traversals](algorithms/tree-traversals.md)
 - [Books](books/README.md)
   - [Cracking the Coding Interview](books/cracking-the-code-interview-6th/README.md)

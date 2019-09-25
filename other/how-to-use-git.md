@@ -1,6 +1,6 @@
 # HOW TO USE GIT
 
-## Setting up Git!
+## Setting up git!
 
 Sets up your `user.name`.
 
@@ -59,6 +59,13 @@ git commit -m "Merge %OTHER_REPO% into %NEW_REPO%"
 git push
 ```
 
+How do I reset my git index to account for `.gitignore` changes?
+
+```
+Change directory to repo folder
+git rm -r --cached .
+```
+
 ## Ignoring Files
 
 Create a `.gitignore` file stating the specific folders and files you would like not to be tracked.
@@ -75,7 +82,7 @@ A ---> B ---> C ---> D [master]
 
 ...where A, B, C, and D are commits, and commit D is labeled as the `master` branch.
 
-`Git` supports something called "branching", where you can do something like this:
+`git` supports something called "branching", where you can do something like this:
 
 ```
 A ---> B ---> C ---> D [master]

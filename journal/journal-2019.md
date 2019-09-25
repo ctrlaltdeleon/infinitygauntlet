@@ -1,3 +1,14 @@
+# September 24, 2019
+
+- What is breadth first search (BFS)?
+  - Looks at all things that are a certain distance away before increasing that distance.
+- What is depth first search (DFS)?
+  - Looks at all the way down one path before going back to look at another path.
+- What's the difference between both BFS and DFS?
+  - Think about a radar that has 4 quadrants.
+  - BFS is looking by expanding the radius.
+  - DFS is looking by each quadrant.
+
 # September 23, 2019
 
 - Interview.
