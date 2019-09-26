@@ -1,3 +1,7 @@
+# September 25, 2019
+
+- Played tennis.
+
 # September 24, 2019
 
 - What is breadth first search (BFS)?
