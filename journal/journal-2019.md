@@ -1,3 +1,26 @@
+# September 26, 2019
+
+- Can functions be more than functions?
+  - Yes, they can be treated as objects with attributes attached.
+- Interview.
+
+```py
+def gcd(a, b):
+    gcd.counter += 1
+    if (a == b):
+        return a
+    if (a < b):
+        return gcd(a, b - a)
+    else:
+        return gcd(a - b, b)
+
+
+# Giving the function `gcd` a class attribute of `counter`.
+gcd.counter = 0
+print("gcd():", gcd(15, 21))
+print("Amount of times function is called:", gcd.counter)
+```
+
 # September 25, 2019
 
 - Played tennis.
@@ -12,6 +35,8 @@
   - Think about a radar that has 4 quadrants.
   - BFS is looking by expanding the radius.
   - DFS is looking by each quadrant.
+- Gym!
+  - Chest and triceps.
 
 # September 23, 2019
 
