@@ -1,5 +1,11 @@
+# September 27, 2019
+
+- Interview.
+
 # September 26, 2019
 
+- How do you take a string as it is (raw) in `Python`?
+  - `r"this will 'be' read \n"`
 - Can functions be more than functions?
   - Yes, they can be treated as objects with attributes attached.
 - Interview.
@@ -20,6 +26,9 @@ gcd.counter = 0
 print("gcd():", gcd(15, 21))
 print("Amount of times function is called:", gcd.counter)
 ```
+
+- Gym!
+  - Legs and shoulders.
 
 # September 25, 2019
 
