@@ -1,5 +1,37 @@
+# September 28, 2019
+
+- `Python` practice.
+
 # September 27, 2019
 
+- What are B-Trees?
+  - A self-balancing tree data structure that maintains sorted data and allows searches, sequential access, insertions, and deletions in logarithmic time.
+  - Well suited for storage systems that read and write relatively large blocks of data, such as discs.
+  - It is commonly used in databases and file systems.
+- What are the differences between b-trees and binary trees?
+  - B-Trees:
+    - A node can have at max "m" number of child nodes (where "m" is the order of the tree).
+    - Stored on a disk.
+    - Code indexing data structure in many DBMS.
+  - Binary Trees:
+    - A node can have at max 2 number of sub-trees.
+    - Stored in RAM.
+    - Code optimization, Huffman coding, etc.
+- What is Huffman coding?
+  - An optimal prefix code that is commonly used for lossless data compression.
+- What is paging in terms of computer science?
+  - A memory management scheme by which a computer stores and retrieves data from secondary storage (disk) for use in main memory (RAM).
+- When would you use a binary heap VS. binary search tree?
+  - Binary heap is better at `min`/`max` with a `O(1)` search time, while binary search tree is balanced with a `O(log n)` search time for any node.
+  - If you only care about `min`/`max` (e.g. priority-related), go with binary heap.
+  - If you want everything sorted, go with binary search tree.
+- What's the difference between a heap VS. binary heap?
+  - They're the same.
+- What's the difference between a binary tree VS. binary search tree?
+  - Binary tree is where a parent node has at max 2 children.
+  - Binary search tree is the same as a binary tree, but balanced/sorted, meant for searching in `O(log n)` time.
+- Can you store a dictionary within a dictionary?
+  - Yes.
 - Interview.
 
 # September 26, 2019
