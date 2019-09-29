@@ -1,6 +1,8 @@
 # September 28, 2019
 
 - `Python` practice.
+- Photography!
+  - Edited photos.
 
 # September 27, 2019
 
