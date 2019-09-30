@@ -1,3 +1,12 @@
+# September 30, 2019
+
+- Study.
+
+# September 29, 2019
+
+- Gym!
+  - Back and biceps.
+
 # September 28, 2019
 
 - `Python` practice.
