@@ -1,3 +1,22 @@
+# October 1, 2019
+
+- What are the differences between waterfall, agile, scrum, sprints, and kanban?
+  - Waterfall:
+    - The original project management system.
+    - Build a React application in 1 month and it'll cost $.
+  - Agile:
+    - A reaction to waterfall:
+    - Build a native application with a set of values and principles to keep the project easy to manage.
+  - Scrum:
+    - Set of practices that support the agile mindset.
+    - Breaks work into small chunks called sprints.
+  - Sprints:
+    - Meeting talking about troubles for a task, what a task is, and communication amongst tasks.
+  - Kanban:
+    - A simpler process of a project management system.
+    - Work is visualized on a board with cards on it.
+    - Focuses on priority rather than completing a task.
+
 # September 30, 2019
 
 - Study.
