@@ -42,35 +42,29 @@ To approach this problem:
 
 class Solution:
 
-    def two_sum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
+    def two_sum(self, nums: [int], target: int) -> [int]:
         seen = {}
         for index, num in enumerate(nums):
-            print("seen: " + str(seen))
-            print("index, num: " + str(index), str(num))
+            print("seen:", str(seen))
+            print("index, num:", str(index), ",", str(num))
             other = target - num
-            print("other: " + str(other))
+            print("other:", str(other))
             if other in seen:
-                print("SOLUTION: " + str([seen[other], index]))
                 return [seen[other], index]
             else:
-                print("seen: " + str(seen))
+                print("seen:", str(seen))
                 print("Solution not found, retrying...")
                 seen[num] = index
-        return []
+        return "Solution not found!"
 
 
-test_object = Solution()
+test = Solution()
 nums = [2, 7, 11, 15]
 target = 26
-print("Stages of the solution:")
-print("nums: " + str(nums))
-print("target: " + str(target))
-test_object.two_sum(nums, target)
+print("two_sum():", test.two_sum(nums, target))
+nums = [2, 7, 11, 15]
+target = 27
+print("two_sum():", test.two_sum(nums, target))
 
 """
 Time complexity : O(n). We traverse the list containing "n" elements only once. Each look up in the table costs only O(1) time.

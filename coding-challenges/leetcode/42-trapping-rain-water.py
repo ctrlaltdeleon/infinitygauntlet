@@ -10,7 +10,7 @@ Given "n" non-negative integers representing an elevation map where the width of
 
 
 class Solution:
-    def trap(self, height):
+    def trap(self, height: int) -> int:
         total_water, left_max, right_max, low, high = 0, 0, 0, 0, len(height)-1
 
         while(low < high):
@@ -30,10 +30,9 @@ class Solution:
         return total_water
 
 
+test = Solution()
 height = [0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1]
-
-s = Solution()
-print("Total water units to be contained:", s.trap(height))
+print("Total water units to be contained:", test.trap(height))
 
 """
 Time complexity : O(n). Single iteration.

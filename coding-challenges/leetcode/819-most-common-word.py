@@ -12,7 +12,7 @@ from collections import Counter
 
 
 class Solution:
-    def mostCommonWord(self, paragraph: str, banned: List[str]) -> str:
+    def mostCommonWord(self, paragraph: str, banned: [str]) -> str:
         unbanned = []
 
         for character in "!?',;.":
@@ -27,6 +27,11 @@ class Solution:
         # Get the `most_common` element, which holds a key value, which then we need the key.
         return Counter(unbanned).most_common(1)[0][0]
 
+
+test = Solution()
+paragraph = "kraq and jeff are talking about the problems with kraq jeff JEFF KRAQ are"
+banned = "jeff kraq"
+print("mostCommonWord():", test.mostCommonWord(paragraph, banned))
 
 """
 Time complexity : O(p+b). "p" is the size of the `paragraph` and "b" is the size of `banned`.

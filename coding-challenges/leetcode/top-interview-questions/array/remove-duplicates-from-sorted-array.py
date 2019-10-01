@@ -10,7 +10,7 @@ This is more "count the amount of unique elements" rather than removing duplicat
 
 
 class Solution:
-    def remove_duplicates(self, nums: List[int]) -> int:
+    def remove_duplicates(self, nums: [int]) -> int:
         if len(nums) <= 1:
             return len(nums)
         slow = 0
@@ -20,6 +20,10 @@ class Solution:
                 nums[slow] = nums[fast]
         return slow + 1
 
+
+test = Solution()
+nums = [1, 3, 5, 4, 3, 2, 9, 9, 8, 8]
+print("remove_duplicates():", test.remove_duplicates(nums))
 
 """
 Time complexity : O(n). We traverse the list containing "n" elements only once.

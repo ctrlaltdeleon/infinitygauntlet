@@ -14,6 +14,12 @@ class Solution:
         return str(x) == str(x)[::-1]
 
 
+test = Solution()
+true_palindrome = "12321"
+false_palindrome = "123123"
+print(test.isPalindrome(true_palindrome))
+print(test.isPalindrome(false_palindrome))
+
 """
 Time complexity : O(n). Go through "n" backwards once.
 

@@ -10,13 +10,17 @@ This is more "find maximum profit" rather than finding best times to buy and sel
 
 
 class Solution:
-    def max_profit(self, prices: List[int]) -> int:
+    def max_profit(self, prices: [int]) -> int:
         profit = 0
         for stock in range(len(prices)-1):
             if prices[stock+1] > prices[stock]:
                 profit += prices[stock+1] - prices[stock]
         return profit
 
+
+test = Solution()
+prices = [1, 3, 5, 2, 10, 2, 1]
+print("max_profit():", test.max_profit(prices))
 
 """
 Time complexity : O(n). We traverse the list containing "n" elements only once.

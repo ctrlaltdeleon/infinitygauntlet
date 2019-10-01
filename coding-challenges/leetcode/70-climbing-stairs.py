@@ -30,16 +30,16 @@ class Solution:
         return step2
 
 
-test_object = Solution()
+test = Solution()
 test1 = 1
 test2 = 8
 test3 = 9
 print("Number of steps needed for " + str(test1) +
-      " steps:", test_object.climbStairs(test1))
+      " steps:", test.climbStairs(test1))
 print("Number of steps needed for " + str(test2) +
-      " steps:", test_object.climbStairs(test2))
+      " steps:", test.climbStairs(test2))
 print("Number of steps needed for " + str(test3) +
-      " steps:", test_object.climbStairs(test3))
+      " steps:", test.climbStairs(test3))
 
 """
 Time complexity : O(n). Single loop up to "n" is required to calculate "n" fibonacci number.

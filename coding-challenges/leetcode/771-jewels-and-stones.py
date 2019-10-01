@@ -39,14 +39,11 @@ class Solution:
         return sum(map(J.count, S))
 
 
-test_object = Solution()
+test = Solution()
 J = "aA"
 S = "aAABBBB"
-print("Stages of the solution:")
-print("Jewels: " + J)
-print("Stones: " + S)
-print("Number of true jewels in stones: " + str(list(map(J.count, S))))
-print("Amount of jewels: " + str(test_object.numJewelsInStones(J, S)))
+print("Number of true jewels in stones:", list(map(J.count, S)))
+print("Amount of jewels:", test.numJewelsInStones(J, S))
 
 """
 Time complexity : O(n). Dependent on the amount of characters given in the strings.
