@@ -12,7 +12,7 @@ from collections import Counter
 
 
 class Solution:
-    def mostCommonWord(self, paragraph: str, banned: [str]) -> str:
+    def most_common_word(self, paragraph: str, banned: [str]) -> str:
         unbanned = []
 
         for character in "!?',;.":
@@ -31,10 +31,10 @@ class Solution:
 test = Solution()
 paragraph = "kraq and jeff are talking about the problems with kraq jeff JEFF KRAQ are"
 banned = "jeff kraq"
-print("mostCommonWord():", test.mostCommonWord(paragraph, banned))
+print("most_common_word():", test.most_common_word(paragraph, banned))
 
 """
-Time complexity : O(p+b). "p" is the size of the `paragraph` and "b" is the size of `banned`.
+Time complexity: O(p+b). "p" is the size of the `paragraph` and "b" is the size of `banned`.
 
-Space complexity : O(p+b). To store the `paragraph_list` and the `banned` data structures.
+Space complexity: O(p+b). To store the `paragraph_list` and the `banned` data structures.
 """

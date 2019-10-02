@@ -35,7 +35,7 @@ height = [0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1]
 print("Total water units to be contained:", test.trap(height))
 
 """
-Time complexity : O(n). Single iteration.
+Time complexity: O(n). Single iteration.
 
-Space complexity : O(1). Constant space is used. 
+Space complexity: O(1). Constant space is used. 
 """

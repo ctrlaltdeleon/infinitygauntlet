@@ -67,7 +67,7 @@ class FizzBuzz(object):
 
 
 """
-Time complexity : O(?). Multi-threading lol.
+Time complexity: O(?). Multi-threading lol.
 
-Space complexity : O(?). Multi-threading lol. 
+Space complexity: O(?). Multi-threading lol. 
 """

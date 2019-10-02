@@ -23,7 +23,7 @@ prices = [1, 3, 5, 2, 10, 2, 1]
 print("max_profit():", test.max_profit(prices))
 
 """
-Time complexity : O(n). We traverse the list containing "n" elements only once.
+Time complexity: O(n). We traverse the list containing "n" elements only once.
 
-Space complexity : O(1). Constant space is used.
+Space complexity: O(1). Constant space is used.
 """

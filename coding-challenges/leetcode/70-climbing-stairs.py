@@ -14,7 +14,7 @@ How many steps does it take to reach "n"?
 
 
 class Solution:
-    def climbStairs(self, n: int) -> int:
+    def climb_stairs(self, n: int) -> int:
         # Edge cases.
         if n <= 0:
             return 0
@@ -35,14 +35,14 @@ test1 = 1
 test2 = 8
 test3 = 9
 print("Number of steps needed for " + str(test1) +
-      " steps:", test.climbStairs(test1))
+      " steps:", test.climb_stairs(test1))
 print("Number of steps needed for " + str(test2) +
-      " steps:", test.climbStairs(test2))
+      " steps:", test.climb_stairs(test2))
 print("Number of steps needed for " + str(test3) +
-      " steps:", test.climbStairs(test3))
+      " steps:", test.climb_stairs(test3))
 
 """
-Time complexity : O(n). Single loop up to "n" is required to calculate "n" fibonacci number.
+Time complexity: O(n). Single loop up to "n" is required to calculate "n" fibonacci number.
 
-Space complexity : O(1). Constant space is used. 
+Space complexity: O(1). Constant space is used. 
 """

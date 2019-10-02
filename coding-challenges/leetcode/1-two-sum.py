@@ -67,7 +67,7 @@ target = 27
 print("two_sum():", test.two_sum(nums, target))
 
 """
-Time complexity : O(n). We traverse the list containing "n" elements only once. Each look up in the table costs only O(1) time.
+Time complexity: O(n). We traverse the list containing "n" elements only once. Each look up in the table costs only O(1) time.
 
-Space complexity : O(n). The extra space required depends on the number of items stored in the hash table, which stores at most "n" elements.
+Space complexity: O(n). The extra space required depends on the number of items stored in the hash table, which stores at most "n" elements.
 """

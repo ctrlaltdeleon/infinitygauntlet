@@ -35,7 +35,7 @@ sum(if c in J for c in S)
 
 
 class Solution:
-    def numJewelsInStones(self, J: str, S: str) -> int:
+    def num_jewels_in_stones(self, J: str, S: str) -> int:
         return sum(map(J.count, S))
 
 
@@ -43,10 +43,10 @@ test = Solution()
 J = "aA"
 S = "aAABBBB"
 print("Number of true jewels in stones:", list(map(J.count, S)))
-print("Amount of jewels:", test.numJewelsInStones(J, S))
+print("Amount of jewels:", test.num_jewels_in_stones(J, S))
 
 """
-Time complexity : O(n). Dependent on the amount of characters given in the strings.
+Time complexity: O(n). Dependent on the amount of characters given in the strings.
 
-Space complexity : O(1). Constant space is used.
+Space complexity: O(1). Constant space is used.
 """

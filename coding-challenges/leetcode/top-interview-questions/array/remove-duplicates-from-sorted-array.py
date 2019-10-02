@@ -26,7 +26,7 @@ nums = [1, 3, 5, 4, 3, 2, 9, 9, 8, 8]
 print("remove_duplicates():", test.remove_duplicates(nums))
 
 """
-Time complexity : O(n). We traverse the list containing "n" elements only once.
+Time complexity: O(n). We traverse the list containing "n" elements only once.
 
-Space complexity : O(1). Constant space is used.
+Space complexity: O(1). Constant space is used.
 """
