@@ -1,3 +1,7 @@
+# October 2, 2019
+
+- Camellia study day with aesthetic person.
+
 # October 1, 2019
 
 - What are the differences between waterfall, agile, scrum, sprints, and kanban?
@@ -16,6 +20,8 @@
     - A simpler process of a project management system.
     - Work is visualized on a board with cards on it.
     - Focuses on priority rather than completing a task.
+- Gym!
+  - Chest and triceps.
 
 # September 30, 2019
 
