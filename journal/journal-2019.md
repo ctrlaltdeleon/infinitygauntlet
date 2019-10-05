@@ -1,6 +1,17 @@
+# October 4, 2019
+
+- Interview feedback.
+- Caught up reading manga.
+
+# October 3, 2019
+
+- Movie!
+  - Joker.
+
 # October 2, 2019
 
 - Camellia study day with aesthetic person.
+- Gym!
 
 # October 1, 2019
 
@@ -618,7 +629,8 @@ for state, capital in statesAndCapitals.items():
 
 # July 31, 2019
 
-- **Once Upon a Time in Hollywood!**
+- Movie!
+  - Once upon a time in Hollywood!
 
 # July 30, 2019
 
@@ -847,7 +859,8 @@ componentDidMount() {
 
 # July 2, 2019
 
-- **Spiderman: Far From Home!**
+- Movie!
+  - Spider-man: Far From Home!
 - Caught up with an old friend from Oregon.
 
 # July 1, 2019
@@ -865,7 +878,8 @@ componentDidMount() {
 
 # June 28, 2019
 
-- **Avengers: Endgame!** Round Four. (With extras this time!)
+- Movie!
+  - Avengers: Endgame! Round Four. (With extras this time!)
 
 # June 27, 2019
 
@@ -1411,7 +1425,8 @@ render() {
 
 # May 14, 2019
 
-- **Avengers: Endgame!** Round Three?
+- Movie!
+  - Avengers: Endgame! Round Three.
 - Online assessment interview.
   - Did not pass.
 
@@ -1675,7 +1690,8 @@ Ostriches cannot fly.
 
 # May 7, 2019
 
-- **Code Geass: Lelouch of the Re;surrection!**
+- Movie!
+  - Code Geass: Lelouch of the Re;surrection!
 - Gym!
   - Legs and shoulders.
 
@@ -1763,7 +1779,8 @@ Ostriches cannot fly.
 # April 30, 2019
 
 - Applied to Viasat.
-- **Avengers: Endgame!** Round Two!
+- Movie!
+  - Avengers: Endgame! Round Two.
 - Minecraft!
   - Got updated with the recent patches and gathered a team to build in a snow biome.
 
@@ -1793,7 +1810,8 @@ Ostriches cannot fly.
 
 # April 25, 2019
 
-- **Avengers: Endgame!**
+- Movie!
+  - Avengers: Endgame!
 
 # April 24, 2019
 
