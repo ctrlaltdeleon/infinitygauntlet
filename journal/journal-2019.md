@@ -1,3 +1,16 @@
+# October 6, 2019
+
+- What is list comprehension?
+  - When a certain action shout be done to a whole list, similar to `map`.
+
+```py
+results = ["1", "2", "3"]
+results = [int(i) for i in results]
+print(results)
+
+# Output: [1, 2, 3]
+```
+
 # October 5, 2019
 
 - Gym!
