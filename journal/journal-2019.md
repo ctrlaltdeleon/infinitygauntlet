@@ -1,3 +1,8 @@
+# October 5, 2019
+
+- Gym!
+  - Legs and shoulders.
+
 # October 4, 2019
 
 - Interview feedback.
