@@ -1,3 +1,13 @@
+# October 8, 2019
+
+- Learned `Arduino` with robot work.
+
+# October 6, 2019
+
+- Robot work orientation.
+- Gym!
+  - Back and biceps.
+
 # October 6, 2019
 
 - What is list comprehension?
