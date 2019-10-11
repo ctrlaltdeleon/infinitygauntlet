@@ -1,6 +1,19 @@
+# October 11, 2019
+# October 10, 2019
+
+- Gym!
+  - Legs and shoulders.
+
+# October 9, 2019
+
+- Met with kpop dancers.
+
 # October 8, 2019
 
 - Learned `Arduino` with robot work.
+- Got an offer!
+- Gym!
+  - Chest and triceps.
 
 # October 6, 2019
 
