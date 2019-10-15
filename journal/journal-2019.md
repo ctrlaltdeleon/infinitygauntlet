@@ -1,4 +1,19 @@
+# October 14, 2019
+
+- Feeling sick.
+
+# October 13, 2019
+
+- Family gathering for a special occasion.
+
+# October 12, 2019
+
+- Spent the day with the light in the stars.
+
 # October 11, 2019
+
+- SDSU APSA alumni gathering.
+
 # October 10, 2019
 
 - Gym!
