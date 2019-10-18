@@ -1,3 +1,11 @@
+# October 16, 2019
+
+- ?
+
+# October 15, 2019
+
+- ?
+
 # October 14, 2019
 
 - Feeling sick.
