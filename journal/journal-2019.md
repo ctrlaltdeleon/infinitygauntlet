@@ -1,10 +1,21 @@
+# October 18, 2019
+
+- Worked with robots today.
+
+# October 17, 2019
+
+- Visited family.
+- Learned that NASA tested with living organisms before humans when heading to space.
+
 # October 16, 2019
 
-- ?
+- Gym!
+  - Back and biceps.
 
 # October 15, 2019
 
-- ?
+- Gym!
+  - Chest and triceps.
 
 # October 14, 2019
 
