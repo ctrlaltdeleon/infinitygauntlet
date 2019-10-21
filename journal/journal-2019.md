@@ -1,3 +1,11 @@
+# October 20, 2019
+
+- Wardrobe change.
+
+# October 19, 2019
+
+- Irvine trip!
+
 # October 18, 2019
 
 - Worked with robots today.
