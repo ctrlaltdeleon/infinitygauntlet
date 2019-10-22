@@ -1,3 +1,8 @@
+# October 21, 2019
+
+- Gym!
+  - Chest and triceps.
+
 # October 20, 2019
 
 - Wardrobe change.
