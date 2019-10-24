@@ -1,3 +1,12 @@
+# October 23, 2019
+
+- ?
+
+# October 22, 2019
+
+- Gym!
+  - Back and biceps.
+
 # October 21, 2019
 
 - Gym!
