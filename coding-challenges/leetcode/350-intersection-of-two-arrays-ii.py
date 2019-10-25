@@ -18,6 +18,7 @@ class Solution:
         solution = []
         for index in big:
             print("big:", big)
+            print("index:", index)
             if index in small:
                 print("small:", small)
                 solution.append(index)

@@ -1,6 +1,12 @@
+# October 24, 2019
+
+- Gym!
+  - Legs and shoulders.
+
 # October 23, 2019
 
-- ?
+- Relaxed.
+- Ate some Zen Curry and met up with friends through coincidence.
 
 # October 22, 2019
 
