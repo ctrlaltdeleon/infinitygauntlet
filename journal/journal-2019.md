@@ -1,3 +1,26 @@
+# November 13, 2019
+# November 12, 2019
+# November 11, 2019
+# November 10, 2019
+# November 9, 2019
+# November 8, 2019
+# November 7, 2019
+# November 6, 2019
+# November 5, 2019
+# November 4, 2019
+# November 3, 2019
+# November 2, 2019
+# November 1, 2019
+# October 31, 2019
+# October 30, 2019
+# October 29, 2019
+# October 28, 2019
+# October 27, 2019
+# October 26, 2019
+# October 25, 2019
+
+- ?
+
 # October 24, 2019
 
 - Gym!
