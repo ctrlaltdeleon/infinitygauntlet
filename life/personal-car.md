@@ -59,6 +59,8 @@
 
 # JOURNAL
 
+- October 2019.
+  - Changed oil.
 - April 2019.
   - Changed oil.
   - Replaced catalytic converter.
