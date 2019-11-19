@@ -1,22 +1,116 @@
+# November 19, 2019
+
+- ?
+
+# November 18, 2019
+
+- Went to see some friends for game night.
+- Organized my life a bit.
+
+# November 17, 2019
+
+- ?
+
+# November 16, 2019
+
+- Beach day for a friend's birthday!
+
+# November 15, 2019
+
+- Gym!
+  - Chest and triceps.
+
+# November 14, 2019
+
+- Gym!
+  - Back and biceps.
+
 # November 13, 2019
+
+- ?
+
 # November 12, 2019
+
+- ?
+
 # November 11, 2019
+
+- <3
+
 # November 10, 2019
+
+- ?
+
 # November 9, 2019
+
+- ?
+
 # November 8, 2019
+
+- Gym!
+  - Legs and shoulders.
+
 # November 7, 2019
+
+- Gym!
+  - Chest and triceps.
+
 # November 6, 2019
+
+- ?
+
 # November 5, 2019
+
+- Gym!
+  - Back and biceps.
+
 # November 4, 2019
+
+- Gym!
+  - Legs and shoulders.
+
 # November 3, 2019
+
+- ?
+
 # November 2, 2019
+
+- ?
+
 # November 1, 2019
+
+- ?
+
 # October 31, 2019
+
+- Spent time with friends.
+- Happy Halloween!
+- Gym!
+  - Freedom.
+
 # October 30, 2019
+
+- Gym!
+  - Chest and triceps.
+
 # October 29, 2019
+
+- Gym!
+  - Back and biceps.
+
 # October 28, 2019
+
+- Gym!
+  - Freedom.
+
 # October 27, 2019
+
+- ?
+
 # October 26, 2019
+
+- ?
+
 # October 25, 2019
 
 - ?
