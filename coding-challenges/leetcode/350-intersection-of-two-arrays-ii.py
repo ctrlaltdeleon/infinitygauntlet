@@ -28,7 +28,7 @@ class Solution:
 
 test = Solution()
 nums1 = [4, 9, 5]
-nums2 = [9, 4, 9, 8, 4]
+nums2 = [5, 9, 4, 9, 8, 4]
 print("intersect():", test.intersect(nums1, nums2))
 nums1 = [2, 1]
 nums2 = [1, 1]

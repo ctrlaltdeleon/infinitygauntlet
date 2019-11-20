@@ -1,6 +1,7 @@
 # November 19, 2019
 
-- ?
+- Gym!
+  - Leg and shoulders.
 
 # November 18, 2019
 
