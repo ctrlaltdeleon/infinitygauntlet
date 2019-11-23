@@ -1,3 +1,17 @@
+# November 22, 2019
+
+- Traveling to SF!
+- To ignore all directories in current and any subfolders do `node_modules/` as opposed to `node_modules` which blocks only the respective folder.
+
+
+# November 21, 2019
+
+- ?
+  
+# November 20, 2019
+
+- ?
+
 # November 19, 2019
 
 - Gym!

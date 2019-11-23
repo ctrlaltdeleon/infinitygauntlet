@@ -1,2 +1,5 @@
-/node_modules
-settings.json
+.DS_Store
+node_modules/
+*.log
+haters/
+.idea/

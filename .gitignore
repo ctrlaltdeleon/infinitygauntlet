@@ -6,3 +6,7 @@ _book
 
 # Classified.
 SCP_001
+node_modules/
+interviews/
+references.md
+robolink-tax.md
