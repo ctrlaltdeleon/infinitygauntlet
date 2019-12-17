@@ -1,3 +1,116 @@
+# December 17, 2019
+
+- ?
+
+# December 16, 2019
+
+- Getting comfortable at my new job!
+- Gym!
+  - Legs and shoulders.
+
+# December 15, 2019
+
+- Went to a K-pop pop up store with my friends.
+- Have my friends from different groups get to meet each other.
+
+# December 14, 2019
+
+- Relaxed.
+
+# December 13, 2019
+
+- Work.
+
+# December 12, 2019
+
+- Work.
+- Gym!
+  - Chest and triceps.
+
+# December 11, 2019
+
+- Work.
+- Gym!
+  - Back and biceps.
+
+# December 10, 2019
+
+- New Employee Orientation!
+
+# December 9, 2019
+
+- First day of work!
+- New Employee Orientation!
+- Gym!
+  - Legs and shoulders.
+
+# December 8, 2019
+
+- Big Bear!
+
+# December 7, 2019
+
+- Big Bear!
+
+# December 6, 2019
+
+- Big Bear!
+
+# December 5, 2019
+
+- Gym!
+  - Chest and triceps.
+
+# December 4, 2019
+
+- ?
+
+# December 3, 2019
+
+- Gym!
+  - Back and biceps.
+
+# December 2, 2019
+
+- ?
+
+# December 1, 2019
+
+- ?
+
+# November 31, 2019
+
+- ?
+
+# November 30, 2019
+
+- ?
+
+# November 29, 2019
+
+- ?
+
+# November 28, 2019
+
+- ?
+
+# November 27, 2019
+
+- ?
+
+# November 26, 2019
+
+- Gym!
+  - Freedom.
+
+# November 25, 2019
+
+- ?
+
+# November 24, 2019
+
+- ?
+
 # November 23, 2019
 
 - ?
@@ -19,7 +132,7 @@
 # November 19, 2019
 
 - Gym!
-  - Leg and shoulders.
+  - Legs and shoulders.
 
 # November 18, 2019
 
@@ -971,7 +1084,7 @@ T.get("search/tweets", params, function(err, data, response) {
   - A function that takes a component and returns a new component.
   - As opposed to a component constantly changing, create a new one.
 - Gym!
-  - Leg and shoulders.
+  - Legs and shoulders.
 
 # July 21, 2019
 
