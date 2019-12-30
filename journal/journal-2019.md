@@ -1,3 +1,62 @@
+# December 31, 2019
+
+- ?
+
+# December 30, 2019
+
+- In Linux, `lshw` means "list hardware".
+
+# December 29, 2019
+
+- ?
+
+# December 28, 2019
+
+- ?
+
+# December 27, 2019
+
+- ?
+
+# December 26, 2019
+
+- ?
+
+# December 25, 2019
+
+- Happy holidays!
+
+# December 24, 2019
+
+- ?
+
+# December 23, 2019
+
+- Gym.
+  - Freedom!
+
+# December 22, 2019
+
+- ?
+
+# December 21, 2019
+
+- Gym.
+  - Freedom!
+
+# December 20, 2019
+
+- ?
+
+# December 19, 2019
+
+- Gym.
+  - Freedom!
+
+# December 18, 2019
+
+- ?
+
 # December 17, 2019
 
 - ?
