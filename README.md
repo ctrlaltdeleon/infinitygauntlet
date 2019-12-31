@@ -15,12 +15,14 @@
   Books, coding jit jots, information sessions, music playlists, & more.
 </p>
 
-<!-- INFORMATION (Shields:IO) -->
+<!-- BADGES -->
 
 <p align="center">
     <a href="https://github.com/acfromspace/infinitygauntlet/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/mashape/apistatus.svg"
             alt="License: MIT"></a>
+    <a href="https://www.repostatus.org/#active">
+        <img src="https://www.repostatus.org/badges/latest/active.svg" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." /></a>
 </p>
 
 <!-- FEATURES -->

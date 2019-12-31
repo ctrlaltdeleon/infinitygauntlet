@@ -1,6 +1,37 @@
 # December 31, 2019
 
-- ?
+- How to show if a repo is active or not?
+  - Through a badge.
+- How many different types of project statuses are there?
+  - Concept.
+    - Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.
+  - WIP.
+    - Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.
+  - Suspended.
+    - Initial development has started, but there has not yet been a stable, usable release; work has been stopped for the time being but the author(s) intend on resuming work.
+  - Abandoned.
+    - Initial development has started, but there has not yet been a stable, usable release; the project has been abandoned and the author(s) do not intend on continuing development.
+  - Active.
+    - The project has reached a stable, usable state and is being actively developed.
+  - Inactive.
+    - The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.
+  - Unsupported.
+    - The project has reached a stable, usable state but the author(s) have ceased all work on it. A new maintainer may be desired.
+  - Moved.
+    - The project has been moved to a new location, and the version at that location should be considered authoritative. This status should be accompanied by a new URL.
+- What should each software license have?
+  - Start year to avoid ambiguity.
+  - Full name to avoid ambiguity.
+  - Essentially it should be traced back to the owner easily.
+- What does the `~` and `^` mean in software version numbers?
+  - `~` “Approximately equivalent to version”, will update you to the next patch version.
+  - `^` will update you to the next minor version.
+- How are software version numbers formatted?
+  - `MAJOR.MINOR.PATCH`.
+  - `MAJOR` when making incompatible API changes.
+  - `MINOR` when adding functionality in a backwards compatible manner.
+  - `PATCH` when making backwards compatible bug fixes.
+
 
 # December 30, 2019
 
