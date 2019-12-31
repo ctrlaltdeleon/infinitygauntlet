@@ -7,3 +7,4 @@
 - Small website maker: https://www.format.com
 - TypeScript Handbook: https://www.freecodecamp.org/news/the-definitive-typescript-handbook/
 - Reusable animation component using React Hooks: https://www.freecodecamp.org/news/animating-visibility-with-css-an-example-of-react-hooks/
+- JavaScript charts: https://www.chartjs.org/

@@ -5,22 +5,76 @@
 # December 30, 2019
 
 - In Linux, `lshw` means "list hardware".
+- What are WebSockets?
+  - They allow long-held single TCP socket connection to be established between the client and server which allows for bi-directional  full duplex, messages to be instantly distributed with little overhead resulting in a very low latency connection.
+- What is TCP?
+  - Transmission Control Protocol.
+  - A "guaranteed" standard in which two computers can communicate.
+- What is IP?
+  - Internet Protocol.
+  - Unique addresses so applications know where to send the data.
+- What is UDP?
+  - User Datagram Protocol.
+  - A "non-guaranteed" standard in which two computers can communicate.
+- What is TCP/IP
+  - Transmission Control Protocol/Internet Protocol.
+  - Specifically allows two specific computers to communicate.
+- Why are WebSockets important?
+  - Being able to create functionality that works consistently across multiple platforms.
+- What is AJAX?
+  - Asynchronous JavaScript and XML.
+  - A certain way to make a HTTP request.
+  - Being able to update an application without reloading the whole application.
+- What is HTTP?
+  - HyperText Transfer Protocol.
+  - Defines how messages are formatted and transmitted.
+- WebSockets VS AJAX?
+  - AJAX should still be used for making short-lived web service calls.
+  - WebSockets should be used when relying on latency and connection constraints.
+- What is WebSockets compared to HTTP?
+  - WebSockets is an extension of HTTP, which is an extension of TCP.
+- What is a web page?
+  - A document which can be displayed in a web browser.
+- What is a website?
+  - A collection of web pages.
+- What is a web server?
+  - A computer that hosts a website on the Internet.
+- What is a search engine?
+  - A web service that helps users find other web pages.
+- How is the internet connected?
+  - Computer > Router > Modem > Internet Service Provider > Antennas
+- What are web servers?
+  - Contains files and HTTP server.
+  - Stores an application's files and controls how web users accesses hosted files.
+- What's a static web server?
+  - A stack, computer, with an HTTP server with files to be taken "as-is".
+- What's a dynamic web server?
+  - A static web server with extra software, usually an application server and a database.
+  - It's dynamic because the application server updates the hosted files before sending them to the application itself.
 
 # December 29, 2019
 
-- ?
+- Relaxed.
 
 # December 28, 2019
 
-- ?
+- Secret Santa.
 
 # December 27, 2019
 
-- ?
+- FS Secret Santa.
+- Looked over paycheck and noticed deductions:
+  - FEGLI (Federal Employees' Group Life Insurance).
+  - OASDI (Old Age, Survivors and Disability Insurance) (Social Security).
+  - TAX, FEDERAL (Based on tax brackets).
+  - TSP (Thrift Savings Plan) SAVINGS.
+  - MEDICARE.
+  - RETIRE, FERS (Federal Employees Retirement System).
+  - TAX, STATE (Based on propositions and bills).
 
 # December 26, 2019
 
-- ?
+- First day at my tour!
 
 # December 25, 2019
 
@@ -428,20 +482,21 @@ print(results)
 
 - What are the differences between waterfall, agile, scrum, sprints, and kanban?
   - Waterfall:
-    - The original project management system.
-    - Build a React application in 1 month and it'll cost $.
+    - Linear fashion.
+    - Does not allow going back to a prior phase.
   - Agile:
-    - A reaction to waterfall:
-    - Build a native application with a set of values and principles to keep the project easy to manage.
+    - Adaptive, simultaneous workflows.
+    - Break projects into smaller, iterative periods.
   - Scrum:
-    - Set of practices that support the agile mindset.
-    - Breaks work into small chunks called sprints.
+    - A certain implementation of agile.
+    - Different roles.
+    - Once sprint has started, no changes.
   - Sprints:
     - Meeting talking about troubles for a task, what a task is, and communication amongst tasks.
   - Kanban:
-    - A simpler process of a project management system.
-    - Work is visualized on a board with cards on it.
-    - Focuses on priority rather than completing a task.
+    - A certain implementation of agile.
+    - Cards.
+    - Priorities may change.
 - Gym!
   - Chest and triceps.
 

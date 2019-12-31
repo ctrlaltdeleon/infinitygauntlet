@@ -21,9 +21,6 @@
     <a href="https://github.com/acfromspace/infinitygauntlet/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/mashape/apistatus.svg"
             alt="License: MIT"></a>
-    <a href="https://twitter.com/intent/follow?screen_name=acfromspace">
-        <img src="https://img.shields.io/twitter/follow/acfromspace.svg?style=social&logo=twitter"
-            alt="Follow @acfromspace"></a>
 </p>
 
 <!-- FEATURES -->
