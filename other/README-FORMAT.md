@@ -7,7 +7,6 @@
 
 <!-- DESCRIPTION -->
 
-<!-- Kept at h3 to prevent line under the header -->
 <h3 align="center">
   <span role="img" aria-label="EMOJI NAME">EMOJI</span>
 </h3>
@@ -16,16 +15,12 @@
   WHAT WAS THE PRODUCT MADE WITH
 </p>
 
-<!-- INFORMATION (Shields:IO) -->
+<!-- BADGES -->
 
 <p align="center">
-    <!-- HEY DON'T FORGET TO FIX THE URLS -->
     <a href="https://github.com/acfromspace/YOU_BETTER_REPLACE_ME/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/mashape/apistatus.svg"
-            alt="License: MIT"></a>
-    <a href="https://twitter.com/intent/follow?screen_name=acfromspace">
-        <img src="https://img.shields.io/twitter/follow/acfromspace.svg?style=social&logo=twitter"
-            alt="Follow @acfromspace"></a>
+            alt="License: MIT"></a><a href="https://www.repostatus.org/#concept"><img src="https://www.repostatus.org/badges/latest/concept.svg" alt="Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept." /></a>
 </p>
 
 <!-- FEATURES -->
