@@ -1,7 +1,7 @@
 <!-- HEADING -->
 
 <p align="center">
-  <img src="./other/images/avatar.png" width="60">
+  <img src="https://user-images.githubusercontent.com/10361542/71635438-7e97da00-2bd9-11ea-9940-8a42bd798a00.png" width="60">
 </p>
 <h1 align="center">️infinitygauntlet</h1>
 
@@ -28,7 +28,7 @@
 <!-- FEATURES -->
 
 <p align="center">
-  <img src="./other/images/vaporwave.gif">
+  <img src="https://user-images.githubusercontent.com/10361542/71680303-8f159500-2d3e-11ea-8367-fef5bfc3e484.gif">
 </p>
 
 [_infinitygauntlet_](https://github.com/acfromspace/infinitygauntlet) is a repository with the following features:
@@ -40,7 +40,7 @@
 ## <span role="img" aria-label="Musical Note">🎵</span> Music I zone to!
 
 <p align="center">
-  <img src="./other/images/doggo.gif">
+  <img src="https://user-images.githubusercontent.com/10361542/71680323-9dfc4780-2d3e-11ea-9f24-94ad303d521c.gif">
 </p>
 
 - [I made a website with those playlists, curated from Soundcloud, Spotify, and YouTube.](https://mindstone.netlify.com/)
