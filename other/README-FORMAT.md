@@ -83,7 +83,7 @@ A quick look at the top-level files and directories you'll see in this project.
 ```
 
 1. **`public/`**: What is distributed to the viewing software so everyone can see your greatest creation!
-2. **`src/`**: All development usually occurs here. “src” is a convention for “source code”.
+2. **`src/`**: All development usually occurs here. `src` is a convention for “source code”.
 3. **`.gitignore`**: This file tells `.git` which files it should not track nor maintain a version history for. For instance, you shouldn't let anyone get your `.env` files. (These usually contain your API keys)
 4. **`LICENSE`**: An open source license that protects contributors and users depending on the license chosen.
 5. **`package.json`**: A manifest file for [Node.js](https://nodejs.org/en/) projects, which includes metadata (the project’s name, author, package names, etc.). This manifest is how [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/en/) knows which packages to install for your project.
