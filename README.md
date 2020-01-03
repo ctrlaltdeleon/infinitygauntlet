@@ -31,7 +31,7 @@
   <img src="https://user-images.githubusercontent.com/10361542/71680303-8f159500-2d3e-11ea-8367-fef5bfc3e484.gif">
 </p>
 
-[_infinitygauntlet_](https://github.com/acfromspace/infinitygauntlet) is a repository with the following features:
+[_infinitygauntlet_](https://acfromspace.gitbook.io/infinitygauntlet/) is a repository with the following features:
 
 - **Memes.** Usually wholesome, hidden away in secret aways.
 - **Diversity.** I give everything a chance and share my learnings with everyone.
@@ -45,9 +45,13 @@
 
 - [I made a website with those playlists, curated from Soundcloud, Spotify, and YouTube.](https://mindstone.netlify.com/)
 
+<!-- WHAT'S INSIDE? -->
+
 ## <span role="img" aria-label="Thinking Face">🤔</span> What's inside?
 
 【﻿ Ｃｏｎｓｔａｎｔ　ｕｐｄａｔｅｄ　ｒｅｆｉｎｅｄ　ｃｈａｏｓ！】 (ピザが大好き)
+
+<!-- LICENSE -->
 
 ## <span role="img" aria-label="Oncoming Police Car">🚔</span> [License](https://github.com/acfromspace/infinitygauntlet/blob/master/LICENSE)
 
