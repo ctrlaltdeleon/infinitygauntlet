@@ -1,3 +1,13 @@
+# January 6, 2020
+
+- Where does one put the `<script>` tag in an `index.html` file?
+  - Usually in the `<body>`, towards the very end.
+  - This makes sure the DOM is ready to be manipulated before the `JavaScript` goes in.
+- What does "DOM" mean?
+  - Document Object Model.
+  - Treats a `HTML` document as a tree structure.
+- Created a password generator in `JavaScript`.
+
 # January 5, 2020
 
 - ?
