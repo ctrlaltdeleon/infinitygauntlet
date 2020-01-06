@@ -1,3 +1,17 @@
+# January 5, 2020
+
+- ?
+
+# January 4, 2020
+
+- Gym!
+  - Back and biceps.
+- Watched Japanese wrestling.
+
+# January 3, 2020
+
+- ?
+
 # January 2, 2020
 
 - Work.
