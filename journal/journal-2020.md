@@ -1,3 +1,7 @@
+# January 7, 2020
+
+- Looked up insurance options.
+
 # January 6, 2020
 
 - Where does one put the `<script>` tag in an `index.html` file?
@@ -7,6 +11,8 @@
   - Document Object Model.
   - Treats a `HTML` document as a tree structure.
 - Created a password generator in `JavaScript`.
+- Gym!
+  - Volleyball.
 
 # January 5, 2020
 
