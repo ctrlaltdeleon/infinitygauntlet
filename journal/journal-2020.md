@@ -1,6 +1,17 @@
+# January 8, 2020
+
+- Worked with Electron.js, React.js, and Selenium!
+- Gym!
+  - Legs and shoulders.
+
 # January 7, 2020
 
 - Looked up insurance options.
+- What is `Electron`?
+  - A combination of `Chromium`, `Node.js`, and native APIs such as open file dialogs, notifications, etc.
+  - Provides a browser window with customizability as opposed to browsers.
+- Gym!
+  - Chest and triceps.
 
 # January 6, 2020
 
