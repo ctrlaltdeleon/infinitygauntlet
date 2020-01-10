@@ -1,6 +1,30 @@
+# January 9, 2020
+
+- What is `Cucumber`?
+  - An open source, multiple language support, that provides BDD tools.
+- What is "BDD"?
+  - Behavioral Driven Development.
+  - Allows for non-technical developers to collaborate more in the development process.
+
+```
+Feature: Reset functionality on login page of application.
+
+Scenario: Verification of reset button.
+Given... Open the Firefox and launch the application.
+When... Enter the Username and Password.
+Then... Reset the credential.
+```
+
+- What is `Selenium`?
+  - Automation browser-based application.
+- Electron provide us an easy and fast way to develop native Windows or Mac-OS application.
+- React library makes web development more structure and modular by it’s component based approach.
+- Combination of Electron and React will be an awesome way to develop desktop application.
+- Made a Electron, React, Spectron boilerplate.
+  - Needs Jest/Enzyme.
+
 # January 8, 2020
 
-- Worked with Electron.js, React.js, and Selenium!
 - Gym!
   - Legs and shoulders.
 
