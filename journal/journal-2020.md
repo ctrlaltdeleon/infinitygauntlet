@@ -1,3 +1,20 @@
+# January 13, 2020
+
+- What is `Mocha`?
+  - JavaScript test framework running on `Node.js` and in the browser.
+
+# January 12, 2020
+
+- FS Retreat!
+
+# January 11, 2020
+
+- FS Retreat!
+
+# January 10, 2020
+
+- FS Retreat!
+
 # January 9, 2020
 
 - What is `Cucumber`?
@@ -21,7 +38,7 @@ Then... Reset the credential.
 - React library makes web development more structure and modular by it’s component based approach.
 - Combination of Electron and React will be an awesome way to develop desktop application.
 - Made a Electron, React, Spectron boilerplate.
-  - Needs Jest/Enzyme.
+  - Needs Jest/Enzyme?
 
 # January 8, 2020
 
