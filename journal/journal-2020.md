@@ -2,6 +2,28 @@
 
 - What is `Mocha`?
   - JavaScript test framework running on `Node.js` and in the browser.
+- What is `Chai`?
+  - A BDD/TDD (Behavioral Driven Development/Technical Driven Development) assertion library for `Node.js`.
+  - Makes it easy to express and be readable to anyone.
+- How to run scripts after one each other in `Linux`?
+  - Use `&` between scripts.
+- How to run scripts simultaneously in `Linux`?
+  - Use `|` between scripts.
+- There are different auto-documentation tools that look at the code and create a `HTML` file from it that's fast and easy to access.
+- What is a traditional virtualization?
+  - Hardware (Server).
+  - Operating System.
+  - Hypervisor (Translating system for app to OS).
+  - Multiple VMS.
+- What is a traditional containerization?
+  - Hardware (Server).
+  - Operating System.
+  - Containers.
+- What are the differences between VMs VS. containers?
+  - VMs are not as flexible when utilizing resources on the hardware where containers are flexible and use what it needs, not fixed.
+- Why use `Docker`?
+  - Makes it easy to develop and deploy apps inside neat containers.
+- Instead of controlling 1 container at a time, `Docker Compose` is a tool to use to affect multiple containers at once.
 
 # January 12, 2020
 

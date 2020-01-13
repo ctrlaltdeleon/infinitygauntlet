@@ -32,12 +32,11 @@
   - `MINOR` when adding functionality in a backwards compatible manner.
   - `PATCH` when making backwards compatible bug fixes.
 
-
 # December 30, 2019
 
 - In Linux, `lshw` means "list hardware".
 - What are WebSockets?
-  - They allow long-held single TCP socket connection to be established between the client and server which allows for bi-directional  full duplex, messages to be instantly distributed with little overhead resulting in a very low latency connection.
+  - They allow long-held single TCP socket connection to be established between the client and server which allows for bi-directional full duplex, messages to be instantly distributed with little overhead resulting in a very low latency connection.
 - What is TCP?
   - Transmission Control Protocol.
   - A "guaranteed" standard in which two computers can communicate.
@@ -264,11 +263,10 @@
 - Traveling to SF!
 - To ignore all directories in current and any sub-folders do `node_modules/` as opposed to `node_modules` which blocks only the respective folder.
 
-
 # November 21, 2019
 
 - ?
-  
+
 # November 20, 2019
 
 - ?
@@ -652,7 +650,7 @@ class Solution():
 
     def add(self, num1, num2):
         return num1 + num2
-    
+
 # Create an instance of the class first to then access the methods.
 # Can't do `Solution.add(5, 6)` because there's no object attached.
 s = Solution()
@@ -661,7 +659,7 @@ print(s.add(5, 6))
 ```
 
 - How to reverse a string in `Python` without the use of `reverse()` or `[::-1]`?
-  
+
 ```py
 def reverseThis(text):
     return text if len(text) <= 1 else reverse(textThis[1:]) + text[0]
@@ -1135,7 +1133,7 @@ for state, capital in statesAndCapitals.items():
 
 # July 29, 2019
 
-- What is the life cycle of a `React` component?
+- What is the life cycle of a `React.js` component?
   - Birth/Mount.
   - Growth/Update.
   - Death/Unmount.
@@ -1270,7 +1268,7 @@ T.get("search/tweets", params, function(err, data, response) {
 
 - What does it mean if there's a `super()` within a constructor?
   - `super()` is used to call the constructor, methods and properties of parent class.
-  - In `React`, if utilizing a subclass `super()` is always called because ES6 class constructors must call it.
+  - In `React.js`, if utilizing a subclass `super()` is always called because ES6 class constructors must call it.
     - To utilize `this` keyword, `super()` is needed to know what to reference, such for the common `this.props`.
 
 # July 14, 2019
@@ -1311,10 +1309,10 @@ T.get("search/tweets", params, function(err, data, response) {
 - Why would I use `npx` over `npm`?
   - Usually for `create-react-app`, instead of constantly updating the package on your computer then executing, you could just execute the latest version on the cloud every time.
   - Saves a few steps.
-- What files are required for a `React` project to execute?
+- What files are required for a `React.js` project to execute?
   - `public/index.html` for the page template.
   - `src/index.js` for the `JavaScript` entry point.
-- How do you implement a `<script>` within a `React` component?
+- How do you implement a `<script>` within a `React.js` component?
 
 ```js
 componentDidMount() {
@@ -1689,10 +1687,10 @@ componentDidMount() {
 
 # May 18, 2019
 
-- What's `React Hooks`?
-  - If you're familiar with `Redux`, it's a state management system for your app.
-  - It's slowly being included in `React`, previous being `React Context`, but `React Hooks` provides a more fulfilling role.
-- `React Hooks` replacing `Redux` seems to be a hot topic nowadays, it'll depend more on what each has to offer as `React Hooks` is new.
+- What's `React.js Hooks`?
+  - If you're familiar with `Redux.js`, it's a state management system for your app.
+  - It's slowly being included in `React.js`, previous being `React.js Context`, but `React.js Hooks` provides a more fulfilling role.
+- `React.js Hooks` replacing `Redux.js` seems to be a hot topic nowadays, it'll depend more on what each has to offer as `React.js Hooks` is new.
 
 # May 17, 2019
 
@@ -1706,13 +1704,13 @@ componentDidMount() {
   - A component is too big if it's doing more than 1 job.
 - When do you split a component into several smaller components?
   - A component is split into several smaller components when reusable components are predictable as well as simplifying unit testing.
-- What is `React Context`?
+- What is `React.js Context`?
   - Provides a way to pass data through the component tree without having to pass `props` down manually at every level.
-- What are some use cases for `React Context`?
+- What are some use cases for `React.js Context`?
 
 ```jsx
-// Without React Context.
-class App extends React.Component {
+// Without React.js Context.
+class App extends React.js.Component {
   render() {
     return <Toolbar theme="dark" />;
   }
@@ -1730,7 +1728,7 @@ function Toolbar(props) {
   );
 }
 
-class ThemedButton extends React.Component {
+class ThemedButton extends React.js.Component {
   render() {
     return <Button theme={this.props.theme} />;
   }
@@ -1741,9 +1739,9 @@ class ThemedButton extends React.Component {
 // Context lets us pass a value deep into the component tree
 // without explicitly threading it through every component.
 // Create a context for the current theme (with "light" as the default).
-const ThemeContext = React.createContext("light");
+const ThemeContext = React.js.createContext("light");
 
-class App extends React.Component {
+class App extends React.js.Component {
   render() {
     // Use a Provider to pass the current theme to the tree below.
     // Any component can read it, no matter how deep it is.
@@ -1766,9 +1764,9 @@ function Toolbar(props) {
   );
 }
 
-class ThemedButton extends React.Component {
+class ThemedButton extends React.js.Component {
   // Assign a contextType to read the current theme context.
-  // React will find the closest theme Provider above and use its value.
+  // React.js will find the closest theme Provider above and use its value.
   // In this example, the current theme is "dark".
   static contextType = ThemeContext;
   render() {
@@ -1777,16 +1775,16 @@ class ThemedButton extends React.Component {
 }
 ```
 
-- `React Context` vs `React Redux`, when should I use each one?
-  - If you're only using `Redux` to avoid passing down `props`, context could replace `Redux` - but then you probably didn't need `Redux` in the first place.
-  - `Context` also doesn't give you anything like the `Redux DevTools`, the ability to trace your state updates, middleware to add centralized application logic, and other powerful capabilities that `Redux` enables.
-- How to handle errors in `React`?
+- `React.js Context` vs `React.js Redux.js`, when should I use each one?
+  - If you're only using `Redux.js` to avoid passing down `props`, context could replace `Redux.js` - but then you probably didn't need `Redux.js` in the first place.
+  - `Context` also doesn't give you anything like the `Redux.js DevTools`, the ability to trace your state updates, middleware to add centralized application logic, and other powerful capabilities that `Redux.js` enables.
+- How to handle errors in `React.js`?
   - Without specification from the developer, that page will turn blank to prevent spilling any info to malicious users.
 
 ```jsx
 // Error handler component.
 
-class ErrorHandler extends React.Component {
+class ErrorHandler extends React.js.Component {
   constructor(props) {
     super(props);
     this.state = { errorOccurred: false };
@@ -1813,7 +1811,7 @@ class ErrorHandler extends React.Component {
 </ErrorHandler>;
 ```
 
-- What is the difference between an action, and an action creator in `Redux`?
+- What is the difference between an action, and an action creator in `Redux.js`?
   - An action is a payload of information we send to the store.
   - An action creator is a function that creates and returns an action.
 
@@ -1836,9 +1834,9 @@ const getUserDetailsRequest = id => ({
 });
 ```
 
-- What is the `Redux` store?
+- What is the `Redux.js` store?
   - The whole state of the app in an immutable object tree.
-- Why use the `Redux` store?
+- Why use the `Redux.js` store?
   - Instead of passing `props` consistently down to all children, the children can just reference the store to reduce complexity.
 - What's a reducer?
   - Specify how the app's state changes in response to actions sent to the store.
@@ -1859,17 +1857,17 @@ describe('<MyComponent />', () => {
 # May 16, 2019
 
 - Remember to fix the `PATH` when using `Visual Studio Code` to reference compilers (especially with `Python`)!
-- What are advantages of `React`?
+- What are advantages of `React.js`?
   - Increase application performance.
   - Easily integrated with other frameworks.
-- What are disadvantages of `React`?
+- What are disadvantages of `React.js`?
   - Just a library, not a full framework.
   - Library is large and takes time to understand.
   - Difficult for novice programmers to understand.
   - Code gets complex through inline templating and `JSX`.
 - What is `JSX`?
   - `JavaScript XML`.
-  - A `React` extension that allows to write `JavaScript` that looks like `HTML`.
+  - A `React.js` extension that allows to write `JavaScript` that looks like `HTML`.
 
 ```jsx
 render() {
@@ -1891,16 +1889,16 @@ render() {
     - Verification. (Identifying the user accessing what.)
     - Transformation. (Augmenting what the user can do.)
     - Processing. (How the data gets transferred securely.)
-- When is it appropriate to use component state vs `Redux` store?
-  - If a component just needs to display data and can receive data from a parent, use `Redux` store.
+- When is it appropriate to use component state vs `Redux.js` store?
+  - If a component just needs to display data and can receive data from a parent, use `Redux.js` store.
   - Otherwise if it needs the state, use component state.
 
 # May 15, 2019
 
-- What is `React`?
-  - React is a front-end `JavaScript` library developed by Facebook in 2011.
+- What is `React.js`?
+  - React.js is a front-end `JavaScript` library developed by Facebook in 2011.
   - It follows component based approach which helps in reusable UI components.
-- What are the features of `React`?
+- What are the features of `React.js`?
   - Virtual DOM.
   - Server-side rendering.
   - Uni-directional data flow.
@@ -2159,7 +2157,7 @@ Ostriches cannot fly.
     - One interface would dictate webpages and getting a theme while the other would dictate the theme.
 - Examples of behavioral design patterns.
   - State!
-    - Think `React`.
+    - Think `React.js`.
     - If the user is logged in, update the UI to show relevant information to the user.
 
 # May 8, 2019
@@ -2216,7 +2214,7 @@ Ostriches cannot fly.
   - `JavaScript`.
     - Object oriented scripting language.
       - Interpreted (not compiled).
-    - Mainly runs on browser (More applications through `React` now).
+    - Mainly runs on browser (More applications through `React.js` now).
 - `JavaScript` Data Types?
   - Number.
   - String.
@@ -2350,7 +2348,7 @@ Ostriches cannot fly.
 
 # April 18, 2019
 
-- Went over `React` technicalities.
+- Went over `React.js` technicalities.
 - Instead of writing `.bind(this)` to every method that exists...
 
 ```js
@@ -2373,7 +2371,7 @@ handleClick = event => {
 };
 ```
 
-- With `Context` and `Hooks` available for `React` now, `Redux` may be a thing in the past.
+- With `Context` and `Hooks` available for `React.js` now, `Redux.js` may be a thing in the past.
 
 # April 17, 2019
 
@@ -2381,7 +2379,7 @@ handleClick = event => {
 - Messaged the General Assembly group of LA about future hackathons.
   - Feels nice to have a community dev spot for me in LA!
 - Updated creddle.io resume.
-  - Removed the `knucklesbattle` repo with the `acfromspacex` repo to harbor current technologies I'm working with which is mainly `React` as well as touching other technologies such as `GraphQL` and `Apollo`.
+  - Removed the `knucklesbattle` repo with the `acfromspacex` repo to harbor current technologies I'm working with which is mainly `React.js` as well as touching other technologies such as `GraphQL` and `Apollo`.
   - Updated skills to go from "advanced, proficient, exploring" rather than placed by "programming languages, web technologies, creative software engines, databases".
     - I thought this was necessary to avoid questions on topics I wasn't too familiar about because there were no skill levels to differentiate.
 - Applied to CyberCoders.
