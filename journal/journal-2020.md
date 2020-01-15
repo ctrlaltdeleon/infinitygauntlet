@@ -1,3 +1,68 @@
+# January 14, 2020
+
+- What is the relationship of `Spectron` to `WebdriverIO` and `Selenium WebDriver`?
+  - `Selenium WebDriver` allows developers to write tests that control a web browser so they can test apps from a user's perspective.
+  - `WebdriverIO` wraps the `Selenium WebDriver` with a pleasant `JavaScript` API and makes it easy to use from within `Node.js` or an `Electron` application in our case.
+  - `Spectron` allows access to `WebdriverIO` with a environment custom-tailored functionality for `Electron` applications.
+- What is the primary way to use `Spectron`?
+  - Create an `Application` instance.
+  - This object includes a number of child objects that allow us to access different parts of the application.
+- What are the different parts of `Spectron`?
+  - `client`
+    - The underlying `WebdriverIO` instance.
+  - `electron`
+    - `Electron`'s renderer process API.
+  - `browserWindow`
+    - The currently focused browser window.
+  - `webContents`
+    - `Electron`'s WebContents API.
+  - `mainProcess`
+    - Node's process object in the main process.
+  - `rendererProcess`
+    - Node's process object in the renderer process.
+- Is it better to have the front-end and back-end in the same repo or separate repos.
+  - Depends.
+  - Usually separate repos is desirable due to modularization and scalability.
+  - Reasons for same repos is for the engineers to understand the product as a whole.
+- How does a standard `Electron` test file look like?
+
+```js
+const Application = require("spectron").Application; // `Spectron`'s application driver.
+const assert = require("assert"); // `Node.js`'s built in assertion library.
+const electronPath = require("electron"); // Locally installed development version of `Electron`.
+const path = require("path"); // `Node.js`'s helper utility for working with file paths.
+
+const app = new Application({
+  path: electronPath,
+  args: [path.join(__dirname, "..")], // Points to root directory of application as a starting point.
+});
+
+describe("Application launch", function() {
+  this.timeout(10000); // `Mocha`'s default timeout because launching can take a while.
+
+  beforeEach(() => {
+    return app.start(); // Starts application before each test.
+  });
+
+  afterEach(() => {
+    if (app && app.isRunning()) {
+      return app.stop(); // Stops the application after each test.
+    }
+  });
+
+  it("should have 1 window", function() {
+    const count = await app.client.getWindowCount();
+    return assert.equal(count, 1);
+  })
+});
+```
+
+- What is a callback function?
+  - A function where it's accessible by another function.
+  - Usually when a certain function is finished, another takes its place.
+- Gym!
+  - Back and biceps.
+
 # January 13, 2020
 
 - What is `Mocha`?
