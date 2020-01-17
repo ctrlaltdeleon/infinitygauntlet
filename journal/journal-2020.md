@@ -1,3 +1,54 @@
+# January 16, 2020
+
+- What is `Karma`?
+  - A testing framework that runs on multiple browsers.
+- What is `Picture-In-Picture`?
+  - A feature originated from television receivers where it displays a smaller video program alongside the main video program.
+- Firefox and Chrome both have Picture-In-Picture options.
+- How to remove terminal prompt?
+  - `export PS1='>'`
+  - Changes the terminal prompt to `>`.
+- How to increase a `VirtualBox` disk size?
+  - Make sure virtual machines are off.
+  - Highlight virtual machine in `VirtualBox`.
+  - Go to settings.
+  - Go to storage.
+  - Click the controller SATA under storage devices.
+    - Usually the VDI file.
+  - Make sure the information for:
+    - Type (format) is VDI or VHD.
+    - Details is dynamically allocated.
+  - Copy the address location.
+  - Open terminal.
+  - Change location to the address location, but one folder up.
+  - To check contents use `ls -la`.
+  - Make a back-up via `cp %FILE_NAME%.VDI %BACK_UP_FILE_NAME%.VDI`.
+  - Resize the file `vboxmanage modifyhd %FILE_NAME%.VDI --resize 100000`
+    - 100000 is approximately 100 gigabytes.
+  - Highlight virtual machine in `VirtualBox`.
+  - Go to settings.
+  - Go to storage.
+  - Click the controller IDE under storage devices.
+    - Usually empty.
+  - To the side in attributes, change the optical drive to the OS system you used to boot up.
+  - Click ok.
+  - Start up the virtual machine.
+  - Open up GParted in the virtual machine.
+  - Click the old memory space.
+  - Resize to take all unallocated space.
+  - Apply operations.
+  - Go back to the controller IDE under storage devices.
+  - Remove disk from virtual drive.
+  - Enjoy!
+
+# January 15, 2020
+
+- What does `sudo` do in Linux?
+  - Superuser do.
+  - Best and safest way to elevate privileges to do something by asking for a password.
+- Gym!
+  - Chest and triceps.
+
 # January 14, 2020
 
 - What is the relationship of `Spectron` to `WebdriverIO` and `Selenium WebDriver`?

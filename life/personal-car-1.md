@@ -1,4 +1,4 @@
-# PERSONAL CAR
+# PERSONAL CAR 1
 
 - Model.
   - Mitsubishi Lancer LS.
@@ -59,6 +59,8 @@
 
 # JOURNAL
 
+- December 2019.
+  - Not using car anymore.
 - October 2019.
   - Changed oil.
 - April 2019.
