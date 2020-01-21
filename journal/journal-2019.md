@@ -1125,7 +1125,7 @@ for state, capital in statesAndCapitals.items():
 # July 31, 2019
 
 - Movie!
-  - Once upon a time in Hollywood!
+  - Once Upon a Time in Hollywood!
 
 # July 30, 2019
 
@@ -2201,7 +2201,8 @@ Ostriches cannot fly.
 
 # May 4, 2019
 
-- Star Wars!
+- Movie!
+  - Star Wars: Solo.
 - Edited photos.
 
 # May 3, 2019

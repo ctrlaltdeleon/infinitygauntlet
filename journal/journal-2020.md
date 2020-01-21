@@ -1,3 +1,31 @@
+# January 21, 2020
+
+- What are documentation tools?
+  - Natural Docs.
+  - JSDoc.
+  - Documentation.js.
+- Difference between installing local and global?
+  - Install a module locally if you're going to require() it.
+  - Install a module globally if you're going to run it on the command line.
+
+# January 20, 2020
+
+- Martin Luther King Jr. Day.
+
+# January 19, 2020
+
+- Ikea.
+
+# January 18, 2020
+
+- Movie!
+  - Weathering with you.
+
+# January 17, 2020
+
+- Movie!
+  - Star Wars: The Rise of Skywalker.
+
 # January 16, 2020
 
 - What is `Karma`?
