@@ -1,12 +1,20 @@
+# January 22, 2020
+
+- Gym!
+  - Chest and triceps.
+  - Volleyball.
+
 # January 21, 2020
 
 - What are documentation tools?
-  - Natural Docs.
-  - JSDoc.
   - Documentation.js.
+  - JSDoc.
+  - Natural Docs.
 - Difference between installing local and global?
   - Install a module locally if you're going to require() it.
   - Install a module globally if you're going to run it on the command line.
+- Gym!
+  - Back and biceps.
 
 # January 20, 2020
 
