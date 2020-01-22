@@ -1,5 +1,8 @@
 # January 22, 2020
 
+- What does `ssh` do?
+  - Gives a secure way to access a computer over an unsecured network.
+  - Also known as "secure shell" or "secure socket shell".
 - Gym!
   - Chest and triceps.
   - Volleyball.
