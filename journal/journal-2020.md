@@ -1,8 +1,78 @@
+# January 24, 2020
+
+- What does `umask` do in `Linux`? (There's a lot of info on this: https://en.wikipedia.org/wiki/Umask)
+  - Determines the settings of a mask that controls how file permissions are set for newly created files.
+
+```bash
+$ umask 007    # set the mask to 007
+$ umask        # display the mask (in octal)
+0007           #   0 - special permissions (setuid | setgid | sticky )
+               #   0 - (u)ser/owner part of mask
+               #   0 - (g)roup part of mask
+               #   7 - (o)thers/not-in-group part of mask
+$ umask -S     # display the mask symbolically
+u=rwx,g=rwx,o=
+```
+
+- What do the octal codes mean in `umask`?
+  - `0`
+    - Any permission may be set (read, write, execute).
+  - `1`
+    - Setting of execute permission is prohibited (read and write).
+  - `2`
+    - Setting of write permission is prohibited (read and execute).
+  - `3`
+    - Setting of write and execute permission is prohibited (read only).
+  - `4`
+    - Setting of read permission is prohibited (write and execute).
+  - `5`
+    - Setting of read and execute permission is prohibited (write only).
+  - `6`
+    - Setting of read and write permission is prohibited (execute only).
+  - `7`
+    - All permissions are prohibited from being set (no permissions).
+- What does `cp` do in `Linux`?
+  - Copies files or directories.
+  - Also know as "copy".
+  - `cp %I_WANT_TO_COPY_YOU_FILES% %DESTINATION_AREA%`
+- What is `Gitlab`?
+  - A web-based DevOps life cycle tool that provides a Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features, using an open source license.
+- What is `Portainer`?
+  - A lightweight management UI which allows easy to manage software containers.
+- What is `Nexus Repository`?
+  - A beacon for components, binaries, build artifacts, and distribution center for parts and containers to developers.
+- What is `Jenkins`?
+  - A free and open source automation server.
+- What is `SonarQube`?
+  - An open source platform for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities on 20+ programming languages.
+- What is `Grafana`?
+  - A open source analytics and monitoring solution for every database.
+- What is `Prometheus`?
+  - Prometheus is a free software application used for event monitoring and alerting.
+- Gym!
+  - Legs and shoulders.
+  - Volleyball.
+
+# January 23, 2020
+
+- Always do `.gitignore` before making anything in the directory!
+
 # January 22, 2020
 
-- What does `ssh` do?
+- What does `ssh` do in `Linux`?
   - Gives a secure way to access a computer over an unsecured network.
   - Also known as "secure shell" or "secure socket shell".
+- What does `scp` do in `Linux`?
+  - Allows files to be copied to, from, or between different hosts.
+  - Also known as "secure copy".
+- How do you remove a file in `Linux`?
+  - `rm`
+- How do you remove a directory in `Linux`?
+  - `rmdir`
+- What's the difference between `.zip`, `.tar.xz`, and `.7z`?
+  - `.zip` compatible with all operating systems.
+  - `.tar.xz` smaller archives but `Linux` and `Mac` only.
+  - `.7z` smaller archives but must be installed on `Windows` and `Mac`.
 - Gym!
   - Chest and triceps.
   - Volleyball.
