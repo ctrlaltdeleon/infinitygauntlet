@@ -1,3 +1,22 @@
+# January 27, 2020
+
+- ...
+
+# January 26, 2020
+
+- Cut hair.
+- Relaxed.
+- Photography!
+  - Edited photos.
+
+# January 25, 2020
+
+- Gym!
+  - Volleyball.
+- Tet festival.
+- Gun range.
+- Axe throwing.
+
 # January 24, 2020
 
 - What does `umask` do in `Linux`? (There's a lot of info on this: https://en.wikipedia.org/wiki/Umask)
@@ -35,10 +54,13 @@ u=rwx,g=rwx,o=
   - Copies files or directories.
   - Also know as "copy".
   - `cp %I_WANT_TO_COPY_YOU_FILES% %DESTINATION_AREA%`
+  - `cp README.md ~/`
 - What is `Gitlab`?
   - A web-based DevOps life cycle tool that provides a Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features, using an open source license.
 - What is `Portainer`?
   - A lightweight management UI which allows easy to manage software containers.
+- What is `GanttLab Live`?
+  - A tool to master time and deadlines that works with `GitLab` and `Github`.
 - What is `Nexus Repository`?
   - A beacon for components, binaries, build artifacts, and distribution center for parts and containers to developers.
 - What is `Jenkins`?
@@ -49,6 +71,9 @@ u=rwx,g=rwx,o=
   - A open source analytics and monitoring solution for every database.
 - What is `Prometheus`?
   - Prometheus is a free software application used for event monitoring and alerting.
+- How to extract a `.tar.gz` file?
+  - `gunzip %FILE%.tar.gz`
+  - `tar -xvf %FILE%.tar`
 - Gym!
   - Legs and shoulders.
   - Volleyball.
@@ -65,6 +90,7 @@ u=rwx,g=rwx,o=
 - What does `scp` do in `Linux`?
   - Allows files to be copied to, from, or between different hosts.
   - Also known as "secure copy".
+  - `scp ac@starkiller:~/%FILE_NAME% .`
 - How do you remove a file in `Linux`?
   - `rm`
 - How do you remove a directory in `Linux`?

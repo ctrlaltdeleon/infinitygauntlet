@@ -2193,7 +2193,8 @@ Ostriches cannot fly.
 # May 6, 2019
 
 - Cut my own hair.
-- Edited photos.
+- Photography!
+  - Edited photos.
 
 # May 5, 2019
 
@@ -2203,7 +2204,8 @@ Ostriches cannot fly.
 
 - Movie!
   - Star Wars: Solo.
-- Edited photos.
+- Photography!
+  - Edited photos.
 
 # May 3, 2019
 
