@@ -1907,7 +1907,7 @@ render() {
   - Gives characteristics to specific parts of an application.
   - It's a tree.
 
-```txt
+```
       html
     /      \
   head    body

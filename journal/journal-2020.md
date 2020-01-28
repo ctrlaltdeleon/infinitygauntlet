@@ -1,6 +1,122 @@
 # January 27, 2020
 
-- ...
+- What does `mutt` do in `Linux`?
+  - A command line based email client.
+- What kind of file structures are there?
+  - By features or routes.
+  - By file type.
+  - Rule of thumb is that:
+    - Avoid too much nesting.
+    - Don't overthink it.
+    - Filenames should be lowercase due to compatibility issues.
+
+```
+// By features or routes.
+common/
+  Avatar.js;
+  Avatar.css;
+  APIUtils.js;
+  APIUtils.test.js;
+feed/
+  index.js;
+  Feed.js;
+  Feed.css;
+  FeedStory.js;
+  FeedStory.test.js;
+  FeedAPI.js;
+  profile / index.js;
+  Profile.js;
+  ProfileHeader.js;
+  ProfileHeader.css;
+  ProfileAPI.js;
+
+// By file type.
+api/
+  APIUtils.js;
+  APIUtils.test.js;
+  ProfileAPI.js;
+  UserAPI.js;
+components/
+  Avatar.js;
+  Avatar.css;
+  Feed.js;
+  Feed.css;
+  FeedStory.js;
+  FeedStory.test.js;
+  Profile.js;
+  ProfileHeader.js;
+  ProfileHeader.css;
+
+// Opinionated.
+node_modules/
+public/
+  favicon.ico
+  index.html
+  manifest.json
+src/
+  components/
+    app/
+      app.css
+      app.js
+    text-box-button/
+      text-box-button.css
+      text-box-button.js
+  images/
+    dog.jpg
+  index.css
+  index.js
+test/
+  app.test.js
+  text-box-button.test.js
+.gitignore
+package.json
+
+// If `test/` could be implemented.
+node_modules/
+public/
+  favicon.ico
+  index.html
+  manifest.json
+src/
+  components/
+    app/
+      app.css
+      app.js
+      app.test.js
+    text-box-button/
+      text-box-button.css
+      text-box-button.js
+      text-box-button.test.js
+  images/
+    dog.jpg
+  index.css
+  index.js
+.gitignore
+package.json
+```
+
+- What is `useRef()` in `React`?
+  - Uses a references to an `HTML` component in a `.js` file.
+
+```js
+function App() {
+  const todoNameRef = useRef();
+
+  function handleAddTodo(e) {
+    const name = todoNameRef.current.value;
+    console.log(name)
+  }
+
+  return(
+    <div>
+      <input ref = {todoNameRef} type "text" />
+    </div>
+  )
+}
+```
+
+- Gym!
+  - Volleyball.
 
 # January 26, 2020
 
