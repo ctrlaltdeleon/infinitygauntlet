@@ -1,3 +1,176 @@
+# January 30, 2020
+
+- UI/UX meeting.
+  - It's about efficiency and ease of use rather than prettiness.
+
+# January 29, 2020
+
+- Embedding VS. Referencing in database design?
+  - Embedded should be used when:
+    - Child data "belongs" to parent data (1-to-1).
+    - Sub-documents are small in size.
+    - Hierarchical structures.
+  - Referencing should be used when:
+    - Many-to-many relationships.
+    - Sub-documents that continuously increase in size.
+    - Large (16MB) sub-document information.
+  - Cautions with embedding!
+    - With properties that grow, unnecessary data could be sent with each query.
+      - When scrolling on social media, we just want 10 posts at a time, not all the posts.
+    - Many-to-many relationships can get messy.
+  - Cautions with references!
+    - References requires queries for each individual document for each individual document: O(n2)
+    - If only using references, relational database may be better.
+  - How to pick what to utilize?
+    - Depends on how much you use a specific thing.
+    - If it's static and/or used a lot, embedded is best.
+    - If it's dynamic and/or used less, references is best.
+
+```
+// Example 1.
+
+// Embedded.
+{
+  blog: "This is a blog."
+  posts: [
+    {
+      title: "Hello!",
+      content: "Lorum ipsum.",
+      comments: [{/*...*/}]
+    },
+    {
+      title: "Hello!",
+      content: "Lorum ipsum.",
+      comments: [{/*...*/}]
+    },
+  ]
+}
+
+// Referenced.
+{
+  blog: "This is a blog."
+  posts: [ "someid1", "someid2" ]
+}
+
+posts: [
+  {
+    id: "someid1"
+    title: "Hello!",
+    content: "Lorum ipsum.",
+    comments: [{/*...*/}]
+  },
+  {
+    id: "someid2"
+    title: "Hello!",
+    content: "Lorum ipsum.",
+    comments: [{/*...*/}]
+  },
+]
+
+// Example 2.
+
+// Embedded.
+// We don't always need to call the `orderHistory`.
+{
+  username: "ac",
+  address: {
+    line1: "123 Main St.",
+    line2: null,
+    city: "Corona",
+    state: "CO",
+    zip: 12345
+  }
+  cart: {
+    items: [ { id: "someid" , id: "someid", etc. }]
+    status: "Active"
+  },
+  orderHistory: [
+    {
+      items: [ { id: "someid" , id: "someid", etc. }],
+      status: "Paid"
+    },
+    {
+      items: [ { id: "someid" , id: "someid", etc. }],
+      status: "Paid"
+    },
+  ]
+}
+
+// Referenced.
+// Best to have the `cart` right there instead of searching by ID to see what's inside.
+{
+  username: "ac",
+  address: {
+    line1: "123 Main St.",
+    line2: null,
+    city: "Corona",
+    state: "CO",
+    zip: 12345
+  }
+  cart: { id: "someid" },
+  orderHistory: [
+    { id: "someid" },
+    { id: "someid" },
+    { etc. }
+  ]
+}
+
+// Both!
+// Best of both worlds.
+{
+  username: "ac",
+  address: {
+    line1: "123 Main St.",
+    line2: null,
+    city: "Corona",
+    state: "CO",
+    zip: 12345
+  }
+  cart: {
+    items: [ { id: "someid" , id: "someid", etc. }]
+    status: "Active"
+  },
+  orderHistory: [
+    { id: "someid" },
+    { id: "someid" },
+    { etc. }
+  ]
+}
+```
+
+- What does `stat` do in `Linux`?
+  - Prints information about given files, notably time stamps.
+- Gym!
+  - Volleyball.
+
+# January 28, 2020
+
+- What's the difference between `state` and `props` in `React`?
+  - `state` is managed within the component.
+  - `props` is passed to the component.
+- A bunch of components in `React` together create a?
+  - Template, container.
+- How do you perform a right-click in `Spectron`?
+  - Must install `spectron-keys` library first.
+
+```
+const spectronKeys = require("spectron-keys");
+
+it("Right click on item", async () => {
+  await app.client
+    .click("the button with the text")
+    .pause(1000)
+    .keys(spectronKeys.mapAccelerator("Shift+F10"))
+    .pause(1000)
+    .click("the button with the text, but it right clicks")
+    .pause(3000)
+    .keys(spectronKeys.mapAccelerator("Shift"));
+});
+```
+
+- Gym!
+  - Back and biceps.
+
 # January 27, 2020
 
 - What does `mutt` do in `Linux`?

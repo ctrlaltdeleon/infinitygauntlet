@@ -9,3 +9,4 @@
 - Reusable animation component using React Hooks: https://www.freecodecamp.org/news/animating-visibility-with-css-an-example-of-react-hooks/
 - JavaScript charts: https://www.chartjs.org/
 - Standard JavaScript: https://github.com/standard/standard
+- Stacks game: https://codesandbox.io/embed/quizzical-lederberg-gdiwy?fontsize=14&hidenavigation=1&theme=dark&codemirror=1
