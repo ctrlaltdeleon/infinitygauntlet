@@ -1,3 +1,25 @@
+# February 3, 2020
+
+- ?
+
+# February 2, 2020
+
+- Superbowl!
+  - Kansas City Chiefs won against the San Francisco 49ers.
+
+# February 1, 2020
+
+- Gym!
+  - Volleyball.
+- Cleaned the car.
+
+# January 31, 2020
+
+- Commissioned artist for her time and received the product.
+- Gym!
+  - Leg and shoulders.
+  - Volleyball.
+
 # January 30, 2020
 
 - UI/UX meeting.

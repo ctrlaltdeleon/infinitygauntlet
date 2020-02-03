@@ -59,6 +59,10 @@
 
 # JOURNAL
 
+- January 2020.
+  - Car tires and brakes fixed.
+  - Broke down.
+  - Sold.
 - December 2019.
   - Not using car anymore.
 - October 2019.
