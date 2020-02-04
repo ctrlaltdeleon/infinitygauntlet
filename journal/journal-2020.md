@@ -1,6 +1,15 @@
+# February 4, 2020
+
+- What is `Webpack`?
+  - An open-source JavaScript module bundler that takes modules with dependencies and generates static assets representing those modules.
+  - If you have 5 `.css` files, `Webpack` transforms them into 1 `.css` to alleviate call noise.
+- Gym!
+  - Back and biceps.
+
 # February 3, 2020
 
-- ?
+- Gym!
+  - Volleyball.
 
 # February 2, 2020
 

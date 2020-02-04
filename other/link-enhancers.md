@@ -10,3 +10,5 @@
 - JavaScript charts: https://www.chartjs.org/
 - Standard JavaScript: https://github.com/standard/standard
 - Stacks game: https://codesandbox.io/embed/quizzical-lederberg-gdiwy?fontsize=14&hidenavigation=1&theme=dark&codemirror=1
+- Open Weather API: https://github.com/juliajcodes/react-weather-api
+- Compress and optimize images: https://compressor.io/
