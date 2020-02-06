@@ -1,8 +1,20 @@
+# February 5, 2020
+
+- Make sure to build the application before testing.
+- What is the difference between `HTTP` and `WebSockets`?
+  - `HTTP` is a single call between server and client, like a call to an API.
+  - `WebSockets` is a call that's kept alive between server and client.
+- Gym!
+  - Volleyball.
+
 # February 4, 2020
 
 - What is `Webpack`?
   - An open-source JavaScript module bundler that takes modules with dependencies and generates static assets representing those modules.
   - If you have 5 `.css` files, `Webpack` transforms them into 1 `.css` to alleviate call noise.
+- How to check if a package is installed globally?
+  - `npm list -g`
+  - `npm list -g %PACKAGE_NAME%`
 - Gym!
   - Back and biceps.
 

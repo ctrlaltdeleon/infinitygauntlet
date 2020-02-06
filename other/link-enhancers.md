@@ -12,3 +12,5 @@
 - Stacks game: https://codesandbox.io/embed/quizzical-lederberg-gdiwy?fontsize=14&hidenavigation=1&theme=dark&codemirror=1
 - Open Weather API: https://github.com/juliajcodes/react-weather-api
 - Compress and optimize images: https://compressor.io/
+- Kubernetes and Docker introduction: https://www.youtube.com/watch?v=u8dW8DrcSmo
+- Functional Programming with JavaScript: https://www.youtube.com/watch?v=e-5obm1G_FY
