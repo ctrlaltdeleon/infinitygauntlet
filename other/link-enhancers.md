@@ -14,3 +14,4 @@
 - Compress and optimize images: https://compressor.io/
 - Kubernetes and Docker introduction: https://www.youtube.com/watch?v=u8dW8DrcSmo
 - Functional Programming with JavaScript: https://www.youtube.com/watch?v=e-5obm1G_FY
+- Native maker: https://github.com/jiahaog/nativefier

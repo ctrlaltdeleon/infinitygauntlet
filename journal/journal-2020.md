@@ -1,3 +1,7 @@
+# February 6, 2020
+
+- STEM Research Fair!
+
 # February 5, 2020
 
 - Make sure to build the application before testing.
