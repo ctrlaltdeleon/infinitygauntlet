@@ -1,3 +1,29 @@
+# February 11, 2020
+
+- ?
+
+# February 10, 2020
+
+- Gym!
+  - Volleyball.
+
+# February 9, 2020
+
+- Met with a creative friend.
+
+# February 8, 2020
+
+- Gym!
+  - Volleyball.
+- Relaxed.
+
+# February 7, 2020
+
+- Office was pretty empty.
+- Gym!
+  - Leg and shoulders.
+  - Volleyball.
+
 # February 6, 2020
 
 - STEM Research Fair!
