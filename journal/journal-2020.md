@@ -4,6 +4,9 @@
 
 # February 10, 2020
 
+- Why involve the development team in UX research?
+  - The whole team can witness the users use a product.
+  - Realize they themselves aren't users, but the users are the users.
 - Gym!
   - Volleyball.
 
