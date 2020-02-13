@@ -1,6 +1,22 @@
-# February 11, 2020
+# February 14, 2020
 
 - ?
+
+# February 13, 2020
+
+- ?
+
+# February 12, 2020
+
+- Gym!
+  - Chest and triceps.
+  - Volleyball.
+
+# February 11, 2020
+
+- Presented my front-end development research with flying colors.
+- Gym!
+  - Back and biceps.
 
 # February 10, 2020
 
