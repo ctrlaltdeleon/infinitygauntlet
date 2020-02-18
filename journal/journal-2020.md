@@ -1,10 +1,36 @@
+# February 19, 2020
+
+- ?
+
+# February 18, 2020
+
+- Big day today at work.
+
+# February 17, 2020
+
+- Ate out at Buca Di Beppo with my friends!
+- Stardew Valley intimacy.
+
+# February 16, 2020
+
+- Photography!
+  - Shot for Super Potion at San Diego City College.
+
+# February 15, 2020
+
+- Met with my friend who went to China.
+- Met with my tall friend who plays basketball.
+- Gym!
+  - Legs and shoulders.
+  - Volleyball.
+
 # February 14, 2020
 
 - ?
 
 # February 13, 2020
 
-- ?
+- Long day of meetings.
 
 # February 12, 2020
 
