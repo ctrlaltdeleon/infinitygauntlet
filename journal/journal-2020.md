@@ -1,10 +1,36 @@
+# February 20, 2020
+
+- What is `Maven`?
+  - A software project management and comprehension tool.
+  - Similar to `npm`.
+- What is `IntelliJ IDEA`?
+  - An integrated development environment written in Java.
+  - Similar to `Visual Studio Code`.
+
 # February 19, 2020
 
-- ?
+- How to find out who are the super users on a system?
+  - `grep '^sudo:.*$' /etc/group | cut -d: -f4`
+- How to check privileges of a user?
+  - `sudo -l -U %USERNAME%`
+- How to unmodify a file that's modified in `Git`?
+  - `git checkout -- %FILE_NAME%`
+- How to select files in another branch that you want in your branch?
+  - Be in your branch where you want the changes.
+  - `git checkout --patch %OTHER_BRANCH% %FILE_NAME%`
+  - Remove `--patch` if the files you want are new to your branch.
+- Learning `vim`. Yikes.
+- Gym!
+  - Chest and triceps.
+  - Volleyball.
 
 # February 18, 2020
 
 - Big day today at work.
+- Learning about Docker.
+  - Install an OS essentially in a container with the needed packages within `dockerfile`.
+- Gym!
+  - Back and biceps.
 
 # February 17, 2020
 
@@ -463,7 +489,7 @@ u=rwx,g=rwx,o=
   - `cp %I_WANT_TO_COPY_YOU_FILES% %DESTINATION_AREA%`
   - `cp README.md ~/`
 - What is `Gitlab`?
-  - A web-based DevOps life cycle tool that provides a Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features, using an open source license.
+  - A web-based DevOps life cycle tool that provides a `Git`-repository manager providing wiki, issue-tracking and CI/CD pipeline features, using an open source license.
 - What is `Portainer`?
   - A lightweight management UI which allows easy to manage software containers.
 - What is `GanttLab Live`?
