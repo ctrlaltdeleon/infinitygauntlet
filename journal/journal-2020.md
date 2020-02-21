@@ -1,3 +1,9 @@
+# February 21, 2020
+
+- Need to get familiar with `MongoDB` and connecting to the back-end in general.
+- Gym!
+  - Legs and shoulders.
+
 # February 20, 2020
 
 - What is `Maven`?
