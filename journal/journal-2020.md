@@ -1,3 +1,29 @@
+# February 25, 2020
+
+- What are some `MongoDB` commands?
+  - Make sure the to start the `MongoDB` service before activating `MongoDB` command line.
+    - `sudo service mongodb start`, `mongo`
+  - Shows databases that are present in `MongoDB`.
+    - `show dbs`
+  - To create a new database or switch database.
+    - `use %DATABASE_NAME%`
+  - To check what database you're in.
+    - `db`
+  - To add a collection to the database you're in.
+    - `db.%COLLECTION_NAME%.insert({"name" : "AC"})`
+  - To show all collections in all databases.
+    - `show collections`
+  - To show all the documents in the collection.
+    - `db.%COLLECTION_NAME%.find()`
+  - To show a specific document in a collection, specify a key value pair.
+    - `db.%COLLECTION_NAME%.find({%KEY%: "%VALUE%"})`
+  - To show a document in a collection in a pretty style.
+    - `db.%COLLECTION_NAME%.find({%KEY%: "%VALUE%"}).pretty()`
+- How do you `scp` a file with spaces within?
+  - `scp ac@localmachine:~/'Front-End\ Initial\ Software\ Design\ Diagram.odg' ~/`
+- Gym!
+  - Back and biceps.
+
 # February 24, 2020
 
 - Learned about candles.
@@ -5,6 +31,15 @@
   - Red means the overall stock decreased in price from open to close.
   - The wicks represent highest and lowest price from open to close.
   - Doji candles mean that the stock is static though may have had changes, open to close is still the same.
+- What are the database concepts from tabular (relational) databases to `MongoDB` (respectively)?
+  - Database is a Database.
+  - Table is a Collection.
+  - Row is a Document.
+  - Index is an Index.
+  - Join is a \$lookup.
+  - Foreign Key is a Reference.
+- What is `BSON`?
+  - A binary format for `JSON` files.
 - Gym!
   - Volleyball.
 
