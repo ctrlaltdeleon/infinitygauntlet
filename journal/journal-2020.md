@@ -1,3 +1,22 @@
+# February 24, 2020
+
+- Learned about candles.
+  - Green means that the overall stock increased in price from open to close.
+  - Red means the overall stock decreased in price from open to close.
+  - The wicks represent highest and lowest price from open to close.
+  - Doji candles mean that the stock is static though may have had changes, open to close is still the same.
+- Gym!
+  - Volleyball.
+
+# February 23, 2020
+
+- Relaxed.
+
+# February 22, 2020
+
+- Went to SDSU VSA Film Festival.
+- Supported my friends.
+
 # February 21, 2020
 
 - Need to get familiar with `MongoDB` and connecting to the back-end in general.
