@@ -1,3 +1,110 @@
+# February 27, 2020
+
+- Developing database designs before creating the database itself is incredibly helpful.
+
+# February 26, 2020
+
+- What is destructing? (Examples in `ReactJS`)
+
+```js
+// Imagine you have a person object with the following properties.
+const person = {
+  firstName: "Lindsay",
+  lastName: "Criswell",
+  city: "NYC",
+};
+
+// To obtain each property individually.
+console.log(person.firstName);
+console.log(person.lastName);
+console.log(person.city);
+
+// Destructuring lets us streamline this code.
+const { firstName, lastName, city } = person;
+
+// Which is equivalent to.
+const firstName = person.firstName;
+const lastName = person.lastName;
+const city = person.city;
+
+// So now we can access the properties without the `person` prefix.
+console.log(firstName); // Lindsay
+console.log(lastName); // Criswell
+console.log(city); // NYC
+
+// First level with props.
+const Attraction = props => {
+  return (
+    <div auth={props.auth} key={props.attraction.id}>
+      <Link
+        auth={props.auth.token}
+        to={`/attractions/${props.attraction.url_name}`}
+        key={props.attraction.id}
+      >
+        <img alt={props.attraction.name} src={props.attraction.image_url} />
+        <h1>{props.attraction.name}</h1>
+      </Link>
+      <StarRatings rating={props.attraction.average_rating} />
+    </div>
+  );
+};
+
+// Second level without props.
+const Attraction = ({ auth, attraction }) => {
+  return (
+    <div auth={auth} key={attraction.id}>
+      <Link
+        token={auth.token}
+        to={`/attractions/${attraction.url_name}`}
+        key={attraction.id}
+      >
+        <img alt={attraction.name} src={attraction.image_url} />
+        <h1>{attraction.name}</h1>
+      </Link>
+      <StarRatings rating={attraction.average_rating} />
+    </div>
+  );
+};
+
+// Third level destructuring the destruction.
+const Attraction = ({
+  // `auth` and `auth: { token }` gives access to both the whole `auth` object and its `token`.
+  // So if you need to pass down more than just the `token`, this is what is needed.
+  auth,
+  auth: { token },
+  attraction: { id, url_name, name, image_url, average_rating },
+}) => {
+  return (
+    <div auth={auth} key={id}>
+      <Link token={token} to={`/attractions/${url_name}`} key={id}>
+        <img alt={name} src={image_url} />
+        <h1>{name}</h1>
+      </Link>
+      <StarRatings rating={average_rating} />
+    </div>
+  );
+};
+```
+
+- What does `map`, `filter`, and `reduce` do?
+
+```js
+// Maps an action to the data and returns the results.
+map([🌽, 🐮, 🐔], cook) => [🍿, 🍔, 🍳]
+
+// Filters the data with a condition.
+filter([🍿, 🍔, 🍳], isVegetarian) => [🍿, 🍳]
+
+// Reduces the data to an accumulated result.
+reduce([🍿, 🍳], eat) => 💩
+```
+
+- What is the difference between `React Hooks` and `React Context API`?
+  - `React Hooks` allows you to use local state inside of function components.
+  - `React Context API` allows you to share state with other components.
+- How to `git pull` multiple repositories at once? (Still need fixing of checkout branch)
+  - `find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {} pull \;`
+
 # February 25, 2020
 
 - What are some `MongoDB` commands?
