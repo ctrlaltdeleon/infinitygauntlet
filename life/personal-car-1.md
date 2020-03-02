@@ -59,20 +59,20 @@
 
 # JOURNAL
 
-- January 2020.
-  - Car tires and brakes fixed.
-  - Broke down.
-  - Sold.
-- December 2019.
-  - Not using car anymore.
-- October 2019.
-  - Changed oil.
-- April 2019.
-  - Changed oil.
-  - Replaced catalytic converter.
 - Pre-2019.
   - Respective oil changes and tire rotations.
   - Replaced alternator.
   - Replaced mass air controller.
   - Replaced starter.
   - Replaced links to the battery.
+- April 2019.
+  - Changed oil.
+  - Replaced catalytic converter.
+- October 2019.
+  - Changed oil.
+- December 2019.
+  - Not using car anymore.
+- January 2020.
+  - Car tires and brakes fixed.
+  - Broke down.
+  - Sold @ 160000 miles.

@@ -1,3 +1,28 @@
+# March 3, 2020
+
+- ?
+
+# March 2, 2020
+
+- Robinhood sadly down for black monday.
+
+# March 1, 2020
+
+- Relaxed.
+- Organized budget sheet thoroughly and updated it.
+
+# February 29, 2020
+
+- It's a leap year!
+- Made some more keys for brother's house.
+- Car!
+  - Oil change.
+
+# February 28, 2020
+
+- Dentist!
+  - Fixed my cavities and teeth cleaning.
+
 # February 27, 2020
 
 - Developing database designs before creating the database itself is incredibly helpful.
