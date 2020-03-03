@@ -67,9 +67,11 @@
   - Replaced links to the battery.
 - April 2019.
   - Changed oil.
+    - Castrol 10W-30 high mileage synthetic oil, FRAM XG7317 oil filter.
   - Replaced catalytic converter.
 - October 2019.
   - Changed oil.
+    - Castrol 10W-30 high mileage synthetic oil, FRAM XG7317 oil filter.
 - December 2019.
   - Not using car anymore.
 - January 2020.

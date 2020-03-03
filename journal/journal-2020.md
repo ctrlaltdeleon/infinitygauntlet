@@ -1,10 +1,18 @@
 # March 3, 2020
 
-- ?
+- Connecting backend to frontend is difficult.
 
 # March 2, 2020
 
 - Robinhood sadly down for black monday.
+- How do you rename files in `Linux` using the terminal?
+  - `mv %OLD_FILE_NAME% %NEW_FILE_NAME%`
+- Difference between Sockets and WebSockets?
+  - WebSockets run from browsers connecting to application server over a protocol similar to HTTP that runs over TCP/IP.
+    - Primarily for web apps that require a permanent connection to its server.
+  - Sockets run over TCP/IP, but they are not restricted to browsers or HTTP protocol.
+    - Could be used to implement any kind of communication.
+
 
 # March 1, 2020
 
@@ -16,7 +24,7 @@
 - It's a leap year!
 - Made some more keys for brother's house.
 - Car!
-  - Oil change.
+  - Changed oil.
 
 # February 28, 2020
 

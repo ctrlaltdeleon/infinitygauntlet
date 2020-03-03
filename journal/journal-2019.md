@@ -814,9 +814,7 @@ document.getElementById("demo").addEventListener("click", myFunction);
 ```
 
 - How can you detect the client's browser name?
-
   - `navigator.appName`
-
 - D&D!
 
 # September 12, 2019
