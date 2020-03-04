@@ -1,6 +1,8 @@
 # March 3, 2020
 
 - Connecting backend to frontend is difficult.
+- What is `ACK`?
+  - A signal that is passed between communicating computers to signify acknowledgement, or receipt of message.
 
 # March 2, 2020
 
