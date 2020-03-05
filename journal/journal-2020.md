@@ -1,8 +1,37 @@
+# March 4, 2020
+
+- How do you check permissions on files in `Linux`?
+  - `ls -al`
+- What is `Netty`?
+  - A non-blocking I/O client-server framework for the development of Java network applications.
+- What is a `Socket`?
+  - A socket is one end-point of a two-way communication link between two programs running on the network.
+- Non-taxable wages include insurance.
+- TSP SAVINGS + ROTH DED = TSP BASIC + TSP MATCHING.
+- What is a server?
+  - A computer that is on the internet.
+- What is the internet?
+  - A collection of many servers.
+- What is a client?
+  - The software that runs on the user's computer that communicates with the server.
+- What are client-side operations?
+  - Things that can be done on the user's side without much communication.
+  - It's like building up something then sending it to the server in a nice package so it's only 1 call.
+- What are server-side operations?
+  - Things that require heavy amount of resources and space that the server performs.
+  - Also handles security issues.
+    - I can't just look at someone's profile if I'm not friend's with them, so the server places security.
+- What is rendering?
+  - In this context, a combination of data from the server with the client to be displayed.
+- Key thing is to download aesthetics once, data endlessly.
+
 # March 3, 2020
 
 - Connecting backend to frontend is difficult.
 - What is `ACK`?
   - A signal that is passed between communicating computers to signify acknowledgement, or receipt of message.
+- Gym!
+  - Back and biceps.
 
 # March 2, 2020
 
@@ -14,7 +43,8 @@
     - Primarily for web apps that require a permanent connection to its server.
   - Sockets run over TCP/IP, but they are not restricted to browsers or HTTP protocol.
     - Could be used to implement any kind of communication.
-
+  - Gym!
+    - Volleyball.
 
 # March 1, 2020
 
