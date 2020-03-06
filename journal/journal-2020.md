@@ -1,3 +1,58 @@
+# March 6, 2020
+
+- In `React`, what does `useEffect` hook do?
+  - Replaces `componentDidMount` and `ComponentDidUpdate`.
+  - The second argument of `useEffect` will go over an array of values the effect depends on.
+    - Passing an empty array, the `useEffect` will only run on first render.
+- How to stash in the terminal for `Git`?
+  - `git stash` or `git stash push`
+- How do you apply the stash in the terminal for `Git`?
+  - `git stash apply`
+- What if you have multiple stashes, how do you choose which one to apply?
+  - `git stash apply "stash@{n}"` (Quotations may or may not be used depending on the shell.)
+- What is a framework?
+  - A framework (or a library) is pre-written code that makes it easier to build the same kind of thing repeatedly.
+- What is front-end?
+  - Anything that has to do with the UI/UX software development.
+  - Front-end is not always client-side, but client-side is always front-end.
+- What is a front-end framework?
+  - This term causes confusion as most people really mean is client-side rendering framework.
+  - Generally (in the 2020 context, future readers of this journal), a front-end framework is a code library (aka pre-written) to make client-side rendering easier & faster.
+  - Examples include:
+    - React.
+    - Vue.
+    - Angular.
+- What is back-end?
+  - Anything that has to do with nothing of the UI/UX sort.
+- What is a back-end framework?
+  - They're usually "general purpose web frameworks".
+  - Can do back-end and front-end duties.
+  - Examples include:
+    - Rails.
+    - Django.
+    - Laravel.
+    - ExpressJS.
+- Gym!
+  - Legs and shoulders.
+
+# March 5, 2020
+
+- Why do bash script history persist even after shutdown of `Linux` in virtual machine?
+
+```bash
+# Due to the `~/.bashrc` having this...
+
+# Make Bash append rather than overwrite the history on disk:
+shopt -s histappend
+# A new shell gets the history lines from all previous shells
+PROMPT_COMMAND='history -a'
+# Don't put duplicate lines in the history.
+export HISTCONTROL=ignoredups
+```
+
+- Gym!
+  - Volleyball.
+
 # March 4, 2020
 
 - How do you check permissions on files in `Linux`?
@@ -24,6 +79,10 @@
 - What is rendering?
   - In this context, a combination of data from the server with the client to be displayed.
 - Key thing is to download aesthetics once, data endlessly.
+- Gym!
+  - Chest and triceps.
+  - Volleyball.
+    - Vibes felt off today, unsure why.
 
 # March 3, 2020
 

@@ -1131,7 +1131,7 @@ for state, capital in statesAndCapitals.items():
 
 # July 29, 2019
 
-- What is the life cycle of a `React.js` component?
+- What is the life cycle of a `ReactJS` component?
   - Birth/Mount.
   - Growth/Update.
   - Death/Unmount.
@@ -1266,7 +1266,7 @@ T.get("search/tweets", params, function(err, data, response) {
 
 - What does it mean if there's a `super()` within a constructor?
   - `super()` is used to call the constructor, methods and properties of parent class.
-  - In `React.js`, if utilizing a subclass `super()` is always called because ES6 class constructors must call it.
+  - In `ReactJS`, if utilizing a subclass `super()` is always called because ES6 class constructors must call it.
     - To utilize `this` keyword, `super()` is needed to know what to reference, such for the common `this.props`.
 
 # July 14, 2019
@@ -1307,10 +1307,10 @@ T.get("search/tweets", params, function(err, data, response) {
 - Why would I use `npx` over `npm`?
   - Usually for `create-react-app`, instead of constantly updating the package on your computer then executing, you could just execute the latest version on the cloud every time.
   - Saves a few steps.
-- What files are required for a `React.js` project to execute?
+- What files are required for a `ReactJS` project to execute?
   - `public/index.html` for the page template.
   - `src/index.js` for the `JavaScript` entry point.
-- How do you implement a `<script>` within a `React.js` component?
+- How do you implement a `<script>` within a `ReactJS` component?
 
 ```js
 componentDidMount() {
@@ -1685,10 +1685,10 @@ componentDidMount() {
 
 # May 18, 2019
 
-- What's `React.js Hooks`?
-  - If you're familiar with `Redux.js`, it's a state management system for your app.
-  - It's slowly being included in `React.js`, previous being `React.js Context`, but `React.js Hooks` provides a more fulfilling role.
-- `React.js Hooks` replacing `Redux.js` seems to be a hot topic nowadays, it'll depend more on what each has to offer as `React.js Hooks` is new.
+- What's `ReactJS Hooks`?
+  - If you're familiar with `ReduxJS`, it's a state management system for your app.
+  - It's slowly being included in `ReactJS`, previous being `ReactJS Context`, but `ReactJS Hooks` provides a more fulfilling role.
+- `ReactJS Hooks` replacing `ReduxJS` seems to be a hot topic nowadays, it'll depend more on what each has to offer as `ReactJS Hooks` is new.
 
 # May 17, 2019
 
@@ -1702,13 +1702,13 @@ componentDidMount() {
   - A component is too big if it's doing more than 1 job.
 - When do you split a component into several smaller components?
   - A component is split into several smaller components when reusable components are predictable as well as simplifying unit testing.
-- What is `React.js Context`?
+- What is `ReactJS Context`?
   - Provides a way to pass data through the component tree without having to pass `props` down manually at every level.
-- What are some use cases for `React.js Context`?
+- What are some use cases for `ReactJS Context`?
 
 ```jsx
-// Without React.js Context.
-class App extends React.js.Component {
+// Without ReactJS Context.
+class App extends ReactJS.Component {
   render() {
     return <Toolbar theme="dark" />;
   }
@@ -1726,7 +1726,7 @@ function Toolbar(props) {
   );
 }
 
-class ThemedButton extends React.js.Component {
+class ThemedButton extends ReactJS.Component {
   render() {
     return <Button theme={this.props.theme} />;
   }
@@ -1737,9 +1737,9 @@ class ThemedButton extends React.js.Component {
 // Context lets us pass a value deep into the component tree
 // without explicitly threading it through every component.
 // Create a context for the current theme (with "light" as the default).
-const ThemeContext = React.js.createContext("light");
+const ThemeContext = ReactJS.createContext("light");
 
-class App extends React.js.Component {
+class App extends ReactJS.Component {
   render() {
     // Use a Provider to pass the current theme to the tree below.
     // Any component can read it, no matter how deep it is.
@@ -1762,9 +1762,9 @@ function Toolbar(props) {
   );
 }
 
-class ThemedButton extends React.js.Component {
+class ThemedButton extends ReactJS.Component {
   // Assign a contextType to read the current theme context.
-  // React.js will find the closest theme Provider above and use its value.
+  // ReactJS will find the closest theme Provider above and use its value.
   // In this example, the current theme is "dark".
   static contextType = ThemeContext;
   render() {
@@ -1773,16 +1773,16 @@ class ThemedButton extends React.js.Component {
 }
 ```
 
-- `React.js Context` vs `React.js Redux.js`, when should I use each one?
-  - If you're only using `Redux.js` to avoid passing down `props`, context could replace `Redux.js` - but then you probably didn't need `Redux.js` in the first place.
-  - `Context` also doesn't give you anything like the `Redux.js DevTools`, the ability to trace your state updates, middleware to add centralized application logic, and other powerful capabilities that `Redux.js` enables.
-- How to handle errors in `React.js`?
+- `ReactJS Context` vs `ReactJS ReduxJS`, when should I use each one?
+  - If you're only using `ReduxJS` to avoid passing down `props`, context could replace `ReduxJS` - but then you probably didn't need `ReduxJS` in the first place.
+  - `Context` also doesn't give you anything like the `ReduxJS DevTools`, the ability to trace your state updates, middleware to add centralized application logic, and other powerful capabilities that `ReduxJS` enables.
+- How to handle errors in `ReactJS`?
   - Without specification from the developer, that page will turn blank to prevent spilling any info to malicious users.
 
 ```jsx
 // Error handler component.
 
-class ErrorHandler extends React.js.Component {
+class ErrorHandler extends ReactJS.Component {
   constructor(props) {
     super(props);
     this.state = { errorOccurred: false };
@@ -1809,7 +1809,7 @@ class ErrorHandler extends React.js.Component {
 </ErrorHandler>;
 ```
 
-- What is the difference between an action, and an action creator in `Redux.js`?
+- What is the difference between an action, and an action creator in `ReduxJS`?
   - An action is a payload of information we send to the store.
   - An action creator is a function that creates and returns an action.
 
@@ -1832,9 +1832,9 @@ const getUserDetailsRequest = id => ({
 });
 ```
 
-- What is the `Redux.js` store?
+- What is the `ReduxJS` store?
   - The whole state of the app in an immutable object tree.
-- Why use the `Redux.js` store?
+- Why use the `ReduxJS` store?
   - Instead of passing `props` consistently down to all children, the children can just reference the store to reduce complexity.
 - What's a reducer?
   - Specify how the app's state changes in response to actions sent to the store.
@@ -1855,17 +1855,17 @@ describe('<MyComponent />', () => {
 # May 16, 2019
 
 - Remember to fix the `PATH` when using `Visual Studio Code` to reference compilers (especially with `Python`)!
-- What are advantages of `React.js`?
+- What are advantages of `ReactJS`?
   - Increase application performance.
   - Easily integrated with other frameworks.
-- What are disadvantages of `React.js`?
+- What are disadvantages of `ReactJS`?
   - Just a library, not a full framework.
   - Library is large and takes time to understand.
   - Difficult for novice programmers to understand.
   - Code gets complex through inline templating and `JSX`.
 - What is `JSX`?
   - `JavaScript XML`.
-  - A `React.js` extension that allows to write `JavaScript` that looks like `HTML`.
+  - A `ReactJS` extension that allows to write `JavaScript` that looks like `HTML`.
 
 ```jsx
 render() {
@@ -1887,16 +1887,16 @@ render() {
     - Verification. (Identifying the user accessing what.)
     - Transformation. (Augmenting what the user can do.)
     - Processing. (How the data gets transferred securely.)
-- When is it appropriate to use component state vs `Redux.js` store?
-  - If a component just needs to display data and can receive data from a parent, use `Redux.js` store.
+- When is it appropriate to use component state vs `ReduxJS` store?
+  - If a component just needs to display data and can receive data from a parent, use `ReduxJS` store.
   - Otherwise if it needs the state, use component state.
 
 # May 15, 2019
 
-- What is `React.js`?
-  - React.js is a front-end `JavaScript` library developed by Facebook in 2011.
+- What is `ReactJS`?
+  - ReactJS is a front-end `JavaScript` library developed by Facebook in 2011.
   - It follows component based approach which helps in reusable UI components.
-- What are the features of `React.js`?
+- What are the features of `ReactJS`?
   - Virtual DOM.
   - Server-side rendering.
   - Uni-directional data flow.
@@ -2155,7 +2155,7 @@ Ostriches cannot fly.
     - One interface would dictate webpages and getting a theme while the other would dictate the theme.
 - Examples of behavioral design patterns.
   - State!
-    - Think `React.js`.
+    - Think `ReactJS`.
     - If the user is logged in, update the UI to show relevant information to the user.
 
 # May 8, 2019
@@ -2215,7 +2215,7 @@ Ostriches cannot fly.
   - `JavaScript`.
     - Object oriented scripting language.
       - Interpreted (not compiled).
-    - Mainly runs on browser (More applications through `React.js` now).
+    - Mainly runs on browser (More applications through `ReactJS` now).
 - `JavaScript` Data Types?
   - Number.
   - String.
@@ -2349,7 +2349,7 @@ Ostriches cannot fly.
 
 # April 18, 2019
 
-- Went over `React.js` technicalities.
+- Went over `ReactJS` technicalities.
 - Instead of writing `.bind(this)` to every method that exists...
 
 ```js
@@ -2372,7 +2372,7 @@ handleClick = event => {
 };
 ```
 
-- With `Context` and `Hooks` available for `React.js` now, `Redux.js` may be a thing in the past.
+- With `Context` and `Hooks` available for `ReactJS` now, `ReduxJS` may be a thing in the past.
 
 # April 17, 2019
 
@@ -2380,7 +2380,7 @@ handleClick = event => {
 - Messaged the General Assembly group of LA about future hackathons.
   - Feels nice to have a community dev spot for me in LA!
 - Updated creddle.io resume.
-  - Removed the `knucklesbattle` repo with the `acfromspacex` repo to harbor current technologies I'm working with which is mainly `React.js` as well as touching other technologies such as `GraphQL` and `Apollo`.
+  - Removed the `knucklesbattle` repo with the `acfromspacex` repo to harbor current technologies I'm working with which is mainly `ReactJS` as well as touching other technologies such as `GraphQL` and `Apollo`.
   - Updated skills to go from "advanced, proficient, exploring" rather than placed by "programming languages, web technologies, creative software engines, databases".
     - I thought this was necessary to avoid questions on topics I wasn't too familiar about because there were no skill levels to differentiate.
 - Applied to CyberCoders.
