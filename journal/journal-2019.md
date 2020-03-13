@@ -1123,7 +1123,7 @@ for state, capital in statesAndCapitals.items():
 # July 31, 2019
 
 - Movie!
-  - Once Upon a Time in Hollywood!
+  - Once Upon a Time in Hollywood.
 
 # July 30, 2019
 
@@ -1353,7 +1353,7 @@ componentDidMount() {
 # July 2, 2019
 
 - Movie!
-  - Spider-man: Far From Home!
+  - Spider-Man: Far From Home.
 - Caught up with an old friend from Oregon.
 
 # July 1, 2019
@@ -1372,7 +1372,7 @@ componentDidMount() {
 # June 28, 2019
 
 - Movie!
-  - Avengers: Endgame! Round Four. (With extras this time!)
+  - Avengers: Endgame. Round Four. (With extras this time.)
 
 # June 27, 2019
 
@@ -1919,7 +1919,7 @@ render() {
 # May 14, 2019
 
 - Movie!
-  - Avengers: Endgame! Round Three.
+  - Avengers: Endgame. Round Three.
 - Online assessment interview.
   - Did not pass.
 
@@ -2184,7 +2184,7 @@ Ostriches cannot fly.
 # May 7, 2019
 
 - Movie!
-  - Code Geass: Lelouch of the Re;surrection!
+  - Code Geass: Lelouch of the Re;surrection.
 - Gym!
   - Legs and shoulders.
 
@@ -2276,7 +2276,7 @@ Ostriches cannot fly.
 
 - Applied to Viasat.
 - Movie!
-  - Avengers: Endgame! Round Two.
+  - Avengers: Endgame. Round Two.
 - Minecraft!
   - Got updated with the recent patches and gathered a team to build in a snow biome.
 
@@ -2307,7 +2307,7 @@ Ostriches cannot fly.
 # April 25, 2019
 
 - Movie!
-  - Avengers: Endgame!
+  - Avengers: Endgame.
 
 # April 24, 2019
 

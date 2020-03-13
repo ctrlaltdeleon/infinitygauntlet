@@ -1,3 +1,49 @@
+# March 12, 2020
+
+- Last sprint review for the code I'm touring with.
+- How do you print the contents of an object in `Java`?
+  - Go to the class object, right click the class to create an auto-generated `toString()` function.
+
+# March 11, 2020
+
+- How do children access parent libraries in software development?
+  - It shouldn't be the case as a library should be imported in the module that actually uses it.
+  - Explicit is better than implicit.
+- What are the different ways to kill a process?
+  - `Ctrl + Z` pauses a process.
+  - `Ctrl + C` politely asks the process to shut down now.
+  - `Ctrl + /` this process just got CLAPPED. 👏
+- Gym!
+  - Chest and triceps.
+
+# March 10, 2020
+
+- Relaxed.
+
+# March 9, 2020
+
+- After playing with `IntelliJ` I realize I have no idea how `Java` works.
+- How do you check your `Maven` set-up?
+  - `mvn --version`
+- What is the difference between `Float` and `float`?
+  - The object `Float` can be set to null to represent a value that is unknown.
+  - The primitive `float` is guaranteed to have a value.
+- Gym!
+  - Back and biceps.
+
+# March 8, 2020
+
+- Relaxed.
+
+# March 7, 2020
+
+- Happy birthday Japanese child.
+- Movie!
+  - Boku no Hero Academia: Heroes Rising.
+- Gym!
+  - Volleyball.
+  - Remember it's not about you.
+
 # March 6, 2020
 
 - In `React`, what does `useEffect` hook do?
