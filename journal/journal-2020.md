@@ -1,3 +1,64 @@
+# March 16, 2020
+
+- How to make nested attributes within a class?
+
+```java
+// Notice that it's a class within a class.
+
+public class PositionObject {
+  private int id;
+  private Position position;
+
+  public PositionObject (int id, Position position) {
+      this.id = id;
+      this.position = position;
+  }
+
+  class Position {
+    Float lat;
+    Float lon;
+
+    Position (Float lat, Float lon) {
+      this.lat = lat
+      this.lon = lon
+    }
+  }
+}
+
+// & to call the class.
+
+PositionObject positionObject = new PositionObject(1, new Position(2f, 3f));
+```
+
+- What are the state and life cycle changes to `React`?
+  - The need for class components has significantly lowered down since functional can just do the same with less code.
+  - Instead of defining initial state in a constructor, we can use `React Hooks`, specifically `useState`.
+  - Instead of `componentDidMount` and `componentDidUpdate`, `useEffect`, which is part of `ReactHooks`, can manage changes made to the state.
+- How to untrack files already added to `Git` when adding the `.gitignore` afterwards?
+  - Commit all changes, including `.gitignore`.
+  - `git rm -r --cached .`
+  - `git add .`
+  - `git commit -m "[-] .gitignore fix"`
+  - Done!
+
+# March 15, 2020
+
+- Stores were barren of supplies such as:
+  - Shampoo.
+  - Soap.
+  - Toilet paper.
+  - Toothpaste.
+- If you're reading this, stay safe out there.
+
+# March 14, 2020
+
+- Relaxed.
+- Wanted to go out, but COVID-19.
+
+# March 13, 2020
+
+- Hung out with friends at Shabumi, Cafe Hue, and Nishiki.
+
 # March 12, 2020
 
 - Last sprint review for the code I'm touring with.
