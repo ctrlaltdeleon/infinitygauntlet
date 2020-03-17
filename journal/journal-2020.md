@@ -1,3 +1,8 @@
+# March 17, 2020
+
+- Fixed up code, `SonarQube` has stopped yelling at me.
+- The virus is getting worse it feels like.
+
 # March 16, 2020
 
 - How to make nested attributes within a class?
@@ -40,6 +45,7 @@ PositionObject positionObject = new PositionObject(1, new Position(2f, 3f));
   - `git add .`
   - `git commit -m "[-] .gitignore fix"`
   - Done!
+- Try to workout when you can.
 
 # March 15, 2020
 
@@ -335,6 +341,14 @@ reduce([🍿, 🍳], eat) => 💩
   - `React Context API` allows you to share state with other components.
 - How to `git pull` multiple repositories at once? (Still need fixing of checkout branch)
   - `find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {} pull \;`
+  - Made a shortcut called `git-pull-all` by doing so:
+
+```bash
+# Go to home directory, show hidden files, and go into `.bashrc`.
+
+# ` git-pull-all`
+alias git-pull-all="find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {} pull \;"
+```
 
 # February 25, 2020
 
