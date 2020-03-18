@@ -1,3 +1,8 @@
+# March 18, 2020
+
+- Getting ready for telework soon.
+- PDFs are so hard to work with.
+
 # March 17, 2020
 
 - Fixed up code, `SonarQube` has stopped yelling at me.
@@ -46,6 +51,8 @@ PositionObject positionObject = new PositionObject(1, new Position(2f, 3f));
   - `git commit -m "[-] .gitignore fix"`
   - Done!
 - Try to workout when you can.
+- Gym!
+  - Freedom.
 
 # March 15, 2020
 
