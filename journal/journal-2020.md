@@ -1,3 +1,9 @@
+# March 19, 2020
+
+- Got approved for telework!
+- `Docx`, a library that translates within `JavaScript` to a `.docx` file, is painfully hard to work with due to the differences of time between technologies.
+  - For example having `React` create a 2007 Microsoft Word file? Geez.
+
 # March 18, 2020
 
 - Getting ready for telework soon.
