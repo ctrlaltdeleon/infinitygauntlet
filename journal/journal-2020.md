@@ -1,3 +1,19 @@
+# March 25, 2020
+
+# March 24, 2020
+
+# March 23, 2020
+
+# March 22, 2020
+
+# March 21, 2020
+
+-
+
+# March 20, 2020
+
+- Emergency meeting, telework mandatory unless stated otherwise.
+
 # March 19, 2020
 
 - Got approved for telework!
