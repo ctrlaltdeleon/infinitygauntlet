@@ -1,14 +1,27 @@
 # March 25, 2020
 
+- With my new tour and going over `SonarQube` and running it locally.
+
 # March 24, 2020
+
+- Trying to get my development environment up.
+  - Confusing, wish I had physical help to get jump started.
+- Gym!
+  - Freedom.
 
 # March 23, 2020
 
+- Lots of email and loose ends to finish up before going to my next tour.
+
 # March 22, 2020
+
+- Relaxed.
+- Gym!
+  - Freedom!
 
 # March 21, 2020
 
--
+- Relaxed.
 
 # March 20, 2020
 
