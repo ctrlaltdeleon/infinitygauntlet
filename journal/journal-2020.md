@@ -1,3 +1,15 @@
+# March 31, 2020
+
+# March 30, 2020
+
+# March 29, 2020
+
+# March 28, 2020
+
+# March 27, 2020
+
+# March 26, 2020
+
 # March 25, 2020
 
 - With my new tour and going over `SonarQube` and running it locally.
@@ -312,7 +324,7 @@ console.log(lastName); // Criswell
 console.log(city); // NYC
 
 // First level with props.
-const Attraction = props => {
+const Attraction = (props) => {
   return (
     <div auth={props.auth} key={props.attraction.id}>
       <Link

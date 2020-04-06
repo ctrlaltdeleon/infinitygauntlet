@@ -4,6 +4,7 @@
 - GPU
 - RAM
 - PSU
+- Peripherals
 
 ## CPU
 
@@ -28,6 +29,13 @@
 - Went with "gold" efficiency over anything else.
   - Best bang for buck, literally goldilocks zone.
 
+## Peripherals
+
+- Monitor
+- REcommended 16:9
+- Use this to detect dead pixels.
+  - http://lcdtech.info/en/tests/dead.pixel.htm
+
 ## Alternatives
 
 - Dimensions for case: (Depth x Width x Height)
@@ -38,6 +46,13 @@
 - Lian Li Strimer+ Cables
 - Gigabyte X570 I AORUS PRO WIFI Mini ITX AM4 Motherboard
 - Cooler not needed most likely
+
+- Monitors:
+  - Amazon:
+    - ROCKSOUL RSGM-27M3A QHD 144Hz 27 inch Curved Gaming Monitor 2560x1440 2K Widescreen; 1440P Resolution
+      - \$249.99 4/1
+    - Open Box Viotek GN27D 27” 144Hz Gaming Curved Monitor 1440p FPS/RTS VA Panel HD
+      - \$219.99 4/1
 
 ## Notes
 

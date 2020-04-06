@@ -55,6 +55,7 @@
   - [Capitalization](other/capitalization.md)
   - [Computer and VSCode Plugins](other/computer-and-vscode-plugins.md)
   - [ER Diagram](other/er-diagram.md)
+  - [How to build a PC](other/how-to-build-a-pc.md)
   - [How to Google](other/how-to-google.md)
   - [How to Minecraft Mod](other/how-to-minecraft-mod.md)
   - [How to use Bash](other/how-to-use-bash.md)
