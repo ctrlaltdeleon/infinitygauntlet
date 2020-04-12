@@ -15,5 +15,5 @@ def jumping_on_clouds(c):
 
 
 if __name__ == '__main__':
-    c = input("Input thunder (1) vs cumulus (0): ")
+    c = input("Input thunder (1) VS cumulus (0): ")
     print("jumping_on_clouds():", jumping_on_clouds(c))

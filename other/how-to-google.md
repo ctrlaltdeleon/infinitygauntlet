@@ -1,7 +1,7 @@
 # HOW TO GOOGLE
 
 - `""`
-  - `"hot dogs"` vs `hot dogs`
+  - `"hot dogs"` VS `hot dogs`
   - This will show the food instead of rather interesting dogs.
 - `-`
   - `mustang -cars`

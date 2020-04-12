@@ -165,7 +165,7 @@ static void Main()
 23. What is the difference between lambdas and delegates?
     1. Lambdas are statement functions.
     2. Delegates are references to functions.
-24. Could you explain the difference between Func vs. Action vs. Predicate?
+24. Could you explain the difference between Func VS Action VS Predicate?
     1. Predicate asks "does the specified argument satisfy the condition?"
     2. Action performs the action given the arguments.
     3. Func is used extensively in LINQ, to transform the argument.

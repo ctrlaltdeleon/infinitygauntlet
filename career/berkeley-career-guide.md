@@ -382,7 +382,7 @@ Name
   - "How did you overcome "personality" conflicts in order to get results?"
 - Technical:
   - Discipline-specific knowledge.
-  - "When would you use == vs ===?"
+  - "When would you use == VS ===?"
   - "Explain the difference between React and JavaScript?"
   - Coding questions. (Leetcode, Hackerrank)
 - Case:
@@ -501,7 +501,7 @@ Name
 - Basic Salary Negotiation Principles:
   - Research the market salary range for your experience level and for the career role.
   - Think about the location you're going to live as certain places may pay more, but the cost of living is more in return. (Essentially think about relativity in terms of cost)
-  - Public vs. Private!
+  - Public VS Private!
     - Public usually has pre-determined salary while private companies will depend on several factors such as education, technical skills, and experience.
   - Don't prematurely talk about salary, let them speak about it unless you have a clear understanding of the job.
   - If you have to reveal your salary, do a range instead of a set number.

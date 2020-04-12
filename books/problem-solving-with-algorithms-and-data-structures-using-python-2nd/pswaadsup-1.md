@@ -20,7 +20,7 @@
 
 ### 1.5: Why Study Data Structures and Abstract Data Types?
 
-- Abstract data types (ADT) is a logical description of how we view interface vs the implementation.
+- Abstract data types (ADT) is a logical description of how we view interface VS the implementation.
   - I use a car, but I don't know what goes on in the car, all I care for is that the car works which makes it an abstract data type.
 - Implementation of ADTs are referred to as data structures.
 - Data structures is a way to organize data.
@@ -210,7 +210,7 @@ split       a_string.split(schar)    Splits a string into substrings at schar
 - This is referred to as mutability.
   - Lists are mutable
   - Strings are immutable
-- Examples of mutability among lists vs strings:
+- Examples of mutability among lists VS strings:
 
 ```
 EXAMPLE          YIELDS

@@ -28,7 +28,7 @@ generateEl.addEventListener("click", () => {
     hasUpper,
     hasNumber,
     hasSymbol,
-    length,
+    length
   );
 });
 
@@ -62,7 +62,7 @@ function generatePassword(lower, upper, number, symbol, length) {
   const typesArr = [{ lower }, { upper }, { number }, { symbol }].filter(
     // Filter through each object and check the item's value.
     // Item in this case is the `lower`, `upper`, etc.
-    item => Object.values(item)[0],
+    (item) => Object.values(item)[0]
   );
 
   // If no boxes are checked, make no password.
@@ -78,7 +78,7 @@ function generatePassword(lower, upper, number, symbol, length) {
     //   generatedPassword += randomFunc[funcName]();
     // });
     const funcName = Object.keys(
-      typesArr[Math.floor(Math.random() * typesArr.length)],
+      typesArr[Math.floor(Math.random() * typesArr.length)]
     )[0];
     // Executes given `funcName`.
     generatedPassword += randomFunc[funcName]();

@@ -79,12 +79,12 @@ ReactDOM.render(
 
 // Output
 -----------------------
-| this.props.num = 3  |
-|   ---------------   |
-|   |      2      |   |
-|   |   -------   |   |
-|   |   |  1  |   |   |
-|   |   |     |   |   |
+| this.props.num = 3 |
+| ------------------ |
+|                    | 2       |   |
+|                    | ------- |   |
+|                    |         | 1 |  |  |
+|                    |         |   |  |  |
 
 // Add onClick for each Countdown to change colors
 // Centering the number using flexbox
@@ -136,7 +136,7 @@ ReactDOM.render(
   - How would you handle errors?
 - Testing experience? 
   - Unit tests?
-  - Manual vs automatic tests?
+  - Manual VS automatic tests?
 - Cultural?
   - Bias for action?
 - Give me an example of a calculated risk that you have taken where speed was critical. 

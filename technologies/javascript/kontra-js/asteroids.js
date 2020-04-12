@@ -125,7 +125,7 @@ sprites.push(ship);
 
 let loop = kontra.gameLoop({
   update() {
-    sprites.map(sprite => {
+    sprites.map((sprite) => {
       sprite.update();
       // sprite is beyond the left edge
       if (sprite.x < 0) {
@@ -151,12 +151,12 @@ let loop = kontra.gameLoop({
       // only check for collision against asteroids
       if (sprites[i].type === "asteroid") {
         for (let j = 0; j < sprites.length; j++) {
-          // don't check asteroid vs. asteroid collisions
+          // don't check asteroid VS asteroid collisions
           if (sprites[j].type !== "asteroid") {
             let asteroid = sprites[i];
             let sprite = sprites[j];
 
-            // circle vs. circle collision detection
+            // circle VS circle collision detection
             let dx = asteroid.x - sprite.x;
             let dy = asteroid.y - sprite.y;
 
@@ -170,7 +170,7 @@ let loop = kontra.gameLoop({
                   createAsteroid(
                     asteroid.x,
                     asteroid.y,
-                    asteroid.radius / smallAsteroids,
+                    asteroid.radius / smallAsteroids
                   );
                 }
               }
@@ -180,10 +180,10 @@ let loop = kontra.gameLoop({
         }
       }
     }
-    sprites = sprites.filter(sprite => sprite.isAlive()); // remove sprites that are "dead"
+    sprites = sprites.filter((sprite) => sprite.isAlive()); // remove sprites that are "dead"
   },
   render() {
-    sprites.map(sprite => sprite.render());
+    sprites.map((sprite) => sprite.render());
   },
 });
 

@@ -2,7 +2,7 @@
 
 ## 6: Big O
 
-### Slowest to Fastest (Operations VS. Elements)
+### Slowest to Fastest (Operations VS Elements)
 
 - `O(n!)`
 - `O(2^n)`
@@ -126,7 +126,7 @@ def fib(n):
 ```
 
 - Notice the return statement as it creates recursive calls.
-- `O(2^N)` due to it being a single vs double call that multiplies.
+- `O(2^N)` due to it being a single VS double call that multiplies.
 
 ```py
 def allFib(n):

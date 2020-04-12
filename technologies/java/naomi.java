@@ -67,7 +67,7 @@ class Main {
     }
     // So the fix here was the declarations of the 2-d array and reading user input.
     // There's very strict ruling with "int" VS "Integer" and it gets confusing with Java.
-    // It's because it's a primitive vs a class.
+    // It's because it's a primitive VS a class.
     // Instead of "int[][] list2 = new int[m][p];".
     // We do "Integer[][] list2 = new Integer[m][p];".
     result = Main.max(list2);

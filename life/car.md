@@ -12,6 +12,13 @@ Check registration fees online and can pay online or through DMV.
 
 Check car insurance and keep user information with you when driving.
 
+There's 4 types of coverages.
+
+1. Liability
+2. Medical Payments
+3. Uninsured Motorists
+4. Physical Damage Coverage
+
 ### Smog Check (California)
 
 Required by law to make sure vehicles are eco-friendly.

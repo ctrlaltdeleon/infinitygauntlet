@@ -29,21 +29,21 @@
       // "..." is a spread.
       // With the data, push it onto the cities [] and pass in the data.
       fetch(endpoint)
-        .then(blob => blob.json())
-        .then(data => cities.push(...data));
+        .then((blob) => blob.json())
+        .then((data) => cities.push(...data));
 
       function findMatches(wordToMatch, cities) {
-        return cities.filter(place => {
+        return cities.filter((place) => {
           // Figure out if the city or state matches what was searched.
           // `RegExp(variable_here, condition_here)`
           // g = global
-          // i = insensitive (lowercase vs uppercase, doesn't matter)
+          // i = insensitive (lowercase VS uppercase, doesn't matter)
           const regex = new RegExp(wordToMatch, "gi");
           return place.city.match(regex) || place.state.match(regex);
         });
       }
 
-      const numberWithCommas = numberToBeCommafied => {
+      const numberWithCommas = (numberToBeCommafied) => {
         // Split the number with the decimal.
         var parts = numberToBeCommafied.toString().split(".");
         // Take only the first part before the decimal.
@@ -57,7 +57,7 @@
       function displayMatches() {
         const matchArray = findMatches(this.value, cities);
         const html = matchArray
-          .map(place => {
+          .map((place) => {
             // This is for highlighting what is being searched into the results.
             const regex = new RegExp(this.value, "gi");
             // `hl` NOT `h1`, HL = HIGHLIGHT, H1 = HEADER

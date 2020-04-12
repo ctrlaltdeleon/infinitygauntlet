@@ -563,13 +563,13 @@ print(results)
   - An optimal prefix code that is commonly used for lossless data compression.
 - What is paging in terms of computer science?
   - A memory management scheme by which a computer stores and retrieves data from secondary storage (disk) for use in main memory (RAM).
-- When would you use a binary heap VS. binary search tree?
+- When would you use a binary heap VS binary search tree?
   - Binary heap is better at `min`/`max` with a `O(1)` search time, while binary search tree is balanced with a `O(log n)` search time for any node.
   - If you only care about `min`/`max` (e.g. priority-related), go with binary heap.
   - If you want everything sorted, go with binary search tree.
-- What's the difference between a heap VS. binary heap?
+- What's the difference between a heap VS binary heap?
   - They're the same.
-- What's the difference between a binary tree VS. binary search tree?
+- What's the difference between a binary tree VS binary search tree?
   - Binary tree is where a parent node has at max 2 children.
   - Binary search tree is the same as a binary tree, but balanced/sorted, meant for searching in `O(log n)` time.
 - Can you store a dictionary within a dictionary?
@@ -691,7 +691,7 @@ print("\"A word that needs quotation marks\"")
 print(""" "A word that needs quotation marks" """)
 ```
 
-- Recursion vs iteration?
+- Recursion VS iteration?
   - For high-level approaches, recursion is easier to understand than iteration.
   - For low-level approaches, iteration runs smoother (less memory) than recursion.
 - What's a hash table (hash map)?
@@ -699,7 +699,7 @@ print(""" "A word that needs quotation marks" """)
   - `Python` has a similar structure called a dictionary.
 - What's a tree?
   - A data structure that simulates a hierarchy with parent nodes and children nodes that are linked together.
-- Array vs list?
+- Array VS list?
   - Array:
     - Fixed.
     - Hard to insert/shuffle because it takes memory and moving multiple parts.
@@ -1336,7 +1336,7 @@ componentDidMount() {
 # July 5, 2019
 
 - Anime Expo!
-- What is the difference between `join` vs `map`?
+- What is the difference between `join` VS `map`?
   - `join` combines the elements to a string.
   - `map` combines the elements to an array.
 - Photography!
@@ -1493,7 +1493,7 @@ componentDidMount() {
   - `private` is a method accessible within the class.
   - `static` is a method accessible without an instance of the class.
   - `void` is a method without a return value.
-- `.NET` core vs `.NET` framework vs Xamarin?
+- `.NET` core VS `.NET` framework VS Xamarin?
   - Core is for cross-platform (Windows, Mac, Linux), microservices, best performance and scale.
   - Framework is for monolithic applications on Windows.
   - Xamarin is for mobile devices.
@@ -1563,7 +1563,7 @@ componentDidMount() {
 - When naming methods, how should capitalization work?
   - Camel case!
   - First word of a method should be a verb and lowercase.
-  - `getName` vs `Name`.
+  - `getName` VS `Name`.
 - Gym!
   - Legs and shoulders.
 
@@ -1592,7 +1592,7 @@ componentDidMount() {
 
 # May 31, 2019
 
-- What does it mean to be synchronous vs asynchronous?
+- What does it mean to be synchronous VS asynchronous?
   - Synchronous means to execute one at a time.
   - Asynchronous means to execute all at once.
 - Are promises synchronous or asynchronous?
@@ -1623,7 +1623,7 @@ componentDidMount() {
 
 # May 28, 2019
 
-- What's the difference between static vs non-static methods?
+- What's the difference between static VS non-static methods?
   - Static methods must be called with the class name `Math.Pow()`.
     - This is kind to processing power and allows a "one and done" mentality.
   - Non-static methods are attached to the object the class it inherits from.
@@ -1773,7 +1773,7 @@ class ThemedButton extends ReactJS.Component {
 }
 ```
 
-- `ReactJS Context` vs `ReactJS ReduxJS`, when should I use each one?
+- `ReactJS Context` VS `ReactJS ReduxJS`, when should I use each one?
   - If you're only using `ReduxJS` to avoid passing down `props`, context could replace `ReduxJS` - but then you probably didn't need `ReduxJS` in the first place.
   - `Context` also doesn't give you anything like the `ReduxJS DevTools`, the ability to trace your state updates, middleware to add centralized application logic, and other powerful capabilities that `ReduxJS` enables.
 - How to handle errors in `ReactJS`?
@@ -1887,7 +1887,7 @@ render() {
     - Verification. (Identifying the user accessing what.)
     - Transformation. (Augmenting what the user can do.)
     - Processing. (How the data gets transferred securely.)
-- When is it appropriate to use component state vs `ReduxJS` store?
+- When is it appropriate to use component state VS `ReduxJS` store?
   - If a component just needs to display data and can receive data from a parent, use `ReduxJS` store.
   - Otherwise if it needs the state, use component state.
 
@@ -1976,10 +1976,10 @@ fetch(apiUrl)
 
 # May 12, 2019
 
-- `<div class="">` vs `<div id="">`?
+- `<div class="">` VS `<div id="">`?
   - `class` is applied to many things (`.someClass`).
   - `id` is specific for 1 area (`#someID`).
-- What is best practice for `<div class="">` vs `<div id="">`?
+- What is best practice for `<div class="">` VS `<div id="">`?
   - Usually want to `id` things such as `header`, `footer`, `sidebar` because there's only 1 `header` as such.
   - For something like `card`, a `class` would be wonderful because there is usually more than 1 `card` on a webpage.
 - What happens if you use both `<div class="">` and `<div id="">`?
@@ -2007,7 +2007,7 @@ fetch(apiUrl)
 
 - What does `HTML` mean?
   - HyperText Markup Language.
-- `HTML5` vs `HTML`?
+- `HTML5` VS `HTML`?
   - `HTML5` offers more such as new tags `<canvas>`. `<video>`, `<audio>`, and more bring much more.
   - `HTML` does not, but still is supported on all browsers as opposed to the updated `HTML5` which doesn't.
 
@@ -2207,7 +2207,7 @@ Ostriches cannot fly.
 
 # May 3, 2019
 
-- Main differences between `Java` vs `JavaScript`.
+- Main differences between `Java` VS `JavaScript`.
   - `Java`.
     - Object oriented programming language.
       - Compiled (non-human readable code) then executed.
@@ -2231,7 +2231,7 @@ Ostriches cannot fly.
 - Difference between a method and function?
   - Methods are functions that are members of a class.
   - All methods are functions, but not all functions are methods.
-- When to use `throw` vs `throw e`?
+- When to use `throw` VS `throw e`?
   - `throw` shows all information.
   - `throw e` resets the stack trace and shows core information.
   - Best practice to use `throw`.

@@ -1,14 +1,102 @@
+# April 12, 2020
+
+- Gym!
+  - Freedom.
+
+# April 11, 2020
+
+- Helped around the house.
+- Thought of some video ideas dealing with city pop.
+- Gym!
+  - Freedom.
+
+# April 10, 2020
+
+- Gym!
+  - Freedom.
+
+# April 9, 2020
+
+- Working with `SonarLint` in `JavaScript`.
+  - MAJOR - S3404: Remove this "!==" check; it will always be true. Did you mean to use "!="?
+    - `"3" != 3` will return false because `JavaScript` will perform type coercion and compare values.
+    - `"3" !== 3` will return true because since they are different types, despite the value, it will never be equal.
+- What is type coercion in `JavaScript`?
+  - When the operands of an operator are different types, one of them will be converted to an "equivalent" value of the other operand's type.
+  - `boolean == integer` will cause the boolean to be converted to an integer.
+  - `false` becomes `0` and `true` becomes `1`.
+- Gym!
+  - Freedom.
+
+# April 8, 2020
+
+- Work.
+- Gym!
+  - Freedom.
+
+# April 7, 2020
+
+- Work.
+- Gym!
+  - Freedom.
+
+# April 6, 2020
+
+- Work.
+- Gym!
+  - Freedom.
+
+# April 5, 2020
+
+- Gym!
+  - Freedom.
+
+# April 4, 2020
+
+- Gym!
+  - Freedom.
+
+# April 3, 2020
+
+- Work.
+- Gym!
+  - Freedom.
+
+# April 2, 2020
+
+- Work.
+- Gym!
+  - Freedom.
+
+# April 1, 2020
+
+- Work.
+- Gym!
+  - Freedom.
+
 # March 31, 2020
+
+- Work.
 
 # March 30, 2020
 
+- Work.
+
 # March 29, 2020
+
+- Relaxed.
 
 # March 28, 2020
 
+- Relaxed.
+
 # March 27, 2020
 
+- Relaxed.
+
 # March 26, 2020
+
+- Work.
 
 # March 25, 2020
 
@@ -615,7 +703,7 @@ alias git-pull-all="find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {
 
 # January 29, 2020
 
-- Embedding VS. Referencing in database design?
+- Embedding VS Referencing in database design?
   - Embedded should be used when:
     - Child data "belongs" to parent data (1-to-1).
     - Sub-documents are small in size.
@@ -1169,7 +1257,7 @@ describe("Application launch", function() {
   - Hardware (Server).
   - Operating System.
   - Containers.
-- What are the differences between VMs VS. containers?
+- What are the differences between VMs VS containers?
   - VMs are not as flexible when utilizing resources on the hardware where containers are flexible and use what it needs, not fixed.
 - Why use `Docker`?
   - Makes it easy to develop and deploy apps inside neat containers.
