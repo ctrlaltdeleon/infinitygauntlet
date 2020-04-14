@@ -62,7 +62,7 @@
 
 - `Asus ROG Strix B450-I Gaming` VS `Gigabyte X570 I AORUS PRO WIFI`.
 
-- The problem with AMD motherboards at the moment is that they don't provide 
+- The problem with AMD motherboards at the moment is that they don't provide
 
 ## 6: Peripherals
 
@@ -114,6 +114,7 @@
 `NZXT 650W SFF Gold PSU`
 
 - The NZXT H1 comes with it's own PSU.
+- Gold is the sweet spot for the 80 plus efficiency program
 
 ## 8: Storage
 
@@ -127,6 +128,7 @@
 `Windows 10 Home`
 
 - Operating system needed.
+- No need for pro since we won't be utilizing all of the features, home is good enough.
 
 ## 10: Notes
 
@@ -135,3 +137,4 @@
   - Ideally wanted something smaller than that.
 - Lian Li Strimer+ Cables were potential.
   - Provides RGB lighting for the cables.
+- Will finish when done!
