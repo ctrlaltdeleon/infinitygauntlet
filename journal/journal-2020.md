@@ -1,3 +1,14 @@
+# April 14, 2020
+
+- Gym!
+  - Freedom.
+
+# April 13, 2020
+
+- Bought a lot of things due to quarantine.
+- Gym!
+  - Freedom.
+
 # April 12, 2020
 
 - Gym!
