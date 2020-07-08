@@ -137,6 +137,40 @@
 
 ## 2.6.2: Keyboard
 
+- Different types for keyboards:
+  - Mechanical.
+    - Less force, but loud.
+  - Membrane.
+    - More force, but quiet.
+- Different types of switches for mechanical keyboards (based on Cherry MX):
+  - Red.
+    - Soft, linear.
+  - Brown.
+    - Soft, tactile.
+  - Blue.
+    - Soft, clicky.
+  - Black.
+    - Medium, linear.
+  - Clear.
+    - Medium, tactile.
+  - Green.
+    - Medium, clicky.
+  - Dark Grey.
+    - Stiff, linear.
+  - Light Grey.
+    - Stiff, tactile.
+  - White.
+    - Stiff, clicky.
+- Different types of layouts for mechanical keyboards:
+  - 60.
+  - 65.
+  - 75.
+  - 100.
+- Different build parts for mechanical keyboards:
+  - Case.
+  - PCB.
+  - Switches.
+  - Keycaps.
 - What to consider?
   - Size.
     - Do you want a small ten keyless keyboard or a regular keyboard?

@@ -1,4 +1,4 @@
-# December 31, 2019
+# December 31 2019
 
 - How to show if a repo is active or not?
   - Through a badge.
@@ -32,7 +32,7 @@
   - `MINOR` when adding functionality in a backwards compatible manner.
   - `PATCH` when making backwards compatible bug fixes.
 
-# December 30, 2019
+# December 30 2019
 
 - In Linux, `lshw` means "list hardware".
 - What are WebSockets?
@@ -82,15 +82,15 @@
   - A static web server with extra software, usually an application server and a database.
   - It's dynamic because the application server updates the hosted files before sending them to the application itself.
 
-# December 29, 2019
+# December 29 2019
 
 - Relaxed.
 
-# December 28, 2019
+# December 28 2019
 
 - Secret Santa.
 
-# December 27, 2019
+# December 27 2019
 
 - FS Secret Santa.
 - Looked over paycheck and noticed deductions:
@@ -102,379 +102,379 @@
   - RETIRE, FERS (Federal Employees Retirement System).
   - TAX, STATE (Based on propositions and bills).
 
-# December 26, 2019
+# December 26 2019
 
 - First day at my tour!
 
-# December 25, 2019
+# December 25 2019
 
 - Happy holidays!
 
-# December 24, 2019
+# December 24 2019
 
 - ?
 
-# December 23, 2019
+# December 23 2019
 
 - Gym.
   - Freedom!
 
-# December 22, 2019
+# December 22 2019
 
 - ?
 
-# December 21, 2019
+# December 21 2019
 
 - Gym.
   - Freedom!
 
-# December 20, 2019
+# December 20 2019
 
 - ?
 
-# December 19, 2019
+# December 19 2019
 
 - Gym.
   - Freedom!
 
-# December 18, 2019
+# December 18 2019
 
 - ?
 
-# December 17, 2019
+# December 17 2019
 
 - ?
 
-# December 16, 2019
+# December 16 2019
 
 - Getting comfortable at my new job!
 - Gym!
   - Legs and shoulders.
 
-# December 15, 2019
+# December 15 2019
 
 - Went to a K-pop pop up store with my friends.
 - Have my friends from different groups get to meet each other.
 
-# December 14, 2019
+# December 14 2019
 
 - Relaxed.
 
-# December 13, 2019
+# December 13 2019
 
 - Work.
 
-# December 12, 2019
+# December 12 2019
 
 - Work.
 - Gym!
   - Chest and triceps.
 
-# December 11, 2019
+# December 11 2019
 
 - Work.
 - Gym!
   - Back and biceps.
 
-# December 10, 2019
+# December 10 2019
 
 - New Employee Orientation!
 
-# December 9, 2019
+# December 9 2019
 
 - First day of work!
 - New Employee Orientation!
 - Gym!
   - Legs and shoulders.
 
-# December 8, 2019
+# December 8 2019
 
 - Big Bear!
 
-# December 7, 2019
+# December 7 2019
 
 - Big Bear!
 
-# December 6, 2019
+# December 6 2019
 
 - Big Bear!
 
-# December 5, 2019
+# December 5 2019
 
 - Gym!
   - Chest and triceps.
 
-# December 4, 2019
+# December 4 2019
 
 - ?
 
-# December 3, 2019
+# December 3 2019
 
 - Gym!
   - Back and biceps.
 
-# December 2, 2019
+# December 2 2019
 
 - ?
 
-# December 1, 2019
+# December 1 2019
 
 - ?
 
-# November 31, 2019
+# November 31 2019
 
 - ?
 
-# November 30, 2019
+# November 30 2019
 
 - ?
 
-# November 29, 2019
+# November 29 2019
 
 - ?
 
-# November 28, 2019
+# November 28 2019
 
 - ?
 
-# November 27, 2019
+# November 27 2019
 
 - ?
 
-# November 26, 2019
+# November 26 2019
 
 - Gym!
   - Freedom.
 
-# November 25, 2019
+# November 25 2019
 
 - ?
 
-# November 24, 2019
+# November 24 2019
 
 - ?
 
-# November 23, 2019
+# November 23 2019
 
 - ?
 
-# November 22, 2019
+# November 22 2019
 
 - Traveling to SF!
 - To ignore all directories in current and any sub-folders do `node_modules/` as opposed to `node_modules` which blocks only the respective folder.
 
-# November 21, 2019
+# November 21 2019
 
 - ?
 
-# November 20, 2019
+# November 20 2019
 
 - ?
 
-# November 19, 2019
+# November 19 2019
 
 - Gym!
   - Legs and shoulders.
 
-# November 18, 2019
+# November 18 2019
 
 - Went to see some friends for game night.
 - Organized my life a bit.
 
-# November 17, 2019
+# November 17 2019
 
 - ?
 
-# November 16, 2019
+# November 16 2019
 
 - Beach day for a friend's birthday!
 
-# November 15, 2019
+# November 15 2019
 
 - Gym!
   - Chest and triceps.
 
-# November 14, 2019
+# November 14 2019
 
 - Gym!
   - Back and biceps.
 
-# November 13, 2019
+# November 13 2019
 
 - ?
 
-# November 12, 2019
+# November 12 2019
 
 - ?
 
-# November 11, 2019
+# November 11 2019
 
 - <3
 
-# November 10, 2019
+# November 10 2019
 
 - ?
 
-# November 9, 2019
+# November 9 2019
 
 - ?
 
-# November 8, 2019
+# November 8 2019
 
 - Gym!
   - Legs and shoulders.
 
-# November 7, 2019
+# November 7 2019
 
 - Gym!
   - Chest and triceps.
 
-# November 6, 2019
+# November 6 2019
 
 - ?
 
-# November 5, 2019
+# November 5 2019
 
 - Gym!
   - Back and biceps.
 
-# November 4, 2019
+# November 4 2019
 
 - Gym!
   - Legs and shoulders.
 
-# November 3, 2019
+# November 3 2019
 
 - ?
 
-# November 2, 2019
+# November 2 2019
 
 - ?
 
-# November 1, 2019
+# November 1 2019
 
 - ?
 
-# October 31, 2019
+# October 31 2019
 
 - Spent time with friends.
 - Happy Halloween!
 - Gym!
   - Freedom.
 
-# October 30, 2019
+# October 30 2019
 
 - Gym!
   - Chest and triceps.
 
-# October 29, 2019
+# October 29 2019
 
 - Gym!
   - Back and biceps.
 
-# October 28, 2019
+# October 28 2019
 
 - Gym!
   - Freedom.
 
-# October 27, 2019
+# October 27 2019
 
 - ?
 
-# October 26, 2019
+# October 26 2019
 
 - ?
 
-# October 25, 2019
+# October 25 2019
 
 - ?
 
-# October 24, 2019
+# October 24 2019
 
 - Gym!
   - Legs and shoulders.
 
-# October 23, 2019
+# October 23 2019
 
 - Relaxed.
 - Ate some Zen Curry and met up with friends through coincidence.
 
-# October 22, 2019
+# October 22 2019
 
 - Gym!
   - Back and biceps.
 
-# October 21, 2019
+# October 21 2019
 
 - Gym!
   - Chest and triceps.
 
-# October 20, 2019
+# October 20 2019
 
 - Wardrobe change.
 
-# October 19, 2019
+# October 19 2019
 
 - Irvine trip!
 
-# October 18, 2019
+# October 18 2019
 
 - Worked with robots today.
 
-# October 17, 2019
+# October 17 2019
 
 - Visited family.
 - Learned that NASA tested with living organisms before humans when heading to space.
 
-# October 16, 2019
+# October 16 2019
 
 - Gym!
   - Back and biceps.
 
-# October 15, 2019
+# October 15 2019
 
 - Gym!
   - Chest and triceps.
 
-# October 14, 2019
+# October 14 2019
 
 - Feeling sick.
 
-# October 13, 2019
+# October 13 2019
 
 - Family gathering for a special occasion.
 
-# October 12, 2019
+# October 12 2019
 
 - Spent the day with the light in the stars.
 
-# October 11, 2019
+# October 11 2019
 
 - SDSU APSA alumni gathering.
 
-# October 10, 2019
+# October 10 2019
 
 - Gym!
   - Legs and shoulders.
 
-# October 9, 2019
+# October 9 2019
 
 - Met with kpop dancers.
 
-# October 8, 2019
+# October 8 2019
 
 - Learned `Arduino` with robot work.
 - Got an offer!
 - Gym!
   - Chest and triceps.
 
-# October 6, 2019
+# October 6 2019
 
 - Robot work orientation.
 - Gym!
   - Back and biceps.
 
-# October 6, 2019
+# October 6 2019
 
 - What is list comprehension?
   - When a certain action shout be done to a whole list, similar to `map`.
@@ -487,27 +487,27 @@ print(results)
 # Output: [1, 2, 3]
 ```
 
-# October 5, 2019
+# October 5 2019
 
 - Gym!
   - Legs and shoulders.
 
-# October 4, 2019
+# October 4 2019
 
 - Interview feedback.
 - Caught up reading manga.
 
-# October 3, 2019
+# October 3 2019
 
 - Movie!
   - Joker.
 
-# October 2, 2019
+# October 2 2019
 
 - Camellia study day with aesthetic person.
 - Gym!
 
-# October 1, 2019
+# October 1 2019
 
 - What are the differences between waterfall, agile, scrum, sprints, and kanban?
   - Waterfall:
@@ -529,22 +529,22 @@ print(results)
 - Gym!
   - Chest and triceps.
 
-# September 30, 2019
+# September 30 2019
 
 - Study.
 
-# September 29, 2019
+# September 29 2019
 
 - Gym!
   - Back and biceps.
 
-# September 28, 2019
+# September 28 2019
 
 - `Python` practice.
 - Photography!
   - Edited photos.
 
-# September 27, 2019
+# September 27 2019
 
 - What are B-Trees?
   - A self-balancing tree data structure that maintains sorted data and allows searches, sequential access, insertions, and deletions in logarithmic time.
@@ -576,7 +576,7 @@ print(results)
   - Yes.
 - Interview.
 
-# September 26, 2019
+# September 26 2019
 
 - How do you take a string as it is (raw) in `Python`?
   - `r"this will 'be' read \n"`
@@ -604,11 +604,11 @@ print("Amount of times function is called:", gcd.counter)
 - Gym!
   - Legs and shoulders.
 
-# September 25, 2019
+# September 25 2019
 
 - Played tennis.
 
-# September 24, 2019
+# September 24 2019
 
 - What is breadth first search (BFS)?
   - Looks at all things that are a certain distance away before increasing that distance.
@@ -621,11 +621,11 @@ print("Amount of times function is called:", gcd.counter)
 - Gym!
   - Chest and triceps.
 
-# September 23, 2019
+# September 23 2019
 
 - Interview.
 
-# September 22, 2019
+# September 22 2019
 
 - What is `Express`?
   - A light-weight web application framework to help organize the web application into an MVC architecture on the server side.
@@ -633,15 +633,15 @@ print("Amount of times function is called:", gcd.counter)
 - Met up with computer science friends to go over a new app.
 - My light in the stars vanished.
 
-# September 21, 2019
+# September 21 2019
 
 - My light in the stars visited.
 
-# September 20, 2019
+# September 20 2019
 
 - Relaxed.
 
-# September 19, 2019
+# September 19 2019
 
 - How to properly call class methods in `Python`?
 
@@ -667,7 +667,7 @@ def reverseThis(text):
 
 - Interview.
 
-# September 18, 2019
+# September 18 2019
 
 - What is a binary search?
   - Also known as a half-interval search.
@@ -712,29 +712,29 @@ print(""" "A word that needs quotation marks" """)
     - Lookup time slow due to going one node at a time.
 - Met up with a friend.
 
-# September 17, 2019
+# September 17 2019
 
 - Interview.
 - Friends at Tea N More.
 
-# September 16, 2019
+# September 16 2019
 
 - Interview.
 - Gym!
   - Chest and triceps.
 
-# September 15, 2019
+# September 15 2019
 
 - Met up with old friends and played "Advance Wars: Dual Strike".
 - Brand Ambassador!
   - Amazon Carnival.
 
-# September 14, 2019
+# September 14 2019
 
 - Relaxed.
 - Met up with the community college friends that I haven't seen in a while.
 
-# September 13, 2019
+# September 13 2019
 
 - How does `continue` work?
   - If met, skips the following leftover code in the block and goes through the iteration again.
@@ -817,7 +817,7 @@ document.getElementById("demo").addEventListener("click", myFunction);
   - `navigator.appName`
 - D&D!
 
-# September 12, 2019
+# September 12 2019
 
 - Interview with Apptio.
 - Got myself situated here in San Diego.
@@ -825,21 +825,21 @@ document.getElementById("demo").addEventListener("click", myFunction);
 - Gym!
   - Back and biceps.
 
-# September 11, 2019
+# September 11 2019
 
 - Came home to San Diego from Seattle.
 
-# September 10, 2019
+# September 10 2019
 
 - I love my friends.
 
-# September 9, 2019
+# September 9 2019
 
 - Spent the day with Mags.
 - Gym!
   - Freedom.
 
-# September 8, 2019
+# September 8 2019
 
 - Differences between `const`, `let`, and `var`?
   - `const` is enclosed to the block it's in w/o re-assignment.
@@ -865,15 +865,15 @@ console.log(this.globalVariable); // 42
 console.log(this.blockScopedVariable); // undefined
 ```
 
-# September 7, 2019
+# September 7 2019
 
 - ?
 
-# September 6, 2019
+# September 6 2019
 
 - ?
 
-# September 5, 2019
+# September 5 2019
 
 - What is a microservice?
   - It focuses on a single business capability.
@@ -889,73 +889,73 @@ console.log(this.blockScopedVariable); // undefined
 - Gym!
   - Freedom workout.
 
-# September 4, 2019
+# September 4 2019
 
 - Relaxed.
 - Gym!
   - Freedom workout.
 
-# September 3, 2019
+# September 3 2019
 
 - Relaxed.
 - Played "Deception" with some friends.
 - Gym!
   - Freedom workout.
 
-# September 2, 2019
+# September 2 2019
 
 - Went to a friend's BBQ.
 
-# September 1, 2019
+# September 1 2019
 
 - PAX.
 
-# August 31, 2019
+# August 31 2019
 
 - PAX.
 
-# August 30, 2019
+# August 30 2019
 
 - PAX.
 
-# August 29, 2019
+# August 29 2019
 
 - Hung out with friends in Lynnwood.
 
-# August 28, 2019
+# August 28 2019
 
 - Hung out with friends in Lynnwood.
 
-# August 27, 2019
+# August 27 2019
 
 - Heading to Seattle for PAX.
   - Thank you to my friends for funding me I love you.
 
-# August 26, 2019
+# August 26 2019
 
 - Photography!
   - Edited photos.
 
-# August 25, 2019
+# August 25 2019
 
 - Gym!
   - Chest and triceps.
 
-# August 24, 2019
+# August 24 2019
 
 - Photography!
   - Shot for my friends at Belmont Park.
 
-# August 23, 2019
+# August 23 2019
 
 - Photography!
   - Shot for a rave group at a event called "Friday Night Lights".
 
-# August 22, 2019
+# August 22 2019
 
 - Friend's had a drinking contest as I watched, one of them did 12 shots, the other 11.
 
-# August 21, 2019
+# August 21 2019
 
 - Finally figured out the interview question, though I feel the complexity of it can be further decreased. (Faster runtime!)
 - Photography!
@@ -963,27 +963,27 @@ console.log(this.blockScopedVariable); // undefined
 - Gym!
   - Back and biceps!
 
-# August 20, 2019
+# August 20 2019
 
 - Grocery shopping, got soba ingredients with a friend.
 
-# August 19, 2019
+# August 19 2019
 
 - Created a new Google script function to count depending on the color.
 
-# August 18, 2019
+# August 18 2019
 
 - Relaxed at home.
 
-# August 17, 2019
+# August 17 2019
 
 - **KCON!**
 
-# August 16, 2019
+# August 16 2019
 
 - Scheduled some interviews.
 
-# August 15, 2019
+# August 15 2019
 
 - Recommended way of formatting strings in `Python`?
 
@@ -1010,28 +1010,28 @@ def timeConversion(s):
 - How to check if a string is formed of alpha and numeric characters in `Python`?
   - `%YOUR_STRING%.isalnum()`
 
-# August 14, 2019
+# August 14 2019
 
 - Worked on `Hackerrank` problems.
 - Gym!
 
   - Tried a friend's workout with him.
 
-# August 13, 2019
+# August 13 2019
 
 - Gym!
   - Ran around Rohr park with a friend.
 
-# August 12, 2019
+# August 12 2019
 
 - Stargazing.
 
-# August 11, 2019
+# August 11 2019
 
 - Presentations at a FS friend's place.
 - Went through some problems on `Leetcode`.
 
-# August 10, 2019
+# August 10 2019
 
 - What different ways are there to iterate over a dictionary in `Python`?
   - Through all keys.
@@ -1063,34 +1063,34 @@ for state, capital in statesAndCapitals.items():
   - Returns the kind of object is, whether it be an integer, string, etc.
 - Friend's Super Smash tournament.
 
-# August 9, 2019
+# August 9 2019
 
 - Hour of `Python`.
 - Gym!
   - Tried a friend's workout with his brother and himself.
 
-# August 8, 2019
+# August 8 2019
 
 - Gym!
   - Legs and shoulders.
 
-# August 7, 2019
+# August 7 2019
 
 - Meeting with a friend to catch up since I haven't seen her in a while.
 - Also meeting with another friend because they're cool.
 
-# August 6, 2019
+# August 6 2019
 
 - Photography!
   - Edited photos.
 - Gym!
   - Chest and triceps.
 
-# August 5, 2019
+# August 5 2019
 
 - Felt down today.
 
-# August 4, 2019
+# August 4 2019
 
 - What is standard deviation (SD)?
   - A measure of how much variation exists in a set of data.
@@ -1104,32 +1104,32 @@ for state, capital in statesAndCapitals.items():
 - Gym!
   - Back and biceps.
 
-# August 3, 2019
+# August 3 2019
 
 - Photography!
   - Shot for a dog party, very cute doggos.
 
-# August 2, 2019
+# August 2 2019
 
 - Finished interview packet.
 - Dungeons & Dragons studying.
 
-# August 1, 2019
+# August 1 2019
 
 - Met up with a Super Potion friend.
 - Gym!
   - Actually just ran around Rohr Park with friends.
 
-# July 31, 2019
+# July 31 2019
 
 - Movie!
   - Once Upon a Time in Hollywood.
 
-# July 30, 2019
+# July 30 2019
 
 - Met up with a friend about a job.
 
-# July 29, 2019
+# July 29 2019
 
 - What is the life cycle of a `ReactJS` component?
   - Birth/Mount.
@@ -1173,23 +1173,23 @@ T.get("search/tweets", params, function(err, data, response) {
   - Any function that is passed as an argument is called a callback function.
 - Facebook interview prep.
 
-# July 28, 2019
+# July 28 2019
 
 - Gym!
   - Chest and triceps.
 
-# July 27, 2019
+# July 27 2019
 
 - Set up in my room sort of.
 - Looking forward to interviews.
 - Game night with Navajo team.
 
-# July 26, 2019
+# July 26 2019
 
 - Moved in with my brother.
 - Bonfire with Navajo team.
 
-# July 25, 2019
+# July 25 2019
 
 - What are scoped packages?
   - A package name tied to a specific author.
@@ -1206,19 +1206,19 @@ T.get("search/tweets", params, function(err, data, response) {
 - Gym!
   - Back and biceps.
 
-# July 24, 2019
+# July 24 2019
 
 - Performed a few `Leetcode` questions.
 - Cleaned out my emails.
 - House warming party for the Olympus team.
 
-# July 23, 2019
+# July 23 2019
 
 - Photography!
   - Shot for a friend who wanted fashion photos.
   - Experimented with smoke bombs as well as city shots.
 
-# July 22, 2019
+# July 22 2019
 
 - What does `HOC` mean?
   - Higher order of components.
@@ -1227,12 +1227,12 @@ T.get("search/tweets", params, function(err, data, response) {
 - Gym!
   - Legs and shoulders.
 
-# July 21, 2019
+# July 21 2019
 
 - SDCC!
   - Blizzard Entertainment.
 
-# July 20, 2019
+# July 20 2019
 
 - SDCC!
   - Blizzard Entertainment.
@@ -1240,66 +1240,66 @@ T.get("search/tweets", params, function(err, data, response) {
 - Gym!
   - Chest and triceps.
 
-# July 19, 2019
+# July 19 2019
 
 - SDCC!
   - Blizzard Entertainment.
 
-# July 18, 2019
+# July 18 2019
 
 - SDCC!
   - Blizzard Entertainment.
 
-# July 17, 2019
+# July 17 2019
 
 - SDCC!
   - Blizzard Entertainment.
 
-# July 16, 2019
+# July 16 2019
 
 - SDCC!
   - Blizzard Entertainment.
 - Gym!
   - Back and biceps.
 
-# July 15, 2019
+# July 15 2019
 
 - What does it mean if there's a `super()` within a constructor?
   - `super()` is used to call the constructor, methods and properties of parent class.
   - In `ReactJS`, if utilizing a subclass `super()` is always called because ES6 class constructors must call it.
     - To utilize `this` keyword, `super()` is needed to know what to reference, such for the common `this.props`.
 
-# July 14, 2019
+# July 14 2019
 
 - Played Minecraft and spent the day with Chemistry friends.
 - Gym!
   - Chest and triceps.
 
-# July 13, 2019
+# July 13 2019
 
 - Went hiking with APSA friends.
 - Applied to several places.
 
-# July 12, 2019
+# July 12 2019
 
 - Went golfing with old friends.
 - Learned a few `bash` scripts.
 
-# July 11, 2019
+# July 11 2019
 
 - I left to live with my friend.
 - Gym!
   - Legs and shoulders.
 
-# July 10, 2019
+# July 10 2019
 
 - I'm homeless now.
 
-# July 9, 2019
+# July 9 2019
 
 - Editing photos.
 
-# July 8, 2019
+# July 8 2019
 
 - What is the difference between `npm` and `npx`?
   - `npm` installs packages.
@@ -1321,19 +1321,19 @@ componentDidMount() {
 }
 ```
 
-# July 7, 2019
+# July 7 2019
 
 - Worked on personal website, updating details and familiarizing myself with `scss`.
 - What does the `<span>` tag do?
   - The `<span>` tag provides a way to add a hook to a part of a text or a part of a document.
 
-# July 6, 2019
+# July 6 2019
 
 - Anime Expo!
 - Photography!
   - Shot 4 clients with cosplay.
 
-# July 5, 2019
+# July 5 2019
 
 - Anime Expo!
 - What is the difference between `join` VS `map`?
@@ -1342,55 +1342,55 @@ componentDidMount() {
 - Photography!
   - Shot 4 clients with cosplay.
 
-# July 4, 2019
+# July 4 2019
 
 - Anime Expo!
 
-# July 3, 2019
+# July 3 2019
 
 - House work.
 
-# July 2, 2019
+# July 2 2019
 
 - Movie!
   - Spider-Man: Far From Home.
 - Caught up with an old friend from Oregon.
 
-# July 1, 2019
+# July 1 2019
 
 - Family gathering.
 
-# June 30, 2019
+# June 30 2019
 
 - Gym!
   - Chest and triceps.
 
-# June 29, 2019
+# June 29 2019
 
 - House work.
 
-# June 28, 2019
+# June 28 2019
 
 - Movie!
   - Avengers: Endgame. Round Four. (With extras this time.)
 
-# June 27, 2019
+# June 27 2019
 
 - Family day.
 
-# June 26, 2019
+# June 26 2019
 
 - Sick. :(
 - `JavaScript30` course.
 - Gym!
   - Back and biceps.
 
-# June 25, 2019
+# June 25 2019
 
 - Sick. :(
 - Toy Story 4!
 
-# June 24, 2019
+# June 24 2019
 
 - Sick. :(
 - Photography!
@@ -1399,59 +1399,59 @@ componentDidMount() {
 - Gym!
   - Legs and shoulders.
 
-# June 23, 2019
+# June 23 2019
 
 - Sick. :(
 
-# June 22, 2019
+# June 22 2019
 
 - Sick. :(
 
-# June 21, 2019
+# June 21 2019
 
 - Phone interview!
   - ?
 
-# June 20, 2019
+# June 20 2019
 
 - Front-End Developer Handbook.
 - Met up with friends.
 - Gym!
   - Chest and triceps.
 
-# June 19, 2019
+# June 19 2019
 
 - Applications.
 - Gym!
   - Back and biceps.
 
-# June 18, 2019
+# June 18 2019
 
 - House work.
 
-# June 17, 2019
+# June 17 2019
 
 - Updated `Hackerrank` challenge due to code review from colleague, made `luck-balance.py` more efficient by subtracting an unneeded variable and utilizing an existing one.
 
-# June 16, 2019
+# June 16 2019
 
 - Happy Father's Day!
 
-# June 15, 2019
+# June 15 2019
 
 - Second Sky Festival!
 
-# June 14, 2019
+# June 14 2019
 
 - Traveling.
 
-# June 13, 2019
+# June 13 2019
 
 - `C#` training.
 - On site interview!
   - ?
 
-# June 12, 2019
+# June 12 2019
 
 - What are lambda expressions?
   - A block of code (an expression or a statement block) that is treated as an object.
@@ -1470,7 +1470,7 @@ componentDidMount() {
 - What are `IEnumerable`, `ICollection`, and `IList`?
   - Interfaces available to use that provide various functionalities.
 
-# June 11, 2019
+# June 11 2019
 
 - `C#` training.
 - ELI5 GraphQL!
@@ -1484,7 +1484,7 @@ componentDidMount() {
     - `double _balance`.
   - Leave the parameters asynchronous with the way they're called from class to class.
 
-# June 10, 2019
+# June 10 2019
 
 - `C#` training.
 - What is the difference between `public`, `protected`, `private`, `static`, and `void`?
@@ -1507,17 +1507,17 @@ componentDidMount() {
 - Gym!
   - Back and biceps.
 
-# June 9, 2019
+# June 9 2019
 
 - Photography!
   - Edited photos.
 
-# June 8, 2019
+# June 8 2019
 
 - Photography!
   - Shot photos for a under the weather friend.
 
-# June 7, 2019
+# June 7 2019
 
 - `C#` training.
 - What is MVC and how does it work?
@@ -1548,7 +1548,7 @@ componentDidMount() {
   - Integrated Development Environment.
   - Text editor on steroids.
 
-# June 6, 2019
+# June 6 2019
 
 - `C#` training.
 - When do you use `namespace`?
@@ -1556,7 +1556,7 @@ componentDidMount() {
 - When do you use `using`?
   - To lessen code by referencing specific keywords such as `namespace`.
 
-# June 5, 2019
+# June 5 2019
 
 - Amazon meetup!
 - `C#` training.
@@ -1567,30 +1567,30 @@ componentDidMount() {
 - Gym!
   - Legs and shoulders.
 
-# June 4, 2019
+# June 4 2019
 
 - `C#` training.
 - Car!
   - Rotated tires myself.
 
-# June 3, 2019
+# June 3 2019
 
 - `C#` training.
 - Gym!
   - Chest and triceps.
 
-# June 2, 2019
+# June 2 2019
 
 - Difference between `while`, `dowhile`, and `for` loops?
   - `while` is when the stopping point is unknown for iterating.
   - `dowhile` at least does `while` loop once despite whether true or false.
   - `for` is when the stopping point is known for iterating.
 
-# June 1, 2019
+# June 1 2019
 
 - `C#` training.
 
-# May 31, 2019
+# May 31 2019
 
 - What does it mean to be synchronous VS asynchronous?
   - Synchronous means to execute one at a time.
@@ -1598,13 +1598,13 @@ componentDidMount() {
 - Are promises synchronous or asynchronous?
   - Promises aren't exactly synchronous or asynchronous, but deal with asynchronous code.
 
-# May 30, 2019
+# May 30 2019
 
 - Reorganizing everything.
 - Gym!
   - Back and biceps.
 
-# May 29, 2019
+# May 29 2019
 
 - Phone interview!
   - Passed!
@@ -1621,7 +1621,7 @@ componentDidMount() {
     - Unlimited (kind of).
 - In `C#`, for a method to be overridden, the base class must have `virtual` to a method so the sub class can `override` the method.
 
-# May 28, 2019
+# May 28 2019
 
 - What's the difference between static VS non-static methods?
   - Static methods must be called with the class name `Math.Pow()`.
@@ -1635,21 +1635,21 @@ componentDidMount() {
   - Structs is a value type used to encapsulate small groups of related variables.
   - Much like classes, but limited to variables and no inheritance.
 
-# May 27, 2019
+# May 27 2019
 
 - `C#` training.
 
-# May 26, 2019
+# May 26 2019
 
 - `C#` training.
 
-# May 25, 2019
+# May 25 2019
 
 - `C#` training.
 - Gym!
   - Freedom.
 
-# May 24, 2019
+# May 24 2019
 
 - What's the difference between `float`, `double`, and `decimal`?
   - `float` is 32 bit (7 digits).
@@ -1660,37 +1660,37 @@ componentDidMount() {
   - `double` for everything else.
   - `decimal` for financial apps.
 
-# May 23, 2019
+# May 23 2019
 
 - `C#` training.
 - Fixed resume due to school email expiring soon.
 
-# May 22, 2019
+# May 22 2019
 
 - Helped build a new computer for a friend!
 
-# May 21, 2019
+# May 21 2019
 
 - SF Game Development Community Meetup!
 
-# May 20, 2019
+# May 20 2019
 
 - Data type is to variable as class is to object!
 - Applied to more places and cleaned out my emails!
 
-# May 19, 2019
+# May 19 2019
 
 - Decided to start applying for careers through the phone, needed to set up phone in order to do so.
 - Disneyland!
 
-# May 18, 2019
+# May 18 2019
 
 - What's `ReactJS Hooks`?
   - If you're familiar with `ReduxJS`, it's a state management system for your app.
   - It's slowly being included in `ReactJS`, previous being `ReactJS Context`, but `ReactJS Hooks` provides a more fulfilling role.
 - `ReactJS Hooks` replacing `ReduxJS` seems to be a hot topic nowadays, it'll depend more on what each has to offer as `ReactJS Hooks` is new.
 
-# May 17, 2019
+# May 17 2019
 
 - When would you use `shouldComponentUpdate`?
   - When something is being updated, but don't want to re-render.
@@ -1852,7 +1852,7 @@ describe('<MyComponent />', () => {
   });
 ```
 
-# May 16, 2019
+# May 16 2019
 
 - Remember to fix the `PATH` when using `Visual Studio Code` to reference compilers (especially with `Python`)!
 - What are advantages of `ReactJS`?
@@ -1891,7 +1891,7 @@ render() {
   - If a component just needs to display data and can receive data from a parent, use `ReduxJS` store.
   - Otherwise if it needs the state, use component state.
 
-# May 15, 2019
+# May 15 2019
 
 - What is `ReactJS`?
   - ReactJS is a front-end `JavaScript` library developed by Facebook in 2011.
@@ -1916,14 +1916,14 @@ render() {
 - Gym!
   - Back and biceps.
 
-# May 14, 2019
+# May 14 2019
 
 - Movie!
   - Avengers: Endgame. Round Three.
 - Online assessment interview.
   - Did not pass.
 
-# May 13, 2019
+# May 13 2019
 
 - What is `jQuery`?
   - A library of `JavaScript` functions that make it easier to do common tasks such as:
@@ -1974,7 +1974,7 @@ fetch(apiUrl)
 - Gym!
   - Freedom workout.
 
-# May 12, 2019
+# May 12 2019
 
 - `<div class="">` VS `<div id="">`?
   - `class` is applied to many things (`.someClass`).
@@ -2003,7 +2003,7 @@ fetch(apiUrl)
 }
 ```
 
-# May 11, 2019
+# May 11 2019
 
 - What does `HTML` mean?
   - HyperText Markup Language.
@@ -2011,7 +2011,7 @@ fetch(apiUrl)
   - `HTML5` offers more such as new tags `<canvas>`. `<video>`, `<audio>`, and more bring much more.
   - `HTML` does not, but still is supported on all browsers as opposed to the updated `HTML5` which doesn't.
 
-# May 10, 2019
+# May 10 2019
 
 - Made a `Python` file which makes several strings and stops running when a specific string is found.
   - Had a lot of fun with this, formatted the output to be digestible.
@@ -2120,7 +2120,7 @@ Ostriches cannot fly.
 - What is a web service?
   - Another name for remote APIs.
 
-# May 9, 2019
+# May 9 2019
 
 - What's object oriented programming?
   - A way to describe what a thing is and what i can do.
@@ -2158,7 +2158,7 @@ Ostriches cannot fly.
     - Think `ReactJS`.
     - If the user is logged in, update the UI to show relevant information to the user.
 
-# May 8, 2019
+# May 8 2019
 
 - Is it possible to break `JavaScript` code into several lines?
   - Yes through utilizing the backslash `\`.
@@ -2181,31 +2181,31 @@ Ostriches cannot fly.
   - They can take any parameters, but can only have 1 expression.
   - `lambda a : a + 10` takes in parameter `a` and adds 10 to it.
 
-# May 7, 2019
+# May 7 2019
 
 - Movie!
   - Code Geass: Lelouch of the Re;surrection.
 - Gym!
   - Legs and shoulders.
 
-# May 6, 2019
+# May 6 2019
 
 - Cut my own hair.
 - Photography!
   - Edited photos.
 
-# May 5, 2019
+# May 5 2019
 
 - Game of Thrones, Season 8, Episode 4!
 
-# May 4, 2019
+# May 4 2019
 
 - Movie!
   - Star Wars: Solo.
 - Photography!
   - Edited photos.
 
-# May 3, 2019
+# May 3 2019
 
 - Main differences between `Java` VS `JavaScript`.
   - `Java`.
@@ -2245,7 +2245,7 @@ Ostriches cannot fly.
 - Gym!
   - Chest and triceps.
 
-# May 2, 2019
+# May 2 2019
 
 - More OOP understanding.
   - Classes are like blueprints.
@@ -2253,7 +2253,7 @@ Ostriches cannot fly.
       - Properties are such as `var type = fire`.
       - Methods are such as `flamethrower()`.
 
-# May 1, 2019
+# May 1 2019
 
 - Performed `Leetcode` questions.
 - Object oriented programming revolves around 4 pillars.
@@ -2272,7 +2272,7 @@ Ostriches cannot fly.
 - Gym!
   - Back and biceps.
 
-# April 30, 2019
+# April 30 2019
 
 - Applied to Viasat.
 - Movie!
@@ -2280,16 +2280,16 @@ Ostriches cannot fly.
 - Minecraft!
   - Got updated with the recent patches and gathered a team to build in a snow biome.
 
-# April 29, 2019
+# April 29 2019
 
 - Updated personal website.
 
-# April 28, 2019
+# April 28 2019
 
 - Game of Thrones, Season 8, Episode 3!
 - House work.
 
-# April 27, 2019
+# April 27 2019
 
 - Finished curating the `Gitbook`!
 - Posted to LinkedIn about the `Gitbook`.
@@ -2299,38 +2299,38 @@ Ostriches cannot fly.
 - Gym!
   - Legs and shoulders.
 
-# April 26, 2019
+# April 26 2019
 
 - Photography!
   - Edited photos.
 
-# April 25, 2019
+# April 25 2019
 
 - Movie!
   - Avengers: Endgame.
 
-# April 24, 2019
+# April 24 2019
 
 - Gym!
   - Chest and triceps.
 
-# April 23, 2019
+# April 23 2019
 
 - `Gitbook` is technical on `h1` formatting, so best to stick with the original `Github` look than catering to `Gitbook` itself.
 
-# April 22, 2019
+# April 22 2019
 
 - Gym!
   - Back and biceps.
 
-# April 21, 2019
+# April 21 2019
 
 - Game of Thrones, Season 8, Episode 2!
 - Car!
   - Changed the catalytic converter in my car.
   - Process took a while due to clearance, but that's what the WD-40 is there for.
 
-# April 20, 2019
+# April 20 2019
 
 - Gardening!
   - Helped my father out with gardening.
@@ -2341,13 +2341,13 @@ Ostriches cannot fly.
   - When ready to take the photo, shake the bottle, and unleash the power!
   - Always clean after yourself, confetti is everywhere from other people.
 
-# April 19, 2019
+# April 19 2019
 
 - Photography!
   - Shot for SDSU APSA's FTS.
   - Took into account for shutter speed and ISO for dance performances (1/1000, 800 ISO).
 
-# April 18, 2019
+# April 18 2019
 
 - Went over `ReactJS` technicalities.
 - Instead of writing `.bind(this)` to every method that exists...
@@ -2374,7 +2374,7 @@ handleClick = event => {
 
 - With `Context` and `Hooks` available for `ReactJS` now, `ReduxJS` may be a thing in the past.
 
-# April 17, 2019
+# April 17 2019
 
 - Messaged Anthony, host of San Diego `JavaScript` Community Talks, about performing a talk.
 - Messaged the General Assembly group of LA about future hackathons.
@@ -2388,7 +2388,7 @@ handleClick = event => {
 - Gym!
   - Legs and shoulders.
 
-# April 16, 2019
+# April 16 2019
 
 - Created a `Gitbook` for the repository of `infinitygauntlet`.
   - `Gitbook` is a hosting platform to showcase markdown files in a repository. Great for making books.

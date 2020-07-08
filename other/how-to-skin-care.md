@@ -18,6 +18,7 @@
 6. Create a Reasonable Budget
 7. Components to the Routine
    1. Cleanser
+   2. Toner
    2. Moisturizer
    3. Sunscreen
 8. Starting the Routine

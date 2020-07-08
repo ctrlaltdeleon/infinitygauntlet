@@ -1,32 +1,311 @@
-# April 14, 2020
+# July 7 2020
+
+- How to bring other branches onto your branch view, but not update the branch you're working on?
+  - `git fetch origin`
+- What are reducers in `React`?
+  - Specify how the application's state changes changes in response to actions sent to the store.
+
+# July 6 2020
+
+- Back on the software engineer grind.
+- Let's learn!
+
+# July 5 2020
+
+- Relaxed.
+- Gym!
+  - Freedom.
+
+# July 4 2020
+
+- Relaxed.
+
+# July 3 2020
+
+- Made Twitch Affiliate!
+
+# July 2 2020
+
+- Relaxed.
+
+# July 1 2020
+
+- Relaxed.
+
+# June 30 2020
+
+- What does `React Hooks` and `Context API` help make?
+  - A `Flux/Redux` pattern.
+- What is the `useEffect` hook for?
+  - It'll be similar to previous `React` lifecycle methods such as `componentDidMount`, `componentDidUpdate`, and `componentWillUnmount`.
+
+# June 29 2020
+
+- Bolt appointment that turned into a surgery.
+- DMV called about license plate, so I had to pick it up.
+- Slept early, no social interaction today.
+- Gym!
+  - Freedom.
+
+# June 29 2020
+
+- Another example of `React Context` is in the `react/context/` folder.
+- When would you use class components over functional components?
+  - It's gotten to the point where the only use is for access lifecycle methods that are specific to class components, otherwise can stick to functional.
+
+# June 28 2020
+
+- What is `React Context`?
+  - Global state management for an application.
+  - Context provides a way to pass data through the component tree without having to pass props down manually at every level.
+- Why use `React Context`?
+  - Imagine passing down `props` which in itself isn't so bad across 2 components.
+  - If it's across multiple components with multiple nested structures, it becomes difficult to manage.
+- How to start with `React Context`?
+  - Create the context, `React.createContext()`
+  - Provide a context value, `<UserProvider value={...something}>`
+  - Consume the context value, `<UserConsumer>...</UserConsumer>`
+
+```js
+// userContext.js
+
+import React from 'react';
+
+const UserContext = React.createContext();
+
+const UserProvider = UserContext.Provider;
+const UserConsumer = UserContext.Consumer;
+
+export { UserProvider, UserConsumer };
+
+export default UserContext;
+
+// App.js
+
+import React, { Component } from 'react';
+import AAAComponent from './components/AAAComponent';
+import { UserProvider } from './components/userContext';
+
+class App extends Component {
+  render() {
+    const user = {firstName: 'AC', lastName: 'De Leon'}
+    return (
+      <div className="App">
+        <UserProvider value={...user}>
+          <AAAComponent/>
+        </UserProvider>
+      </div>
+    )
+  }
+};
+
+export default App
+
+// AAAComponent.js
+
+import React, { Component } from 'react';
+import BBBComponent from './components/BBBComponent';
+
+class AAAComponent extends Component {
+  render() {
+    return (
+      <div>
+        <BBBComponent/>
+      </div>
+    )
+  }
+};
+
+// BBBComponent.js
+
+import React, { Component } from 'react';
+import AAAComponent from './AAAComponent';
+import UserContext from './userContext';
+
+class BBBComponent extends Component {
+  render() {
+    return (
+      <UserContext.Consumer>
+        {user => (
+          <p>User: {user.firstName} {user.lastName}</p>
+        )}
+      </UserContext.Consumer>
+    )
+  }
+}
+
+BBBComponent.contextType = UserContext;
+
+export default BBBComponent
+
+```
+
+# June 27 2020
+
+- Relaxed.
+- Getting back on the grind of continuing this journal.
+
+# June 26 2020
 
 - Gym!
   - Freedom.
 
-# April 13, 2020
+# June 25 2020
+
+# June 24 2020
+
+# June 23 2020
+
+# June 22 2020
+
+# June 21 2020
+
+# June 20 2020
+
+# June 19 2020
+
+# June 18 2020
+
+- Left my second tour and decided where I want to go permanent.
+
+# June 17 2020
+
+# June 16 2020
+
+# June 15 2020
+
+# June 14 2020
+
+# June 13 2020
+
+# June 12 2020
+
+# June 11 2020
+
+# June 10 2020
+
+# June 9 2020
+
+# June 8 2020
+
+# June 7 2020
+
+# June 6 2020
+
+# June 5 2020
+
+# June 4 2020
+
+# June 3 2020
+
+# June 2 2020
+
+# June 1 2020
+
+# May 31 2020
+
+# May 30 2020
+
+# May 29 2020
+
+# May 28 2020
+
+# May 27 2020
+
+# May 26 2020
+
+# May 25 2020
+
+# May 24 2020
+
+# May 23 2020
+
+# May 22 2020
+
+# May 21 2020
+
+# May 20 2020
+
+# May 19 2020
+
+# May 18 2020
+
+# May 17 2020
+
+# May 16 2020
+
+# May 15 2020
+
+# May 14 2020
+
+# May 13 2020
+
+# May 12 2020
+
+# May 11 2020
+
+# May 10 2020
+
+# May 9 2020
+
+# May 8 2020
+
+# May 7 2020
+
+# May 6 2020
+
+# May 5 2020
+
+# May 4 2020
+
+# May 3 2020
+
+# May 2 2020
+
+# May 1 2020
+
+# April 30 2020
+
+# April 29 2020
+
+# April 28 2020
+
+- ???
+
+# April 27 2020
+
+- Researched mechanical keyboards for a good portion of my day.
+  - Decided I want a 75 keyboard. (Removes the numpad at the right while staying compact.)
+
+# April 14 2020
+
+- Gym!
+  - Freedom.
+
+# April 13 2020
 
 - Bought a lot of things due to quarantine.
 - Gym!
   - Freedom.
 
-# April 12, 2020
+# April 12 2020
 
 - Gym!
   - Freedom.
 
-# April 11, 2020
+# April 11 2020
 
 - Helped around the house.
 - Thought of some video ideas dealing with city pop.
 - Gym!
   - Freedom.
 
-# April 10, 2020
+# April 10 2020
 
 - Gym!
   - Freedom.
 
-# April 9, 2020
+# April 9 2020
 
 - Working with `SonarLint` in `JavaScript`.
   - MAJOR - S3404: Remove this "!==" check; it will always be true. Did you mean to use "!="?
@@ -39,122 +318,122 @@
 - Gym!
   - Freedom.
 
-# April 8, 2020
+# April 8 2020
 
 - Work.
 - Gym!
   - Freedom.
 
-# April 7, 2020
+# April 7 2020
 
 - Work.
 - Gym!
   - Freedom.
 
-# April 6, 2020
+# April 6 2020
 
 - Work.
 - Gym!
   - Freedom.
 
-# April 5, 2020
+# April 5 2020
 
 - Gym!
   - Freedom.
 
-# April 4, 2020
+# April 4 2020
 
 - Gym!
   - Freedom.
 
-# April 3, 2020
+# April 3 2020
 
 - Work.
 - Gym!
   - Freedom.
 
-# April 2, 2020
+# April 2 2020
 
 - Work.
 - Gym!
   - Freedom.
 
-# April 1, 2020
+# April 1 2020
 
 - Work.
 - Gym!
   - Freedom.
 
-# March 31, 2020
+# March 31 2020
 
 - Work.
 
-# March 30, 2020
+# March 30 2020
 
 - Work.
 
-# March 29, 2020
+# March 29 2020
 
 - Relaxed.
 
-# March 28, 2020
+# March 28 2020
 
 - Relaxed.
 
-# March 27, 2020
+# March 27 2020
 
 - Relaxed.
 
-# March 26, 2020
+# March 26 2020
 
 - Work.
 
-# March 25, 2020
+# March 25 2020
 
 - With my new tour and going over `SonarQube` and running it locally.
 
-# March 24, 2020
+# March 24 2020
 
 - Trying to get my development environment up.
   - Confusing, wish I had physical help to get jump started.
 - Gym!
   - Freedom.
 
-# March 23, 2020
+# March 23 2020
 
 - Lots of email and loose ends to finish up before going to my next tour.
 
-# March 22, 2020
+# March 22 2020
 
 - Relaxed.
 - Gym!
   - Freedom!
 
-# March 21, 2020
+# March 21 2020
 
 - Relaxed.
 
-# March 20, 2020
+# March 20 2020
 
 - Emergency meeting, telework mandatory unless stated otherwise.
 
-# March 19, 2020
+# March 19 2020
 
 - Got approved for telework!
 - `Docx`, a library that translates within `JavaScript` to a `.docx` file, is painfully hard to work with due to the differences of time between technologies.
   - For example having `React` create a 2007 Microsoft Word file? Geez.
 
-# March 18, 2020
+# March 18 2020
 
 - Getting ready for telework soon.
 - PDFs are so hard to work with.
 
-# March 17, 2020
+# March 17 2020
 
 - Fixed up code, `SonarQube` has stopped yelling at me.
 - The virus is getting worse it feels like.
 
-# March 16, 2020
+# March 16 2020
 
 - How to make nested attributes within a class?
 
@@ -189,7 +468,7 @@ PositionObject positionObject = new PositionObject(1, new Position(2f, 3f));
 - What are the state and life cycle changes to `React`?
   - The need for class components has significantly lowered down since functional can just do the same with less code.
   - Instead of defining initial state in a constructor, we can use `React Hooks`, specifically `useState`.
-  - Instead of `componentDidMount` and `componentDidUpdate`, `useEffect`, which is part of `ReactHooks`, can manage changes made to the state.
+  - Instead of `componentDidMount` and `componentDidUpdate`, `useEffect`, which is part of `React Hooks`, can manage changes made to the state.
 - How to untrack files already added to `Git` when adding the `.gitignore` afterwards?
   - Commit all changes, including `.gitignore`.
   - `git rm -r --cached .`
@@ -200,7 +479,7 @@ PositionObject positionObject = new PositionObject(1, new Position(2f, 3f));
 - Gym!
   - Freedom.
 
-# March 15, 2020
+# March 15 2020
 
 - Stores were barren of supplies such as:
   - Shampoo.
@@ -209,22 +488,22 @@ PositionObject positionObject = new PositionObject(1, new Position(2f, 3f));
   - Toothpaste.
 - If you're reading this, stay safe out there.
 
-# March 14, 2020
+# March 14 2020
 
 - Relaxed.
 - Wanted to go out, but COVID-19.
 
-# March 13, 2020
+# March 13 2020
 
 - Hung out with friends at Shabumi, Cafe Hue, and Nishiki.
 
-# March 12, 2020
+# March 12 2020
 
 - Last sprint review for the code I'm touring with.
 - How do you print the contents of an object in `Java`?
   - Go to the class object, right click the class to create an auto-generated `toString()` function.
 
-# March 11, 2020
+# March 11 2020
 
 - How do children access parent libraries in software development?
   - It shouldn't be the case as a library should be imported in the module that actually uses it.
@@ -236,11 +515,11 @@ PositionObject positionObject = new PositionObject(1, new Position(2f, 3f));
 - Gym!
   - Chest and triceps.
 
-# March 10, 2020
+# March 10 2020
 
 - Relaxed.
 
-# March 9, 2020
+# March 9 2020
 
 - After playing with `IntelliJ` I realize I have no idea how `Java` works.
 - How do you check your `Maven` set-up?
@@ -251,11 +530,11 @@ PositionObject positionObject = new PositionObject(1, new Position(2f, 3f));
 - Gym!
   - Back and biceps.
 
-# March 8, 2020
+# March 8 2020
 
 - Relaxed.
 
-# March 7, 2020
+# March 7 2020
 
 - Happy birthday Japanese child.
 - Movie!
@@ -264,7 +543,7 @@ PositionObject positionObject = new PositionObject(1, new Position(2f, 3f));
   - Volleyball.
   - Remember it's not about you.
 
-# March 6, 2020
+# March 6 2020
 
 - In `React`, what does `useEffect` hook do?
   - Replaces `componentDidMount` and `ComponentDidUpdate`.
@@ -301,7 +580,7 @@ PositionObject positionObject = new PositionObject(1, new Position(2f, 3f));
 - Gym!
   - Legs and shoulders.
 
-# March 5, 2020
+# March 5 2020
 
 - Why do bash script history persist even after shutdown of `Linux` in virtual machine?
 
@@ -319,7 +598,7 @@ export HISTCONTROL=ignoredups
 - Gym!
   - Volleyball.
 
-# March 4, 2020
+# March 4 2020
 
 - How do you check permissions on files in `Linux`?
   - `ls -al`
@@ -350,7 +629,7 @@ export HISTCONTROL=ignoredups
   - Volleyball.
     - Vibes felt off today, unsure why.
 
-# March 3, 2020
+# March 3 2020
 
 - Connecting backend to frontend is difficult.
 - What is `ACK`?
@@ -358,7 +637,7 @@ export HISTCONTROL=ignoredups
 - Gym!
   - Back and biceps.
 
-# March 2, 2020
+# March 2 2020
 
 - Robinhood sadly down for black monday.
 - How do you rename files in `Linux` using the terminal?
@@ -371,28 +650,28 @@ export HISTCONTROL=ignoredups
   - Gym!
     - Volleyball.
 
-# March 1, 2020
+# March 1 2020
 
 - Relaxed.
 - Organized budget sheet thoroughly and updated it.
 
-# February 29, 2020
+# February 29 2020
 
 - It's a leap year!
 - Made some more keys for brother's house.
 - Car!
   - Changed oil.
 
-# February 28, 2020
+# February 28 2020
 
 - Dentist!
   - Fixed my cavities and teeth cleaning.
 
-# February 27, 2020
+# February 27 2020
 
 - Developing database designs before creating the database itself is incredibly helpful.
 
-# February 26, 2020
+# February 26 2020
 
 - What is destructing? (Examples in `ReactJS`)
 
@@ -503,7 +782,7 @@ reduce([🍿, 🍳], eat) => 💩
 alias git-pull-all="find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {} pull \;"
 ```
 
-# February 25, 2020
+# February 25 2020
 
 - What are some `MongoDB` commands?
   - Make sure the to start the `MongoDB` service before activating `MongoDB` command line.
@@ -529,7 +808,7 @@ alias git-pull-all="find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {
 - Gym!
   - Back and biceps.
 
-# February 24, 2020
+# February 24 2020
 
 - Learned about candles.
   - Green means that the overall stock increased in price from open to close.
@@ -548,22 +827,22 @@ alias git-pull-all="find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {
 - Gym!
   - Volleyball.
 
-# February 23, 2020
+# February 23 2020
 
 - Relaxed.
 
-# February 22, 2020
+# February 22 2020
 
 - Went to SDSU VSA Film Festival.
 - Supported my friends.
 
-# February 21, 2020
+# February 21 2020
 
 - Need to get familiar with `MongoDB` and connecting to the back-end in general.
 - Gym!
   - Legs and shoulders.
 
-# February 20, 2020
+# February 20 2020
 
 - What is `Maven`?
   - A software project management and comprehension tool.
@@ -572,7 +851,7 @@ alias git-pull-all="find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {
   - An integrated development environment written in Java.
   - Similar to `Visual Studio Code`.
 
-# February 19, 2020
+# February 19 2020
 
 - How to find out who are the super users on a system?
   - `grep '^sudo:.*$' /etc/group | cut -d: -f4`
@@ -589,7 +868,7 @@ alias git-pull-all="find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {
   - Chest and triceps.
   - Volleyball.
 
-# February 18, 2020
+# February 18 2020
 
 - Big day today at work.
 - Learning about Docker.
@@ -597,17 +876,17 @@ alias git-pull-all="find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {
 - Gym!
   - Back and biceps.
 
-# February 17, 2020
+# February 17 2020
 
 - Ate out at Buca Di Beppo with my friends!
 - Stardew Valley intimacy.
 
-# February 16, 2020
+# February 16 2020
 
 - Photography!
   - Shot for Super Potion at San Diego City College.
 
-# February 15, 2020
+# February 15 2020
 
 - Met with my friend who went to China.
 - Met with my tall friend who plays basketball.
@@ -615,27 +894,27 @@ alias git-pull-all="find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {
   - Legs and shoulders.
   - Volleyball.
 
-# February 14, 2020
+# February 14 2020
 
 - ?
 
-# February 13, 2020
+# February 13 2020
 
 - Long day of meetings.
 
-# February 12, 2020
+# February 12 2020
 
 - Gym!
   - Chest and triceps.
   - Volleyball.
 
-# February 11, 2020
+# February 11 2020
 
 - Presented my front-end development research with flying colors.
 - Gym!
   - Back and biceps.
 
-# February 10, 2020
+# February 10 2020
 
 - Why involve the development team in UX research?
   - The whole team can witness the users use a product.
@@ -643,28 +922,28 @@ alias git-pull-all="find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {
 - Gym!
   - Volleyball.
 
-# February 9, 2020
+# February 9 2020
 
 - Met with a creative friend.
 
-# February 8, 2020
+# February 8 2020
 
 - Gym!
   - Volleyball.
 - Relaxed.
 
-# February 7, 2020
+# February 7 2020
 
 - Office was pretty empty.
 - Gym!
   - Leg and shoulders.
   - Volleyball.
 
-# February 6, 2020
+# February 6 2020
 
 - STEM Research Fair!
 
-# February 5, 2020
+# February 5 2020
 
 - Make sure to build the application before testing.
 - What is the difference between `HTTP` and `WebSockets`?
@@ -673,7 +952,7 @@ alias git-pull-all="find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {
 - Gym!
   - Volleyball.
 
-# February 4, 2020
+# February 4 2020
 
 - What is `Webpack`?
   - An open-source JavaScript module bundler that takes modules with dependencies and generates static assets representing those modules.
@@ -684,35 +963,35 @@ alias git-pull-all="find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {
 - Gym!
   - Back and biceps.
 
-# February 3, 2020
+# February 3 2020
 
 - Gym!
   - Volleyball.
 
-# February 2, 2020
+# February 2 2020
 
 - Superbowl!
   - Kansas City Chiefs won against the San Francisco 49ers.
 
-# February 1, 2020
+# February 1 2020
 
 - Gym!
   - Volleyball.
 - Cleaned the car.
 
-# January 31, 2020
+# January 31 2020
 
 - Commissioned artist for her time and received the product.
 - Gym!
   - Leg and shoulders.
   - Volleyball.
 
-# January 30, 2020
+# January 30 2020
 
 - UI/UX meeting.
   - It's about efficiency and ease of use rather than prettiness.
 
-# January 29, 2020
+# January 29 2020
 
 - Embedding VS Referencing in database design?
   - Embedded should be used when:
@@ -852,7 +1131,7 @@ posts: [
 - Gym!
   - Volleyball.
 
-# January 28, 2020
+# January 28 2020
 
 - What's the difference between `state` and `props` in `React`?
   - `state` is managed within the component.
@@ -880,7 +1159,7 @@ it("Right click on item", async () => {
 - Gym!
   - Back and biceps.
 
-# January 27, 2020
+# January 27 2020
 
 - What does `mutt` do in `Linux`?
   - A command line based email client.
@@ -1000,14 +1279,14 @@ function App() {
 - Gym!
   - Volleyball.
 
-# January 26, 2020
+# January 26 2020
 
 - Cut hair.
 - Relaxed.
 - Photography!
   - Edited photos.
 
-# January 25, 2020
+# January 25 2020
 
 - Gym!
   - Volleyball.
@@ -1015,7 +1294,7 @@ function App() {
 - Gun range.
 - Axe throwing.
 
-# January 24, 2020
+# January 24 2020
 
 - What does `umask` do in `Linux`? (There's a lot of info on this: https://en.wikipedia.org/wiki/Umask)
   - Determines the settings of a mask that controls how file permissions are set for newly created files.
@@ -1076,11 +1355,11 @@ u=rwx,g=rwx,o=
   - Legs and shoulders.
   - Volleyball.
 
-# January 23, 2020
+# January 23 2020
 
 - Always do `.gitignore` before making anything in the directory!
 
-# January 22, 2020
+# January 22 2020
 
 - What does `ssh` do in `Linux`?
   - Gives a secure way to access a computer over an unsecured network.
@@ -1101,7 +1380,7 @@ u=rwx,g=rwx,o=
   - Chest and triceps.
   - Volleyball.
 
-# January 21, 2020
+# January 21 2020
 
 - What are documentation tools?
   - Documentation.js.
@@ -1113,25 +1392,25 @@ u=rwx,g=rwx,o=
 - Gym!
   - Back and biceps.
 
-# January 20, 2020
+# January 20 2020
 
 - Martin Luther King Jr. Day.
 
-# January 19, 2020
+# January 19 2020
 
 - Ikea.
 
-# January 18, 2020
+# January 18 2020
 
 - Movie!
   - Weathering with you.
 
-# January 17, 2020
+# January 17 2020
 
 - Movie!
   - Star Wars: The Rise of Skywalker.
 
-# January 16, 2020
+# January 16 2020
 
 - What is `Karma`?
   - A testing framework that runs on multiple browsers.
@@ -1174,7 +1453,7 @@ u=rwx,g=rwx,o=
   - Remove disk from virtual drive.
   - Enjoy!
 
-# January 15, 2020
+# January 15 2020
 
 - What does `sudo` do in Linux?
   - Superuser do.
@@ -1182,7 +1461,7 @@ u=rwx,g=rwx,o=
 - Gym!
   - Chest and triceps.
 
-# January 14, 2020
+# January 14 2020
 
 - What is the relationship of `Spectron` to `WebdriverIO` and `Selenium WebDriver`?
   - `Selenium WebDriver` allows developers to write tests that control a web browser so they can test apps from a user's perspective.
@@ -1247,7 +1526,7 @@ describe("Application launch", function() {
 - Gym!
   - Back and biceps.
 
-# January 13, 2020
+# January 13 2020
 
 - What is `Mocha`?
   - JavaScript test framework running on `Node.js` and in the browser.
@@ -1274,19 +1553,19 @@ describe("Application launch", function() {
   - Makes it easy to develop and deploy apps inside neat containers.
 - Instead of controlling 1 container at a time, `Docker Compose` is a tool to use to affect multiple containers at once.
 
-# January 12, 2020
+# January 12 2020
 
 - FS Retreat!
 
-# January 11, 2020
+# January 11 2020
 
 - FS Retreat!
 
-# January 10, 2020
+# January 10 2020
 
 - FS Retreat!
 
-# January 9, 2020
+# January 9 2020
 
 - What is `Cucumber`?
   - An open source, multiple language support, that provides BDD tools.
@@ -1311,12 +1590,12 @@ Then... Reset the credential.
 - Made a Electron, React, Spectron boilerplate.
   - Needs Jest/Enzyme?
 
-# January 8, 2020
+# January 8 2020
 
 - Gym!
   - Legs and shoulders.
 
-# January 7, 2020
+# January 7 2020
 
 - Looked up insurance options.
 - What is `Electron`?
@@ -1325,7 +1604,7 @@ Then... Reset the credential.
 - Gym!
   - Chest and triceps.
 
-# January 6, 2020
+# January 6 2020
 
 - Where does one put the `<script>` tag in an `index.html` file?
   - Usually in the `<body>`, towards the very end.
@@ -1337,27 +1616,27 @@ Then... Reset the credential.
 - Gym!
   - Volleyball.
 
-# January 5, 2020
+# January 5 2020
 
 - ?
 
-# January 4, 2020
+# January 4 2020
 
 - Gym!
   - Back and biceps.
 - Watched Japanese wrestling.
 
-# January 3, 2020
+# January 3 2020
 
 - ?
 
-# January 2, 2020
+# January 2 2020
 
 - Work.
 - Fixed all my repos and learned a bunch `JavaScript` related.
 - What does it mean to `amend` a commit?
   - To combine the current and previous commit into 1.
 
-# January 1, 2020
+# January 1 2020
 
 - Happy new year!
