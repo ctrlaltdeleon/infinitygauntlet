@@ -1,7 +1,160 @@
+# July 19 2020
+
+- Submitted what I could for work, still a lot to consider.
+- Gym!
+  - Freedom.
+
+# July 18 2020
+
+- Went to Sharetea, Ikea, Sushi Kuchi, and Mount Soledad with friends and it was nice.
+
+# July 17 2020
+
+- Relaxed, caught up on sleep.
+
+# July 16 2020
+
+- Gym!
+  - Volleyball.
+- Went over to help out a friend with their computer and it's working!
+
+# July 15 2020
+
+- ???
+
+# July 14 2020
+
+- How to iterate over all the properties of an object `obj`?
+
+```jsx
+for (var key in obj) {
+  console.log(key, obj[key]);
+}
+
+// If you want to avoid inherited properties:
+
+for (var key in obj) {
+  if (!obj.hasOwnProperty(key)) continue;
+  console.log(key, obj[key]);
+}
+
+// For the new ECMAScript 5th Edition:
+Object.keys(obj).forEach(function (key) {
+  console.log(key, obj[key]);
+});
+```
+
+- What does the `array.forEach()` method do?
+  - Iterates over the array items, in ascending order (0, 1, 2...), without mutating the array.
+- What are the differences in defining state value in `React`?
+
+```jsx
+// Previously.
+class App extends React.component {
+  state = {
+    messageCount: 0
+  };
+
+  const messageCount = this.state.messageCount;
+
+  setMessageCount = count => (
+    setState({messageCount:count});
+  )
+  ...
+}
+
+// Now!
+function App() {
+  count [messageCount, setMessageCount] = useState(0);
+}
+```
+
+- How to access the last element of an array in `Javascript`?
+  - `var last_element = my_array[my_array.length - 1]`
+- How to add new properties to an object?
+  - There's 2 ways.
+  - Dot notation!
+    - `obj.new_key = "new_value";`
+  - Square bracket notation!
+    - `obj["new_key"] = "new_value";`
+- How to check if object value exists within a `Javascript` array of objects?
+
+```jsx
+const arr = [
+  { id: 1, username: "fred" },
+  { id: 2, username: "bill" },
+  { id: 3, username: "ted" },
+];
+
+function add(arr, name) {
+  const { length } = arr;
+  const id = length + 1;
+  // If the array has a username equivalent to the parameter given username.
+  const found = arr.some((el) => el.username === name);
+  // If the username is unique, push the new object username.
+  if (!found) arr.push({ id, username: name });
+  return arr;
+}
+
+console.log(add(arr, "ted"));
+```
+
+- Twitch!
+  - Great stream.
+
+# July 13 2020
+
+- I need to catch up on sleep, haven't been feeling well.
+- Gym!
+  - Freedom.
+
+# July 12 2020
+
+- ???
+
+# July 11 2020
+
+- Went to say goodbye to a friend who's moving back to LA.
+- Got to meet up with unexpected friends, truly blessed.
+
+# July 10 2020
+
+- ???
+
+# July 9 2020
+
+- What happens if there's nothing for the second argument of a `useEffect()` function?
+  - Infinitely loops as opposed to an empty array for the second argument would be only 1 run.
+- Is it possible to not use state and just use refs?
+  - Can't.
+  - Refs aren't reactive so when those are changed, there are no re-renders done as opposed to state.
+
+# July 8 2020
+
+- In `React`, how could you call a method on load once when `componentDidMount` is not in use?
+
+```js
+// This is in the case of a function component.
+// The `useEffect` component will act as a initial load.
+
+function MyComponent(props) {
+  useEffect(() => {
+    // Stuff!
+  }, []); // Empty dependency!
+  return <div></div>;
+}
+```
+
+- Gym!
+  - Freedom.
+  - Tennis.
+
 # July 7 2020
 
 - How to bring other branches onto your branch view, but not update the branch you're working on?
   - `git fetch origin`
+- What are actions in `React`?
+  - They are payloads of information that send data from your application to the store.
 - What are reducers in `React`?
   - Specify how the application's state changes changes in response to actions sent to the store.
 
@@ -152,31 +305,64 @@ export default BBBComponent
 
 # June 25 2020
 
+- Gym!
+  - Volleyball.
+
 # June 24 2020
+
+- ???
 
 # June 23 2020
 
+- ???
+
 # June 22 2020
+
+- Gym!
+  - Freedom.
 
 # June 21 2020
 
+- ???
+
 # June 20 2020
 
+- Gym!
+  - Freedom.
+
 # June 19 2020
+
+- Gym!
+  - Freedom.
 
 # June 18 2020
 
 - Left my second tour and decided where I want to go permanent.
+- Gym!
+  - Freedom.
 
 # June 17 2020
 
+- Gym!
+  - Freedom.
+
 # June 16 2020
+
+- ???
 
 # June 15 2020
 
+- Gym!
+  - Freedom.
+
 # June 14 2020
 
+- ???
+
 # June 13 2020
+
+- Gym!
+  - Freedom.
 
 # June 12 2020
 
@@ -184,9 +370,18 @@ export default BBBComponent
 
 # June 10 2020
 
+- Gym!
+  - Freedom.
+
 # June 9 2020
 
+- Gym!
+  - Freedom.
+
 # June 8 2020
+
+- Gym!
+  - Freedom.
 
 # June 7 2020
 
@@ -194,13 +389,22 @@ export default BBBComponent
 
 # June 5 2020
 
+- Gym!
+  - Freedom.
+
 # June 4 2020
 
 # June 3 2020
 
+- Gym!
+  - Freedom.
+
 # June 2 2020
 
 # June 1 2020
+
+- Gym!
+  - Freedom.
 
 # May 31 2020
 
@@ -210,15 +414,24 @@ export default BBBComponent
 
 # May 28 2020
 
+- Gym!
+  - Freedom.
+
 # May 27 2020
 
 # May 26 2020
+
+- Gym!
+  - Freedom.
 
 # May 25 2020
 
 # May 24 2020
 
 # May 23 2020
+
+- Gym!
+  - Freedom.
 
 # May 22 2020
 
@@ -228,6 +441,9 @@ export default BBBComponent
 
 # May 19 2020
 
+- Gym!
+  - Freedom.
+
 # May 18 2020
 
 # May 17 2020
@@ -236,13 +452,22 @@ export default BBBComponent
 
 # May 15 2020
 
+- Gym!
+  - Freedom.
+
 # May 14 2020
 
 # May 13 2020
 
+- Gym!
+  - Freedom.
+
 # May 12 2020
 
 # May 11 2020
+
+- Gym!
+  - Freedom.
 
 # May 10 2020
 
@@ -250,11 +475,20 @@ export default BBBComponent
 
 # May 8 2020
 
+- Gym!
+  - Chest and triceps.
+
 # May 7 2020
 
 # May 6 2020
 
+- Gym!
+  - Freedom.
+
 # May 5 2020
+
+- Gym!
+  - Freedom.
 
 # May 4 2020
 
@@ -266,16 +500,27 @@ export default BBBComponent
 
 # April 30 2020
 
+- Gym!
+
+  - Freedom.
+
 # April 29 2020
+
+- Gym!
+
+  - Freedom.
 
 # April 28 2020
 
-- ???
+- Gym!
+  - Freedom.
 
 # April 27 2020
 
 - Researched mechanical keyboards for a good portion of my day.
   - Decided I want a 75 keyboard. (Removes the numpad at the right while staying compact.)
+- Gym!
+  - Freedom.
 
 # April 14 2020
 
