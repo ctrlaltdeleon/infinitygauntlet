@@ -1,3 +1,16 @@
+# July 20 2020
+
+- The job search for other software engineers is rough.
+  - 1 person during the pandemic is as follows:
+    - 476 applications.
+    - 470 rejections.
+    - 23 first rounds.
+    - 5 second rounds.
+    - 5 cancelled offers. (!)
+    - 1 offer.
+- Feeling good about my progress at work.
+  - Managing state within the application and making sure the frontend reflects the backend properly.
+
 # July 19 2020
 
 - Submitted what I could for work, still a lot to consider.
