@@ -1,3 +1,22 @@
+# July 21 2020
+
+- Pre-exercise to building high-performing teams.
+  - Quadrants are based on importance and urgency.
+  - 1 = High importance, high urgency.
+    - Deadlines.
+    - Emergencies.
+  - 2 = High importance, low urgency.
+    - Recreation.
+    - Relationships.
+  - 3 = Low importance, low urgency.
+    - Entertainment.
+    - Social media.
+  - 4 = Low importance, high urgency.
+    - Interruptions.
+    - Meetings.
+- Gym!
+  - Freedom.
+
 # July 20 2020
 
 - The job search for other software engineers is rough.
@@ -379,7 +398,11 @@ export default BBBComponent
 
 # June 12 2020
 
+- ???
+
 # June 11 2020
+
+- ???
 
 # June 10 2020
 
@@ -398,7 +421,11 @@ export default BBBComponent
 
 # June 7 2020
 
+- ???
+
 # June 6 2020
+
+- ???
 
 # June 5 2020
 
@@ -407,12 +434,16 @@ export default BBBComponent
 
 # June 4 2020
 
+- ???
+
 # June 3 2020
 
 - Gym!
   - Freedom.
 
 # June 2 2020
+
+- ???
 
 # June 1 2020
 
@@ -421,9 +452,15 @@ export default BBBComponent
 
 # May 31 2020
 
+- ???
+
 # May 30 2020
 
+- ???
+
 # May 29 2020
+
+- ???
 
 # May 28 2020
 
@@ -432,6 +469,8 @@ export default BBBComponent
 
 # May 27 2020
 
+- ???
+
 # May 26 2020
 
 - Gym!
@@ -439,7 +478,11 @@ export default BBBComponent
 
 # May 25 2020
 
+- ???
+
 # May 24 2020
+
+- ???
 
 # May 23 2020
 
@@ -448,9 +491,15 @@ export default BBBComponent
 
 # May 22 2020
 
+- ???
+
 # May 21 2020
 
+- ???
+
 # May 20 2020
+
+- ???
 
 # May 19 2020
 
@@ -459,9 +508,15 @@ export default BBBComponent
 
 # May 18 2020
 
+- ???
+
 # May 17 2020
 
+- ???
+
 # May 16 2020
+
+- ???
 
 # May 15 2020
 
@@ -470,12 +525,16 @@ export default BBBComponent
 
 # May 14 2020
 
+- ???
+
 # May 13 2020
 
 - Gym!
   - Freedom.
 
 # May 12 2020
+
+- ???
 
 # May 11 2020
 
@@ -484,7 +543,11 @@ export default BBBComponent
 
 # May 10 2020
 
+- ???
+
 # May 9 2020
+
+- ???
 
 # May 8 2020
 
@@ -492,6 +555,8 @@ export default BBBComponent
   - Chest and triceps.
 
 # May 7 2020
+
+- ???
 
 # May 6 2020
 
@@ -505,11 +570,19 @@ export default BBBComponent
 
 # May 4 2020
 
+- ???
+
 # May 3 2020
+
+- ???
 
 # May 2 2020
 
+- ???
+
 # May 1 2020
+
+- ???
 
 # April 30 2020
 
