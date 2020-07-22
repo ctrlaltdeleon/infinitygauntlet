@@ -1,3 +1,13 @@
+# July 22 2020
+
+- How to fix multiple monitors for displaying a `VirtualBox` image?
+  - Go into the settings of the image.
+  - Set monitors to 2+.
+  - Save.
+  - Launch the image.
+  - From here there should be 2+ instances of `VirtualBox`.
+  - To properly resize, instead of `VirtualBox` itself, go within the virtual machines themselves and fix the settings.
+
 # July 21 2020
 
 - Pre-exercise to building high-performing teams.
