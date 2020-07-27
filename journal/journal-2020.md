@@ -1,3 +1,50 @@
+# July 27 2020
+
+- In `Javascript`, `for` vs `forEach`?
+  - `for` for flexibility using `break` or iterating in reverse.
+  - `forEach` for readability and simple usage.
+
+# July 26 2020
+
+- Headed home from LA.
+- Saw some birds and squirrels near Camp Pendleton, was cute.
+- Jamming to 2000s songs.
+
+# July 24 2020
+
+- Head up to LA for stream group.
+- Met a lot of great people! (Hope I spelled their names right.)
+  - Nic.
+  - Matt.
+  - Jared.
+  - Cheyenne.
+  - Darren.
+- Made sure to clean up after myself.
+
+# July 24 2020
+
+- How do you delete a line in `Visual Studio Code` dependent on where the cursor is?
+  - `Ctrl + K`
+
+# July 23 2020
+
+- How do you render `ctrl + caret`, while still having the caret being the symbol in markdown?
+  - I don't think it's possible.
+- How do you `scp` multiple files from a source?
+  - `scp %USER%@%HOST%:/%SOME_DIRECTORY/\{%FILE_1%,%FILE_2%\} /%TO_DESTINATION%/`
+- What is `Chaos Engineering`?
+  - Chaos engineering is the discipline of experimenting on a software system in production in order to build confidence in the system's capability to withstand turbulent and unexpected conditions.
+  - Implemented due to deadlines of projects without enough time to test vulnerabilities.
+- What are the `Chaos Engineering` goals?
+  - Given a software system's ability, ensuring adequate quality of service, also known as resiliency.
+  - Main tests would be:
+    - Infrastructure failures.
+    - Network failures.
+    - Application failures.
+- If you're typing in the terminal and want to restart, how do you do it?
+  - `Ctrl + U` will erase everything and start from the beginning, granted the cursor as at the end.
+  - `Ctrl + Y` will bring back the line deleted from previously.
+
 # July 22 2020
 
 - How to fix multiple monitors for displaying a `VirtualBox` image?
@@ -7,6 +54,8 @@
   - Launch the image.
   - From here there should be 2+ instances of `VirtualBox`.
   - To properly resize, instead of `VirtualBox` itself, go within the virtual machines themselves and fix the settings.
+- What is `Mission Control` on `Mac`?
+  - The area to see all your apps and screens on a global level.
 
 # July 21 2020
 
