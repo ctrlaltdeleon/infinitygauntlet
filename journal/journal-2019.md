@@ -739,7 +739,7 @@ print(""" "A word that needs quotation marks" """)
 - How does `continue` work?
   - If met, skips the following leftover code in the block and goes through the iteration again.
 
-```js
+```jsx
 for (i = 0; i < 10; i++) {
   if (i == 5) {
     continue;
@@ -752,7 +752,7 @@ for (i = 0; i < 10; i++) {
 
 - How do you look for the first `<p>` element and modify it?
 
-```js
+```jsx
 <p id="demo"></p>
 
 <script>
@@ -762,7 +762,7 @@ document.getElementsByTag("p")[0].innerHTML = "Hello";
 
 - How do you change the first element via `class`?
 
-```js
+```jsx
 <p class="test"></p>
 <p class="test"></p>
 
@@ -774,7 +774,7 @@ document.getElementsByClassName("test")[0].innerHTML = "Hello";
 - How do you change the `src` of an `img` element?
   - Treat it as if it's an object with properties that can be manipulated.
 
-```js
+```jsx
 
 <img id="image" src="smiley.gif">
 
@@ -785,7 +785,7 @@ document.getElementById("image").src = "pic_mountain.jpg";
 
 - How do you change the text color of a specific `id`?
 
-```js
+```jsx
 <p id="demo"></p>
 
 <script>
@@ -795,7 +795,7 @@ document.getElementById("demo").style.color = "red";
 
 - How do you change the display of a specific `id`?
 
-```js
+```jsx
 <p id="demo"></p>
 
 <script>
@@ -805,7 +805,7 @@ document.getElementById("demo").style.display = "none";
 
 - How do you assign an `eventListener` to a function?
 
-```js
+```jsx
 <button id="demo">Click me!</button>
 
 <script>
@@ -847,7 +847,7 @@ document.getElementById("demo").addEventListener("click", myFunction);
   - `let` is enclosed to the block it's in.
   - `var` is enclosed to the function it's in.
 
-```js
+```jsx
 const name = "AC";
 name = "Nope"; // TypeError: Assignment to constant variable.
 
@@ -1141,7 +1141,7 @@ for state, capital in statesAndCapitals.items():
 - What is a callback?
   - A callback is a function that is to be executed after another function has finished executing.
 
-```js
+```jsx
 // Example.
 function doHomework(subject, callback) {
   alert(`Starting my ${subject} homework.`);
@@ -1155,7 +1155,7 @@ function alertFinished() {
 doHomework("math", alertFinished);
 ```
 
-```js
+```jsx
 // Twitter API example.
 T.get("search/tweets", params, function(err, data, response) {
   if (!err) {
@@ -1312,7 +1312,7 @@ T.get("search/tweets", params, function(err, data, response) {
   - `src/index.js` for the `JavaScript` entry point.
 - How do you implement a `<script>` within a `ReactJS` component?
 
-```js
+```jsx
 componentDidMount() {
   const script = document.createElement("script");
   script.src = "www.cornify.com/js/cornify.js";
@@ -1813,7 +1813,7 @@ class ErrorHandler extends ReactJS.Component {
   - An action is a payload of information we send to the store.
   - An action creator is a function that creates and returns an action.
 
-```js
+```jsx
 // Action.
 
 type Action = {
@@ -1842,7 +1842,7 @@ const getUserDetailsRequest = id => ({
 - How does unit testing work?
   - Usually through use of testing libraries.
 
-```js
+```jsx
 // Example of unit testing using Enzyme.
 
 describe('<MyComponent />', () => {
@@ -1932,7 +1932,7 @@ render() {
     - Getting data from servers.
     - Building effects and animation.
 
-```js
+```jsx
 // JavaScript.
 
 var images = document.getElementsByTagName("img");
@@ -1947,7 +1947,7 @@ $("img").width(50);
 
 - How do you do a `fetch` call in `JavaScript`?
 
-```js
+```jsx
 // Enclosed in a <script></script>.
 
 var apiUrl = "%WHERE_THE_FILE_IS%";
@@ -2352,7 +2352,7 @@ Ostriches cannot fly.
 - Went over `ReactJS` technicalities.
 - Instead of writing `.bind(this)` to every method that exists...
 
-```js
+```jsx
 constructor(props){
   super(props);
   this.handleClick = this.handleClick.bind(this);
@@ -2366,7 +2366,7 @@ handleClick(event){
 - We can instead use lexical scope.
   - Lexical scope is where a variable can be referenced within the scope that it is defined in.
 
-```js
+```jsx
 handleClick = event => {
   // Do stuff!
 };

@@ -1,8 +1,51 @@
+# July 28 2020
+
+- What is `CRUD`?
+  - Create, read, update, and delete.
+- What is the purpose for the `CRUD` functions of create, read, update, and delete?
+  - Create would be called to make new objects that have unique ids.
+  - Read would be called to see all objects, no alteration.
+  - Update would be called when an object makes a change, either whole or partly.
+  - Delete would be called when an object is to be removed.
+- When would someone call these particular functions in an application?
+  - Create:
+    - Add new user.
+    - Add a comment.
+  - Read:
+    - Load feed.
+    - Load comments.
+  - Update:
+    - Edit profile.
+    - Edit a comment.
+  - Delete:
+    - Delete account.
+    - Delete a comment.
+
 # July 27 2020
 
-- In `Javascript`, `for` vs `forEach`?
+- In `JavaScript`, `for` vs `forEach`?
   - `for` for flexibility using `break` or iterating in reverse.
   - `forEach` for readability and simple usage.
+- In `JavaScript`, how does the `find` function work?
+
+```jsx
+const array1 = [5, 12, 8, 130, 44];
+
+const found = array1.find((element) => element > 10);
+
+console.log(found);
+// expected output: 12
+```
+
+- In `JavaScript`, what are the main differences between `.find()` and `.some()`.
+  - `.find()` returns a value and used to look for one specific value.
+    - "Is there a dog here named "Bolt"?"
+  - `.some()` returns a boolean and checks to see if the data structure does have what the user is looking for.
+    - "Is there a white dog here?"
+- In `JavaScript`, is `.find()` faster than a `for` loop?
+  - Yes, 30% faster.
+- Gym!
+  - Freedom.
 
 # July 26 2020
 
@@ -115,7 +158,7 @@
 
 # July 14 2020
 
-- How to iterate over all the properties of an object `obj`?
+- In `Javascript`, how do you iterate over all the properties of an object `obj`?
 
 ```jsx
 for (var key in obj) {
@@ -160,7 +203,7 @@ function App() {
 }
 ```
 
-- How to access the last element of an array in `Javascript`?
+- How to access the last element of an array in `JavaScript`?
   - `var last_element = my_array[my_array.length - 1]`
 - How to add new properties to an object?
   - There's 2 ways.
@@ -168,7 +211,7 @@ function App() {
     - `obj.new_key = "new_value";`
   - Square bracket notation!
     - `obj["new_key"] = "new_value";`
-- How to check if object value exists within a `Javascript` array of objects?
+- How to check if object value exists within a `JavaScript` array of objects?
 
 ```jsx
 const arr = [
@@ -224,7 +267,7 @@ console.log(add(arr, "ted"));
 
 - In `React`, how could you call a method on load once when `componentDidMount` is not in use?
 
-```js
+```jsx
 // This is in the case of a function component.
 // The `useEffect` component will act as a initial load.
 
@@ -310,7 +353,7 @@ function MyComponent(props) {
   - Provide a context value, `<UserProvider value={...something}>`
   - Consume the context value, `<UserConsumer>...</UserConsumer>`
 
-```js
+```jsx
 // userContext.js
 
 import React from 'react';
@@ -1065,7 +1108,7 @@ export HISTCONTROL=ignoredups
 
 - What is destructing? (Examples in `ReactJS`)
 
-```js
+```jsx
 // Imagine you have a person object with the following properties.
 const person = {
   firstName: "Lindsay",
@@ -1147,7 +1190,7 @@ const Attraction = ({
 
 - What does `map`, `filter`, and `reduce` do?
 
-```js
+```jsx
 // Maps an action to the data and returns the results.
 map([🌽, 🐮, 🐔], cook) => [🍿, 🍔, 🍳]
 
@@ -1649,7 +1692,7 @@ package.json
 - What is `useRef()` in `React`?
   - Uses a references to an `HTML` component in a `.js` file.
 
-```js
+```jsx
 function App() {
   const todoNameRef = useRef();
 
@@ -1879,7 +1922,7 @@ u=rwx,g=rwx,o=
   - Reasons for same repos is for the engineers to understand the product as a whole.
 - How does a standard `Electron` test file look like?
 
-```js
+```jsx
 const Application = require("spectron").Application; // `Spectron`'s application driver.
 const assert = require("assert"); // `Node.js`'s built in assertion library.
 const electronPath = require("electron"); // Locally installed development version of `Electron`.
