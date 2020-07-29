@@ -1,3 +1,11 @@
+# July 29 2020
+
+- What are the differences between `onBlur()` VS `onFocus()`.
+  - `onBlur()` activates when a component is out of focus, such as saving an edit that's not complete.
+  - `onFocus()` activates what a component is focused, such as having the intent to edit something.
+- What's the hard thing about update within a `CRUD` pattern?
+  - Need to account the past states and the future states, with the present state.
+
 # July 28 2020
 
 - What is `CRUD`?
@@ -20,10 +28,15 @@
   - Delete:
     - Delete account.
     - Delete a comment.
+- Gym!
+  - Flex.
+  - Changed "freedom" to "flex" since less letters and makes more sense.
+- Great stream last night!
+  - Coding, Duolingo, and Marbles are the way to go!
 
 # July 27 2020
 
-- In `JavaScript`, `for` vs `forEach`?
+- In `JavaScript`, `for` VS `forEach`?
   - `for` for flexibility using `break` or iterating in reverse.
   - `forEach` for readability and simple usage.
 - In `JavaScript`, how does the `find` function work?
