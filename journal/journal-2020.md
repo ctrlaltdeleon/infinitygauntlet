@@ -1,3 +1,48 @@
+# August 3 2020
+
+- In `JavaScript`, how does the `splice()` function work?
+  - Can be used to delete, add, or replace with the data structure being an array.
+  - To delete, `.splice(index, number of elements to delete)`
+  - To add, `.splice(index, number of elements to delete, thing to be added in, another thing, etc.)`
+  - To replace, `.splice(index, number of elements, thing to replace)`
+
+```js
+// Delete.
+let scores = [1, 2, 3, 4, 5];
+let deletedScores = scores.splice(0, 3);
+console.log(scores); //  [4, 5]
+console.log(deletedScores); // [1, 2, 3]
+
+// Add.
+let colors = ["red", "green", "blue"];
+colors.splice(2, 0, "purple");
+console.log(colors); // ["red", "green", "purple", "blue"]
+
+// Replace.
+let languages = ["C", "C++", "Java", "JavaScript"];
+languages.splice(2, 1, "C#", "Swift", "Go");
+console.log(languages); // ["C", "Python", "C#", "Swift", "Go", "JavaScript"]
+```
+
+- ???
+
+# August 2 2020
+
+- Hung out with video editing friend to get Sharetea, Vons, and talk at a park.
+
+# August 1 2020
+
+- Gym!
+  - Flex.
+
+# July 31 2020
+
+- Hung out with friends at Tapex, the shop, Everbowl, Rohr Park, Marharlika, Kaiyo Sushi, Happy Lemon, and elevator house.
+
+# July 30 2020
+
+- Last minute quick commits to save the day.
+
 # July 29 2020
 
 - What are the differences between `onBlur()` VS `onFocus()`.
@@ -5,6 +50,8 @@
   - `onFocus()` activates what a component is focused, such as having the intent to edit something.
 - What's the hard thing about update within a `CRUD` pattern?
   - Need to account the past states and the future states, with the present state.
+- Stayed up with a friend since she's going through a difficult time.
+  - Unsure how to progress other than being there for here.
 
 # July 28 2020
 

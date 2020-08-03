@@ -29,7 +29,7 @@ def postorder(root):
     if root:
         # First recur on left child.
         postorder(root.left)
-        # The recur on right child.
+        # Then recur on right child.
         postorder(root.right)
         # Now print the data of node.
         print(root.val),
@@ -60,18 +60,18 @@ postorder(root)
 """
 Output:
 
-Preorder traversal of binary tree is:
-1
-2
-4
-5
-3
-
 Inorder traversal of binary tree is:
 4
 2
 5
 1
+3
+
+Preorder traversal of binary tree is:
+1
+2
+4
+5
 3
 
 Postorder traversal of binary tree is:
