@@ -24,7 +24,55 @@ languages.splice(2, 1, "C#", "Swift", "Go");
 console.log(languages); // ["C", "Python", "C#", "Swift", "Go", "JavaScript"]
 ```
 
-- ???
+- In `Javascript`, how to determine the variable is `undefined` or `null` properly?
+
+```jsx
+// Since "null == undefined" already, just do this.
+if (variable == null) {
+  // Your code here.
+}
+```
+
+- In `JavaScript`, how to sort array of objects by property value?
+
+```jsx
+var champions = [
+  { name: "Jarvan IV", group: "Demacia", stars: 1 },
+  { name: "Kayn", group: "Edgelord", stars: 3 },
+  { name: "Zac", group: "Slime", stars: 5 },
+];
+
+function compare(a, b) {
+  if (a.stars < b.stars) {
+    return -1;
+  }
+  if (a.stars > b.stars) {
+    return 1;
+  }
+  return 0;
+}
+
+champions.sort(compare);
+
+// OR!
+
+champions.sort((a, b) => (a.stars > b.stars ? 1 : b.stars > a.stars ? -1 : 0));
+
+// OR!
+
+champions.sort((a, b) => {
+  if (a.stars < b.stars) {
+    return -1;
+  }
+  if (a.stars > b.stars) {
+    return 1;
+  }
+  return 0;
+});
+```
+
+- Gym!
+  - Flex.
 
 # August 2 2020
 
