@@ -1,6 +1,69 @@
 # August 4 2020
 
-- ???
+- What does the `static` keyword do?
+  - Static methods are called directly on the class without creating an instance/object of the class.
+- Why would someone want to use the `static` keyword?
+  - "Does it make sense to call this method, even if no object has been constructed yet?"
+    - If so, it should definitely be static.
+  - An example would be if there was a car class with a `static` method called `convertMpgToKpl()` which could be used without creating a car, it could be done outside of it.
+  - Usually utility classes will encompass these `static` methods due to their scope and flexibility for all other files to use.
+- How can the size of files and directories in `Linux` be seen within the terminal?
+
+```sh
+# ls = files
+# du = directories
+
+ls -l filename   # Displays size of the specified file.
+ls -l *          # Displays size of all the files in the current directory.
+ls -al *         # Displays size of all the files including hidden files in the current directory.
+ls -al dir/      # Displays size of all the files including hidden files in the 'dir' directory.
+
+du -sh directory_name    # Gives you the summarized (-s) size of the directory in human readable (-h) format.
+du -bsh *                # Gives you the apparent (-b) summarized (-s) size of all the files and directories in the current directory in human readable (-h) format.
+```
+
+- What is the standard way to call `static` methods?
+
+```jsx
+// Be mindful of inheritance syntax.
+
+class Super {
+  static whoami() {
+    return "Super";
+  }
+  lognameA() {
+    console.log(Super.whoami());
+  }
+  lognameB() {
+    console.log(this.constructor.whoami());
+  }
+}
+
+class Sub extends Super {
+  static whoami() {
+    return "Sub";
+  }
+}
+
+new Sub().lognameA();
+// "Super".
+
+new Sub().lognameB();
+// "Sub".
+```
+
+- In `CSS`, what is `flex-grow`?
+  - This property specifies how much of the remaining space in the flex container should be assigned to the item.
+- In `CSS`, what is `CSS Baseline`?
+  - A collection of HTML element and attribute style-normalizations, a global reset.
+- In `CSS`, what is `aria-label`?
+  - The `aria-label` attribute is used to define a string that labels the current element.
+  - Use it in cases where a text label is not visible on the screen.
+  - If there is visible text labeling the element, use `aria-labelled` by instead.
+- In `CSS`, what is `ARIA`?
+  - Accessible Rich Internet Applications (ARIA) is a set of attributes that define ways to make web content and web applications (especially those developed with JavaScript) more accessible to people with disabilities.
+- In `Material-UI`, what's the purpose of having both `AppBar` and `Toolbar`?
+  - Think of `AppBar` as the header and `Toolbar` of the amount of horizontal bars within the header.
 
 # August 3 2020
 
@@ -81,10 +144,10 @@ champions.sort((a, b) => {
 let champions = ["Ezreal", "Vayne", "Zac"];
 
 console.log(champions[0]);
-// "Ezreal"
+// "Ezreal".
 
 console.log(champions[champions.length - 1]);
-// "Zac"
+// "Zac".
 ```
 
 - Gym!
@@ -1512,7 +1575,7 @@ alias git-pull-all="find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {
 # February 4 2020
 
 - What is `Webpack`?
-  - An open-source JavaScript module bundler that takes modules with dependencies and generates static assets representing those modules.
+  - An open-source JavaScript module bundler that takes modules with dependencies and generates `static` assets representing those modules.
   - If you have 5 `.css` files, `Webpack` transforms them into 1 `.css` to alleviate call noise.
 - How to check if a package is installed globally?
   - `npm list -g`

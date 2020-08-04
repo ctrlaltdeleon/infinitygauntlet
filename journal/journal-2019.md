@@ -76,10 +76,10 @@
 - What are web servers?
   - Contains files and HTTP server.
   - Stores an application's files and controls how web users accesses hosted files.
-- What's a static web server?
+- What's a `static` web server?
   - A stack, computer, with an HTTP server with files to be taken "as-is".
 - What's a dynamic web server?
-  - A static web server with extra software, usually an application server and a database.
+  - A `static` web server with extra software, usually an application server and a database.
   - It's dynamic because the application server updates the hosted files before sending them to the application itself.
 
 # December 29 2019
@@ -1157,7 +1157,7 @@ doHomework("math", alertFinished);
 
 ```jsx
 // Twitter API example.
-T.get("search/tweets", params, function(err, data, response) {
+T.get("search/tweets", params, function (err, data, response) {
   if (!err) {
     // This is where the magic will happen.
   } else {
@@ -1465,7 +1465,7 @@ componentDidMount() {
 ```
 
 - What is method syntax?
-  - Also known as fluent syntax, uses extension methods included in the `Enumerable` or `Queryable` static class, similar to how you would call the extension method of any class.
+  - Also known as fluent syntax, uses extension methods included in the `Enumerable` or ` Queryable``static `class, similar to how you would call the extension method of any class.
   - `var result = stringList.Where(s => s.Contains("Tutorials"));`
 - What are `IEnumerable`, `ICollection`, and `IList`?
   - Interfaces available to use that provide various functionalities.
@@ -1610,7 +1610,7 @@ componentDidMount() {
   - Passed!
 - What are differences between stack and heap?
   - Stack:
-    - Uses static memory.
+    - Uses `static` memory.
     - Stores local variables and function calls.
     - May have stack overflow if memory has run out.
     - Limited.
@@ -1623,8 +1623,8 @@ componentDidMount() {
 
 # May 28 2019
 
-- What's the difference between static VS non-static methods?
-  - Static methods must be called with the class name `Math.Pow()`.
+- What's the difference between `static` VS non-`static` methods?
+  - `Static` methods must be called with the class name `Math.Pow()`.
     - This is kind to processing power and allows a "one and done" mentality.
   - Non-static methods are attached to the object the class it inherits from.
     - For example, `object.addCoolNumbers()` may rely on other information provided with the object.
@@ -1826,7 +1826,7 @@ type Action = {
 
 // Action creator.
 
-const getUserDetailsRequest = id => ({
+const getUserDetailsRequest = (id) => ({
   type: Actions.GET_USER_DETAILS_REQUEST,
   payload: id,
 });
@@ -1952,13 +1952,13 @@ $("img").width(50);
 
 var apiUrl = "%WHERE_THE_FILE_IS%";
 fetch(apiUrl)
-  .then(response => {
+  .then((response) => {
     return response.json();
   })
-  .then(data => {
+  .then((data) => {
     console.log("Work with the JSON data here: ", data);
   })
-  .catch(err => {
+  .catch((err) => {
     console.log("Work with the errors here:", err);
   });
 ```
@@ -2367,7 +2367,7 @@ handleClick(event){
   - Lexical scope is where a variable can be referenced within the scope that it is defined in.
 
 ```jsx
-handleClick = event => {
+handleClick = (event) => {
   // Do stuff!
 };
 ```
