@@ -1,3 +1,7 @@
+# August 4 2020
+
+- ???
+
 # August 3 2020
 
 - In `JavaScript`, how does the `splice()` function work?
@@ -69,6 +73,18 @@ champions.sort((a, b) => {
   }
   return 0;
 });
+```
+
+- In `JavaScript`, how to achieve the first or last item in an array?
+
+```jsx
+let champions = ["Ezreal", "Vayne", "Zac"];
+
+console.log(champions[0]);
+// "Ezreal"
+
+console.log(champions[champions.length - 1]);
+// "Zac"
 ```
 
 - Gym!
