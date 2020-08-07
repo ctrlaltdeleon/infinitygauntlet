@@ -1,3 +1,21 @@
+# August 7 2020
+
+- Slowly becoming a `Material UI` veteran.
+
+# August 6 2020
+
+- Don't be scared to look for opportunities!
+
+# August 5 2020
+
+- In `CSS`, what is `rem`?
+  - "The root element's font-size" or "root em" for short or even shorter `rem`.
+  - Say the base font size is `16px`, `1.25rem` === `20px`. (16 \* 1.25 = 20)
+- In `Android`, what is `dp`?
+  - Density independent pixels (dp) is the `Android` equivalent to `CSS` `px`.
+- Gym!
+  - Flex.
+
 # August 4 2020
 
 - What does the `static` keyword do?
