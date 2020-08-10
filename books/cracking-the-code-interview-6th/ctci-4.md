@@ -74,7 +74,7 @@
   - Continue to practice interview questions.
 - (Day before)
   - Rehearse each story from interview prep grid once.
-  - Continue to practice questions & review your list of mistakes.
+  - Continue to practice questions and review your list of mistakes.
   - Review Powers of 2 table (page 61 of CTCI).
   - Print for a phone screen.
 - (Day of)

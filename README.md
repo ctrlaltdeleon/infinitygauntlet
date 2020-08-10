@@ -12,7 +12,7 @@
 </h3>
 <p align="center">
   <strong>Personal weapon that contains my workflow.</strong><br>
-  Books, coding jit jots, information sessions, music playlists, & more.
+  Books, coding jit jots, information sessions, music playlists, and more.
 </p>
 
 <!-- BADGES -->

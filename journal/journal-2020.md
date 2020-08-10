@@ -1,3 +1,60 @@
+# August 10 2020
+
+- In `Material UI`, what is the difference between styled components `props` and `CSS` stylesheets?
+  - Styled components `props` pros.
+    - No global selectors, no worries about overriding selectors.
+    - Consistency.
+    - `Sass` syntax out of the box.
+    - Themes, making a parent's style accessible to children.
+    - Easy to use props with different definitions such as `small`, `medium`, and `large` rather than hard-coding each.
+  - Styled components `props` cons.
+    - Learning curve.
+    - Integration with legacy `CSS`.
+    - Potentially a "fad".
+    - Performance.
+  - `CSS` stylesheets pros.
+    - Unopinionated and universal, the same old.
+    - Caching and performance.
+    - Quickly iterate a new design by replacing the respective stylesheet with a new one.
+    - Ease of use.
+    - Frameworks which provide tutorials and foundation.
+  - `CSS stylesheets cons.
+    - Readability.
+    - Legacy CSS can live forever and may be difficult to deal with in the future.
+    - Global scope and specificity.
+    - No true dynamic styling.
+    - Maintaining consistency.
+- When to use "&" versus "and"?
+  - Only use "&" when comparing proper nouns or things that are a "pair".
+    - "Research & Design", "Web & Mobile", "AT&T".
+  - Otherwise "and" is the default case.
+    - "Family and friends", "small, medium, and large".
+- Gym!
+  - Flex.
+
+# August 9 2020
+
+- League of Legends Clash Tournament, got 2nd place out of 8 teams.
+  - Zac is good if choosing not to skirmish before level 9 otherwise it's hard to land skillshots and get in range.
+  - Great skirmishers early?
+    - Elise.
+    - Jarvan IV.
+    - Kayn.
+    - Lee Sin.
+    - Nocturne.
+  - Great skirmishers late?
+    - Amumu.
+    - Kayn.
+    - Zac.
+  - Felt like I let me team down by dying a lot for objectives and losing fights.s
+- Gym!
+  - Flex.
+
+# August 8 2020
+
+- Gym!
+  - Flex.
+
 # August 7 2020
 
 - Slowly becoming a `Material UI` veteran.
@@ -1098,7 +1155,7 @@ public class PositionObject {
   }
 }
 
-// & to call the class.
+// and to call the class.
 
 PositionObject positionObject = new PositionObject(1, new Position(2f, 3f));
 ```
@@ -1200,7 +1257,7 @@ PositionObject positionObject = new PositionObject(1, new Position(2f, 3f));
   - Front-end is not always client-side, but client-side is always front-end.
 - What is a front-end framework?
   - This term causes confusion as most people really mean is client-side rendering framework.
-  - Generally (in the 2020 context, future readers of this journal), a front-end framework is a code library (aka pre-written) to make client-side rendering easier & faster.
+  - Generally (in the 2020 context, future readers of this journal), a front-end framework is a code library (aka pre-written) to make client-side rendering easier and faster.
   - Examples include:
     - React.
     - Vue.

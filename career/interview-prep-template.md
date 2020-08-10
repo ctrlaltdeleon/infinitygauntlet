@@ -27,7 +27,7 @@
 
 - Made a mistake?
 - Handled a difficult situation?
-- Went above & beyond?
+- Went above and beyond?
 - Stepped up as a leader?
 
 ## Questions for the Company

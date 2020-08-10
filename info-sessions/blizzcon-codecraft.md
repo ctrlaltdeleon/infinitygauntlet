@@ -18,6 +18,6 @@ Notes:
   - Quality Assurance.
   - Business Operations (Tespa).
 - Specialists are always more desired than generalists, makes the person and position feel special, as if they were made for each other.
-- On a tech team it's composed of UI/UX Designers, Software Engineers, & Program Managers?
+- On a tech team it's composed of UI/UX Designers, Software Engineers, and Program Managers?
 - Speak to Katiya and others for more information.
 - Blizzard has outreached on Hackerrank!

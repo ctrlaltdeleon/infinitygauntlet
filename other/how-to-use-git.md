@@ -14,7 +14,7 @@ Sets up your `user.email`.
 git config --global user.email "%MY_EMAIL%"
 ```
 
-Checks the `user.name` & `user.email`.
+Checks the `user.name` and `user.email`.
 
 ```
 git config --global --list

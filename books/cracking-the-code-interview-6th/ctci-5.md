@@ -74,7 +74,7 @@
     - "I'm a software engineer..."
   - College:
     - "I went to..."
-  - Post college & onwards:
+  - Post college and onwards:
     - "Now I am..."
   - Current role:
     - "I'm a software engineer at..."
