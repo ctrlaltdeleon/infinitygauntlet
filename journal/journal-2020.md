@@ -1,3 +1,39 @@
+# August 11 2020
+
+- In `React`, how do you have a child component change the state of a parent component?
+
+```jsx
+// Parent.
+import React, { useState } from "react";
+import Child from "./Child";
+
+export default function App() {
+  const [nameState, setNameState] = useState("AC");
+
+  return (
+    <div className="parent">
+      <h1>Hello, my name is {nameState}</h1>
+      <Child onChange={(value) => setNameState(value)} />
+    </div>
+  );
+}
+
+// Child.
+import React from "react";
+
+const Child = props => {
+  turn (
+    <div>
+    <input type="text" placeholder="Update name..." onChange={(event) => props.onChange(event.target.value)}>
+    </div>
+  )
+}
+```
+
+- How to add spacing between items in the front-end?
+  - `&nbsp;` (It should have a semi-colon on the end) is an entity for a non-breaking space.
+  - `margin` can add spacing between two objects by adding margin on its sides.
+
 # August 10 2020
 
 - In `Material UI`, what is the difference between styled components `props` and `CSS` stylesheets?
@@ -29,6 +65,43 @@
     - "Research & Design", "Web & Mobile", "AT&T".
   - Otherwise "and" is the default case.
     - "Family and friends", "small, medium, and large".
+- In `React`, how is `clsx` used?
+  - `clsx` is generally used to conditionally apply a given `className`.
+
+```jsx
+import clsx from "clsx";
+
+const [open, setOpen] = useState(true);
+const classes = useStyles();
+
+const handleDrawerOpen = () => {
+  setOpen(true);
+};
+
+const handleDrawerClose = () => {
+  setOpen(false);
+};
+
+<Drawer
+  variant="permanent"
+  classes={{
+    // Always show drawer, unless open changes to false, then close the drawer.
+    paper: clsx(classes.drawerPaper, !open && classes.drawerPaperClose),
+  }}
+  open={open}
+>
+  <div className={classes.toolbarIcon}>
+    <IconButton onClick={handleDrawerClose}>
+      <ChevronLeftIcon />
+    </IconButton>
+  </div>
+  <Divider />
+  <List>{mainListItems}</List>
+  <Divider />
+  <List>{secondaryListItems}</List>
+</Drawer>;
+```
+
 - Gym!
   - Flex.
 
