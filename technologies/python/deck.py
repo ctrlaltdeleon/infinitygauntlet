@@ -4,7 +4,8 @@
 
 import random
 
-
+# A card has a value and suit.
+# `show()` which prints the value and suit of said card.
 class Card:
     def __init__(self, value, suit):
         self.value = value
@@ -13,7 +14,11 @@ class Card:
     def show(self):
         print("{} of {}".format(self.value, self.suit))
 
-
+# A deck is a list of cards.
+# `build()` us where it initially builds itself.
+# `shuffle()` has the power to shuffle randomly.
+# `drawCard()` removes the top card by popping from the deck.
+# `show()` shows each card left in the deck.
 class Deck:
     def __init__(self):
         self.cards = []
@@ -38,7 +43,9 @@ class Deck:
         for card in self.cards:
             card.show()
 
-
+# A player has a hand and name.
+# `draw()` gives a user a card from the deck.
+# `showHand()` shows the card(s) within the user object.
 class Player:
     def __init__(self, name):
         self.hand = []
@@ -52,13 +59,16 @@ class Player:
         for card in self.hand:
             card.show()
 
+    def throwAway(self):
+        return self.hand.pop()
+
 
 # Create a deck, shuffle the cards, and show the cards.
 deck = Deck()
 deck.shuffle()
 deck.show()
 
-# Create a player to draw a card from the deck and show the cards.
+# Create a player to draw a card from the deck and show their card(s).
 ac = Player("AC")
 ac.draw(deck)
 ac.showHand()
