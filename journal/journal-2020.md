@@ -1,3 +1,22 @@
+# August 12 2020
+
+- How to install a font into an application?
+
+```sh
+# Command.
+npm install typeface-roboto --save
+
+# Index.js.
+import 'typeface-roboto';
+```
+
+- Difference between "disc" and "disk"?
+  - Not much of a difference, debatable.
+  - Disc for circular objects.
+  - Disk for angular objects.
+- Favorite terminal editor?
+  - There's several out there including `emacs`, `nano`, `vim`, but favorite one is `gedit` since it pops out a text editor to what I'm used to.
+
 # August 11 2020
 
 - In `React`, how do you have a child component change the state of a parent component?
@@ -33,6 +52,8 @@ const Child = props => {
 - How to add spacing between items in the front-end?
   - `&nbsp;` (It should have a semi-colon on the end) is an entity for a non-breaking space.
   - `margin` can add spacing between two objects by adding margin on its sides.
+- Gym!
+  - Flex.
 
 # August 10 2020
 
