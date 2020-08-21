@@ -1,3 +1,49 @@
+# August 21 2020
+
+- How should file names be typed?
+  - `like-this-no-matter-what-08-21-2020.jpeg`
+  - Dashes everywhere for consistency and required for dates as it's the global usage.
+
+# August 20 2020
+
+- Virtual machine is back up, made a new one!
+- Gym!
+  - Volleyball.
+
+# August 19 2020
+
+- Accidentally broke my virtual machine at work and need to restart.
+- Gym!
+  - Flex.
+
+# August 18 2020
+
+- On `Mac`, what does `drutil tray eject` do?
+  - Ejects the cd in the drive "nicely", if it fails to respond physically.
+
+# August 17 2020
+
+- Learning how to create a front-end executable.
+- Gym!
+  - Flex.
+
+# August 16 2020
+
+- Relaxed.
+
+# August 15 2020
+
+- Relaxed.
+
+# August 14 2020
+
+- Met a friend named Nobu and they're moving to Maryland for work.
+
+# August 13 2020
+
+- Gym!
+  - Volleyball.
+
 # August 12 2020
 
 - How to install a font into an application?
