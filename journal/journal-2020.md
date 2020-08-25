@@ -1,8 +1,67 @@
+# August 31 2020
+
+- ???
+
+# August 30 2020
+
+- Gym!
+  - Hike with Janet.
+
+# August 29 2020
+
+- ???
+
+# August 28 2020
+
+- ???
+
+# August 27 2020
+
+- ???
+
+# August 26 2020
+
+- ???
+
+# August 25 2020
+
+- In `bash`, what does `nslookup %COMPUTER_NAME%` do?
+  - `nslookup` means "name server lookup".
+  - Looks up the server and address names along with non-authoritative names.
+- In `Ubuntu`, what do the different colors for files mean when doing `ls` in `bash`?
+  - Blue: Directory.
+  - Green: Executable or recognized data file.
+  - Cyan (Sky Blue): Symbolic link file.
+  - Yellow w/ black background: Device.
+  - Magenta (Pink): Graphic image file.
+  - Red: Archive file.
+  - Red w/ black background: Broken link.
+- Since schools are moving online, do costs go down?
+  - Costs would stay the same as the funds are allocated from physical campus cost to online costs (maintaining users, mangaging databases, working with subscription services, webcams, computers, servers, etc.)
+- Gym!
+  - Flex.
+
+# August 24 2020
+
+- How do you access a shared folder on a Linux Ubuntu 18.04 VM?
+  - `sudo adduser your-user vboxsf`
+  - Reboot.
+- Was able to make an executable!
+
+# August 23 2020
+
+- Hung out unexpectedly and had Taco Stand for the first time as well as Camellia Rd in a while.
+
+# August 22 2020
+
+- Got to see Rei Ayanami and Tae Yang for some KBBQ and run errands.
+
 # August 21 2020
 
 - How should file names be typed?
   - `like-this-no-matter-what-08-21-2020.jpeg`
   - Dashes everywhere for consistency and required for dates as it's the global usage.
+  - Google standard.
 
 # August 20 2020
 
