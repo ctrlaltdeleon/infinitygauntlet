@@ -21,7 +21,9 @@
 
 # August 26 2020
 
-- ???
+- Don't eat or drink alcohol before sleeping (2-3 hours), will cause sleep to feel uncomfortable and waking up tired.
+- Gym!
+  - Flex.
 
 # August 25 2020
 
