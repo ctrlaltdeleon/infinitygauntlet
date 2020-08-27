@@ -17,7 +17,8 @@
 
 # August 27 2020
 
-- ???
+- Gym!
+  - Volleyball.
 
 # August 26 2020
 
