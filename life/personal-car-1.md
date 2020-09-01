@@ -7,13 +7,11 @@
 - Engine.
   - 2.0 L 4-cylinder.
 - Horsepower.
-  - 120 hp.
+  - 120 hp @ 5500 rpm.
 - MPG.
   - 25 city / 32 highway.
 - Transmission.
   - 4-speed automatic.
-- Towing capacity.
-  - 1,000 lbs.
 - Tire size.
   - P195/60R15.
 
@@ -65,16 +63,16 @@
   - Replaced mass air controller.
   - Replaced starter.
   - Replaced links to the battery.
-- April 2019.
+- 2019 April.
   - Changed oil.
     - Castrol 10W-30 high mileage synthetic oil, FRAM XG7317 oil filter.
   - Replaced catalytic converter.
-- October 2019.
+- 2019 October.
   - Changed oil.
     - Castrol 10W-30 high mileage synthetic oil, FRAM XG7317 oil filter.
-- December 2019.
+- 2019 December.
   - Not using car anymore.
-- January 2020.
+- 2020 January.
   - Car tires and brakes fixed.
   - Broke down.
   - Sold @ 160000 miles.

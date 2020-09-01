@@ -58,31 +58,35 @@
 
 ## 5: Motherboard
 
-`???`
+`Asus ROG Strix B450-I Gaming`
 
-- `Asus ROG Strix B450-I Gaming` VS `Gigabyte X570 I AORUS PRO WIFI`.
-
-- The problem with AMD motherboards at the moment is that they don't provide
+- The problem with AMD motherboards at the moment is that they don't provide a USB-C friendly option.
 
 ## 6: Peripherals
 
 ## 6.1: Headset
 
-`???`
+`CORSAIR VIRTUOSO RGB WIRELESS (WHITE)`
 
-- ???
+- About 8 hours of battery life.
+- Comes with 3 ways to connect.
+  - AUX cord.
+  - USB.
+  - Wirelessly.
 
 ## 6.2: Keyboard
 
-`???`
+`Velocifire TKL61WS`
 
-- ???
+- Wanted a lightweight keyboard that provided me an introduction to 60% keyboards.
 
 ## 6.3: Microphone
 
-`???`
+`CORSAIR VIRTUOSO RGB WIRELESS (WHITE)`
 
-- ???
+- Using the headset for the microphone.
+  - It's good enough.
+  - Portable!
 
 ## 6.4: Monitor
 
@@ -105,9 +109,9 @@
 
 ## 6.6: Mousepad
 
-`???`
+`N/A`
 
-- ???
+- N/A
 
 ## 7: Power Supply Unit (PSU)
 
@@ -137,4 +141,3 @@
   - Ideally wanted something smaller than that.
 - Lian Li Strimer+ Cables were potential.
   - Provides RGB lighting for the cables.
-- Will finish when done!

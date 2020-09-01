@@ -114,6 +114,7 @@ Always check fluids on a leveled plane.
   - Loosen bolt.
   - Once liquids are empty, tighten bolt.
   - Replace engine oil filter with new one.
+    - This might be a toughie, consider using other tools rather than your hand to take apart.
   - Fill with new fluid.
   - Seal tight!
 

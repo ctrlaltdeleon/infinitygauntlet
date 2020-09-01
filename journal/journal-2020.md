@@ -1,19 +1,24 @@
-# August 31 2020
+# September 1 2020
 
 - ???
+
+# August 31 2020
+
+- Gym!
+  - Flex.
 
 # August 30 2020
 
-- Gym!
-  - Hike with Janet.
+- Worked on car stuff.
 
 # August 29 2020
 
-- ???
+- Gym!
+  - Volleyball.
 
 # August 28 2020
 
-- ???
+- Went to Ikea and sushi with Rei Ayanami and Tae Yang.
 
 # August 27 2020
 

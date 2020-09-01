@@ -1,4 +1,4 @@
-# Personal Computer 2
+# Personal Computer 1
 
 1. Case
 2. Central Processing Unit (CPU)
@@ -47,6 +47,7 @@
 `???`
 
 - ???
+
 ## 5: Motherboard
 
 `???`
