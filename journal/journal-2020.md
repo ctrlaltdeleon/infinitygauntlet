@@ -1,6 +1,13 @@
 # September 1 2020
 
-- ???
+- In `Material UI`, how do you get the `<Tabs>` indicator line to show up and be a specific color?
+
+```jsx
+// Primarily the "indicatorColor" and "value" is needed.
+<Tabs indicatorColor="primary" onChange={handleTabChange} value={tabValue}>
+  ...
+</Tabs>
+```
 
 # August 31 2020
 
@@ -355,7 +362,7 @@ new Sub().lognameB();
   - To add, `.splice(index, number of elements to delete, thing to be added in, another thing, etc.)`
   - To replace, `.splice(index, number of elements, thing to replace)`
 
-```js
+```jsx
 // Delete.
 let scores = [1, 2, 3, 4, 5];
 let deletedScores = scores.splice(0, 3);
