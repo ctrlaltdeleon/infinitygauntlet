@@ -1,3 +1,24 @@
+# September 5 2020
+
+- ???
+
+# September 4 2020
+
+- Doozy.
+- Need to figure out how `React` works with different pages, possibly using `react-router`.
+
+# September 3 2020
+
+- Gym!
+  - Volleyball.
+
+# September 2 2020
+
+- Need to fix budget.
+- Should make a Chungha, Red Velvet, Twice playlist.
+- Gym!
+  - Flex.
+
 # September 1 2020
 
 - In `Material UI`, how do you get the `<Tabs>` indicator line to show up and be a specific color?
@@ -260,7 +281,7 @@ const handleDrawerClose = () => {
     - Amumu.
     - Kayn.
     - Zac.
-  - Felt like I let me team down by dying a lot for objectives and losing fights.s
+  - Felt like I let me team down by dying a lot for objectives and losing fights.
 - Gym!
   - Flex.
 
@@ -521,7 +542,7 @@ console.log(found);
 - In `JavaScript`, is `.find()` faster than a `for` loop?
   - Yes, 30% faster.
 - Gym!
-  - Freedom.
+  - Flex.
 
 # July 26 2020
 
@@ -593,7 +614,7 @@ console.log(found);
     - Interruptions.
     - Meetings.
 - Gym!
-  - Freedom.
+  - Flex.
 
 # July 20 2020
 
@@ -612,7 +633,7 @@ console.log(found);
 
 - Submitted what I could for work, still a lot to consider.
 - Gym!
-  - Freedom.
+  - Flex.
 
 # July 18 2020
 
@@ -716,7 +737,7 @@ console.log(add(arr, "ted"));
 
 - I need to catch up on sleep, haven't been feeling well.
 - Gym!
-  - Freedom.
+  - Flex.
 
 # July 12 2020
 
@@ -756,7 +777,7 @@ function MyComponent(props) {
 ```
 
 - Gym!
-  - Freedom.
+  - Flex.
   - Tennis.
 
 # July 7 2020
@@ -777,7 +798,7 @@ function MyComponent(props) {
 
 - Relaxed.
 - Gym!
-  - Freedom.
+  - Flex.
 
 # July 4 2020
 
@@ -808,7 +829,7 @@ function MyComponent(props) {
 - DMV called about license plate, so I had to pick it up.
 - Slept early, no social interaction today.
 - Gym!
-  - Freedom.
+  - Flex.
 
 # June 29 2020
 
@@ -911,7 +932,7 @@ export default BBBComponent
 # June 26 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # June 25 2020
 
@@ -929,7 +950,7 @@ export default BBBComponent
 # June 22 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # June 21 2020
 
@@ -938,23 +959,23 @@ export default BBBComponent
 # June 20 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # June 19 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # June 18 2020
 
 - Left my second tour and decided where I want to go permanent.
 - Gym!
-  - Freedom.
+  - Flex.
 
 # June 17 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # June 16 2020
 
@@ -963,7 +984,7 @@ export default BBBComponent
 # June 15 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # June 14 2020
 
@@ -972,7 +993,7 @@ export default BBBComponent
 # June 13 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # June 12 2020
 
@@ -985,17 +1006,17 @@ export default BBBComponent
 # June 10 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # June 9 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # June 8 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # June 7 2020
 
@@ -1008,7 +1029,7 @@ export default BBBComponent
 # June 5 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # June 4 2020
 
@@ -1017,7 +1038,7 @@ export default BBBComponent
 # June 3 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # June 2 2020
 
@@ -1026,7 +1047,7 @@ export default BBBComponent
 # June 1 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # May 31 2020
 
@@ -1043,7 +1064,7 @@ export default BBBComponent
 # May 28 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # May 27 2020
 
@@ -1052,7 +1073,7 @@ export default BBBComponent
 # May 26 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # May 25 2020
 
@@ -1065,7 +1086,7 @@ export default BBBComponent
 # May 23 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # May 22 2020
 
@@ -1082,7 +1103,7 @@ export default BBBComponent
 # May 19 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # May 18 2020
 
@@ -1099,7 +1120,7 @@ export default BBBComponent
 # May 15 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # May 14 2020
 
@@ -1108,7 +1129,7 @@ export default BBBComponent
 # May 13 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # May 12 2020
 
@@ -1117,7 +1138,7 @@ export default BBBComponent
 # May 11 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # May 10 2020
 
@@ -1139,12 +1160,12 @@ export default BBBComponent
 # May 6 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # May 5 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # May 4 2020
 
@@ -1166,53 +1187,53 @@ export default BBBComponent
 
 - Gym!
 
-  - Freedom.
+  - Flex.
 
 # April 29 2020
 
 - Gym!
 
-  - Freedom.
+  - Flex.
 
 # April 28 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # April 27 2020
 
 - Researched mechanical keyboards for a good portion of my day.
   - Decided I want a 75 keyboard. (Removes the numpad at the right while staying compact.)
 - Gym!
-  - Freedom.
+  - Flex.
 
 # April 14 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # April 13 2020
 
 - Bought a lot of things due to quarantine.
 - Gym!
-  - Freedom.
+  - Flex.
 
 # April 12 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # April 11 2020
 
 - Helped around the house.
 - Thought of some video ideas dealing with city pop.
 - Gym!
-  - Freedom.
+  - Flex.
 
 # April 10 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # April 9 2020
 
@@ -1225,53 +1246,53 @@ export default BBBComponent
   - `boolean == integer` will cause the boolean to be converted to an integer.
   - `false` becomes `0` and `true` becomes `1`.
 - Gym!
-  - Freedom.
+  - Flex.
 
 # April 8 2020
 
 - Work.
 - Gym!
-  - Freedom.
+  - Flex.
 
 # April 7 2020
 
 - Work.
 - Gym!
-  - Freedom.
+  - Flex.
 
 # April 6 2020
 
 - Work.
 - Gym!
-  - Freedom.
+  - Flex.
 
 # April 5 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # April 4 2020
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # April 3 2020
 
 - Work.
 - Gym!
-  - Freedom.
+  - Flex.
 
 # April 2 2020
 
 - Work.
 - Gym!
-  - Freedom.
+  - Flex.
 
 # April 1 2020
 
 - Work.
 - Gym!
-  - Freedom.
+  - Flex.
 
 # March 31 2020
 
@@ -1306,7 +1327,7 @@ export default BBBComponent
 - Trying to get my development environment up.
   - Confusing, wish I had physical help to get jump started.
 - Gym!
-  - Freedom.
+  - Flex.
 
 # March 23 2020
 
@@ -1316,7 +1337,7 @@ export default BBBComponent
 
 - Relaxed.
 - Gym!
-  - Freedom!
+  - Flex.
 
 # March 21 2020
 
@@ -1386,7 +1407,7 @@ PositionObject positionObject = new PositionObject(1, new Position(2f, 3f));
   - Done!
 - Try to workout when you can.
 - Gym!
-  - Freedom.
+  - Flex.
 
 # March 15 2020
 

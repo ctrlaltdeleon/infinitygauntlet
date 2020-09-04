@@ -116,8 +116,8 @@
 
 # December 23 2019
 
-- Gym.
-  - Freedom!
+- Gym!
+  - Flex.
 
 # December 22 2019
 
@@ -125,8 +125,8 @@
 
 # December 21 2019
 
-- Gym.
-  - Freedom!
+- Gym!
+  - Flex.
 
 # December 20 2019
 
@@ -134,8 +134,8 @@
 
 # December 19 2019
 
-- Gym.
-  - Freedom!
+- Gym!
+  - Flex.
 
 # December 18 2019
 
@@ -244,7 +244,7 @@
 # November 26 2019
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # November 25 2019
 
@@ -360,7 +360,7 @@
 - Spent time with friends.
 - Happy Halloween!
 - Gym!
-  - Freedom.
+  - Flex.
 
 # October 30 2019
 
@@ -375,7 +375,7 @@
 # October 28 2019
 
 - Gym!
-  - Freedom.
+  - Flex.
 
 # October 27 2019
 
@@ -837,7 +837,7 @@ document.getElementById("demo").addEventListener("click", myFunction);
 
 - Spent the day with Mags.
 - Gym!
-  - Freedom.
+  - Flex.
 
 # September 8 2019
 
@@ -887,20 +887,20 @@ console.log(this.blockScopedVariable); // undefined
     - Each pair of request and response communication makes an independent transaction.
     - Gives the ability to scale.
 - Gym!
-  - Freedom workout.
+  - Flex.
 
 # September 4 2019
 
 - Relaxed.
 - Gym!
-  - Freedom workout.
+  - Flex.
 
 # September 3 2019
 
 - Relaxed.
 - Played "Deception" with some friends.
 - Gym!
-  - Freedom workout.
+  - Flex.
 
 # September 2 2019
 
@@ -1647,7 +1647,7 @@ componentDidMount() {
 
 - `C#` training.
 - Gym!
-  - Freedom.
+  - Flex.
 
 # May 24 2019
 
@@ -1972,7 +1972,7 @@ fetch(apiUrl)
   - Think like the top of a clock.
   - `padding: top right bottom left;`
 - Gym!
-  - Freedom workout.
+  - Flex.
 
 # May 12 2019
 
