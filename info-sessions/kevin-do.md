@@ -9,7 +9,7 @@ Contact:    N/A
 
 Notes:
 
-```jsx
+```js
 <html>
 <head>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.24/browser.js"></script>

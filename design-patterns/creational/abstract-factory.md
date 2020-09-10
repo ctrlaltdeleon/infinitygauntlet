@@ -10,7 +10,7 @@
 - When there are interrelated dependencies with not-that-simple creation logic involved.
 - In this case, to reduce the amount of variables to work with and have the overall application be simpler.
 
-```jsx
+```js
 import React from "react";
 import ReactDOM from "react-dom";
 

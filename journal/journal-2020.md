@@ -1,6 +1,66 @@
-# September 5 2020
+# September 12 2020
 
 - ???
+
+# September 11 2020
+
+- ???
+
+# September 10 2020
+
+- Gym!
+  - Volleyball.
+
+# September 9 2020
+
+- Feel like I'm learning stuff, but going nowhere with the code.
+- Gym!
+  - Flex.
+
+# September 8 2020
+
+- "We always say "I'm here if you need me", assuming they have the courage to even approach you in their time of need."
+- In `Git`, how do you delete all local branches except the few that you want to keep?
+  - `git branch | grep -v "%FIRST-BRANCH%\|%SOME-OTHER-BRANCH%" | xargs git branch -D`
+- In `React`, how do you fix this error:
+  - `Can't perform a React state update on an unmounted component. This is a no-op, but it indicates a memory leak in your application. To fix, cancel all subscriptions and asynchronous tasks in a useEffect cleanup function.`
+
+```js
+useEffect((data) => {
+  effect
+  return () => {
+    cleanup
+  }
+}, [input])
+```
+
+- In `React`, what's the difference between `export function` VS. `export default`.
+  - Depends if you want to export a single entity VS. multiple entities.
+
+```js
+// Default export.
+import DefaultExport from './somewhere';
+
+// Export.
+import { export, export2 } from './somewhere';
+```
+
+- Gym!
+  - Volleyball.
+
+# September 7 2020
+
+- Fixed a lot of files, need to work on hard drive now.
+- Gym!
+  - Flex.
+
+# September 6 2020
+
+- Floating in the ocean, got home, shout outs to Apex Predator for taking me home.
+
+# September 5 2020
+
+- Curry Crew stream.
 
 # September 4 2020
 
@@ -23,7 +83,7 @@
 
 - In `Material UI`, how do you get the `<Tabs>` indicator line to show up and be a specific color?
 
-```jsx
+```js
 // Primarily the "indicatorColor" and "value" is needed.
 <Tabs indicatorColor="primary" onChange={handleTabChange} value={tabValue}>
   ...
@@ -162,7 +222,7 @@ import 'typeface-roboto';
 
 - In `React`, how do you have a child component change the state of a parent component?
 
-```jsx
+```js
 // Parent.
 import React, { useState } from "react";
 import Child from "./Child";
@@ -230,7 +290,7 @@ const Child = props => {
 - In `React`, how is `clsx` used?
   - `clsx` is generally used to conditionally apply a given `className`.
 
-```jsx
+```js
 import clsx from "clsx";
 
 const [open, setOpen] = useState(true);
@@ -334,7 +394,7 @@ du -bsh *                # Gives you the apparent (-b) summarized (-s) size of a
 
 - What is the standard way to call `static` methods?
 
-```jsx
+```js
 // Be mindful of inheritance syntax.
 
 class Super {
@@ -383,7 +443,7 @@ new Sub().lognameB();
   - To add, `.splice(index, number of elements to delete, thing to be added in, another thing, etc.)`
   - To replace, `.splice(index, number of elements, thing to replace)`
 
-```jsx
+```js
 // Delete.
 let scores = [1, 2, 3, 4, 5];
 let deletedScores = scores.splice(0, 3);
@@ -403,7 +463,7 @@ console.log(languages); // ["C", "Python", "C#", "Swift", "Go", "JavaScript"]
 
 - In `Javascript`, how to determine the variable is `undefined` or `null` properly?
 
-```jsx
+```js
 // Since "null == undefined" already, just do this.
 if (variable == null) {
   // Your code here.
@@ -412,7 +472,7 @@ if (variable == null) {
 
 - In `JavaScript`, how to sort array of objects by property value?
 
-```jsx
+```js
 var champions = [
   { name: "Jarvan IV", group: "Demacia", stars: 1 },
   { name: "Kayn", group: "Edgelord", stars: 3 },
@@ -450,7 +510,7 @@ champions.sort((a, b) => {
 
 - In `JavaScript`, how to achieve the first or last item in an array?
 
-```jsx
+```js
 let champions = ["Ezreal", "Vayne", "Zac"];
 
 console.log(champions[0]);
@@ -525,7 +585,7 @@ console.log(champions[champions.length - 1]);
   - `forEach` for readability and simple usage.
 - In `JavaScript`, how does the `find` function work?
 
-```jsx
+```js
 const array1 = [5, 12, 8, 130, 44];
 
 const found = array1.find((element) => element > 10);
@@ -657,7 +717,7 @@ console.log(found);
 
 - In `Javascript`, how do you iterate over all the properties of an object `obj`?
 
-```jsx
+```js
 for (var key in obj) {
   console.log(key, obj[key]);
 }
@@ -679,7 +739,7 @@ Object.keys(obj).forEach(function (key) {
   - Iterates over the array items, in ascending order (0, 1, 2...), without mutating the array.
 - What are the differences in defining state value in `React`?
 
-```jsx
+```js
 // Previously.
 class App extends React.component {
   state = {
@@ -710,7 +770,7 @@ function App() {
     - `obj["new_key"] = "new_value";`
 - How to check if object value exists within a `JavaScript` array of objects?
 
-```jsx
+```js
 const arr = [
   { id: 1, username: "fred" },
   { id: 2, username: "bill" },
@@ -764,7 +824,7 @@ console.log(add(arr, "ted"));
 
 - In `React`, how could you call a method on load once when `componentDidMount` is not in use?
 
-```jsx
+```js
 // This is in the case of a function component.
 // The `useEffect` component will act as a initial load.
 
@@ -850,7 +910,7 @@ function MyComponent(props) {
   - Provide a context value, `<UserProvider value={...something}>`
   - Consume the context value, `<UserConsumer>...</UserConsumer>`
 
-```jsx
+```js
 // userContext.js
 
 import React from 'react';
@@ -1605,7 +1665,7 @@ export HISTCONTROL=ignoredups
 
 - What is destructing? (Examples in `ReactJS`)
 
-```jsx
+```js
 // Imagine you have a person object with the following properties.
 const person = {
   firstName: "Lindsay",
@@ -1687,7 +1747,7 @@ const Attraction = ({
 
 - What does `map`, `filter`, and `reduce` do?
 
-```jsx
+```js
 // Maps an action to the data and returns the results.
 map([🌽, 🐮, 🐔], cook) => [🍿, 🍔, 🍳]
 
@@ -2189,7 +2249,7 @@ package.json
 - What is `useRef()` in `React`?
   - Uses a references to an `HTML` component in a `.js` file.
 
-```jsx
+```js
 function App() {
   const todoNameRef = useRef();
 
@@ -2419,7 +2479,7 @@ u=rwx,g=rwx,o=
   - Reasons for same repos is for the engineers to understand the product as a whole.
 - How does a standard `Electron` test file look like?
 
-```jsx
+```js
 const Application = require("spectron").Application; // `Spectron`'s application driver.
 const assert = require("assert"); // `Node.js`'s built in assertion library.
 const electronPath = require("electron"); // Locally installed development version of `Electron`.

@@ -11,7 +11,7 @@
 - Or putting it in other words, when the client doesn't know what exact sub-class it might need.
 - In this case, when the hiring manager doesn't know what exact managers needed to interview candidates.
 
-```jsx
+```js
 import React from "react";
 import ReactDOM from "react-dom";
 
