@@ -5,6 +5,20 @@
 # September 14 2020
 
 - https://www.youtube.com/watch?v=sjxNTcsquG8
+- Finite players play to beat who's around them while infinite players player to beat themselves. (Sounds awkward, but you get it.)
+- In `JavaScript`, how to add leading zeroes to a date, specifically if the months or days is 1 digit, instead of the organized 2?
+
+```js
+var MyDate = new Date();
+var MyDateString;
+
+MyDate.setDate(MyDate.getDate() + 20);
+
+MyDateString = ('0' + MyDate.getDate()).slice(-2) + '/'
+             + ('0' + (MyDate.getMonth()+1)).slice(-2) + '/'
+             + MyDate.getFullYear();
+```
+
 - Gym!
   - Flex.
 
