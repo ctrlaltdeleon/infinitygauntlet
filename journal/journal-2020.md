@@ -2,9 +2,30 @@
 
 - ???
 
+# September 14 2020
+
+- https://www.youtube.com/watch?v=sjxNTcsquG8
+- Gym!
+  - Flex.
+
+# September 13 2020
+
+- Hung out with Clarinet and it was surprisingly easy to talk to her.
+- Gym!
+  - Hiking.
+  - Flex.
+
+# September 12 2020
+
+- I spiked the wall so well and Jeff did a great serve to end the game when we were about to lose!
+- Gym!
+  - Volleyball.
+  
 # September 11 2020
 
-- ???
+- Felt poopy.
+- Gym!
+  - Flex.
 
 # September 10 2020
 
