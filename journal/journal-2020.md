@@ -1,10 +1,74 @@
-# September 12 2020
+# September 22 2020
 
-- ???
+- In `React`, how to add to an array using `React Hooks`?
+  - `searches.push(query)`?
+    - Doesn't ever get "set" with the `setSearches` hook.
+  - `setSearches(searches.push(query))`?
+    - `.push` returns the length of the array instead of the array itself.
+  - `setSearches(searches.concat(query))?
+    - Works great since `.concat` creates a new array than an old one.
+  - `setSearches([query].concat(searches))`
+    - Works great if needing to add to the front of the data structure.
+  - `setSearches(searches => searches.concat(query))`
+    - Even better since there's a wrapper function.
+  - `setSearches(searches => [...searches, query])`
+    - Ideal solution.
+  - `setSearches(searches => [query, ...searches])`
+    - Ideal solution if needing to add to the front of the data structure.
+- What's a wrapper function's purpose?
+  - To call another function (callback).
+  - Think of it as an alarm clock, will call the proper function at the right time.
+  - Can not mess a function up (usually), so I can't trust myself to wake myself up, but a wrapper function will be trustworthy to wake me up (alarm clock).
+- How to create a `package.json` properly?
+  - `npm init`
+  - Will prompt for each field that needs input.
+- In `Git`, how to change a commit message when already committed?
+  - `git commit --amend`
+
+# September 21 2020
+
+- Gym!
+  - Flex.
+
+# September 20 2020
+
+- Slept really.
+- Gym!
+  - Flex.
+
+# September 19 2020
+
+- Spent the day with Rei Ayanami visiting the shop, kpop store, swapmeet, bookoff, hmart, nishiki ramen, and hopefully Super Potion, but time constraints.
+
+# September 18 2020
+
+- https://www.youtube.com/watch?v=M3rsXos0TD8
+
+# September 17 2020
+
+- Gym!
+  - Volleyball.
+
+# September 16 2020
+
+- Gym!
+  - Flex.
+
+# September 15 2020
+
+- How to ask a "good" Stack Overflow question?
+  - What are you trying to do?
+  - What is your code that currently tries to do that?
+  - What do you expect the result to be?
+  - What is the actual result?
+- How do you answer a Stack Overflow
+- Gym!
+  - Volleyball.
 
 # September 14 2020
 
 - https://www.youtube.com/watch?v=sjxNTcsquG8
+- https://www.psychologytoday.com/us/blog/living-forward/201511/why-ghosting-hurts-so-much
 - Finite players play to beat who's around them while infinite players player to beat themselves. (Sounds awkward, but you get it.)
 - In `JavaScript`, how to add leading zeroes to a date, specifically if the months or days is 1 digit, instead of the organized 2?
 
@@ -14,9 +78,12 @@ var MyDateString;
 
 MyDate.setDate(MyDate.getDate() + 20);
 
-MyDateString = ('0' + MyDate.getDate()).slice(-2) + '/'
-             + ('0' + (MyDate.getMonth()+1)).slice(-2) + '/'
-             + MyDate.getFullYear();
+MyDateString =
+  ("0" + MyDate.getDate()).slice(-2) +
+  "/" +
+  ("0" + (MyDate.getMonth() + 1)).slice(-2) +
+  "/" +
+  MyDate.getFullYear();
 ```
 
 - Gym!
@@ -34,7 +101,7 @@ MyDateString = ('0' + MyDate.getDate()).slice(-2) + '/'
 - I spiked the wall so well and Jeff did a great serve to end the game when we were about to lose!
 - Gym!
   - Volleyball.
-  
+
 # September 11 2020
 
 - Felt poopy.
@@ -61,12 +128,15 @@ MyDateString = ('0' + MyDate.getDate()).slice(-2) + '/'
   - `Can't perform a React state update on an unmounted component. This is a no-op, but it indicates a memory leak in your application. To fix, cancel all subscriptions and asynchronous tasks in a useEffect cleanup function.`
 
 ```js
-useEffect((data) => {
-  effect
-  return () => {
-    cleanup
-  }
-}, [input])
+useEffect(
+  (data) => {
+    effect;
+    return () => {
+      cleanup;
+    };
+  },
+  [input]
+);
 ```
 
 - In `React`, what's the difference between `export function` VS. `export default`.
@@ -74,10 +144,10 @@ useEffect((data) => {
 
 ```js
 // Default export.
-import DefaultExport from './somewhere';
+import DefaultExport from "./somewhere";
 
 // Export.
-import { export, export2 } from './somewhere';
+import { export, export2 } from "./somewhere";
 ```
 
 - Gym!
@@ -175,8 +245,9 @@ import { export, export2 } from './somewhere';
 # August 24 2020
 
 - How do you access a shared folder on a Linux Ubuntu 18.04 VM?
-  - `sudo adduser your-user vboxsf`
+  - `sudo adduser %YOUR-USER% vboxsf`
   - Reboot.
+  - If that doesn't work, try `sudo usermod -aG vboxsf $(whoami)`.
 - Was able to make an executable!
 
 # August 23 2020

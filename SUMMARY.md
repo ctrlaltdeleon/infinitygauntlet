@@ -51,6 +51,7 @@
 - [Journal](journal/README.md)
 - [Life](life/README.md)
   - [Car](life/car.md)
+  - [Love](life/love.md)
 - [Other](other/README.md)
   - [Capitalization](other/capitalization.md)
   - [Computer and VSCode Plugins](other/computer-and-vscode-plugins.md)
