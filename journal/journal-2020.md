@@ -1,3 +1,18 @@
+# September 25 2020
+
+- Gym!
+  - Volleyball.
+
+# September 24 2020
+
+- Made great progress for work!
+- Gym!
+  - Volleyball.
+
+# September 23 2020
+
+- Handoo BBQ with Taeyang, Jisun, and Scantron.
+
 # September 22 2020
 
 - In `React`, how to add to an array using `React Hooks`?
@@ -61,6 +76,7 @@
   - What is your code that currently tries to do that?
   - What do you expect the result to be?
   - What is the actual result?
+  - What I think the problem could be?
 - How do you answer a Stack Overflow
 - Gym!
   - Volleyball.
