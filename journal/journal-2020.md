@@ -1,3 +1,29 @@
+# September 28 2020
+
+- Input validation! Wow!
+- Darn those `React` input validation libraries for being out of date kind of.
+- How to install `Node.js` and `npm` into `Linux`!
+  - `curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -`
+  - `sudo apt install nodejs`
+  - Verify they're installed.
+  - `node --version`
+  - `npm --version`
+- Gym!
+  - Flex.
+
+# September 27 2020
+
+- Went to the San Diego Zoo and Buca Di Beppo with the Yakuza.
+- Streamed with positive people and felt happy about it.
+- Created an "anime" Spotify playlist!
+
+# September 26 2020
+
+- Went to Mira Mesa to try out volleyball there and it feels expert level.
+- Hung out with Karasuno playing Mahjong.
+- Gym!
+  - Volleyball.
+
 # September 25 2020
 
 - Gym!

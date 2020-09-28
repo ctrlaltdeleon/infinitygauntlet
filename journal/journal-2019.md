@@ -1201,7 +1201,7 @@ T.get("search/tweets", params, function (err, data, response) {
   - `MINOR` version when adding functionality in a backwards-compatible manner.
   - `PATCH` version when making backwards-compatible bug fixes.
 - Comments are not allowed in `.JSON` files!
-- Packages made in `NPM` are automatically private unless said otherwise.
+- Packages made in `npm` are automatically private unless said otherwise.
   - Fixed with `npm publish --access=public`.
 - Gym!
   - Back and biceps.

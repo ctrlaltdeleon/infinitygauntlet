@@ -4,9 +4,13 @@ If you need ideas for adventures.
 
 ## Activities
 
+- Amusement park.
 - Axe range.
+- Cooking together.
 - Gun range.
+- Hot air balloon riding.
 - Painting.
+- Skydiving.
 - Video games.
   - Overcooked.
 
@@ -22,6 +26,10 @@ If you need ideas for adventures.
   - Boba, flexible hours.
 - Omomo (Orange County).
   - Boba, artisan drinks.
+
+## Gifts
+
+- Flowers.
 
 ## Places
 
