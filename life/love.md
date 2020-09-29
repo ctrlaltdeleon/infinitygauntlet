@@ -5,12 +5,25 @@ If you need ideas for adventures.
 ## Activities
 
 - Amusement park.
+  - Self-explanatory.
 - Axe range.
+  - Preparing for war together, how romantic.
 - Cooking together.
+  - Food, learning, and overcooked but in real life.
+- Dancing together.
+  - Kpop.
+  - Old fashioned.
 - Gun range.
+  - Pew pew, let out some steam.
 - Hot air balloon riding.
+  - Great view.
+- Ikea shopping.
+  - Get a feel how it's like if choosing furniture together.
 - Painting.
+  - Bob Ross potentially.
+  - An experience and a gift.
 - Skydiving.
+  - Exciting.
 - Video games.
   - Overcooked.
 
@@ -29,6 +42,7 @@ If you need ideas for adventures.
 
 ## Gifts
 
+- Boba.
 - Flowers.
 
 ## Places
