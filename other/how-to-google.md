@@ -27,9 +27,9 @@
 - `Time %PLACE%`
   - `Time Korea`
   - Finds the time of the designated place.
-- `%FILE_NAME% filetype:pdf`
+- `%FILE-NAME% filetype:pdf`
   - `how to sleep well filetype:pdf`
   - Finds the file type of the designated phrase.
-- `%TRACKING_NUMBER%`
+- `%TRACKING-NUMBER%`
   - `123456789ABC`
   - Finds the details of your package of the designated tracking number provided.

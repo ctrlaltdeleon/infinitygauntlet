@@ -8,7 +8,7 @@
 <!-- DESCRIPTION -->
 
 <h3 align="center">
-  <span role="img" aria-label="EMOJI_NAME">EMOJI</span>
+  <span role="img" aria-label="EMOJI-NAME">EMOJI</span>
 </h3>
 <p align="center">
   <strong>WHAT THE PRODUCT IS</strong><br>

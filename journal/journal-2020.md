@@ -1,3 +1,28 @@
+# September 30 2020
+
+- In `Mac`, how to fix terminal issue that displays `zsh compinit: insecure directories, run compaudit for list.`?
+
+```sh
+# Lists unsecure directories.
+compaudit
+
+# To fix the error.
+sudo chmod -R 755 %TARGET-DIRECTORY%
+```
+
+- Gym!
+
+# September 30 2020
+
+- https://www.youtube.com/watch?v=efGLdwPOWSw
+- Felt groggy.
+
+# September 29 2020
+
+- Needed to see someone.
+- Gym!
+  - Volleyball.
+
 # September 28 2020
 
 - Input validation! Wow!
@@ -268,7 +293,7 @@ import { export, export2 } from "./somewhere";
 
 # August 25 2020
 
-- In `bash`, what does `nslookup %COMPUTER_NAME%` do?
+- In `bash`, what does `nslookup %COMPUTER-NAME%` do?
   - `nslookup` means "name server lookup".
   - Looks up the server and address names along with non-authoritative names.
 - In `Ubuntu`, what do the different colors for files mean when doing `ls` in `bash`?
@@ -531,12 +556,12 @@ const handleDrawerClose = () => {
 # ls = files
 # du = directories
 
-ls -l filename   # Displays size of the specified file.
+ls -l $FILENAME% # Displays size of the specified file.
 ls -l *          # Displays size of all the files in the current directory.
 ls -al *         # Displays size of all the files including hidden files in the current directory.
 ls -al dir/      # Displays size of all the files including hidden files in the 'dir' directory.
 
-du -sh directory_name    # Gives you the summarized (-s) size of the directory in human readable (-h) format.
+du -sh %DIRECTORY-NAME%  # Gives you the summarized (-s) size of the directory in human readable (-h) format.
 du -bsh *                # Gives you the apparent (-b) summarized (-s) size of all the files and directories in the current directory in human readable (-h) format.
 ```
 
@@ -779,7 +804,7 @@ console.log(found);
 - How do you render `ctrl + caret`, while still having the caret being the symbol in markdown?
   - I don't think it's possible.
 - How do you `scp` multiple files from a source?
-  - `scp %USER%@%HOST%:/%SOME_DIRECTORY/\{%FILE_1%,%FILE_2%\} /%TO_DESTINATION%/`
+  - `scp %USER%@%HOST%:/%SOME-DIRECTORY/\{%FILE-1%,%FILE-2%\} /%TO-DESTINATION%/`
 - What is `Chaos Engineering`?
   - Chaos engineering is the discipline of experimenting on a software system in production in order to build confidence in the system's capability to withstand turbulent and unexpected conditions.
   - Implemented due to deadlines of projects without enough time to test vulnerabilities.
@@ -909,13 +934,13 @@ function App() {
 ```
 
 - How to access the last element of an array in `JavaScript`?
-  - `var last_element = my_array[my_array.length - 1]`
+  - `var last-element = my-array[my-array.length - 1]`
 - How to add new properties to an object?
   - There's 2 ways.
   - Dot notation!
-    - `obj.new_key = "new_value";`
+    - `obj.new-key = "new-value";`
   - Square bracket notation!
-    - `obj["new_key"] = "new_value";`
+    - `obj["new-key"] = "new-value";`
 - How to check if object value exists within a `JavaScript` array of objects?
 
 ```js
@@ -1728,7 +1753,7 @@ PositionObject positionObject = new PositionObject(1, new Position(2f, 3f));
 # Make Bash append rather than overwrite the history on disk:
 shopt -s histappend
 # A new shell gets the history lines from all previous shells
-PROMPT_COMMAND='history -a'
+PROMPT-COMMAND='history -a'
 # Don't put duplicate lines in the history.
 export HISTCONTROL=ignoredups
 ```
@@ -1779,7 +1804,7 @@ export HISTCONTROL=ignoredups
 
 - Robinhood sadly down for black monday.
 - How do you rename files in `Linux` using the terminal?
-  - `mv %OLD_FILE_NAME% %NEW_FILE_NAME%`
+  - `mv %OLD-FILE-NAME% %NEW-FILE-NAME%`
 - Difference between Sockets and WebSockets?
   - WebSockets run from browsers connecting to application server over a protocol similar to HTTP that runs over TCP/IP.
     - Primarily for web apps that require a permanent connection to its server.
@@ -1845,13 +1870,13 @@ const Attraction = (props) => {
     <div auth={props.auth} key={props.attraction.id}>
       <Link
         auth={props.auth.token}
-        to={`/attractions/${props.attraction.url_name}`}
+        to={`/attractions/${props.attraction.url-name}`}
         key={props.attraction.id}
       >
-        <img alt={props.attraction.name} src={props.attraction.image_url} />
+        <img alt={props.attraction.name} src={props.attraction.image-url} />
         <h1>{props.attraction.name}</h1>
       </Link>
-      <StarRatings rating={props.attraction.average_rating} />
+      <StarRatings rating={props.attraction.average-rating} />
     </div>
   );
 };
@@ -1862,13 +1887,13 @@ const Attraction = ({ auth, attraction }) => {
     <div auth={auth} key={attraction.id}>
       <Link
         token={auth.token}
-        to={`/attractions/${attraction.url_name}`}
+        to={`/attractions/${attraction.url-name}`}
         key={attraction.id}
       >
-        <img alt={attraction.name} src={attraction.image_url} />
+        <img alt={attraction.name} src={attraction.image-url} />
         <h1>{attraction.name}</h1>
       </Link>
-      <StarRatings rating={attraction.average_rating} />
+      <StarRatings rating={attraction.average-rating} />
     </div>
   );
 };
@@ -1879,15 +1904,15 @@ const Attraction = ({
   // So if you need to pass down more than just the `token`, this is what is needed.
   auth,
   auth: { token },
-  attraction: { id, url_name, name, image_url, average_rating },
+  attraction: { id, url-name, name, image-url, average-rating },
 }) => {
   return (
     <div auth={auth} key={id}>
-      <Link token={token} to={`/attractions/${url_name}`} key={id}>
-        <img alt={name} src={image_url} />
+      <Link token={token} to={`/attractions/${url-name}`} key={id}>
+        <img alt={name} src={image-url} />
         <h1>{name}</h1>
       </Link>
-      <StarRatings rating={average_rating} />
+      <StarRatings rating={average-rating} />
     </div>
   );
 };
@@ -1928,19 +1953,19 @@ alias git-pull-all="find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {
   - Shows databases that are present in `MongoDB`.
     - `show dbs`
   - To create a new database or switch database.
-    - `use %DATABASE_NAME%`
+    - `use %DATABASE-NAME%`
   - To check what database you're in.
     - `db`
   - To add a collection to the database you're in.
-    - `db.%COLLECTION_NAME%.insert({"name" : "AC"})`
+    - `db.%COLLECTION-NAME%.insert({"name" : "AC"})`
   - To show all collections in all databases.
     - `show collections`
   - To show all the documents in the collection.
-    - `db.%COLLECTION_NAME%.find()`
+    - `db.%COLLECTION-NAME%.find()`
   - To show a specific document in a collection, specify a key value pair.
-    - `db.%COLLECTION_NAME%.find({%KEY%: "%VALUE%"})`
+    - `db.%COLLECTION-NAME%.find({%KEY%: "%VALUE%"})`
   - To show a document in a collection in a pretty style.
-    - `db.%COLLECTION_NAME%.find({%KEY%: "%VALUE%"}).pretty()`
+    - `db.%COLLECTION-NAME%.find({%KEY%: "%VALUE%"}).pretty()`
 - How do you `scp` a file with spaces within?
   - `scp ac@localmachine:~/'Front-End\ Initial\ Software\ Design\ Diagram.odg' ~/`
 - Gym!
@@ -1996,10 +2021,10 @@ alias git-pull-all="find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {
 - How to check privileges of a user?
   - `sudo -l -U %USERNAME%`
 - How to unmodify a file that's modified in `Git`?
-  - `git checkout -- %FILE_NAME%`
+  - `git checkout -- %FILE-NAME%`
 - How to select files in another branch that you want in your branch?
   - Be in your branch where you want the changes.
-  - `git checkout --patch %OTHER_BRANCH% %FILE_NAME%`
+  - `git checkout --patch %OTHER-BRANCH% %FILE-NAME%`
   - Remove `--patch` if the files you want are new to your branch.
 - Learning `vim`. Yikes.
 - Gym!
@@ -2097,7 +2122,7 @@ alias git-pull-all="find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {
   - If you have 5 `.css` files, `Webpack` transforms them into 1 `.css` to alleviate call noise.
 - How to check if a package is installed globally?
   - `npm list -g`
-  - `npm list -g %PACKAGE_NAME%`
+  - `npm list -g %PACKAGE-NAME%`
 - Gym!
   - Back and biceps.
 
@@ -2279,7 +2304,7 @@ posts: [
 - How do you perform a right-click in `Spectron`?
   - Must install `spectron-keys` library first.
 
-```
+```js
 const spectronKeys = require("spectron-keys");
 
 it("Right click on item", async () => {
@@ -2468,7 +2493,7 @@ u=rwx,g=rwx,o=
 - What does `cp` do in `Linux`?
   - Copies files or directories.
   - Also know as "copy".
-  - `cp %I_WANT_TO_COPY_YOU_FILES% %DESTINATION_AREA%`
+  - `cp %I-WANT-TO-COPY-YOU-FILES% %DESTINATION-AREA%`
   - `cp README.md ~/`
 - What is `Gitlab`?
   - A web-based DevOps life cycle tool that provides a `Git`-repository manager providing wiki, issue-tracking and CI/CD pipeline features, using an open source license.
@@ -2505,7 +2530,7 @@ u=rwx,g=rwx,o=
 - What does `scp` do in `Linux`?
   - Allows files to be copied to, from, or between different hosts.
   - Also known as "secure copy".
-  - `scp ac@starkiller:~/%FILE_NAME% .`
+  - `scp ac@starkiller:~/%FILE-NAME% .`
 - How do you remove a file in `Linux`?
   - `rm`
 - How do you remove a directory in `Linux`?
@@ -2572,8 +2597,8 @@ u=rwx,g=rwx,o=
   - Open terminal.
   - Change location to the address location, but one folder up.
   - To check contents use `ls -la`.
-  - Make a back-up via `cp %FILE_NAME%.VDI %BACK_UP_FILE_NAME%.VDI`.
-  - Resize the file `vboxmanage modifyhd %FILE_NAME%.VDI --resize 100000`
+  - Make a back-up via `cp %FILE-NAME%.VDI %BACK-UP-FILE-NAME%.VDI`.
+  - Resize the file `vboxmanage modifyhd %FILE-NAME%.VDI --resize 100000`
     - 100000 is approximately 100 gigabytes.
   - Highlight virtual machine in `VirtualBox`.
   - Go to settings.

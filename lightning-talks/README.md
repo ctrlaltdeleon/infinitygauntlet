@@ -6,5 +6,5 @@ Contains all lightning talks and the variance.
 
 ```
 yarn
-yarn mdx-deck %YOUR_MDX_FILE_HERE%.mdx
+yarn mdx-deck %YOUR-MDX-FILE-HERE%.mdx
 ```
