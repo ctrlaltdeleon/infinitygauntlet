@@ -1,4 +1,12 @@
-# September 30 2020
+# October 4 2020
+
+# October 3 2020
+
+# October 2 2020
+
+- Good day at work.
+
+# October 1 2020
 
 - In `Mac`, how to fix terminal issue that displays `zsh compinit: insecure directories, run compaudit for list.`?
 
@@ -11,6 +19,7 @@ sudo chmod -R 755 %TARGET-DIRECTORY%
 ```
 
 - Gym!
+  - Volleyball.
 
 # September 30 2020
 
