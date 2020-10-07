@@ -1,6 +1,30 @@
+# October 7 2020
+
+- Lofi chill mix: https://www.youtube.com/watch?v=NxSDNogkKX0
+- Gym!
+  - Flex.
+
+# October 6 2020
+
+- Gym!
+  - Volleyball.
+
+# October 5 2020
+
+- Need to work on clearance.
+- "Honesty tempered by love is a great thing."
+- Gym!
+  - Flex.
+
 # October 4 2020
 
+- Hung out with FS, I should be happy, but I'm sad.
+- Gym!
+  - Flex.
+
 # October 3 2020
+
+- ???
 
 # October 2 2020
 
@@ -23,7 +47,7 @@ sudo chmod -R 755 %TARGET-DIRECTORY%
 
 # September 30 2020
 
-- https://www.youtube.com/watch?v=efGLdwPOWSw
+- Simon Sinek: https://www.youtube.com/watch?v=efGLdwPOWSw
 - Felt groggy.
 
 # September 29 2020
@@ -117,7 +141,7 @@ sudo chmod -R 755 %TARGET-DIRECTORY%
 
 # September 18 2020
 
-- https://www.youtube.com/watch?v=M3rsXos0TD8
+- Simon Sinek: https://www.youtube.com/watch?v=M3rsXos0TD8
 
 # September 17 2020
 
@@ -199,7 +223,7 @@ MyDateString =
 
 - "We always say "I'm here if you need me", assuming they have the courage to even approach you in their time of need."
 - In `Git`, how do you delete all local branches except the few that you want to keep?
-  - `git branch | grep -v "%FIRST-BRANCH%\|%SOME-OTHER-BRANCH%" | xargs git branch -D`
+  - `git branch | grep -v "%BRANCH-TO-KEEP%\|%OTHER-BRANCH-TO-KEEP%" | xargs git branch -D`
 - In `React`, how do you fix this error:
   - `Can't perform a React state update on an unmounted component. This is a no-op, but it indicates a memory leak in your application. To fix, cancel all subscriptions and asynchronous tasks in a useEffect cleanup function.`
 
