@@ -1,3 +1,17 @@
+# October 13 2020
+
+- :)
+
+# October 12 2020
+
+# October 11 2020
+
+# October 10 2020
+
+# October 9 2020
+
+# October 8 2020
+
 # October 7 2020
 
 - Lofi chill mix: https://www.youtube.com/watch?v=NxSDNogkKX0
