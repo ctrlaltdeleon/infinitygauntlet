@@ -1,20 +1,74 @@
+# October 14 2020
+
+- "Contained in" is to have almost identical meaning.
+- "Revealed by" is to explain further more.
+- "Classification by Compilation" is when 2 > unclassified info create classified info.
+- Extracting occurs when information is taken directly from an authorized classification guidance source and is stated verbatim in a new or different document.
+- Paraphrasing or restating occurs when information is taken from an authorized source and is re-worded in a new or different document.
+  - Derivative classifiers must be careful when paraphrasing or restating information to ensure that the classification has not been changed in the process.
+- Generating is when information is taken from an authorized source and generated into in another form or medium, such as a video, DVD, or CD.
+- Confidentiality from least to greatest.
+  - Unclassified
+  - Confidential
+  - Secret
+  - Top Secret
+- What is deferential backshift?
+  - "I was wondering..."
+  - Remote potential in social terms creates an impression of less imposition and hence greater politeness.
+  - Alternatives include:
+    - "Would it be possible.."
+    - "Do you think you..."
+    - "I would be most grateful if..."
+- How to change download place of `npm` packages? (I.E. defaults to internet, but what if wanted somewhere else?)
+  - Create a `.npmrc` file and put specific locations.
+  - `PROXY=https://localhost:9999/HERE`
+- How to check the `package.json` to make sure it's on par on latest versions of dependencies?
+  - `npm install -g npm-check-update`
+  - `ncu` will let the user know about updates, but not make the updates.
+  - `ncu -u` will update the `package.json` with the updates, then recommended to follow up with `npm install`.
+
 # October 13 2020
 
 - :)
+- Thank you to female copy of me, Rei Ayanami, and family.
+- Lofi playlist: https://www.youtube.com/watch?v=NDfF_XwNtIw
+- Gym!
+  - Volleyball.
 
 # October 12 2020
 
+- Cleaned up my life.
+
 # October 11 2020
+
+- 15th place out of 16 in League Clash.
+- Gym!
+  - Flex.
 
 # October 10 2020
 
+- 8th place out of 16 in League Clash.
+
 # October 9 2020
 
+- Felt empty.
+
 # October 8 2020
+
+- Slept really early yesterday.
+- New lofi favorite channel? https://www.youtube.com/watch?v=WBfbkPTqUtU
+- In `Visual Studio Code`, what do the markers next to the files mean?
+  - `A`: Added (This is a new file that has been added to the repository)
+  - `M`: Modified (An existing file has been changed)
+  - `D`: Deleted (a file has been deleted)
+  - `U`: Untracked (The file is new or has been changed but has not been added to the repository yet)
+  - `C`: Conflict (There is a conflict in the file)
+  - `R`: Renamed (The file has been renamed)`
 
 # October 7 2020
 
 - Lofi chill mix: https://www.youtube.com/watch?v=NxSDNogkKX0
+- Learning Chinese TED talk: https://www.youtube.com/watch?v=troxvPRmZm8
 - Gym!
   - Flex.
 
