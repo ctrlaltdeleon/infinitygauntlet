@@ -1,3 +1,38 @@
+# October 15 2020
+
+- "MAKUAKE" by eill sounds like "Visual Dreams" by SNSD.
+- Made this benchmark comparing `Includes vs. IndexOf vs. Filter vs. Find vs. FindIndex vs. Some`: https://www.measurethat.net/Benchmarks/Show/9046/0/includes-vs-indexof-vs-filter-vs-find-vs-findindex-vs-s
+
+```
+Includes x 1,987,563 ops/sec ±2.17% (60 runs sampled)
+IndexOf x 178,255 ops/sec ±1.08% (64 runs sampled)
+Filter x 43,810 ops/sec ±62.73% (20 runs sampled)
+Find x 126,352 ops/sec ±57.21% (60 runs sampled)
+FindIndex x 281,395 ops/sec ±54.44% (65 runs sampled)
+Some x 286,783 ops/sec ±52.20% (64 runs sampled)
+
+Fastest: Includes
+Slowest: Filter, IndexOf
+```
+
+- Typography translated as `font-weight` deciphered:
+
+```
+100	Thin (Hairline)
+200	Extra Light (Ultra Light)
+300	Light
+400	Normal (Regular)
+500	Medium
+600	Semi Bold (Demi Bold)
+700	Bold
+800	Extra Bold (Ultra Bold)
+900	Black (Heavy)
+950	Extra Black (Ultra Black)
+```
+
+- Gym!
+  - Volleyball.
+
 # October 14 2020
 
 - "Contained in" is to have almost identical meaning.
@@ -26,6 +61,8 @@
   - `npm install -g npm-check-update`
   - `ncu` will let the user know about updates, but not make the updates.
   - `ncu -u` will update the `package.json` with the updates, then recommended to follow up with `npm install`.
+- Gym!
+  - Flex.
 
 # October 13 2020
 
