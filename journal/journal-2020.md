@@ -1,3 +1,17 @@
+# October 16 2020
+
+- How to install an extension offline in `Google Chrome`?
+  - Install the extension on an online computer to `Google Chrome`.
+  - Look for the extension from an upper directory able to see everything ("~" is a safe bet, meaning "home" usually.):
+    - `find . -type d -iname %EXTENSION-ID%`
+  - Copy that scoped directory to the offline computer.
+    - Make sure that the file has a `manifest.json`.
+  - On the offline computer now, open up `Google Chrome`.
+  - Put in the URL `chrome://extensions`.
+  - Turn on `Developer mode` at the top right.
+  - Click `Load unpacked` at the top left.
+  - Look for the directory of the downloaded extension and install!
+
 # October 15 2020
 
 - "MAKUAKE" by eill sounds like "Visual Dreams" by SNSD.

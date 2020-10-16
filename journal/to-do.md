@@ -1,9 +1,5 @@
 # TO DO
 
-- Spotify
-  - Com Truise
-  - Midnight Crystalline
-  - Akame Ga Kill Liar Mask to Anime
 - Definition of Ghosting
   - Ghosters
   - Victims
@@ -18,3 +14,5 @@
   - Finish training
 - DTA
   - Finish training
+- WHAT'S THE SONG?
+  - "kuma say kuma saw LA LA LA" from delfinpod "another black widow delay?" around 18:10
