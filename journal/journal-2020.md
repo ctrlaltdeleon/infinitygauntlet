@@ -1,3 +1,24 @@
+# October 20 2020
+
+- ???
+
+# October 19 2020
+
+- Gym!
+  - Flex.
+
+# October 18 2020
+
+- Self-reflection.
+- Gym!
+  - Flex.
+
+# October 17 2020
+
+- I'm terrible.
+- Gym!
+  - Flex.
+
 # October 16 2020
 
 - How to install an extension offline in `Google Chrome`?
@@ -11,6 +32,8 @@
   - Turn on `Developer mode` at the top right.
   - Click `Load unpacked` at the top left.
   - Look for the directory of the downloaded extension and install!
+- Gym!
+  - Flex.
 
 # October 15 2020
 
