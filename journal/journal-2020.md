@@ -1,6 +1,7 @@
 # October 20 2020
 
-- ???
+- How to search for `Linux` packages in a terminal?
+  - `apt search %KEYWORD%`
 
 # October 19 2020
 
@@ -298,11 +299,6 @@ sudo chmod -R 755 %TARGET-DIRECTORY%
 # September 15 2020
 
 - How to ask a "good" Stack Overflow question?
-  - What are you trying to do?
-  - What is your code that currently tries to do that?
-  - What do you expect the result to be?
-  - What is the actual result?
-  - What I think the problem could be?
 - How do you answer a Stack Overflow
 - Gym!
   - Volleyball.
