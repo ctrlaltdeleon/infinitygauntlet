@@ -1,20 +1,148 @@
+# October 20 2020
+
+- ???
+
+# October 19 2020
+
+- Gym!
+  - Flex.
+
+# October 18 2020
+
+- Self-reflection.
+- Gym!
+  - Flex.
+
+# October 17 2020
+
+- I'm terrible.
+- Gym!
+  - Flex.
+
+# October 16 2020
+
+- How to install an extension offline in `Google Chrome`?
+  - Install the extension on an online computer to `Google Chrome`.
+  - Look for the extension from an upper directory able to see everything ("~" is a safe bet, meaning "home" usually.):
+    - `find . -type d -iname %EXTENSION-ID%`
+  - Copy that scoped directory to the offline computer.
+    - Make sure that the file has a `manifest.json`.
+  - On the offline computer now, open up `Google Chrome`.
+  - Put in the URL `chrome://extensions`.
+  - Turn on `Developer mode` at the top right.
+  - Click `Load unpacked` at the top left.
+  - Look for the directory of the downloaded extension and install!
+- Gym!
+  - Flex.
+
+# October 15 2020
+
+- "MAKUAKE" by eill sounds like "Visual Dreams" by SNSD.
+- Made this benchmark comparing `Includes vs. IndexOf vs. Filter vs. Find vs. FindIndex vs. Some`: https://www.measurethat.net/Benchmarks/Show/9046/0/includes-vs-indexof-vs-filter-vs-find-vs-findindex-vs-s
+
+```
+Includes x 1,987,563 ops/sec ±2.17% (60 runs sampled)
+IndexOf x 178,255 ops/sec ±1.08% (64 runs sampled)
+Filter x 43,810 ops/sec ±62.73% (20 runs sampled)
+Find x 126,352 ops/sec ±57.21% (60 runs sampled)
+FindIndex x 281,395 ops/sec ±54.44% (65 runs sampled)
+Some x 286,783 ops/sec ±52.20% (64 runs sampled)
+
+Fastest: Includes
+Slowest: Filter, IndexOf
+```
+
+- Typography translated as `font-weight` deciphered:
+
+```
+100	Thin (Hairline)
+200	Extra Light (Ultra Light)
+300	Light
+400	Normal (Regular)
+500	Medium
+600	Semi Bold (Demi Bold)
+700	Bold
+800	Extra Bold (Ultra Bold)
+900	Black (Heavy)
+950	Extra Black (Ultra Black)
+```
+
+- Gym!
+  - Volleyball.
+
+# October 14 2020
+
+- "Contained in" is to have almost identical meaning.
+- "Revealed by" is to explain further more.
+- "Classification by Compilation" is when 2 > unclassified info create classified info.
+- Extracting occurs when information is taken directly from an authorized classification guidance source and is stated verbatim in a new or different document.
+- Paraphrasing or restating occurs when information is taken from an authorized source and is re-worded in a new or different document.
+  - Derivative classifiers must be careful when paraphrasing or restating information to ensure that the classification has not been changed in the process.
+- Generating is when information is taken from an authorized source and generated into in another form or medium, such as a video, DVD, or CD.
+- Confidentiality from least to greatest.
+  - Unclassified
+  - Confidential
+  - Secret
+  - Top Secret
+- What is deferential backshift?
+  - "I was wondering..."
+  - Remote potential in social terms creates an impression of less imposition and hence greater politeness.
+  - Alternatives include:
+    - "Would it be possible.."
+    - "Do you think you..."
+    - "I would be most grateful if..."
+- How to change download place of `npm` packages? (I.E. defaults to internet, but what if wanted somewhere else?)
+  - Create a `.npmrc` file and put specific locations.
+  - `PROXY=https://localhost:9999/HERE`
+- How to check the `package.json` to make sure it's on par on latest versions of dependencies?
+  - `npm install -g npm-check-update`
+  - `ncu` will let the user know about updates, but not make the updates.
+  - `ncu -u` will update the `package.json` with the updates, then recommended to follow up with `npm install`.
+- Gym!
+  - Flex.
+
 # October 13 2020
 
 - :)
+- Thank you to female copy of me, Rei Ayanami, and family.
+- Lofi playlist: https://www.youtube.com/watch?v=NDfF_XwNtIw
+- Gym!
+  - Volleyball.
 
 # October 12 2020
 
+- Cleaned up my life.
+
 # October 11 2020
+
+- 15th place out of 16 in League Clash.
+- Gym!
+  - Flex.
 
 # October 10 2020
 
+- 8th place out of 16 in League Clash.
+
 # October 9 2020
 
+- Felt empty.
+
 # October 8 2020
+
+- Slept really early yesterday.
+- New lofi favorite channel? https://www.youtube.com/watch?v=WBfbkPTqUtU
+- In `Visual Studio Code`, what do the markers next to the files mean?
+  - `A`: Added (This is a new file that has been added to the repository)
+  - `M`: Modified (An existing file has been changed)
+  - `D`: Deleted (a file has been deleted)
+  - `U`: Untracked (The file is new or has been changed but has not been added to the repository yet)
+  - `C`: Conflict (There is a conflict in the file)
+  - `R`: Renamed (The file has been renamed)`
 
 # October 7 2020
 
 - Lofi chill mix: https://www.youtube.com/watch?v=NxSDNogkKX0
+- Learning Chinese TED talk: https://www.youtube.com/watch?v=troxvPRmZm8
 - Gym!
   - Flex.
 
