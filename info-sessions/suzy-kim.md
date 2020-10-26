@@ -1,9 +1,9 @@
 # SUZY KIM INFO SESSION
 
 ```
-Name:       Tricia Shi
+Name:       Suzy Kim
 Time:       Monday, November 26, 2018
-Bio:        Works on the OWL website.
+Bio:        Works at Blizzard.
 Contact:    skim@blizzard.com
 ```
 

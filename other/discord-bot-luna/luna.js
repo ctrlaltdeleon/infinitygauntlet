@@ -7,7 +7,7 @@ client.on("ready", () => {
 });
 
 var prefix = "Luna, ";
-client.on("message", message => {
+client.on("message", (message) => {
   if (message.author === client.user) return;
   if (message.content.startsWith(prefix)) {
     if (message.content === "hello") {
@@ -20,7 +20,7 @@ client.on("message", message => {
 
     if (message.content === "Luna, pi please") {
       message.channel.send(
-        `3.14159265359... there's more, but I'd rather not finish. :tired_face:`,
+        `3.14159265359... there's more, but I'd rather not finish. :tired_face:`
       );
     }
   }

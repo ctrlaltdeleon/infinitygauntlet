@@ -12,4 +12,6 @@
 
 - Class names are CamelCase.
 - Function and variable names are snake_case.
+- File names are dash-case.
 - Comments end with a period.
+- Each file should have a trailing new line at the end.

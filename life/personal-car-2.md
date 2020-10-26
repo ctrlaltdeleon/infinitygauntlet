@@ -43,4 +43,5 @@
     - Notice the wear and tear.
   - Bought plenty of oil change supplies so it can be done at home.
     - Oil filter changer.
-- 2020 February.
+- 2020 September.
+  - Changed the brakes.

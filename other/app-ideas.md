@@ -15,3 +15,5 @@
 - Takemesomewhere.
   - Randomly takes you to a location on Earth.
   - react-leaflet.
+- Comfort Companion (C.C.)
+  - Bot you can talk to.

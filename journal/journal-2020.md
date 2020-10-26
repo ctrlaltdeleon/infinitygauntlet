@@ -1,7 +1,30 @@
+# October 23 2020
+
+- ???
+
+# October 22 2020
+
+- What are the differences in commands of `locate` and `find`?
+  - `locate` is better when you're just trying to find a particular file by name, which you know exists, but you just don't remember where it is exactly.
+  - `find` is better when you have a focused area to examine, or when you need any of its many advantages.
+- How do you find which people on your connection is `sudo`?
+  - `getent group sudo`
+- When presenting, explain the topic, what the goal was, timeline, go into the details.
+- Gym!
+  - Volleyball.
+
+# October 21 2020
+
+- Lofi playlist: https://www.youtube.com/watch?v=xZp7W-VvLlo
+- Gym!
+  - Flex.
+
 # October 20 2020
 
 - How to search for `Linux` packages in a terminal?
   - `apt search %KEYWORD%`
+- Gym!
+  - Volleyball.
 
 # October 19 2020
 
@@ -142,7 +165,7 @@ Slowest: Filter, IndexOf
 
 # October 7 2020
 
-- Lofi chill mix: https://www.youtube.com/watch?v=NxSDNogkKX0
+- Lofi playlist: https://www.youtube.com/watch?v=NxSDNogkKX0
 - Learning Chinese TED talk: https://www.youtube.com/watch?v=troxvPRmZm8
 - Gym!
   - Flex.

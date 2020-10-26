@@ -22,6 +22,9 @@ If you need ideas for adventures.
 - Painting.
   - Bob Ross potentially.
   - An experience and a gift.
+- Picnic.
+  - Enjoy nature.
+  - People watch.
 - Skydiving.
   - Exciting.
 - Video games.
@@ -29,21 +32,22 @@ If you need ideas for adventures.
 
 ## Food
 
+- 7 Leaves (Orange County).
+  - Boba, flexible hours.
 - Addison (San Diego).
   - The only michelin star in San Diego.
 - Breakfast Republic (San Diego).
   - Brunch.
-- Sidecar (San Diego).
-  - Donuts.
-- 7 Leaves (Orange County).
-  - Boba, flexible hours.
 - Omomo (Orange County).
   - Boba, artisan drinks.
+- Sidecar (San Diego).
+  - Donuts.
 
 ## Gifts
 
 - Boba.
 - Flowers.
+- Tea.
 
 ## Places
 

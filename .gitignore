@@ -1,11 +1,11 @@
-# Gitbook serve.
+# gitbook serve
 _book
 
-# Visual studio code settings.
+# visual studio code settings
 .vscode
 
-# Classified.
-SCP_001
+# classified
+SCP_001.md
 node_modules/
 interviews/
 references.md
