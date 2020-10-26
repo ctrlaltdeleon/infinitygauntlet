@@ -20,7 +20,7 @@
 
 ## 1: Case
 
-`NZXT H1`
+`NZXT H1 (White)`
 
 - This is a small form factor case which I wanted for more real estate on the desk.
 - Easy to build with from the review videos I've seen.

@@ -20,9 +20,9 @@
 
 ## 1: Case
 
-`???`
+`NZXT Phantom 410 Tower Case (Red)`
 
-- ???
+- Just looked cool to me at the time.
 
 ## 2: Central Processing Unit (CPU)
 
