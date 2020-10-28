@@ -10,6 +10,7 @@
   - All of your stats
   - Socket.io implementation on tweets circulating over specific key words
     - @acfromspace influence?
+  - stackvoerflow people impact
 - SCI Eligibility Process
   - Finish training
 - DTA
@@ -20,4 +21,5 @@
 - https://fullcircletattoos.com/contact/?v=7516fd43adaa
 - fix suzy's info session
 - finish how-to-skin-care
-- 
+- genshin impact
+  - mark on map anemoculus and geoculus

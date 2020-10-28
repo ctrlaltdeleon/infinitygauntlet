@@ -2013,7 +2013,7 @@ fetch(apiUrl)
 
 # May 10 2019
 
-- Made a `Python` file which makes several strings and stops running when a specific string is found.
+- Made a `Python` file which makes several strings and stops running when a specific string is found (Shakespeare program).
   - Had a lot of fun with this, formatted the output to be digestible.
 
 ```py

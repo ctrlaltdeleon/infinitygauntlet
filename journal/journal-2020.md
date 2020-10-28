@@ -1,6 +1,60 @@
+# October 31 2020
+
+- happyhalloween.netlify.app
+
+# October 30 2020
+
+- Gym!
+  - Flex.
+
+# October 29 2020
+
+- Gym!
+  - Volleyball.
+
+# October 28 2020
+
+- How do I transfer installed packages and settings from one distro to another?
+  
+```sh
+sudo apt-get install apt-clone
+apt-clone clone %PACKAGE%
+# Copy %PACKAGE%.apt-clone.tar.gz to the new machine and run.
+sudo apt-get install apt-clone
+sudo apt-clone restore %PACKAGE%.apt-clone.tar.gz
+```
+
+- Today I learned "Waterfalls" was made by TLC, the group that preformed "No Scrubs".
+- Dead by Daylight with the Curry Crew!
+- Gym!
+  - Flex.
+
+# October 27 2020
+
+- I did it again, towards the end, anxiety riled up.
+- Gym!
+  - Volleyball.
+
+# October 26 2020
+
+- Gym!
+  - Flex.
+
+# October 25 2020
+
+- Great vibes with FS watching Hamilton, cooking KBBQ, cookies, and playing monikers.
+
+# October 24 2020
+
+- Felt groggy, plenty of Genshin Impact.
+- Gym!
+  - Flex.
+
 # October 23 2020
 
-- ???
+- Got to hangout with Karasuno, making kare kare, more kbbq, playing monikers, and getting empathetic.
+- Gym!
+  - Flex.
 
 # October 22 2020
 
@@ -15,7 +69,6 @@
 
 # October 21 2020
 
-- Lofi playlist: https://www.youtube.com/watch?v=xZp7W-VvLlo
 - Gym!
   - Flex.
 
@@ -129,7 +182,6 @@ Slowest: Filter, IndexOf
 
 - :)
 - Thank you to female copy of me, Rei Ayanami, and family.
-- Lofi playlist: https://www.youtube.com/watch?v=NDfF_XwNtIw
 - Gym!
   - Volleyball.
 
@@ -154,7 +206,6 @@ Slowest: Filter, IndexOf
 # October 8 2020
 
 - Slept really early yesterday.
-- New lofi favorite channel? https://www.youtube.com/watch?v=WBfbkPTqUtU
 - In `Visual Studio Code`, what do the markers next to the files mean?
   - `A`: Added (This is a new file that has been added to the repository)
   - `M`: Modified (An existing file has been changed)
@@ -165,8 +216,6 @@ Slowest: Filter, IndexOf
 
 # October 7 2020
 
-- Lofi playlist: https://www.youtube.com/watch?v=NxSDNogkKX0
-- Learning Chinese TED talk: https://www.youtube.com/watch?v=troxvPRmZm8
 - Gym!
   - Flex.
 
