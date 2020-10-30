@@ -1,7 +1,5 @@
 # PLAYLISTS
 
-Format: song - artist
-
 ## songs i wish she heard
 
 art || aenami
@@ -23,3 +21,7 @@ slchld || "maybe we need a break"
 joji || "slow dancing in the dark"
 niki || "la la lost you" (acoustic version)
 honne || "location unknown" (ft. beka) (brooklyn session version)
+
+## songs for after your heart is broken lofi edition
+
+homie cat || pure heart

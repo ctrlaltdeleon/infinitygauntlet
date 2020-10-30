@@ -1,9 +1,14 @@
+# November 01 2020
+
+- Happy birthday old man.
+
 # October 31 2020
 
-- happyhalloween.netlify.app
+- Happy halloween! (happyhalloween.netlify.app)
 
 # October 30 2020
 
+- Got back to work feeling refreshed!
 - Gym!
   - Flex.
 
@@ -14,7 +19,16 @@
 
 # October 28 2020
 
-- How do I transfer installed packages and settings from one distro to another?
+- How to do versioning?
+  - `X.Y.Z` format which each character is something specific.
+    - `X` = production build.
+    - `Y` = sprint number.
+    - `Z` = each merge.
+- In `React`, how do you show an image?
+  - This deals with webpack.
+  - Note that assets outside of the `src/` are not supported.
+  - `<img src={require("%PATH-TO-THE-IMAGE%")} alt="something"/>
+- How do I transfer installed `Linux` packages and settings from one distro to another?
   
 ```sh
 sudo apt-get install apt-clone
@@ -25,6 +39,14 @@ sudo apt-clone restore %PACKAGE%.apt-clone.tar.gz
 ```
 
 - Today I learned "Waterfalls" was made by TLC, the group that preformed "No Scrubs".
+- Signs of a toxic friend:
+  - They mostly talk about themselves.
+  - They aren’t really happy for your success.
+  - They tend to ignore your feelings and problems.
+  - They pressure you to do things you don’t really want to do.
+  - They tend to get mad at you quite easily.
+  - You feel stressed and drained after the interaction.
+  - They are resistant to change.
 - Dead by Daylight with the Curry Crew!
 - Gym!
   - Flex.
@@ -262,7 +284,6 @@ sudo chmod -R 755 %TARGET-DIRECTORY%
 
 # September 30 2020
 
-- Simon Sinek: https://www.youtube.com/watch?v=efGLdwPOWSw
 - Felt groggy.
 
 # September 29 2020
@@ -356,7 +377,7 @@ sudo chmod -R 755 %TARGET-DIRECTORY%
 
 # September 18 2020
 
-- Simon Sinek: https://www.youtube.com/watch?v=M3rsXos0TD8
+- ???
 
 # September 17 2020
 

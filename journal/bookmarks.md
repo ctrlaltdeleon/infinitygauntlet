@@ -21,6 +21,8 @@
 
 - Compress and optimize images: https://compressor.io/
 - Learning Chinese TED talk: https://www.youtube.com/watch?v=troxvPRmZm8
+- Simon Sinek (creative mornings q&a): https://www.youtube.com/watch?v=M3rsXos0TD8
+- Simon Sinek (quiet adult crowd, conference/dining room): https://www.youtube.com/watch?v=efGLdwPOWSw
 
 ## Playlists 
 
