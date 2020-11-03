@@ -1,10 +1,56 @@
-# November 01 2020
+# November 3 2020
+
+- What defines art?
+  - Display.
+    - To put your art in the open.
+  - Intention.
+    - To create something meaningful for the purpose of aesthetic.
+  - Reception.
+    - Someone else has their own interpretation.
+- When pushing builds to `Nexus`, instead of specifying a `.npmignore`, best to use the `files` attribute to specify which files are wanted in the final build.
+
+```js
+"files": [
+  "dist/",
+  "%OTHER-FILE%"
+]
+```
+
+- To find out what files `npm` will publish into the tarball without actually publishing.
+  - `npm pack && tar -xvzf *.tgz && rm -rf package *.tgz`
+- If a directory is present, remove it, else do nothing. (No error messages)
+  - `rm -rf %DIRECTORY%`
+- How to release a software candidate for `Nexus` through `Jenkins`?
+
+```
+export DISPLAY=:1
+rm -rf dist/
+npm install
+npm run test:coverage
+npm run sonar
+npm run build
+npm run electron-builder
+npm set %URL-CREDENTIALS%
+npm publish --registry%REGISTRY%
+```
+
+# November 2 2020
+
+- Need to clean the car.
+- Gym!
+  - Flex.
+
+# November 1 2020
 
 - Happy birthday old man.
+- Gym!
+  - Flex.
 
 # October 31 2020
 
 - Happy halloween! (happyhalloween.netlify.app)
+- Gym!
+  - Volleyball.
 
 # October 30 2020
 

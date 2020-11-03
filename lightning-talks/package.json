@@ -14,7 +14,7 @@
     "mdx-deck": "^3.0.13"
   },
   "devDependencies": {
-    "mdx-deck-code-surfer": "^0.5.5",
+    "mdx-deck-code-surfer": "^0.5.5", 
     "raw-loader": "^4.0.0"
   }
 }

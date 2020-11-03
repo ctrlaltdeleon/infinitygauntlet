@@ -21,5 +21,4 @@
 - https://fullcircletattoos.com/contact/?v=7516fd43adaa
 - fix suzy's info session
 - finish how-to-skin-care
-- genshin impact
-  - mark on map anemoculus and geoculus
+- guzheng on piano
