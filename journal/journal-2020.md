@@ -1,3 +1,15 @@
+# November 5 2020
+
+- Great sprint, installer works and was able to push out some last minute stuff with plenty of time.
+- Gym!
+  - Volleyball.
+
+# November 4 2020
+
+- Be better.
+- Gym!
+  - Flex.
+
 # November 3 2020
 
 - What defines art?
@@ -33,6 +45,9 @@ npm run electron-builder
 npm set %URL-CREDENTIALS%
 npm publish --registry%REGISTRY%
 ```
+
+- Gym!
+  - Volleyball.
 
 # November 2 2020
 
