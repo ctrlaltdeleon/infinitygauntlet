@@ -22,3 +22,4 @@
 - fix suzy's info session
 - finish how-to-skin-care
 - guzheng on piano
+- https://ts.chibicode.com/todo/
