@@ -1,10 +1,10 @@
 # SUZY KIM INFO SESSION
 
 ```
-Name:       Suzy Kim
-Time:       Monday, November 26, 2018
-Bio:        Works at Blizzard.
-Contact:    skim@blizzard.com
+Topic:    N/A
+Info:     N/A
+Name:     Suzy Kim (Data Analyst)
+Time:     Monday, November 26, 2018
 ```
 
 Notes:

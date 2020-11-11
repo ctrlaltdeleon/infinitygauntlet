@@ -1,15 +1,12 @@
 # GDC INTERVIEWING FOR GAME DESIGN
 
 ```
-Name:       Interviewing for Game Design
-Time:       2017
-Bio:        https://www.youtube.com/watch?v=uUQKbowVsIE
-Contact:    Richard Carrillo (Ubisoft Game Designer)
+Topic:    Interviewing for Game Design
+Info:     https://www.youtube.com/watch?v=uUQKbowVsIE
+Name:     Richard Carrillo (Ubisoft Game Designer)
+Time:     2017
 ```
-Topic:    27 C# Interview Questions and Answers to Know in 2019
-Info:     https://tinyurl.com/csharpinterview
-Name:     Alex (@aershov24) Full Stack Developer
-Time:     Wednesday, November 14, 2018
+   
 Notes:
 
 - Standard Protocol.

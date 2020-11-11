@@ -1,10 +1,10 @@
 # KEVIN DO INFO SESSION
 
 ```
-Name:       Kevin Do
-Time:       N/A
-Bio:        Northrop Grumman Intern, PlayStation Intern, and Twitch Software Developer Engineer
-Contact:    N/A
+Topic:    N/A
+Info:     N/A
+Name:     Kevin Do (Northrop Grumman Intern, PlayStation Intern, and Twitch Software Developer Engineer)
+Time:     N/A
 ```
 
 Notes:
@@ -86,8 +86,8 @@ ReactDOM.render(
 |                    |         | 1 |  |  |
 |                    |         |   |  |  |
 
-// Add onClick for each Countdown to change colors
-// Centering the number using flexbox
+// Add onClick for each Countdown to change colors.
+// Centering the number using flexbox.
 
 .css {
   display: flex;
@@ -96,7 +96,7 @@ ReactDOM.render(
   align-content: center;
 }
 
-// Make a network API call to get username
+// Make a network API call to get username.
 ```
 
 - https://devskiller.com/coding-tests-skill/react/

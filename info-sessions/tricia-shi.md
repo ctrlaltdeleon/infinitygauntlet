@@ -1,10 +1,10 @@
 # TRICIA SHI INFO SESSION
 
 ```
-Name:       Tricia Shi
-Time:       Monday, November 26, 2018
-Bio:        Works on the OWL website.
-Contact:    tshi@blizzard.com
+Topic:    N/A
+Info:     N/A
+Name:     Tricia Shi (SDE on OWL website, tshi@blizzard.com)
+Time:     Monday, November 26, 2018
 ```
 
 Notes:

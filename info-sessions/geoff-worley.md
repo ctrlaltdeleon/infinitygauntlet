@@ -1,10 +1,10 @@
 # GEOFF WORLEY INFO SESSION
 
 ```
-Name:       Geoff Worley
-Time:       N/A
-Bio:        Amazon Software Development Engineer
-Contact:    N/A
+Topic:    N/A
+Info:     N/A
+Name:     Geoff Worley (Amazon SDE)  
+Time:     N/A
 ```
 
 Notes:

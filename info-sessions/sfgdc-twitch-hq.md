@@ -1,10 +1,10 @@
 # SF Game Development Community Twitch HQ
 
 ```
-Name:       SF Game Development Community Twitch HQ
-Time:       Tuesday, May 21, 2019
-Bio:        SF Game Development Community
-Contact:    Jon Bulava, @jbulava, Development Advocate
+Topic:    SF Game Development Community Twitch HQ
+Info:     N/A
+Name:     Jon Bulava (@jbulava, Development Advocate)
+Time:     Tuesday, May 21, 2019
 ```
 
 Notes:
