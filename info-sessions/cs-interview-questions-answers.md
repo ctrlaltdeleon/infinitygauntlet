@@ -1,10 +1,10 @@
 # CS INTERVIEW QUESTIONS ANSWERS
 
 ```
-Name:       27 C# Interview Questions and Answers to Know in 2019
-Time:       Wednesday, November 14, 2018
-Bio:        https://tinyurl.com/csharpinterview
-Contact:    Alex (@aershov24), Full Stack Developer
+Topic:    27 C# Interview Questions and Answers to Know in 2019
+Info:     https://tinyurl.com/csharpinterview
+Name:     Alex (@aershov24) Full Stack Developer
+Time:     Wednesday, November 14, 2018
 ```
 
 Notes:

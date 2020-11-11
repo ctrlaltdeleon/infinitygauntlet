@@ -1,10 +1,10 @@
 # 250 GOOGLE INTERVIEWS
 
 ```
-Name:       What I Learned Doing 250 Interviews at Google
-Time:       Wednesday, June 26, 2013
-Bio:        https://www.youtube.com/watch?v=r8RxkpUvxK0
-Contact:    Moishe Lettvin (mlettvin@etsy.com)
+Topic:    What I Learned Doing 250 Interviews at Google
+Info:     https://www.youtube.com/watch?v=r8RxkpUvxK0
+Name:     Moishe Lettvin (mlettvin@etsy.com)
+Time:     Wednesday, June 26, 2013
 ```
 
 Notes:

@@ -12,7 +12,7 @@ Notes:
 - Difference between Stack and Queue?
   - Stack is FILO.
   - Queue is FIFO.
-- What is a deequeue?
+- What is a dequeue?
   - A double-ended queue.
 - Describe the difference between access modifiers:
   - Public, private, protected!

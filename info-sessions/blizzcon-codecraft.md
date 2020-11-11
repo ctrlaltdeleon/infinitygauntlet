@@ -1,10 +1,10 @@
 # BLIZZCON CODECRAFT
 
 ```
-Name:       Blizzcon Codecraft
-Time:       Saturday, November 3, 2018
-Bio:        https://www.youtube.com/watch?v=BbHyqN6ZJ-0
-Contact:    Diana (One of the speakers), Brandon (One of the Overwatch League Software Engineers), Trishia (One of the Overwatch League Software Engineers) (tshi@blizzard.com)
+Topic:    Blizzcon Codecraft
+Info:     https://www.youtube.com/watch?v=BbHyqN6ZJ-0
+Name:     Diana (One of the speakers), Brandon (One of the Overwatch League Software Engineers), Trishia (One of the Overwatch League Software Engineers) (tshi@blizzard.com)
+Time:     Saturday, November 3, 2018
 ```
 
 Notes:
