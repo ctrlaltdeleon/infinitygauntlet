@@ -1,3 +1,12 @@
+# November 10 2020
+
+- Gym!
+  - Flex.
+
+# November 9 2020
+# November 8 2020
+# November 7 2020
+# November 6 2020
 # November 5 2020
 
 - Great sprint, installer works and was able to push out some last minute stuff with plenty of time.
