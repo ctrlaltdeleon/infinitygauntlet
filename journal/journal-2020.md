@@ -1,12 +1,62 @@
+# November 16 2020
+
+- ???
+
+# November 15 2020
+
+- Relaxed.
+- Webcam friendsgiving feel with Seattle friends, jackbox.tv and stuff, recorded the moment on computer.
+
+# November 14 2020
+
+- Gym!
+  - Volleyball.
+
+# November 13 2020
+
+- In `React`, why would one use `<Fragment` over `<div>` for containing inner elements?
+  - The problem with `<div>` is that you don't always want a wrapper element..
+    - Wrapper elements have a meaning and usually you need additional styles for that meaning to be removed.
+  - `<Fragment>` is just syntactic sugar that is not rendered.
+  - It’s a tiny bit faster and has less memory usage (no need to create an extra DOM node).
+- Kill port that's in use?
+  - `kill -9 %PORT%`
+- Spend time with Karasuno playing Mahjong and cinnamon rolls.
+- Gym!
+  - Legs and shoulders.
+
+# November 12 2020
+
+- Gym!
+  - Volleyball.
+
+# November 11 2020
+
+- Gym!
+  - Flex.
+
 # November 10 2020
 
 - Gym!
   - Flex.
 
 # November 9 2020
+
+- Gym!
+  - Back and biceps.
+
 # November 8 2020
+
+- ???
+
 # November 7 2020
+
+- ???
+
 # November 6 2020
+
+- ???
+
 # November 5 2020
 
 - Great sprint, installer works and was able to push out some last minute stuff with plenty of time.
@@ -267,6 +317,8 @@ Slowest: Filter, IndexOf
   - `npm install -g npm-check-update`
   - `ncu` will let the user know about updates, but not make the updates.
   - `ncu -u` will update the `package.json` with the updates, then recommended to follow up with `npm install`.
+- In `Git`, how do you change the message of a previous commit?
+  - `git commit --amend -m "%NEW-MESSAGE-HERE%"`
 - Gym!
   - Flex.
 

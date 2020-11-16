@@ -31,3 +31,4 @@
 - lofi playlist (purple couple, backs to car): https://www.youtube.com/watch?v=NxSDNogkKX0
 - lofi playlist (guy staring to the right, pink square): https://www.youtube.com/watch?v=xZp7W-VvLlo
 - rain piano playlist (girl looking outside to pouring rain): https://www.youtube.com/watch?v=IoK0wFtiT3c
+- lofi playlist (breathing dreams like air, girl in front of sunset/railing): https://www.youtube.com/watch?v=dOFsCX72jyU
