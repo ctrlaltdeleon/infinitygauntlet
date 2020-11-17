@@ -1,6 +1,85 @@
-# November 16 2020
+# November 17 2020
 
 - ???
+
+# November 16 2020
+
+- In `React`, what is a proper way to take in user text input?
+
+```js
+const [someState, setSomeState] = useState("");
+
+<TextField onChange{(e) => {setSomeState(e.target.value)}} value={someState}>
+```
+
+- In `React`, how to render something depending on a condition?
+
+```js
+{
+  unreadMessages.length > 0 &&
+  <h1>
+    You have {unreadMessages.length} unread messages.
+  </h1>
+}
+```
+
+In `React`, what's the best way to do multiple `onClick` events?
+
+```js
+// Bad.
+onClick={() => { 
+  console.log('hello!');
+  console.log('👋');
+}}
+
+// Good.
+function greeting() {
+  console.log('hello!');
+  }
+...
+function waveHello() {
+  console.log('👋');
+}
+...
+onClick={() => {
+  greeting();
+  waveHello();
+}}
+
+// Better.
+function greeting() {
+  console.log('hello!');
+  waveHello();
+}
+...
+function waveHello() {
+  console.log('👋');
+}  
+...
+onClick={greeting}
+
+// Mainly want to separate as much possible, decoupling.
+```
+
+- In `React` using `DatePicker`, what's the proper way to pass the date?
+
+```
+<KeyboardDatePicker
+  value={someDate}
+  onChange={(thisTakesTheDateForSomeReason) => setSomeDate(thisTakesTheDateForSomeReason)}
+>
+```
+
+- Fun fact about the days.
+  - Sunday = Sun.
+  - Monday = Moon.
+  - Tuesday = Mars (Tiu, Tyr, "Tiusday").
+  - Wednesday = Mercury (Woden, Odin, "Wodensday").
+  - Thursday = Jupiter (Thor, "Thorsday").
+  - Friday = Venus (Freya, "Freyaday").
+  - Saturday = Saturn.
+- Gym!
+  - Flex.
 
 # November 15 2020
 
