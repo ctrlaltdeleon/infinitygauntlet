@@ -1,6 +1,7 @@
 # November 17 2020
 
-- ???
+- When data is manipulated in the frontend to the backend, easy for a single user, but hard for multiple users to consider.
+  - Think "When would I want this information refreshed?".
 
 # November 16 2020
 
