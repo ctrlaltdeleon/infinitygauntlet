@@ -42,6 +42,8 @@ If you need ideas for adventures.
   - Boba, artisan drinks.
 - Sidecar (San Diego).
   - Donuts.
+- Sprinkles (San Diego).
+  - Desserts.
 
 ## Gifts
 

@@ -23,3 +23,17 @@
 - finish how-to-skin-care
 - guzheng on piano
 - https://ts.chibicode.com/todo/
+- To put on sticky note:
+  - 12, 2 8 2, list item
+  - Backend: 165.224.215.110
+  - alignItems is horizontally
+  - alignContent is vertically
+  - find -> var
+  - findIndex -> index of key
+  - indexOf -> index of value
+  - includes -> exists (boolean)
+  - some -> exists (boolean)
+  - ac*ac*nice
+  - host + l = lock screen
+  - rctrl + f = vm full screen
+  - f11 = vsc full screen
