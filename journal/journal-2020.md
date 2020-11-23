@@ -1,3 +1,34 @@
+# November 23 2020
+
+- Back to work, short sprint, work on knowledge than tasks.
+- New champion in League of Legends, looks so cool!
+- Gym!
+  - Flex.
+
+# November 22 2020
+
+- Got to have Rail Rail with Rei Ayanami, Taeyang, and female shadow clone.
+- Relaxed.
+- Played Raft and oh my gosh haha.
+
+# November 21 2020
+
+- Thanks Kirby. <3
+  - Watched Haikyuu, Jujutsu Kaisen, and Cautious Hero.
+- Gym!
+  - Volleyball.
+
+# November 20 2020
+
+- Took Kirby on an adventure to the bridge, sprinkles, supply pickup.
+- Last late Mahjong Night for a while.
+
+# November 19 2020
+
+- Took care of Rei Ayanami and settled things.
+- Gym!
+  - Volleyball.
+  
 # November 18 2020
 
 - Such a simp.
@@ -411,7 +442,7 @@ Slowest: Filter, IndexOf
 # October 13 2020
 
 - :)
-- Thank you to female copy of me, Rei Ayanami, and family.
+- Thank you to female shadow clone, Rei Ayanami, and family.
 - Gym!
   - Volleyball.
 

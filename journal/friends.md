@@ -1,16 +1,22 @@
 # FRIENDS
 
+## Female Shadow Clone
+
+- Tiger milk tea.
+
 ## Kairi
 
-- Animal?
-  - Alpaca.
+- Alpaca.
 
 ## Kirby
 
-- Color?
-  - Light blue.
+- Light blue.
 
 ## Rei Ayanami
 
-- Animal?
-  - Capybara.
+- apybara.
+
+## Taeyang
+
+- Big Bang
+- Twice

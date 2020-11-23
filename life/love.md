@@ -61,5 +61,7 @@ If you need ideas for adventures.
   - View of the city and ocean, windy.
 - Stonewall Peak (San Diego).
   - Hike, easy, 2 hours to do, great view.
+- Suspension Bridge (San Diego).
+  - Downtown rooftops and trees visible, good parking, nice calm place to think.
 - Twin Peaks (San Francisco).
   - Great view of SF, little parking.
