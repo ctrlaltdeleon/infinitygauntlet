@@ -1,7 +1,28 @@
+# November 25 2020
+
+- In `Java`, what's the difference between a `long` and `double`?
+  - `long` works with integers.
+  - `double` works with negative/positive floats (Bigger than a float though.)
+
+# November 24 2020
+
+- How to convert media files via terminal?
+  - `ffmpeg` software.
+- In `Java`, how to iterate through objects in an `ArrayList`?
+  
+```java
+for (Object result : results) {
+    // Process each result.
+}
+```
+- Gym!
+  - Volleyball.
+
 # November 23 2020
 
 - Back to work, short sprint, work on knowledge than tasks.
-- New champion in League of Legends, looks so cool!
+  - Time to learn `Java`!
+- New champion in League of Legends "Rell" looks so cool!
 - Gym!
   - Flex.
 
