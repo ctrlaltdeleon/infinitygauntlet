@@ -1,5 +1,9 @@
 # FRIENDS
 
+## Aries
+
+- Soft.
+
 ## Female Shadow Clone
 
 - Tiger milk tea.

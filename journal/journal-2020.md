@@ -1,3 +1,29 @@
+# November 30 2020
+
+- ???
+
+# November 29 2020
+
+- Relaxed.
+- Went to check on gym equipment, sold out pretty much everywhere in person.
+- Got to see Aries and Kirby with my sister at Kung Fu Tea.
+
+# November 28 2020
+
+- Streamed scary games.
+- Gym!
+  - Volleyball.
+
+# November 27 2020
+
+- Take care of yourself.
+
+# November 26 2020
+
+- Thanksgiving!
+- Gym!
+  - Volleyball.
+
 # November 25 2020
 
 - In `Java`, what's the difference between a `long` and `double`?
