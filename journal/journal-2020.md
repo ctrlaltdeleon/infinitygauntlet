@@ -1,6 +1,6 @@
 # November 30 2020
 
-- ???
+- Check your phone!
 
 # November 29 2020
 
