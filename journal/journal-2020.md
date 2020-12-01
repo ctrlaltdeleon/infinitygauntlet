@@ -1,6 +1,45 @@
+# December 3 2020
+
+- ???
+
+# December 2 2020
+
+- ???
+
+# December 1 2020
+
+- In `Git`, how to delete all stashes?
+  - `git stash clear`
+- Gym!
+  - Flex.
+
 # November 30 2020
 
 - Check your phone!
+- In `Java`, how to properly test multiple assertions, but being able to receive all errors instead of the first error when running tests?
+
+```java
+// Initially.
+Address address = unitUnderTest.methodUnderTest();
+assertEquals("Redwood Shores", address.getCity());
+assertEquals("Oracle Parkway", address.getStreet());
+assertEquals("500", address.getNumber());
+
+// But augmented with `assertAll()`.
+Address address = unitUnderTest.methodUnderTest();
+assertAll("Should return address of Oracle's headquarter",
+  () -> assertEquals("Redwood Shores", address.getCity()),
+  () -> assertEquals("Oracle Parkway", address.getStreet()),
+  () -> assertEquals("500", address.getNumber())
+);
+
+// Returns.
+org.opentest4j.MultipleFailuresError:
+  Should return address of Oracle's headquarter (3 failures)
+  expected: <Redwood Shores> but was: <Walldorf>
+  expected: <Oracle Parkway> but was: <Dietmar-Hopp-Allee>
+  expected: <500> but was: <16>
+```
 
 # November 29 2020
 

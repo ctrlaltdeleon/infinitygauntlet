@@ -23,17 +23,51 @@
 - finish how-to-skin-care
 - guzheng on piano
 - https://ts.chibicode.com/todo/
-- To put on sticky note:
-  - 12, 2 8 2, list item
-  - Backend: 165.224.215.110
-  - alignItems is horizontally
-  - alignContent is vertically
-  - find -> var
-  - findIndex -> index of key
-  - indexOf -> index of value
-  - includes -> exists (boolean)
-  - some -> exists (boolean)
-  - ac*ac*nice
-  - host + l = lock screen
-  - rctrl + f = vm full screen
-  - f11 = vsc full screen
+- presents
+  - dad
+    - allbirds
+  - mom
+    - new chair
+  - julie
+    - maybe a new chair too
+    - drawing tablet
+  - jc
+    - ???
+  - jaden
+    - something workout related?
+  - arlynn
+    - flowers, haikyuu clothes replacement, letter
+  - savannah
+    - sweets and tea, letter
+  - nessa
+    - computer related?
+  - jean
+    - mihoyo related?
+  - trishia
+    - manga related?
+  - gary
+    - wendy flashlight
+  - nathan
+  - rick
+    - switch tester?
+  - dillon
+    - magic the gathering related?
+  - geoff
+  - brian
+    - nerf gun
+  - mark
+    - ???
+  - noah
+    - ???
+  - quynh
+    - ???
+  - john juhl
+    - ???
+  - albert
+    - ???
+  - kraq
+    - ???
+  - bolt
+    - ???
+  - dover
+    - ???

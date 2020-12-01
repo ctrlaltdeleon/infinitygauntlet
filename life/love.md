@@ -10,6 +10,8 @@ If you need ideas for adventures.
   - Preparing for war together, how romantic.
 - Cooking together.
   - Food, learning, and overcooked but in real life.
+- Christmas jazz.
+  - Nice to sleep together to.
 - Dancing together.
   - Kpop.
   - Old fashioned.
