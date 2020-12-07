@@ -14,17 +14,18 @@
 
 - Played Genshin Impact with Xiangling (collecting anemo) and Paimon (Zhongli drop domains).
 - Gym!
+  - Flex.
   - Volleyball.
 # December 5 2020
 
 - Took a fat nap.
-- League of Legends Clash! (KimchiCowboy, Hooksman, Erendan, anonymouscurt)
+- League of Legends Clash! (KimchiCowboy, Puppies Are Cute, Hooksman (?), Erendan, anonymouscurt)
   - King of the losers! (1 loss, 2 wins)
 - Played the Forest with Washington friends till 5 am, poor decision, but we got a lot done.
   - Feel like the vibe is wonky, need to revive it somehow. 
 # December 4 2020
 
-- ???
+- Spent the day with Kirby and played some games and got some work done.
 # December 3 2020
 
 - Thought there was no volleyball oops.
