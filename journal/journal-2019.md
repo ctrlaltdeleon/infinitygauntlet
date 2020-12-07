@@ -821,13 +821,13 @@ document.getElementById("demo").addEventListener("click", myFunction);
 
 - Interview with Apptio.
 - Got myself situated here in San Diego.
-- I miss Seattle.
+- I miss Washington.
 - Gym!
   - Back and biceps.
 
 # September 11 2019
 
-- Came home to San Diego from Seattle.
+- Came home to San Diego from Washington.
 
 # September 10 2019
 
@@ -928,7 +928,7 @@ console.log(this.blockScopedVariable); // undefined
 
 # August 27 2019
 
-- Heading to Seattle for PAX.
+- Heading to Washington for PAX.
   - Thank you to my friends for funding me I love you.
 
 # August 26 2019

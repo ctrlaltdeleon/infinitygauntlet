@@ -1,10 +1,40 @@
-# December 3 2020
+# December 10 2020
 
 - ???
+# December 9 2020
+
+- ???
+# December 8 2020
+
+- ???
+# December 7 2020
+
+- ???
+# December 6 2020
+
+- Played Genshin Impact with Xiangling (collecting anemo) and Paimon (Zhongli drop domains).
+- Gym!
+  - Volleyball.
+# December 5 2020
+
+- Took a fat nap.
+- League of Legends Clash! (KimchiCowboy, Hooksman, Erendan, anonymouscurt)
+  - King of the losers! (1 loss, 2 wins)
+- Played the Forest with Washington friends till 5 am, poor decision, but we got a lot done.
+  - Feel like the vibe is wonky, need to revive it somehow. 
+# December 4 2020
+
+- ???
+# December 3 2020
+
+- Thought there was no volleyball oops.
 
 # December 2 2020
 
-- ???
+- Video game for PS called "Stolen Realm" looks cool!
+- Streamed Genshin Impact and got baby boy Zhongli! Also played the forest, good vibes, bad decisions haha.
+- Gym!
+  - Volleyball.
 
 # December 1 2020
 
@@ -208,7 +238,7 @@ onClick={greeting}
 # November 15 2020
 
 - Relaxed.
-- Webcam friendsgiving feel with Seattle friends, jackbox.tv and stuff, recorded the moment on computer.
+- Webcam friendsgiving feel with Washington friends, jackbox.tv and stuff, recorded the moment on computer.
 
 # November 14 2020
 

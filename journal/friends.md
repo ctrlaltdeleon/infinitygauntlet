@@ -1,26 +1,34 @@
 # FRIENDS
 
-## Aries
+## Aries (MV)
 
 - Soft.
 
-## Female Shadow Clone
+## Female Shadow Clone (LC)
 
 - Tiger milk tea.
 
-## Kairi
+## Kairi (ST)
 
 - Alpaca.
 
-## Kirby
+## Kirby (AA)
 
 - Light blue.
 
-## Rei Ayanami
+## Paimon (JP)
 
-- apybara.
+- Picnics.
 
-## Taeyang
+## Rei Ayanami (TR)
+
+- Capybara.
+
+## Taeyang (AV)
 
 - Big Bang
 - Twice
+
+## Xiangling (NC)
+
+- ???

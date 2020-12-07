@@ -23,7 +23,7 @@
 - finish how-to-skin-care
 - guzheng on piano
 - https://ts.chibicode.com/todo/
-- presents
+- presents (budget $2000 for everything)
   - dad
     - allbirds
   - mom
@@ -53,6 +53,13 @@
   - dillon
     - magic the gathering related?
   - geoff
+    - ???
+  - walter
+    - ???
+  - kim
+    - kpop related, season's greetings?
+  - lathil
+    - ???
   - brian
     - nerf gun
   - mark
@@ -67,7 +74,5 @@
     - ???
   - kraq
     - ???
-  - bolt
-    - ???
-  - dover
+  - mar
     - ???
