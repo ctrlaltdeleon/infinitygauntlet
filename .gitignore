@@ -5,8 +5,5 @@ _book
 .vscode
 
 # classified
-SCP_001.md
 node_modules/
-interviews/
-references.md
-robolink-tax.md
+SCP-001.md

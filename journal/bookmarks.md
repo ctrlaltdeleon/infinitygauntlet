@@ -17,6 +17,11 @@
 - Standard JavaScript: https://github.com/standard/standard
 - TypeScript Handbook: https://www.freecodecamp.org/news/the-definitive-typescript-handbook/
 
+## Genshin Impact
+
+- Standard: 6
+- Character: 0
+- Weapon: 0
 ## Other
 
 - Compress and optimize images: https://compressor.io/

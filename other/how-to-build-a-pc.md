@@ -2,23 +2,23 @@
 
 1. Introduction
 2. What parts to choose first?
-   1. Case
-   2. Central Processing Unit (CPU)
-      1. CPU Cooler
-   3. Graphics Processing Unit (GPU)
-   4. Memory (RAM)
-   5. Motherboard
-   6. Peripherals
-      1. Headset
-      2. Keyboard
-      3. Microphone
-      4. Monitor
-      5. Mouse
-      6. Mousepad
-   7. Power Supply Unit (PSU)
-   8. Storage
-   9. Extras
-3. Conclusion
+3. Case
+4. Central Processing Unit (CPU)
+   1. CPU Cooler
+5. Graphics Processing Unit (GPU)
+6. Memory (RAM)
+7. Motherboard
+8. Peripherals
+   1. Headset
+   2. Keyboard
+   3. Microphone
+   4. Monitor
+   5. Mouse
+   6. Mousepad
+9. Power Supply Unit (PSU)
+10. Storage
+11. Extras
+12. Conclusion
 
 ## 1: Introduction
 
@@ -40,7 +40,7 @@
   - The three above are the most important as opposed to the other parts.
   - Everything else is "filler".
 
-## 2.1: Case
+## 3: Case
 
 - There are 4 different types of cases:
   - Small form factor. (Mini-ITX)
@@ -61,7 +61,7 @@
   - Size.
     - How much desk space do you have?
 
-## 2.2: Central Process Unit (CPU)
+## 4: Central Process Unit (CPU)
 
 - What to consider?
   - Brand.
@@ -69,7 +69,7 @@
   - Generation, cores, threads, clock speed. (In that respective order.)
     - How much work will you be doing?
 
-## 2.2.1: CPU Cooler
+## 4.1: CPU Cooler
 
 - There are a few different types of cooling methods.
   - Air.
@@ -80,7 +80,7 @@
   - Clearance.
     - Is this going to fit in the case?
 
-## 2.3: Graphics Processing Unit (GPU)
+## 5: Graphics Processing Unit (GPU)
 
 - What to consider?
   - Brand.
@@ -98,7 +98,7 @@
   - Monitor.
     - Will the GPU provide the necessary power and specs to make your monitor used at the full potential? (Think about this vice versa too.)
 
-## 2.4: Memory (RAM)
+## 6: Memory (RAM)
 
 - What to consider?
   - CAS latency.
@@ -108,7 +108,7 @@
   - Memory channels.
     - What communication do you want with the RAM to the CPU? (2 sticks of RAM or more generally recommended to utilize dual channel.)
 
-## 2.5: Motherboard
+## 7: Motherboard
 
 - What to consider?
   - Chipset.
@@ -126,16 +126,16 @@
   - Socket.
     - Does the CPU you want fit with the motherboard and vice versa?
 
-## 2.6: Peripherals
+## 8: Peripherals
 
-## 2.6.1: Headset
+## 8.1: Headset
 
 - What to consider?
   - Comfort.
     - Do you want an earphone/microphone combo?
     - Will you be fine with this on your head for long amounts of time?
 
-## 2.6.2: Keyboard
+## 8.2: Keyboard
 
 - Different types for keyboards:
   - Mechanical.
@@ -177,14 +177,14 @@
   - Sound.
     - Do you want your key presses to be loud (mechanical), sharp, quiet, etc.?
 
-## 2.6.3: Microphone
+## 8.3: Microphone
 
 - What to consider?
   - Input.
     - Do you want a microphone to pick up everything or only just your voice?
     - Would you want to use a headset microphone or a separate dedicated microphone?
 
-## 2.6.4: Monitor
+## 8.4: Monitor
 
 - Different panel types for monitors:
   - Do you want your games to have the most accurate perceived color?
@@ -210,7 +210,7 @@
 - Use this to detect dead pixels.
   - http://lcdtech.info/en/tests/dead.pixel.htm
 
-## 2.6.5: Mouse
+## 8.5: Mouse
 
 - What to consider?
   - Buttons.
@@ -220,7 +220,7 @@
   - Portability.
     - Do you want a wired or wireless mouse?
 
-## 2.7: Power Supply Unit (PSU)
+## 9: Power Supply Unit (PSU)
 
 - There are 6 different types of "80 Plus" certifications. (Program to identify efficient energy use.)
   - 80 Plus.
@@ -239,7 +239,7 @@
   - Modularity.
     - Do you want to be able to remove wires and stick with the wires already attached?
 
-## 2.8: Storage
+## 10: Storage
 
 - What to consider?
   - Size.
@@ -247,7 +247,7 @@
   - Speed.
     - Do you want to use a SSD to speed up applications, including the operating system, at a price?
 
-## 2.9: Extras
+## 11: Extras
 
 - What to consider?
   - Operating System.
@@ -255,6 +255,6 @@
   - RGB.
     - Do you want computer parts to light up at night?
 
-## 3: Conclusion
+## 12: Conclusion
 
 - Thank you.
