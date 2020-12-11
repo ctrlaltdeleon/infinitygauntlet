@@ -27,7 +27,7 @@
   - dad
     - allbirds
   - mom
-    - new chair
+    - something else
   - julie
     - maybe a new chair too
     - drawing tablet
@@ -39,15 +39,16 @@
     - flowers, haikyuu clothes replacement, letter
   - savannah
     - sweets and tea, letter
-  - nessa
-    - computer related?
+  - nessa DONE
+    - cosmic nami skin
   - jean
     - mihoyo related?
   - trishia
     - manga related?
-  - gary
+  - gary DONE
     - wendy flashlight
   - nathan
+    - haikyuu related? crows?
   - rick
     - switch tester?
   - dillon
@@ -55,7 +56,8 @@
   - geoff
     - ???
   - walter
-    - ???
+    - rwby?
+    - ff 14?
   - kim
     - kpop related, season's greetings?
   - lathil

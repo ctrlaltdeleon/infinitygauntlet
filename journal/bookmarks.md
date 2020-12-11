@@ -29,6 +29,8 @@
 - Neil Degrasse Tyson SciCafe "yeru" meme: https://www.youtube.com/watch?v=4KRZQQ_eICo
 - Simon Sinek (creative mornings q&a): https://www.youtube.com/watch?v=M3rsXos0TD8
 - Simon Sinek (quiet adult crowd, conference/dining room): https://www.youtube.com/watch?v=efGLdwPOWSw
+- Women of Impact Matthew Hussey: https://www.youtube.com/watch?v=pse1IbIc7vM
+- Women of Impact Bilyeu Relationship: https://www.youtube.com/watch?v=cb6MFpGNjuE
 
 ## Playlists 
 

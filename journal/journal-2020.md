@@ -1,31 +1,47 @@
+# December 11 2020
+
+-  ???
+
 # December 10 2020
 
-- ???
+- In `Java`, when declaring variables, why is `String` capitalized and `int` isn't in certain cases?
+- In `Java`, `String` is unique because it's an object with attributes such as length.
+- Ints are just dumb because they hold a number. (But can't you get the length of that too?)
+- Gym!
+  - Volleyball.
+
 # December 9 2020
 
-- ???
+- In `Mac`, how do you look for a specific file via path in finder?
+  - `cmd + shift + g`
+
 # December 8 2020
 
 - ???
 # December 7 2020
 
-- ???
+- Barbell came in, need to buy weights.
+- Gym!
+  - Flex.
 # December 6 2020
 
 - Played Genshin Impact with Xiangling (collecting anemo) and Paimon (Zhongli drop domains).
 - Gym!
   - Flex.
   - Volleyball.
+
 # December 5 2020
 
 - Took a fat nap.
 - League of Legends Clash! (KimchiCowboy, Puppies Are Cute, Hooksman (?), Erendan, anonymouscurt)
   - King of the losers! (1 loss, 2 wins)
 - Played the Forest with Washington friends till 5 am, poor decision, but we got a lot done.
-  - Feel like the vibe is wonky, need to revive it somehow. 
+  - Feel like the vibe is wonky, need to revive it somehow.
+
 # December 4 2020
 
 - Spent the day with Kirby and played some games and got some work done.
+
 # December 3 2020
 
 - Thought there was no volleyball oops.
@@ -1318,7 +1334,7 @@ console.log(champions[champions.length - 1]);
 
 # August 2 2020
 
-- Hung out with video editing friend to get Sharetea, Vons, and talk at a park.
+- Hung out with Female Shadow Clone to get Sharetea, Vons, and talk at a park.
 
 # August 1 2020
 

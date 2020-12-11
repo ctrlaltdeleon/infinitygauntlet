@@ -152,7 +152,7 @@ static void Main()
     5. Deployment.
     6. Easier.
 20. What is deep or shallow copy concept?
-    1. Deep copy copes references and the object to which is referred.
+    1. Deep copy copies references and the object to which is referred.
     2. Shallow copy copies references only.
 21. What is multicast delegate?
     1. It's a delegate in itself, but may have singlecast if it'd like to.
