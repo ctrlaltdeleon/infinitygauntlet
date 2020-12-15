@@ -1,0 +1,41 @@
+# presents
+
+- dad
+  - mom's picture with tool
+- mom
+  - ???
+- julie
+  - tablet? chair?
+- jc
+  - ???
+- jaden
+  - ???
+- arlynn
+  - flowers, letter, haikyuu clothes
+- savannah
+  - sweets, tea
+- nessa (done)
+  - cosmic nami skin
+- jean
+  - ???
+- trishia
+  - ???
+- gary
+  - wendy flashlight
+- nathan (3333 164th st sw apt 2431 lynnwood wa 98087)
+- rick
+- dillon (consider online gift)
+- geoff (consider online gift)
+- walter (consider online gift)
+- kim
+- lathil
+- brian (3333 164th st sw apt 2431 lynnwood wa 98087)
+  - reaper nerf gun
+- noah (consider online gift)
+- mark (consider online gift)
+- quynh (3333 164th st sw apt 2431 lynnwood wa 98087)
+- john juhl (consider online gift)
+- kraq
+- albert
+- mar
+- henry

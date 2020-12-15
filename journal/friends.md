@@ -1,34 +1,34 @@
-# FRIENDS
+# friends
 
-## Aries (MV)
+## aries (mv)
 
-- Soft.
+- soft.
 
-## Female Shadow Clone (LC)
+## female shadow clone (lc)
 
-- Tiger milk tea.
+- tiger milk tea.
 
-## Kairi (ST)
+## kairi (st)
 
-- Alpaca.
+- alpaca.
 
-## Kirby (AA)
+## kirby (aa)
 
-- Light blue.
+- light blue.
 
-## Paimon (JP)
+## paimon (jp)
 
-- Picnics.
+- picnics.
 
-## Rei Ayanami (TR)
+## rei ayanami (tr)
 
-- Capybara.
+- capybara.
 
-## Taeyang (AV)
+## taeyang (av)
 
-- Big Bang
-- Twice
+- big bang
+- twice
 
-## Xiangling (NC)
+## xiangling (nc)
 
 - ???
