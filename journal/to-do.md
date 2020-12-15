@@ -1,5 +1,15 @@
 # TO DO
 
+<<<<<<< Updated upstream
+=======
+- FSAFEDS
+  - acdeleon
+- Definition of Ghosting
+  - Ghosters
+  - Victims
+  - "Deal with it"
+  - Generation of fake people who are depressed but seem happy
+>>>>>>> Stashed changes
 - Dashboard by Lee Robinson
   - Make into powerstone.netlify.com
   - All of your stats
@@ -15,3 +25,63 @@
 - finish how-to-skin-care
 - guzheng on piano
 - https://ts.chibicode.com/todo/
+<<<<<<< Updated upstream
+=======
+- presents (budget $2000 for everything)
+  - dad
+    - allbirds
+  - mom
+    - something else
+  - julie
+    - maybe a new chair too
+    - drawing tablet
+  - jc
+    - ???
+  - jaden
+    - something workout related?
+  - arlynn
+    - flowers, haikyuu clothes replacement, letter
+  - savannah
+    - sweets and tea, letter
+  - nessa DONE
+    - cosmic nami skin
+  - jean
+    - mihoyo related?
+  - trishia
+    - manga related?
+  - gary DONE
+    - wendy flashlight
+  - nathan
+    - haikyuu related? crows?
+  - rick
+    - switch tester?
+  - dillon
+    - magic the gathering related?
+  - geoff
+    - ???
+  - walter
+    - rwby?
+    - ff 14?
+  - kim
+    - kpop related, season's greetings?
+  - lathil
+    - ???
+  - brian
+    - nerf gun
+  - mark
+    - ???
+  - noah
+    - ???
+  - quynh
+    - ???
+  - john juhl
+    - ???
+  - albert
+    - ???
+  - kraq
+    - ???
+  - mar
+    - ???
+  - susan kim
+    - ask her about tablets
+>>>>>>> Stashed changes

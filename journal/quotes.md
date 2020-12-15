@@ -7,3 +7,4 @@
 - "Kind in your tone, ruthless in your actions."
 - "What did you want in a partner that I don't have? What did I used to do for you that I don't do for you now that you wished I did?"
 - "Self love is doing what makes you uncomfortable."
+- "Like a tree that falls alone in the woods without a sound. I can't be sure that I exist when you are not around."

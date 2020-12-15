@@ -1,6 +1,22 @@
+# December 15 2020
+# December 14 2020
+
+- New whale species found near Mexico?
+
+# December 13 2020
+
+- Was nice and lovely.
+- Gym!
+  - Flex.
+
+# December 12 2020
+
+- Gym!
+  - Volleyball.
 # December 11 2020
 
--  ???
+-  Sleepy and tired.
+-  Losing my touch in keeping up with relationships.
 
 # December 10 2020
 
@@ -764,7 +780,6 @@ sudo chmod -R 755 %TARGET-DIRECTORY%
 # September 15 2020
 
 - How to ask a "good" Stack Overflow question?
-- How do you answer a Stack Overflow
 - Gym!
   - Volleyball.
 
