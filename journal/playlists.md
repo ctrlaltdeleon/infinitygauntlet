@@ -1,4 +1,4 @@
-# PLAYLISTS
+# playlists
 
 ## songs i wish she heard
 
