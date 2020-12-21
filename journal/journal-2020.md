@@ -1,7 +1,40 @@
 # December 15 2020
+
+- In `React`, how to provide a `useState` with a callback?
+  - `useState` setter doesn't provide a callback after state update is done like `setState` does in `React` class components.
+  - In order to replicate the same behavior, you can make use of the a similar pattern like `componentDidUpdate` lifecycle method in `React` class components with `useEffect` using Hooks.
+  - Can use this and export the function to be used in your application via `import { useStateWithCallback } from "wherever/you/put/this";`
+
+```js
+import { useEffect, useRef, useState } from "react";
+
+export const useStateWithCallback = (initialState) => {
+  const [state, setState] = useSTate(initialState);
+  // "cb" means "callback".
+  const cbRef = useRef(null);
+
+  const setStateCallback = (state, cb) => {
+    cbRef.current = cb;
+    setState(state);
+  };
+
+  useEffect(() => {
+    // "cb.current" is null on initial render, we only want updates.
+    if (cbRef.current) {
+      cbRef.current(state);
+      cbRef.current = null;
+    }
+  }, [state]);
+
+  return [state, setStateCallback];
+}
+```
+
 # December 14 2020
 
 - New whale species found near Mexico?
+- Gym!
+  - Flex.
 
 # December 13 2020
 
