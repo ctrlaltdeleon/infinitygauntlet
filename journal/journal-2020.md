@@ -1,5 +1,84 @@
 # December 15 2020
 
+- ???
+
+# December 15 2020
+
+- ???
+
+# December 15 2020
+
+- ???
+
+# December 31 2020
+
+- ???
+
+# December 30 2020
+
+- ???
+
+# December 29 2020
+
+- ???
+
+# December 28 2020
+
+- Back to work.
+- There's a social norm where Jewish people eat non-american foods on Christmas days since they're the only restaurants open, most notably Chinese restaurants.
+
+# December 27 2020
+
+- Relaxed.
+
+# December 26 2020
+
+- Cleaning out my room of lots of trash.
+- Gym!
+  - Volleyball.
+
+# December 25 2020
+
+- Merry xmas!
+
+# December 24 2020
+
+- Stay toasty.
+
+# December 23 2020
+
+- Day off! Which doesn't feel like a day off since I was hit with home projects.
+
+# December 22 2020
+
+- Finished the full stack task!
+
+# December 21 2020
+
+- Short work week.
+
+# December 20 2020
+
+- ???
+
+# December 19 2020
+
+- ???
+
+# December 18 2020
+
+- ???
+
+# December 17 2020
+
+- Goodbye to coworkers for a few weeks due to xmas.
+
+# December 16 2020
+
+- ???
+
+# December 15 2020
+
 - In `React`, how to provide a `useState` with a callback?
   - `useState` setter doesn't provide a callback after state update is done like `setState` does in `React` class components.
   - In order to replicate the same behavior, you can make use of the a similar pattern like `componentDidUpdate` lifecycle method in `React` class components with `useEffect` using Hooks.

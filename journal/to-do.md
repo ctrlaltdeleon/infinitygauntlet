@@ -18,4 +18,3 @@
 - guzheng on piano
 - https://ts.chibicode.com/todo/
 - bettie f williams elementary, what's old address
-- talk to an artist about emotes for people
