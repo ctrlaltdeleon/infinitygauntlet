@@ -1,15 +1,3 @@
-# December 15 2020
-
-- ???
-
-# December 15 2020
-
-- ???
-
-# December 15 2020
-
-- ???
-
 # December 31 2020
 
 - ???
@@ -26,6 +14,19 @@
 
 - Back to work.
 - There's a social norm where Jewish people eat non-american foods on Christmas days since they're the only restaurants open, most notably Chinese restaurants.
+- In `JavaScript`, when defining `@param`, how does one define an array of objects?
+
+```js
+// Default.
+/**
+ * @param {Object[]} myArray
+ */
+
+// If the keys and values are known of the objects.
+/**
+ * @param {{myNumber: Number, myString: String, myArray: Array}[]} myObjects
+ */
+```
 
 # December 27 2020
 
