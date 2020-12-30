@@ -18,3 +18,12 @@
 - guzheng on piano
 - https://ts.chibicode.com/todo/
 - bettie f williams elementary, what's old address
+- look at r/battlestations for ideas
+- google trends to get data
+- ff7 generations battle mix
+  - ff7 playstation
+  - ff7 crisis core
+  - ff7 crisis core - INTENSE
+  - ff7 crisis core - INTENSE INTENSE
+  - ff7 dirge of cerberus
+  - ff7 remake
