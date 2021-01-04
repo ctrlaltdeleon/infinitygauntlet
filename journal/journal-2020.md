@@ -1,33 +1,48 @@
 # December 31 2020
 
-- ???
+- Moved the gym.
+- Gym!
+  - Flex.
 
 # December 30 2020
 
-- In `JavaScript`, what are the differences between `Slice()`, `Splice()`, and `Split`?
+- In `JavaScript`, what are the differences between `Slice()`, `Splice()`, `Split())`, `Substr()`, and `substring()`?
 
 ```js
-// Slice(startIndex, endIndex) will not alter contents, used for strings and arrays.
+// string.slice(startIndex[, endIndex]) will not alter contents, used for strings and arrays.
 let newArray = ["red", "orange", "green", "blue"]
 newArray.slice(0, 1) // Returns ["red"].
 newArray.slice(0, 3) // Returns ["red", "orange", "green"].
 newArray.slice(1) // Returns ["orange", "green", "blue"].
 newArray.slice(-1) // Returns ["blue"].
 
-// Splice(startIndex, removeAmountOfItems, replaceElement) will alter contents, used for arrays.
+// array.splice(startIndex[, deleteCount[, item1[, item2[, ...]]]]) will alter contents, used for arrays.
 let newArray = ["red", "orange", "green", "blue"]
 newArray.splice(0, 1) // Returns ["red"], newArray is now ["orange", "green", "blue"].
 newArray.splice(1) // Returns ["orange", "green", "blue"], newArray is now ["red"].
 newArray.splice(4, 0, "pink") // Returns [], newArray is now ["red", "orange", "green", "blue", "pink"].
 newArray.splice(2, 1, "pink") // Returns ["green"], newArray is now ["red", "orange", "pink", "blue"].
 
-// Split(separator, endAmountOfItems) will not alter contents, used for strings.
+// string.split([separator[, limit]]) will not alter contents, used for strings.
 let newString = "we are learning about the javascript method split"
 newString.split() // Returns ["we are learning about the javascript method split"].
 newString.split("") // Returns ["w", "e", " ", "a", ...etc.].
 newString.split(" ") // Returns ["we", "are", "learning", "about", "the", "javascript", "method", "split"].
 newString.split(“ “, 3) // Returns ["we", "are", "learning"].
+
+// string.substr(startIndex[, length]) will not alter contents, used for strings.
+const str = 'Mozilla';
+newString.substr(1, 2); // Returns "oz".
+newString.substr(2); // Returns "zilla".
+
+// string.substring(startIndex[, endIndex]) will not alter contents, used for strings.
+const str = 'Mozilla';
+newString.substring(1, 3); // Returns "oz".
+newString.substring(2); // Returns "zilla".
 ```
+
+- What does the `[]` mean in example functions such as `string.substring(startIndex[, endIndex])`?
+  - The `[]` denotes "optional".
 
 # December 29 2020
 
