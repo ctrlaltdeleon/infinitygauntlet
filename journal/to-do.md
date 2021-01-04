@@ -1,17 +1,17 @@
-# TO DO
+# to do
 
-- FSAFEDS
+- fsafeds
   - acdeleon
-- Dashboard by Lee Robinson
-  - Make into powerstone.netlify.com
-  - All of your stats
-  - Socket.io implementation on tweets circulating over specific key words
+- dashboard by lee robinson
+  - make into powerstone.netlify.com
+  - all of your stats
+  - socket.io implementation on tweets circulating over specific key words
     - @acfromspace influence?
   - stackvoerflow people impact
-- DTA
-  - Finish training
-- WHAT'S THE SONG?
-  - "kuma say kuma saw LA LA LA" from delfinpod "another black widow delay?" around 18:10
+- dta
+  - finish training
+- what's the song?
+  - "kuma say kuma saw la la la" from delfinpod "another black widow delay?" around 18:10
   - oh i think it's the michael jackson song
 - https://fullcircletattoos.com/contact/?v=7516fd43adaa
 - finish how-to-skin-care
@@ -23,7 +23,7 @@
 - ff7 generations battle mix
   - ff7 playstation
   - ff7 crisis core
-  - ff7 crisis core - INTENSE
-  - ff7 crisis core - INTENSE INTENSE
+  - ff7 crisis core - intense
+  - ff7 crisis core - intense intense
   - ff7 dirge of cerberus
   - ff7 remake

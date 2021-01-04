@@ -1,8 +1,11 @@
-# PROFILE
+# profile
 
 🧑🏻‍🚀✨🌌
 
-- Sun: Libra
-- Moon: Virgo
-- Ascendant: Leo
-- MC: Aries
+- intelligence, survellience, & recon.
+  - space and intelligence systems.
+    - intel data analysis.
+- sun: libra
+- moon: virgo
+- ascendant: leo
+- mc: aries

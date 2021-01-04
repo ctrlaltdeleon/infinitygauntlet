@@ -4,6 +4,7 @@
 
 - check links on website: http://validator.w3.org/checklink
 - check website on browsers: http://browsershots.org
+- code to art: https://code2art.jetbrains.com/
 - functional programming with javascript: https://www.youtube.com/watch?v=e-5obm1G_FY
 - get that job at google: http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
 - javascript charts: https://www.chartjs.org/

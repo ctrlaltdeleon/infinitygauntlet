@@ -1,10 +1,11 @@
-# QUOTES
+# quotes
 
-- "You will never know true loss until you love something more than you love yourself."
-- "Glowsticks need to be broken before they can glow."
-- "Can I stay a bit longer?" "Stay forever."
-- "Words that make questions may not be questions at all."
-- "Kind in your tone, ruthless in your actions."
-- "What did you want in a partner that I don't have? What did I used to do for you that I don't do for you now that you wished I did?"
-- "Self love is doing what makes you uncomfortable."
-- "Like a tree that falls alone in the woods without a sound. I can't be sure that I exist when you are not around."
+- "you will never know true loss until you love something more than you love yourself."
+- "glowsticks need to be broken before they can glow."
+- "can i stay a bit longer?" "stay forever."
+- "words that make questions may not be questions at all."
+- "kind in your tone, ruthless in your actions."
+- "what did you want in a partner that i don't have? what did i used to do for you that i don't do for you now that you wished i did?"
+- "self love is doing what makes you uncomfortable."
+- "like a tree that falls alone in the woods without a sound. i can't be sure that i exist when you are not around."
+- "i took two bites bitch."
