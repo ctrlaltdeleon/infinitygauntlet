@@ -1,6 +1,14 @@
+# January 6 2020
+
+- ???
 # January 5 2020
 
 - Time to teach `MongoDB`!
+  - Went really well! Besides the `.git` mess we ended up in, mostly due to `NetBeans` IDE going into `IntelliJ` IDE.
+- In `IntelliJ`, how does one organize the imports in alphabetical order?
+  - `Ctrl + Alt + O`
+  - This also adds required imports and removes unneeded imports.
+
 # January 4 2020
 
 - Finally back to work with the whole team.
@@ -37,6 +45,9 @@ public static String createCharacterElement(Character character) {
     return character.getElement() != null ? "Element: " + character.getElement() : "Element: N/A";
 }
 ```
+
+- Gym!
+  - Flex.
 
 # January 3 2020
 
