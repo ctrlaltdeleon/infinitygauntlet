@@ -9,3 +9,6 @@
 - "self love is doing what makes you uncomfortable."
 - "like a tree that falls alone in the woods without a sound. i can't be sure that i exist when you are not around."
 - "i took two bites bitch."
+- "no man ever steps in the same river twice, for it's not the same river and he's not the same man."
+- "never evaluate your life when you're tired."
+- "what if you had it all, but nobody to call? maybe then you'd know me."

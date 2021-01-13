@@ -1,6 +1,46 @@
+# January 13 2020
+
+- Anybody with flights to the USA will need a negative status of COVID.
+# January 12 2020
+
+- Protein intake should be near 1 gram per kilogram of bodyweight.
+  - Currently at ~70 kilograms, so ~70 grams of protein per day.
+  - Protein shake gives ~25 grams.
+  - Protein bars gives ~10 grams.
+- Gym!
+  - Volleyball.
+  - Got one really nice pipe spike in, but it hit the net, but ended on the other side.
+
+# January 11 2020
+
+- Gym!
+  - Flex.
+# January 10 2020
+
+- Gym!
+  - Flex.
+# January 9 2020
+
+- Gym!
+  - Volleyball.
+# January 8 2020
+
+- Working on self assessment.
+# January 7 2020
+
+- Amount of downloads `@acfromspace/weeb` has thus far?
+  - 684.
+- What is  ultimate achievement in Hollywood?
+  - Achieving an Emmy, a Grammy, an Oscar, and a Tony, also referred to as an "EGOT".
+- What are the differences between an Emmy, a Grammy, an Oscary, and a Tony?
+  - Emmy is for television.
+  - Grammy is for music.
+  - Oscar is for film.
+  - Tony is for theatre.
 # January 6 2020
 
-- ???
+- Gym!
+  - Flex.
 # January 5 2020
 
 - Time to teach `MongoDB`!

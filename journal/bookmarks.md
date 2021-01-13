@@ -16,6 +16,7 @@
 - stacks game: https://codesandbox.io/embed/quizzical-lederberg-gdiwy?fontsize=14&hidenavigation=1&theme=dark&codemirror=1
 - standard javascript: https://github.com/standard/standard
 - typescript handbook: https://www.freecodecamp.org/news/the-definitive-typescript-handbook/
+- youtube stats: https://github.com/rodgtr1/youtube-stats
 
 ## ease of life
 
