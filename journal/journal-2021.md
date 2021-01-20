@@ -1,6 +1,39 @@
+# January 19 2020
+
+- What is relationship anarchy?
+  - The idea of relationships decided by people and what they bring out of you rather than labels.
+  
+# January 18 2020
+
+- Martin Luther King Jr. day.
+- Gym!
+  - Volleyball.
+  - Was pissed and just want to be better.
+
+# January 17 2020
+
+- Slept.
+  
+# January 16 2020
+
+- Gym!
+  - Volleyball.
+  - Flex.
+
+# January 15 2020
+
+- Gym!
+  - Flex.
+
+# January 14 2020
+
+- Gym!
+  - Volleyball.
+
 # January 13 2020
 
 - Anybody with flights to the USA will need a negative status of COVID.
+
 # January 12 2020
 
 - Protein intake should be near 1 gram per kilogram of bodyweight.
