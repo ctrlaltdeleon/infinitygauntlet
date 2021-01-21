@@ -1,40 +1,82 @@
-# January 19 2020
+# January 21 2021
+
+- In `React`, how should autosave be handled in terms of string inputs?
+  
+```js
+// With autosave.
+const [autoSave, setAutoSave] = useState("");
+const [state, setState] = useStateWithCallback("");
+
+const handleState = (event) => {
+    setState(event, (update) => console.log("Do something with update", update));
+}
+
+const stateAutoSave = (event) => {
+    setAutoSave(event);
+    if (autoSave.length % 10 === 0 && autoSave.length !== 0) {
+        handleState(event);
+    }
+}
+
+onBlur={(event) => handleState(event.target.value)};
+onChange={(event) => stateAutoSave(event.target.value)};
+
+// Without autosave.
+const [state, setState] = useStateWithCallback("");
+
+const handleState = (event) => {
+    console.log("Do something with state", state);
+}
+
+onBlur={handleState};
+onChange={(event) => setState(event.target.value)};
+```
+# January 20 2021
+
+- Gym!
+  - Volleyball.
+
+# January 19 2021
 
 - What is relationship anarchy?
   - The idea of relationships decided by people and what they bring out of you rather than labels.
+- Was extremely tired.
+- Gym!
+  - Volleyball.
+  - Took it easy and went for setter position to give hitters what they can which worked out well.
   
-# January 18 2020
+# January 18 2021
 
 - Martin Luther King Jr. day.
 - Gym!
   - Volleyball.
   - Was pissed and just want to be better.
 
-# January 17 2020
+# January 17 2021
 
 - Slept.
   
-# January 16 2020
+# January 16 2021
 
 - Gym!
   - Volleyball.
   - Flex.
 
-# January 15 2020
+# January 15 2021
 
 - Gym!
   - Flex.
 
-# January 14 2020
+# January 14 2021
 
 - Gym!
   - Volleyball.
 
-# January 13 2020
+# January 13 2021
 
 - Anybody with flights to the USA will need a negative status of COVID.
 
-# January 12 2020
+# January 12 2021
 
 - Protein intake should be near 1 gram per kilogram of bodyweight.
   - Currently at ~70 kilograms, so ~70 grams of protein per day.
@@ -44,22 +86,22 @@
   - Volleyball.
   - Got one really nice pipe spike in, but it hit the net, but ended on the other side.
 
-# January 11 2020
+# January 11 2021
 
 - Gym!
   - Flex.
-# January 10 2020
+# January 10 2021
 
 - Gym!
   - Flex.
-# January 9 2020
+# January 9 2021
 
 - Gym!
   - Volleyball.
-# January 8 2020
+# January 8 2021
 
 - Working on self assessment.
-# January 7 2020
+# January 7 2021
 
 - Amount of downloads `@acfromspace/weeb` has thus far?
   - 684.
@@ -70,11 +112,11 @@
   - Grammy is for music.
   - Oscar is for film.
   - Tony is for theatre.
-# January 6 2020
+# January 6 2021
 
 - Gym!
   - Flex.
-# January 5 2020
+# January 5 2021
 
 - Time to teach `MongoDB`!
   - Went really well! Besides the `.git` mess we ended up in, mostly due to `NetBeans` IDE going into `IntelliJ` IDE.
@@ -82,7 +124,7 @@
   - `Ctrl + Alt + O`
   - This also adds required imports and removes unneeded imports.
 
-# January 4 2020
+# January 4 2021
 
 - Finally back to work with the whole team.
 - In `JavaScript`, how does one insert characters in a string at specific locations, I.E. a phone number?
@@ -122,19 +164,19 @@ public static String createCharacterElement(Character character) {
 - Gym!
   - Flex.
 
-# January 3 2020
+# January 3 2021
 
 - Cleaning my room, finally got to it after taking long naps and trying to put myself together.
 - Got stuff to return eventually.
 - Demoralized from League of Legends, just was not able to carry the team despite the effort I put in.
-# January 2 2020
+# January 2 2021
 
 - Movie!
   - Soul.
 - Thanks Kirby.
 - Gym!
   - Volleyball.
-# January 1 2020
+# January 1 2021
 
 - Happy new year!
 - Fell asleep through it lol.
