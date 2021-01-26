@@ -1,3 +1,17 @@
+# January 25 2021
+
+- Finally finished my long task.
+
+# January 24 2021
+
+- Stayed home.
+
+# January 23 2021
+
+- ???
+# January 22 2021
+
+- ???
 # January 21 2021
 
 - In `React`, how should autosave be handled in terms of string inputs?

@@ -18,6 +18,9 @@
 - typescript handbook: https://www.freecodecamp.org/news/the-definitive-typescript-handbook/
 - youtube stats: https://github.com/rodgtr1/youtube-stats
 
+## cute
+
+- dog trying: https://www.reddit.com/r/aww/comments/l4vpek/at_least_he_tried_his_best/?utm_source=share&utm_medium=web2x&context=3
 ## ease of life
 
 - compress and optimize images: https://compressor.io/
