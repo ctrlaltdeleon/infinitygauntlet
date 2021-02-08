@@ -1,5 +1,17 @@
 # January 25 2021
 
+Former optician here!
+
+I highly recommend polycarbonate lenses (as opposed to a basic plastic lens- also known as CR) they are more durable and naturally scratch-resistant and have UV protection. When I worked as an optician, we could only add UV and scratch resistant coatings to a basic plastic lens.
+
+High Index Lenses are typically better suited for prescriptions under - 2 but of course that is up to your personal preference. Some frames are not well-suited to high index lenses.
+
+Anti-Reflective Coating helps reduce glare from nighttime driving, computer screens and helps reduce eye fatigue. If your eyes are sensitive to changes in light it is worth the cost.
+
+Transitions/tinting is completely personal preference. Just be aware most transitions are NOT polarized the way normal sunglasses are.
+
+If you have any other questions I’d be happy to help :)
+
 - Finally finished my long task.
 
 # January 24 2021
