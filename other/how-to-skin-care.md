@@ -98,6 +98,8 @@
   - Sensitivity
   - Pigmentation
   - Wrinkles
+- AC*** REMEMBER TO DO THIS:
+  - https://www.reddit.com/r/SkincareAddiction/wiki/sca_routine
 
 ## 3.1: Sensitivity
 

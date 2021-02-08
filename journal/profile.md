@@ -9,3 +9,6 @@
 - moon: virgo
 - ascendant: leo
 - mc: aries
+
+# stats
+- unsplash: https://unsplash.com/@acfromspace/stats
