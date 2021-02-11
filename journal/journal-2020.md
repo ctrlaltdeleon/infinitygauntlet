@@ -134,7 +134,7 @@ setExampleState(exampleState => ({...exampleState, masterField2: {...etc} }));
 import { useEffect, useRef, useState } from "react";
 
 export const useStateWithCallback = (initialState) => {
-  const [state, setState] = useSTate(initialState);
+  const [state, setState] = useState(initialState);
   // "cb" means "callback".
   const cbRef = useRef(null);
 
@@ -288,7 +288,7 @@ org.opentest4j.MultipleFailuresError:
 
 - In `Java`, what's the difference between a `long` and `double`?
   - `long` works with integers.
-  - `double` works with negative/positive floats (Bigger than a float though.)
+  - `double` works with negative/positive floats; bigger than a float.
 
 # November 24 2020
 

@@ -1,3 +1,79 @@
+# Feburary 2 2021
+
+- Gym!
+  - Volleyball.
+# Feburary 1 2021
+
+- In `JavaScript`, is there an easy way to automatically add properties to objects that are undefined?
+
+```js
+// For hard coded keys.
+var test = {};
+test.hello = test.hello || {};
+test.hello.world = "Hello world!";
+
+// For variable keys.
+var test = {};
+test[variable] = test.hello || {};
+test[variable].world = "Hello world!";
+```
+
+- How to ask a Stack Overflow question?
+  - What am I trying to do?
+  - What is the code that currently tries to do that?
+  - What do I expect the result to be?
+  - What is the actual result?
+  - What I think the problem could be?
+
+```
+// Copy pasta.
+**What am I trying to do?**
+**What is the code that currently tries to do that?**
+**What do I expect the result to be?**
+**What is the actual result?**
+**What I think the problem could be?**
+```
+
+- Gym!
+  - Flex.
+
+# January 31 2021
+
+- Got to see the old gang again and played spikeball, secret hitler, and more.
+- Gym!
+  - Flex.
+  
+# January 30 2021
+
+- I think I'm falling for you.
+  
+# January 29 2021
+
+- Donut Bar, Zion Market, WandaVision EP. 4.
+- Slept all day.
+  
+# January 28 2021
+
+- I don't think you can really go wrong with any of the three; I'm a long-time customer of two of them.
+
+The biggest difference, in my eyes, is the actual structure of the companies themselves--
+
+-Schwab is a publicly traded company, and management is responsible to a board of directors and holders of their stock. When they cut fees, they're cutting their profit margin, and presumably the value that they can return to their shareholders
+
+-Fidelity is a privately held company, primarily owned and controlled by the descendants of its founder, and other company executives. While they're still a for-profit enterprise, the fact that they're private and closely-held gives them much more latitude in how they operate-- they don't have to make their earnings public, and they don't have to worry about a shareholder otherwise unconnected with the company exerting influence on how they run the business.
+
+-Vanguard is essentially a mutual company. The company itself is owned by its funds, so in owning shares in a Vanguard fund, you own part of Vanguard itself-- the structure is a little like a credit union. The return of value to the 'shareholders' (i.e. the investors in Vanguard funds) comes in the form of reduced fees.
+
+# January 27 2021
+
+- Gym!
+  - Volleyball.
+  - Went to Rohr Park this time around, plenty of spots, lights are great.
+  
+# January 26 2021
+
+- ???
+- 
 # January 25 2021
 
 Former optician here!
@@ -20,10 +96,11 @@ If you have any other questions I’d be happy to help :)
 
 # January 23 2021
 
-- ???
+- Uncle Agapito.
+
 # January 22 2021
 
-- ???
+- Stayed home.
 # January 21 2021
 
 - In `React`, how should autosave be handled in terms of string inputs?

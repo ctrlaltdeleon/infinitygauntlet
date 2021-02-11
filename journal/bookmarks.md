@@ -16,6 +16,7 @@
 - react folder structure: https://www.robinwieruch.de/react-folder-structure
 - reusable animation component using react hooks: https://www.freecodecamp.org/news/animating-visibility-with-css-an-example-of-react-hooks/
 - small website maker: https://www.format.com
+- socket.io cheat sheet: https://socket.io/docs/v3/emit-cheatsheet/
 - stacks game: https://codesandbox.io/embed/quizzical-lederberg-gdiwy?fontsize=14&hidenavigation=1&theme=dark&codemirror=1
 - standard javascript: https://github.com/standard/standard
 - typescript handbook: https://www.freecodecamp.org/news/the-definitive-typescript-handbook/
@@ -55,6 +56,7 @@
 - lofi playlist (purple couple, backs to car): https://www.youtube.com/watch?v=NxSDNogkKX0
 - lofi stream (anime girl, tokyo lost tracks)https://www.youtube.com/watch?v=WBfbkPTqUtU
 - lofi xmas (anime town with tree in the middle, seems sketch, but actually really good): https://www.youtube.com/watch?v=VRSfFmZan24
+- oldies in the rain in a car: https://www.youtube.com/watch?v=Lkc5Woyy47I
 - rain piano playlist (girl looking outside to pouring rain): https://www.youtube.com/watch?v=IoK0wFtiT3c
 
 ## other
