@@ -2,7 +2,7 @@
 
 ## career
 
-- check links on website: http://validator.w3.org/checklink
+- check links on website if they're working: http://validator.w3.org/checklink
 - check website on browsers: http://browsershots.org
 - code to art: https://code2art.jetbrains.com/
 - functional programming with javascript: https://www.youtube.com/watch?v=e-5obm1G_FY
@@ -11,8 +11,9 @@
 - javascript charts: https://www.chartjs.org/
 - job offer negotiation: https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer
 - kubernetes and docker introduction: https://www.youtube.com/watch?v=u8dW8DrcSmo
-- native maker: https://github.com/jiahaog/nativefier
+- native app maker to work on any desktop: https://github.com/jiahaog/nativefier
 - open weather api: https://github.com/juliajcodes/react-weather-api
+- react everything website, dream website to work in: http://react-material.fusetheme.com/apps/dashboards/analytics
 - react folder structure: https://www.robinwieruch.de/react-folder-structure
 - reusable animation component using react hooks: https://www.freecodecamp.org/news/animating-visibility-with-css-an-example-of-react-hooks/
 - small website maker: https://www.format.com
