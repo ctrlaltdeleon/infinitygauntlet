@@ -1015,8 +1015,8 @@ useEffect(
 );
 ```
 
-- In `React`, what's the difference between `export function` VS. `export default`.
-  - Depends if you want to export a single entity VS. multiple entities.
+- In `React`, what's the difference between `export function` vs. `export default`.
+  - Depends if you want to export a single entity vs. multiple entities.
 
 ```js
 // Default export.

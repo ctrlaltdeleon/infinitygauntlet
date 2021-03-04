@@ -1,3 +1,83 @@
+# March 3 2021
+
+- ???
+
+# March 2 2021
+
+- Started Darling the in the Franxx.
+- No more Pokemon cereal boxes. 😞
+  
+# March 1 2021
+
+- Start of another work week.
+- Thanks for being there for me Kirby.
+
+# Feburary 28 2021
+
+- Started lubing up the switches, I definitely do feel a difference between lubed vs unlubed.
+# Feburary 27 2021
+
+- ???
+# Feburary 26 2021
+
+- ???
+
+# Feburary 25 2021
+
+- Got gymnastics rings!
+
+# Feburary 24 2021
+
+- ???
+# Feburary 23 2021
+
+- ???
+  
+# Feburary 22 2021
+# Feburary 21 2021
+
+- ???
+
+# Feburary 20 2021
+
+- ???
+
+# Feburary 19 2021
+
+- ???
+
+# Feburary 18 2021
+
+- Can one chain ternary operations?
+
+```java
+// Yes.
+int value = input == null ? 0 : input.equals("") ? 0 : Integer.parseInt(input);
+// If the input is null, value is 0.
+// Else if the input is blank, value is also 0.
+// Else parse the input.
+```
+# Feburary 17 2021
+
+- In your case start with 5% in the Roth TSP to get the match, then start working on maxing out a Roth IRA, then back to the TSP.
+- Usually, people invest into their 401k up to the company match, and then their IRA to the max, and then back to the 401k to the max. The reason they do this is because the average 401k usually has higher fees than their IRA does, but leaving free money (the match) on the table would be stupid; hence the match, IRA, back to 401k.
+# Feburary 16 2021
+
+-
+
+# Feburary 15 2021
+# Feburary 14 2021
+# Feburary 13 2021
+# Feburary 12 2021
+# Feburary 11 2021
+# Feburary 10 2021
+# Feburary 9 2021
+# Feburary 8 2021
+# Feburary 7 2021
+# Feburary 6 2021
+# Feburary 5 2021
+# Feburary 4 2021
+# Feburary 3 2021
 # Feburary 2 2021
 
 - Gym!

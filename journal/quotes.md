@@ -13,3 +13,4 @@
 - "never evaluate your life when you're tired." (youtube comment)
 - "what if you had it all, but nobody to call? maybe then you'd know me." (justin bieber)
 - "you're not down anything unless you sold." (reddit)
+- "i don't want to hurt your feelings, so by hurting your feelings more i'll ghost" (the get up spotify)

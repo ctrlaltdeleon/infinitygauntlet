@@ -1,6 +1,6 @@
 # profile
 
-🧑🏻‍🚀✨🌌
+🌌
 
 - intelligence, survellience, & recon.
   - space and intelligence systems.

@@ -20,6 +20,7 @@
 - socket.io cheat sheet: https://socket.io/docs/v3/emit-cheatsheet/
 - stacks game: https://codesandbox.io/embed/quizzical-lederberg-gdiwy?fontsize=14&hidenavigation=1&theme=dark&codemirror=1
 - standard javascript: https://github.com/standard/standard
+- transfer files quick: https://filebin.net
 - typescript handbook: https://www.freecodecamp.org/news/the-definitive-typescript-handbook/
 - youtube stats: https://github.com/rodgtr1/youtube-stats
 
@@ -59,6 +60,7 @@
 - lofi xmas (anime town with tree in the middle, seems sketch, but actually really good): https://www.youtube.com/watch?v=VRSfFmZan24
 - oldies in the rain in a car: https://www.youtube.com/watch?v=Lkc5Woyy47I
 - rain piano playlist (girl looking outside to pouring rain): https://www.youtube.com/watch?v=IoK0wFtiT3c
+- rainy coffee shop ambience: https://www.youtube.com/watch?v=iD4dMdpNe_I
 
 ## other
 

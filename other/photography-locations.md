@@ -26,6 +26,16 @@
   - Park.
   - Victorian.
 
+### Ellen Browning Scripps Memorial Pier
+
+- Address:
+  - 8650 Kennel Way, La Jolla, CA 92037.
+- Time:
+  - 24 hours.
+- Theme:
+  - Beach.
+  - Bridge.
+
 ### Museum of Contemporary Art San Diego
 
 - Address:
