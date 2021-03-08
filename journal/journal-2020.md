@@ -2508,9 +2508,9 @@ PositionObject positionObject = new PositionObject(1, new Position(2f, 3f));
 
 # March 7 2020
 
-- Happy birthday Japanese child.
+- Happy birthday Japanese child. (Yukina?)
 - Movie!
-  - Boku no Hero Academia: Heroes Rising.
+  - "Boku no Hero Academia: Heroes Rising".
 - Gym!
   - Volleyball.
   - Remember it's not about you.
@@ -3375,12 +3375,13 @@ u=rwx,g=rwx,o=
 # January 18 2020
 
 - Movie!
-  - Weathering with you.
+  - "Weathering with you".
 
 # January 17 2020
 
 - Movie!
-  - Star Wars: The Rise of Skywalker.
+  - "Star Wars: The Rise of Skywalker".
+- Fell asleep lol.
 
 # January 16 2020
 

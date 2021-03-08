@@ -8,7 +8,7 @@
 
 - hiking.
 
-## female shadow clone (lc)
+## female shadow clone (lc1014)
 
 - tiger milk tea.
 
@@ -21,13 +21,21 @@
 - illaoi lol.
 - ornn.
 
-## kairi (st)
+## kairi (st0925)
 
 - alpaca.
 
-## kirby (aa)
+## kirby (aa0412)
 
+- atticus.
 - light blue.
+- poke: half brown rice, half salad, shrimp, scallops, no wasabi
+- shel silverstein.
+
+## pacheekies (np)
+
+- conventions.
+- valheim.
 
 ## paimon (jp)
 
@@ -40,6 +48,8 @@
 ## rei ayanami (tr)
 
 - capybara.
+- evangelion.
+- puzzles.
 - sad.
 
 ## rock (kr)
@@ -54,4 +64,5 @@
 
 ## xiangling (nc)
 
-- ???
+- nami.
+- xiao.

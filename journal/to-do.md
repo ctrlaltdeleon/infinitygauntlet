@@ -64,3 +64,21 @@ Both are Mutual Funds.
 - samantha
 
 IRDM ($6B) and TRMB ($17B) top the list and KTOS ($3.5B) is number 5, and there is no reason to believe ARKX will look any different. There will be tons of money flowing into these stocks when the ETF is released. Everyone seems to have figured out SPCE, but it feels like TRMB and KTOS are super under the radar here.
+
+- == Interim Review conducted on 1/26/2021 via Microsoft TEAMS ==
+
+- Discussed Individual Development Plan, DAWIA status, annual training, property, mustering, skill updates, aspirations, and latest accomplishments/challenges for the first half of the performance year.
+
+- There are no issues to document at this time.
+
+- Recommended that Andrew "AC" continue the contributions he is currently providing.
+
+- Received input from the project's PM. His contribution inputs are provided below:
+
+TECHNICAL: AC is a professional Software Engineer, new to the center, and is key to the successful execution of yeehaw. He functions as a User Experience Engineer, and is responsible for designing and implementing the GUI to best execute yeehaw. AC has also recently been learning how other portions of the code work, enabling him to become a Full Stack developer, significantly improving yeehaw throughput. AC rarely needs assistance with code structuring and construction, he has hit the ground running on yeehaw Development.
+
+TEAMWORK/COMMUNICATION: AC is frequent and valued contributor with his Frontend React Framework expertise. His contributions to the implemented Frontend User experience has garnered significant praise from the sponsor. AC participates in yeehaw meetings and is comfortable expressing himself and providing input to the shared project goal. He has improved his collaboration capabilities with other team members to ensure his and other's development isn't blocked during task execution.
+
+MANAGEMENT: AC is being mentored by senior engineers on yeehaw, and also mentors others. He has led meetings and become an integral team member. AC manages his own time and resources well, and doesn't hesitate to ask for help. He has not interacted with customers, but he did generate the demonstration videos that were universally praised by the sponsor. 
+
+LEADERSHIP: AC is a reliable software engineer. He is constantly learning and looking for ways to improve his skillset, including volunteering to be part of the initial Full Stack training efforts on yeehaw. He occasionally leads meetings and encourages others to grow as leaders, team members, and developers. AC is an effective, reliable engineer. His work is excellent and timely. His continued work on yeehaw is important and integral to the success of ONI's vision to improve submarine user's lives. AC learns quickly and has significant expertise with Frontend Frameworks to leverage to the benefit of yeehaw and the team. He takes direction and follows plans for the project. AC often goes out of his way to get ahead of upcoming tasking and provide useful input to assist in planned development. He has already made an impact on the design and implementation of the yeehaw GUI that will improve the project, primarily on maintaining a consistent look and feel. AC is an eager learner and easy to work with, making him an asset on the yeehaw project. AC rarely needs help with code construction and management, and is taking mentorship well and making great strides. He is now a Full Stack developer, significantly increasing yeehaw development throughput by allowing him to easily move between multiple code bases and components of yeehaw. AC is a significant asset to the team, making a bigger impact than would be expected for such a junior developer. 

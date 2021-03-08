@@ -1,10 +1,20 @@
-# March 3 2021
+# March 5 2021
+
+- "Wandavision"!
+
+# March 4 2021
 
 - ???
 
+# March 3 2021
+
+- Movie!
+  - "The Great Gatsby".
+- Rewatched some funny scenes from "The Office".
+
 # March 2 2021
 
-- Started Darling the in the Franxx.
+- Started "Darling the in the Franxx".
 - No more Pokemon cereal boxes. 😞
   
 # March 1 2021
@@ -355,7 +365,7 @@ public static String createCharacterElement(Character character) {
 # January 2 2021
 
 - Movie!
-  - Soul.
+  - "Soul".
 - Thanks Kirby.
 - Gym!
   - Volleyball.
