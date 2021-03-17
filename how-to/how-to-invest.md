@@ -14,6 +14,8 @@
 - Having a core routine provides your skin with all the necessary steps to keep it clean, healthy, and protected.
 - Whether you’re looking for a minimalist routine or an extensive routine, this is the place to start!
 
+- If it's good enough to screenshot, it's time to sell.
+
 ## 2: Understanding Your Skin Type
 
 - There are 5 types of skin types:

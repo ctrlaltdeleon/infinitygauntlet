@@ -1,3 +1,23 @@
+# March 15 2021
+
+- Tattoo today!
+  - Princess Mononoke inspired, the scene where Ashitaka says "you're beautiful" to San.
+
+# March 14 2021
+
+- Happy birthday to Jean from Genshin Impact.
+- Went to Brendan's!
+  - 
+- Played spikeball with the homies and "Betrayal at House on the Hill" wh
+
+# March 13 2021
+# March 12 2021
+# March 11 2021
+# March 10 2021
+# March 9 2021
+# March 8 2021
+# March 7 2021
+# March 6 2021
 # March 5 2021
 
 - "Wandavision"!
