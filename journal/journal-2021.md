@@ -1,3 +1,189 @@
+# April 13 2021
+
+- Looked somewhat cloudy today, light rain.
+
+# April 12 2021
+
+- Dressed up today for work then being notified the admiral isn't coming, phew.
+- When making object classes, how should it be formatted?
+
+```js
+// Should be 1 to 1, no changes, changes happen when receiving the data.
+export class %SOME-OBJECT% {
+  constructor(%ATTRIBUTE-1%, %ATTRIBUTE-2%, %ATTRIBUTE-3%) {
+    this.%ATTRIBUTE-1% = %ATTRIBUTE-1%;
+    this.%ATTRIBUTE-2% = %ATTRIBUTE-2%;
+    this.%ATTRIBUTE-3% = %ATTRIBUTE-3%;
+  }
+}
+```
+
+- Happy Birthday Kirby!
+- Gym!
+  - Flex.
+- Had to bring home Taco Bell for the family.
+- Fixing trading cards, need to figure out a way to document pricing of cards.
+
+# April 11 2021
+
+- Went to Gamezone with Citrus, Junpei, and Kirby.
+  - Got these items:
+    - Legendary Duelist Decks II (Yugioh).
+    - Maximum Gold Box (4 pack) (Yugioh).
+    - Trainer Toolset (Pokemon).
+- Went to Plaza Bonita Mall with Citrus, Junpei, and Kirby.
+  - Stopped by Comics-N-Stuff.
+  - Tried out the new restaurant called "Firebirds Chicken".
+  - We got too much Cinnabon omg.
+- Went to Brenners.
+  - ABG and Jello made some cheese corn.
+  - We got too much Cinnabon omg.
+  - Spikeball!
+    - Marco has a wicked serve.
+
+# April 10 2021
+
+- Beach Volleyball!
+- Just wanted some time to myself this day.
+
+# April 9 2021
+
+- Went to see the doctor, referred me to a dermatologist.
+  - Took about 2 hours for general checkup, urine test, blood tests, and pharmacy.
+- "The Falcon and the Winter Soldier"!
+  - That was a bloody shield.
+  - I liked Battlestar, shame he died.
+
+# April 8 2021
+
+- ???
+
+# April 7 2021
+
+- ???
+
+# April 6 2021
+
+- ???
+
+# April 5 2021
+
+- Back to work!
+- Left earlier than usual, but due to traffic, arrived at the same time I usually do.
+- Got Subway today, apparently their register wasn't working for cards.
+  - Led to lunch time rush bust. :(
+  
+# April 4 2021
+
+- Took long required naps today.
+- Family got their first dose of COVID-19 vaccines.
+- Picked up Kirby and went to Partyrental's backyard and played some spikeball.
+  - Felt bad today because I felt like everyone was attacking me.
+  - Felt bad for feeling that way and expressing it?
+  - I just felt bad haha.
+
+# April 3 2021
+
+- Menya Ultra with Kirby first thing in the morning.
+- While waiting for Menya Ultra, explored Daiso.
+- 30 minutes after opening, no more braised chashu at Menya Ultra. :(
+- Got Ootea!
+- Went to Gamezone and got a transparent container, small sleeves, and Yugioh cards!
+  - Relived the original Yugi decks and got Exodia!
+- Gym!
+  - Volleyball for almost 5 hours.
+
+# April 2 2021
+
+- Feel pretty good about outfit today, plain black shirts are nice.
+
+# April 1 2021
+
+- In `Git`, how do you rename a local branch that you're on?
+  - `git branch -m %NEW-BRANCH-NAME%`
+  - On Windows: `git branch -M %NEW-BRANCH-NAME%`
+- Full ACAT request from Robinhood to Public.
+- Super lathered the anti-dandruff shampoo in my hair.
+- Gym!
+  - Flex.
+
+# March 31 2021
+
+- Arm feels a bit sore.
+- Got together with San Diego friends to eat out.
+  - Tried a new place called "Michoacana" which is this mexican, video-game, dessert place.
+  - Went to Chili's and experienced poor slow service, I was falling asleep.
+- Got to see Kirby!
+- Gym!
+  - Flex.
+
+# March 30 2021
+
+- Got my first dose of the Pfizer vaccine for COVID-19!
+- Went to San Ysidro school area to eat some Tacos El Gordo with Kirby.
+  - Has some nice fields and playgrounds, potential sport area, really nice!
+- Movie!
+  - "Zack Snyder's Justice League"
+  - Finally finished it after so long since it's 4 hours.
+
+# March 29 2021
+
+- Fixed up my desk a bit, mostly just boxes, cables.
+- Gym!
+  - Flex.
+
+# March 28 2021
+
+- ???
+
+# March 27 2021
+
+- ???
+
+# March 26 2021
+
+- ???
+
+# March 25 2021
+
+- ???
+
+# March 24 2021
+
+- ???
+
+# March 23 2021
+
+- ???
+
+# March 22 2021
+
+- ???
+
+# March 21 2021
+
+- ???
+
+# March 20 2021
+
+- ???
+
+# March 19 2021
+
+- ???
+
+# March 18 2021
+
+- ???
+
+# March 17 2021
+
+- ???
+
+# March 16 2021
+
+- ???
+
 # March 15 2021
 
 - Tattoo today!
@@ -11,13 +197,37 @@
 - Played spikeball with the homies and "Betrayal at House on the Hill" wh
 
 # March 13 2021
+
+- ???
+
 # March 12 2021
+
+- ???
+
 # March 11 2021
+
+- ???
+
 # March 10 2021
+
+- ???
+
 # March 9 2021
+
+- ???
+
 # March 8 2021
+
+- ???
+
 # March 7 2021
+
+- ???
+
 # March 6 2021
+
+- ???
+
 # March 5 2021
 
 - "Wandavision"!

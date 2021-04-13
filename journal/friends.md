@@ -1,8 +1,29 @@
 # friends
 
+## abg (ka)
+
+- anime.
+- lilo & stitch.
+- literally abg.
+- tattoos.
+- valorant.
+
 ## aries (mv)
 
+- astrology.
+- pink.
 - soft.
+
+## brenners (bz)
+
+- soldering.
+- volleyball.
+
+# citrus (cg0917)
+
+- cooking.
+- gordon ramsay.
+- yugioh.
 
 ## clarinet (jt)
 
@@ -18,12 +39,24 @@
 
 ## illaoi (ng)
 
-- illaoi lol.
+- illaoi.
 - ornn.
+
+## jello (as)
+
+- c-walk.
+- prideful.
+- valorant.
 
 ## kairi (st0925)
 
 - alpaca.
+
+## junpei (jc)
+
+- persona.
+- rwby.
+- weiss schwarz.
 
 ## kirby (aa0412)
 
@@ -66,3 +99,10 @@
 
 - nami.
 - xiao.
+
+# groups
+
+## fs
+## san diego
+## seattle
+## volleyball
