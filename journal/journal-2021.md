@@ -1,3 +1,147 @@
+# April 30 2021
+
+- ???
+
+# April 29 2021
+
+- I know who shot JFK!
+- Got some custom vans shoes.
+  - Skate pro slip ons!
+  - One is sky blue with "uwu, uwu" embroidered on them.
+  - One is natural white with "ily, 3000" embroidered on them.
+  - It was about $100 each, but hey it's gonna be worth it.
+    - I hope.
+- In `Electron`, how to render a save dialog with proper information being transferred?
+  
+```js
+const { BrowserWindow, dialog, ipcMain } = require("electron");
+const fs = require("fs");
+
+// Note that Electron doesn't do well with Blob data.
+ipcMain.on("%SOME-ROUTE-NAME%, function (event, data) {
+  let options = {
+    title: "Save As...",
+    defaultPath: data.nameOfFile,
+    buttonLabel: "Save file!",
+    filters: [
+      {
+        name: "Word Document",
+        extensions: ["docx"],
+      }
+    ]
+  }
+
+  let errorOptions = {
+    title: "ERROR!",
+    type: "error",
+    message: "Something went wrong.",
+    buttons: ["Close"],
+  }
+
+  // Saving dialog area.
+  dialog.showSaveDialog(options).then((result) => {
+    // This part below is important due to changes in Electron for filename.
+    filename = result.filePath;
+    if (filename === undefined) {
+      dialog.showMessageBox(BrowserWindow.getFocusedWindow(), errorOptions);
+      return;
+    }
+    fs.writeFile(filename, Buffer.from(%SOME-ARRAY-BUFFER%), (err) => {
+      if (!err) {
+        let successOptions = {
+          title: "Download success!",
+          type: "info",
+          message: `Saved to ${filename}`,
+          buttons: ["Close"],
+        }
+        dialog.showMessageBox(BrowserWindow.getFocusedWindow(), successOptions);
+      }
+    })
+  }).catch((err) => {
+    dialog.showMessageBox(BrowserWindow.getFocusedWindow(), errorOptions);
+  });
+```
+
+# April 28 2021
+
+- Was planning to eat at Hanu, but the wait time was too long so Manna instead with Kirby!
+- Gym!
+  - Chest and triceps.
+
+# April 27 2021
+
+- Woke up feeling refreshed a bit, even after snoozing the button a couple of times.
+  - Apparently sleeping and then waking up at 90 minute increments (1.5 hours, 3 hours, 4.5 hours, etc.) abides by the sleep cycle.
+- In `Git`, what's the main differences between `git rebase` vs `git merge`?
+  - If you would prefer a clean, linear history free of unnecessary merge commits, `git rebase`.
+  - If you want to preserve the complete history, `git merge`.
+- Volleyball!
+  - Santa Venetia park and met some new people such as Alina (?) and John (?).
+  - I don't know how to spell names.
+
+# April 26 2021
+
+- Gym!
+  - Back and biceps.
+
+# April 25 2021
+
+- Ate at Menya Ultra with Kirby.
+  - WE MISSED THE BRAISED CHASHU, WE WERE #7 & #8 AND THEY ONLY HAVE 5 AT OPENING.
+- Melted away my worries by just spending the day.
+  - Daiso!
+  - Camellia Road!
+- Volleyball!
+  - Long time since we played, Will hit me in the face when serving. :(
+- Went to Brenners!
+  - Salty runback of 5 minute dungeon.
+# April 24 2021
+
+- We lose 2v4 hehe.
+
+# April 23 2021
+
+- Played 5 minute dungeon with Karasuno.
+  - They seemed to enjoy it a lot!
+  - Brandon, Will, and Kalani hopped in one at a time in the order and liked the game.
+# April 22 2021
+
+- In `Git`, how do you check the amount of commits on a branch that has been worked on?
+  - `git rev-list --count HEAD^%YOUR-BRANCH-NAME%
+
+# April 21 2021
+
+- Gym!
+  - Chest and triceps.
+
+# April 20 2021
+
+- 2nd dose of the Pfizer shot!
+
+# April 19 2021
+
+- Felt very tired this day.
+
+# April 18 2021
+
+- Played volleyball then spikeball.
+
+# April 17 2021
+
+- ???
+
+# April 16 2021
+
+- Watched highlights.
+
+# April 15 2021
+
+- ???
+
+# April 14 2021
+
+- ???
+
 # April 13 2021
 
 - Looked somewhat cloudy today, light rain.

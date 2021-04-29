@@ -63,5 +63,18 @@ https://www.amazon.com/Channel-Desk-Cable-Organizer-SimpleCord/dp/B06XZPYP7Y/ref
 
 https://i.pinimg.com/originals/f1/4e/42/f14e421a0dd102c35f89a668a1dac3ef.webp
 
-https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents/Vaccinations-Schedule.html
-https://www.vaccinateca.com/counties/san_diego
+https://www.youtube.com/watch?v=WYIQMjtHQFI
+deckbox: gamegenic
+binder: dragon shield codex
+
+san diego ramen guide:
+https://docs.google.com/document/d/1DPfFG5H9ysqZJDl_fQDsTNCQxsThgVuLD1XxMJg52Ts/edit
+
+http://react-material.fusetheme.com/apps/dashboards/analytics
+https://github.com/TheoXiong/electron-find
+
+https://www.amazon.com/Minnetonka-Womens-Wilder-Sneakers-Vintage/dp/B089JXPDCC/ref=sr_1_12?dchild=1&keywords=Suede%2BSlip%2BOn%2BSneakers&qid=1619027629&sr=8-12&th=1
+
+how did trell win?
+https://www.youtube.com/watch?v=2vLONj2ltR0
+he won cause opponent milled

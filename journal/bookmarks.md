@@ -61,6 +61,7 @@
 - oldies in the rain in a car: https://www.youtube.com/watch?v=Lkc5Woyy47I
 - rain piano playlist (girl looking outside to pouring rain): https://www.youtube.com/watch?v=IoK0wFtiT3c
 - rainy coffee shop ambience: https://www.youtube.com/watch?v=iD4dMdpNe_I
+- warm cozy cabin rain: https://www.youtube.com/watch?v=GA9GigGuf24
 
 ## other
 
