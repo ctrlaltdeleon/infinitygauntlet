@@ -78,3 +78,18 @@ https://www.amazon.com/Minnetonka-Womens-Wilder-Sneakers-Vintage/dp/B089JXPDCC/r
 how did trell win?
 https://www.youtube.com/watch?v=2vLONj2ltR0
 he won cause opponent milled
+
+https://www.reddit.com/r/PublicFreakout/comments/n18no8/tpain_gets_harassed_and_called_the_nword_by_group/
+
+helix mattress, my ideal mattress is called the "midnight luxe"
+
+ekster wallet
+
+mtg:
+
+staff of domination
+omniscience
+willbreaker
+
+https://www.5dollartrafficschool.com/
+https://www.reddit.com/r/orangecounty/comments/g8uuu2/has_anyone_had_luck_contesting_a_speeding_ticket/

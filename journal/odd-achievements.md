@@ -1,7 +1,8 @@
 # ODD ACHIEVEMENTS
 
-- April 20, 2021 [Fully vaccinated for COVID-19!]
-- 2021 [Built my own keyboard!]
-- April 20, 2017 [SDSU APSA Dance Head](https://www.youtube.com/watch?v=rbBst0x5eY8)
-- August 29, 2016 [Created my own longboard design!](https://imgur.com/a/hCz72)
-- June 10, 2016 [『CAPTAIN AMERICA: CIVIL WAR ANIME OPENING』(ORIGINAL) (CODE GEASS)](https://www.youtube.com/watch?v=__tTNAwSyhQ)
+- 2021-04-20 Fully vaccinated for COVID-19!
+- 2021 Built my own keyboard!
+- 2021 Got my first tattoo! (Princess Mononoke)
+- 2017-04-20 [SDSU APSA Dance Head](https://www.youtube.com/watch?v=rbBst0x5eY8)
+- 2016-08-29 [Created my own longboard design!](https://imgur.com/a/hCz72)
+- 2016-06-10 [『CAPTAIN AMERICA: CIVIL WAR ANIME OPENING』(ORIGINAL) (CODE GEASS)](https://www.youtube.com/watch?v=__tTNAwSyhQ)

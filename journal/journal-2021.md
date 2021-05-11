@@ -1,3 +1,44 @@
+# May 4 2021
+
+- Happy Star Wars day!
+- In `Java`, how is a class extended to have additional capability?
+
+```java
+public class Monster {
+  private String name;
+  private String attribute;
+  private String type;
+
+  // Setters and getters.
+}
+
+// This will have all of "Monster" plus additional effects.
+public class EffectMonster extends Monster {
+  private String effect;
+
+  public EffectMonster setEffect(String param) {
+    this.effect = param;
+    return this;
+  }
+
+  public String getEffect() {
+    return this.effect;
+  }
+}
+```
+
+# May 3 2021
+
+- ???
+
+# May 2 2021
+
+- ???
+
+# May 1 2021
+
+- ???
+
 # April 30 2021
 
 - ???
@@ -11,7 +52,7 @@
   - One is natural white with "ily, 3000" embroidered on them.
   - It was about $100 each, but hey it's gonna be worth it.
     - I hope.
-- In `Electron`, how to render a save dialog with proper information being transferred?
+- In `Electron`, how does one render a save dialog with proper information being transferred?
   
 ```js
 const { BrowserWindow, dialog, ipcMain } = require("electron");
@@ -73,8 +114,8 @@ ipcMain.on("%SOME-ROUTE-NAME%, function (event, data) {
 - Woke up feeling refreshed a bit, even after snoozing the button a couple of times.
   - Apparently sleeping and then waking up at 90 minute increments (1.5 hours, 3 hours, 4.5 hours, etc.) abides by the sleep cycle.
 - In `Git`, what's the main differences between `git rebase` vs `git merge`?
-  - If you would prefer a clean, linear history free of unnecessary merge commits, `git rebase`.
-  - If you want to preserve the complete history, `git merge`.
+  - If one would prefer a clean, linear history free of unnecessary merge commits, `git rebase`.
+  - If one wants to preserve the complete history, `git merge`.
 - Volleyball!
   - Santa Venetia park and met some new people such as Alina (?) and John (?).
   - I don't know how to spell names.
@@ -106,7 +147,7 @@ ipcMain.on("%SOME-ROUTE-NAME%, function (event, data) {
   - Brandon, Will, and Kalani hopped in one at a time in the order and liked the game.
 # April 22 2021
 
-- In `Git`, how do you check the amount of commits on a branch that has been worked on?
+- In `Git`, how does one check the amount of commits on a branch that has been worked on?
   - `git rev-list --count HEAD^%YOUR-BRANCH-NAME%
 
 # April 21 2021
@@ -243,7 +284,7 @@ export class %SOME-OBJECT% {
 
 # April 1 2021
 
-- In `Git`, how do you rename a local branch that you're on?
+- In `Git`, how does one rename a local branch that you're on?
   - `git branch -m %NEW-BRANCH-NAME%`
   - On Windows: `git branch -M %NEW-BRANCH-NAME%`
 - Full ACAT request from Robinhood to Public.
@@ -482,7 +523,7 @@ test[variable] = test.hello || {};
 test[variable].world = "Hello world!";
 ```
 
-- How to ask a Stack Overflow question?
+- How does one ask a Stack Overflow question?
   - What am I trying to do?
   - What is the code that currently tries to do that?
   - What do I expect the result to be?
