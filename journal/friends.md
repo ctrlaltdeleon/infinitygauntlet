@@ -16,6 +16,8 @@
 
 ## brenners (bz)
 
+- 3d printer.
+- building things.
 - soldering.
 - volleyball.
 

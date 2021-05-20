@@ -93,3 +93,4 @@ willbreaker
 
 https://www.5dollartrafficschool.com/
 https://www.reddit.com/r/orangecounty/comments/g8uuu2/has_anyone_had_luck_contesting_a_speeding_ticket/
+https://yugiohdeck.github.io/#K/4DnTPpfW4MZ45kVablnOeNoC7Uxbf1Ui4tWkO2Ed54IwaQSuRYdn0m6ZQBrF3MJVnMl5jULqebGqCLhtrnWu9Z3U3s:Monarchs%20Budget

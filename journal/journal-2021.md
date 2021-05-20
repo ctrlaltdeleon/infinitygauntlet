@@ -1,3 +1,59 @@
+# May 22 2021
+# May 21 2021
+
+- End of the work week.
+- We almost forgot a coworkers lunch so we had to go back and drive to the restaurant again.
+
+# May 20 2021
+
+- Gym!
+  - Chest and triceps.
+- Decided to start my series called "I review %INSERT-TOPIC-HERE% in 30 seconds".
+  - Wanted to include mainly media such as movies, anime, shows, and manga, but can be extended.
+# May 19 2021
+
+- Played volleyball and Santa Venetia park with friends.
+
+# May 18 2021
+
+- Chose to telework today.
+- Lots of emails to sift through, I don't like getting unneeded emails.
+
+# May 17 2021
+
+- Feel pretty tired today.
+- Car didn't start up due to my radar being plugged into the 12V socket in the car which never turns off.
+
+# May 16 2021
+
+- Finishing up the "The New Mutants" movie.
+- Kuya visited then I took a nap.
+- Played volleyball and had good numbers and good players, but could tell people got tired at the end.
+- Went to Brenners.
+  - Won both times in spikeball.
+  - 1 with Kirby and 1 with Brenner.
+  - It started raining during the 2nd game so we tried playing under the tarp, but was too low.
+  - Pulled in Puzzle & Dragons since it was a Demon Slayer event.
+    - Got Nezuko!
+    - Got Zenitsu!
+
+# May 15 2021
+
+- Went to a family party where it was Pokemon themed.
+
+# May 14 2021
+
+-
+
+# May 13 2021
+# May 12 2021
+# May 11 2021
+# May 10 2021
+# May 9 2021
+# May 8 2021
+# May 7 2021
+# May 6 2021
+# May 5 2021
 # May 4 2021
 
 - Happy Star Wars day!
@@ -459,6 +515,9 @@ export class %SOME-OBJECT% {
 - ???
   
 # Feburary 22 2021
+
+- ???
+
 # Feburary 21 2021
 
 - ???
