@@ -4,7 +4,7 @@
 Topic:    N/A
 Info:     N/A
 Name:     Suzy Kim (Data Analyst)
-Time:     Monday, November 26, 2018
+Time:     2018-07-29
 ```
 
 Notes:

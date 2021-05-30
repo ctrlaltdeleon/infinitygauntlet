@@ -125,7 +125,7 @@ setExampleState(exampleState => ({...exampleState, masterField2: {...etc} }));
 
 # December 15 2020
 
-- In `React`, how to provide a `useState` with a callback?
+- In `React`, how does one provide a `useState` with a callback?
   - `useState` setter doesn't provide a callback after state update is done like `setState` does in `React` class components.
   - In order to replicate the same behavior, you can make use of the a similar pattern like `componentDidUpdate` lifecycle method in `React` class components with `useEffect` using Hooks.
   - Can use this and export the function to be used in your application via `import { useStateWithCallback } from "wherever/you/put/this";`
@@ -229,7 +229,7 @@ export const useStateWithCallback = (initialState) => {
 
 # December 1 2020
 
-- In `Git`, how to delete all stashes?
+- In `Git`, how does one delete all stashes?
   - `git stash clear`
 - Gym!
   - Flex.
@@ -237,7 +237,7 @@ export const useStateWithCallback = (initialState) => {
 # November 30 2020
 
 - Check your phone!
-- In `Java`, how to properly test multiple assertions, but being able to receive all errors instead of the first error when running tests?
+- In `Java`, how does one properly test multiple assertions, but being able to receive all errors instead of the first error when running tests?
 
 ```java
 // Initially.
@@ -292,9 +292,9 @@ org.opentest4j.MultipleFailuresError:
 
 # November 24 2020
 
-- How to convert media files via terminal?
+- How does one convert media files via terminal?
   - `ffmpeg` software.
-- In `Java`, how to iterate through objects in an `ArrayList`?
+- In `Java`, how does one iterate through objects in an `ArrayList`?
   
 ```java
 for (Object result : results) {
@@ -357,7 +357,7 @@ const [someState, setSomeState] = useState("");
 <TextField onChange{(e) => {setSomeState(e.target.value)}} value={someState}>
 ```
 
-- In `React`, how to render something depending on a condition?
+- In `React`, how does one render something depending on a condition?
 
 ```js
 {
@@ -515,7 +515,7 @@ onClick={greeting}
   - `npm pack && tar -xvzf *.tgz && rm -rf package *.tgz`
 - If a directory is present, remove it, else do nothing. (No error messages)
   - `rm -rf %DIRECTORY%`
-- How to release a software candidate for `Nexus` through `Jenkins`?
+- How does one release a software candidate for `Nexus` through `Jenkins`?
 
 ```
 export DISPLAY=:1
@@ -563,7 +563,7 @@ npm publish --registry%REGISTRY%
 
 # October 28 2020
 
-- How to do versioning?
+- How does one do versioning?
   - `X.Y.Z` format which each character is something specific.
     - `X` = production build.
     - `Y` = sprint number.
@@ -640,7 +640,7 @@ sudo apt-clone restore %PACKAGE%.apt-clone.tar.gz
 
 # October 20 2020
 
-- How to search for `Linux` packages in a terminal?
+- How does one search for `Linux` packages in a terminal?
   - `apt search %KEYWORD%`
 - Gym!
   - Volleyball.
@@ -664,7 +664,7 @@ sudo apt-clone restore %PACKAGE%.apt-clone.tar.gz
 
 # October 16 2020
 
-- How to install an extension offline in `Google Chrome`?
+- How does one install an extension offline in `Google Chrome`?
   - Install the extension on an online computer to `Google Chrome`.
   - Look for the extension from an upper directory able to see everything ("~" is a safe bet, meaning "home" usually.):
     - `find . -type d -iname %EXTENSION-ID%`
@@ -734,10 +734,10 @@ Slowest: Filter, IndexOf
     - "Would it be possible.."
     - "Do you think you..."
     - "I would be most grateful if..."
-- How to change download place of `npm` packages? (I.E. defaults to internet, but what if wanted somewhere else?)
+- How does one change download place of `npm` packages? (I.E. defaults to internet, but what if wanted somewhere else?)
   - Create a `.npmrc` file and put specific locations.
   - `PROXY=https://localhost:9999/HERE`
-- How to check the `package.json` to make sure it's on par on latest versions of dependencies?
+- How does one check the `package.json` to make sure it's on par on latest versions of dependencies?
   - `npm install -g npm-check-update`
   - `ncu` will let the user know about updates, but not make the updates.
   - `ncu -u` will update the `package.json` with the updates, then recommended to follow up with `npm install`.
@@ -815,7 +815,7 @@ Slowest: Filter, IndexOf
 
 # October 1 2020
 
-- In `Mac`, how to fix terminal issue that displays `zsh compinit: insecure directories, run compaudit for list.`?
+- In `Mac`, how does one fix terminal issue that displays `zsh compinit: insecure directories, run compaudit for list.`?
 
 ```sh
 # Lists unsecure directories.
@@ -842,7 +842,7 @@ sudo chmod -R 755 %TARGET-DIRECTORY%
 
 - Input validation! Wow!
 - Darn those `React` input validation libraries for being out of date kind of.
-- How to install `Node.js` and `npm` into `Linux`!
+- How does one install `Node.js` and `npm` into `Linux`!
   - `curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -`
   - `sudo apt install nodejs`
   - Verify they're installed.
@@ -881,7 +881,7 @@ sudo chmod -R 755 %TARGET-DIRECTORY%
 
 # September 22 2020
 
-- In `React`, how to add to an array using `React Hooks`?
+- In `React`, how does one add to an array using `React Hooks`?
   - `searches.push(query)`?
     - Doesn't ever get "set" with the `setSearches` hook.
   - `setSearches(searches.push(query))`?
@@ -900,10 +900,10 @@ sudo chmod -R 755 %TARGET-DIRECTORY%
   - To call another function (callback).
   - Think of it as an alarm clock, will call the proper function at the right time.
   - Can not mess a function up (usually), so I can't trust myself to wake myself up, but a wrapper function will be trustworthy to wake me up (alarm clock).
-- How to create a `package.json` properly?
+- How does one create a `package.json` properly?
   - `npm init`
   - Will prompt for each field that needs input.
-- In `Git`, how to change a commit message when already committed?
+- In `Git`, how does one change a commit message when already committed?
   - `git commit --amend`
 
 # September 21 2020
@@ -937,7 +937,7 @@ sudo chmod -R 755 %TARGET-DIRECTORY%
 
 # September 15 2020
 
-- How to ask a "good" Stack Overflow question?
+- How does one ask a "good" Stack Overflow question?
 - Gym!
   - Volleyball.
 
@@ -946,7 +946,7 @@ sudo chmod -R 755 %TARGET-DIRECTORY%
 - https://www.youtube.com/watch?v=sjxNTcsquG8
 - https://www.psychologytoday.com/us/blog/living-forward/201511/why-ghosting-hurts-so-much
 - Finite players play to beat who's around them while infinite players player to beat themselves. (Sounds awkward, but you get it.)
-- In `JavaScript`, how to add leading zeroes to a date, specifically if the months or days is 1 digit, instead of the organized 2?
+- In `JavaScript`, how does one add leading zeroes to a date, specifically if the months or days is 1 digit, instead of the organized 2?
 
 ```js
 var MyDate = new Date();
@@ -1160,7 +1160,7 @@ import { export, export2 } from "./somewhere";
 
 # August 17 2020
 
-- Learning how to create a front-end executable.
+- Learning how does one create a front-end executable.
 - Gym!
   - Flex.
 
@@ -1183,7 +1183,7 @@ import { export, export2 } from "./somewhere";
 
 # August 12 2020
 
-- How to install a font into an application?
+- How does one install a font into an application?
 
 ```sh
 # Command.
@@ -1232,7 +1232,7 @@ const Child = props => {
 }
 ```
 
-- How to add spacing between items in the front-end?
+- How does one add spacing between items in the front-end?
   - `&nbsp;` (It should have a semi-colon on the end) is an entity for a non-breaking space.
   - `margin` can add spacing between two objects by adding margin on its sides.
 - Gym!
@@ -1443,7 +1443,7 @@ languages.splice(2, 1, "C#", "Swift", "Go");
 console.log(languages); // ["C", "Python", "C#", "Swift", "Go", "JavaScript"]
 ```
 
-- In `Javascript`, how to determine the variable is `undefined` or `null` properly?
+- In `Javascript`, how does one determine the variable is `undefined` or `null` properly?
 
 ```js
 // Since "null == undefined" already, just do this.
@@ -1452,7 +1452,7 @@ if (variable == null) {
 }
 ```
 
-- In `JavaScript`, how to sort array of objects by property value?
+- In `JavaScript`, how does one sort array of objects by property value?
 
 ```js
 var champions = [
@@ -1490,7 +1490,7 @@ champions.sort((a, b) => {
 });
 ```
 
-- In `JavaScript`, how to achieve the first or last item in an array?
+- In `JavaScript`, how does one achieve the first or last item in an array?
 
 ```js
 let champions = ["Ezreal", "Vayne", "Zac"];
@@ -1530,7 +1530,7 @@ console.log(champions[champions.length - 1]);
 - What's the hard thing about update within a `CRUD` pattern?
   - Need to account the past states and the future states, with the present state.
 - Stayed up with a friend since she's going through a difficult time.
-  - Unsure how to progress other than being there for here.
+  - Unsure how does one progress other than being there for here.
 
 # July 28 2020
 
@@ -1629,7 +1629,7 @@ console.log(found);
 
 # July 22 2020
 
-- How to fix multiple monitors for displaying a `VirtualBox` image?
+- How does one fix multiple monitors for displaying a `VirtualBox` image?
   - Go into the settings of the image.
   - Set monitors to 2+.
   - Save.
@@ -1742,15 +1742,15 @@ function App() {
 }
 ```
 
-- How to access the last element of an array in `JavaScript`?
+- How does one access the last element of an array in `JavaScript`?
   - `var last-element = my-array[my-array.length - 1]`
-- How to add new properties to an object?
+- How does one add new properties to an object?
   - There's 2 ways.
   - Dot notation!
     - `obj.new-key = "new-value";`
   - Square bracket notation!
     - `obj["new-key"] = "new-value";`
-- How to check if object value exists within a `JavaScript` array of objects?
+- How does one check if object value exists within a `JavaScript` array of objects?
 
 ```js
 const arr = [
@@ -1824,7 +1824,7 @@ function MyComponent(props) {
 
 # July 7 2020
 
-- How to bring other branches onto your branch view, but not update the branch you're working on?
+- How does one bring other branches onto your branch view, but not update the branch you're working on?
   - `git fetch origin`
 - What are actions in `React`?
   - They are payloads of information that send data from your application to the store.
@@ -1887,7 +1887,7 @@ function MyComponent(props) {
 - Why use `React Context`?
   - Imagine passing down `props` which in itself isn't so bad across 2 components.
   - If it's across multiple components with multiple nested structures, it becomes difficult to manage.
-- How to start with `React Context`?
+- How does one start with `React Context`?
   - Create the context, `React.createContext()`
   - Provide a context value, `<UserProvider value={...something}>`
   - Consume the context value, `<UserConsumer>...</UserConsumer>`
@@ -2407,7 +2407,7 @@ export default BBBComponent
 
 # March 16 2020
 
-- How to make nested attributes within a class?
+- How does one make nested attributes within a class?
 
 ```java
 // Notice that it's a class within a class.
@@ -2441,7 +2441,7 @@ PositionObject positionObject = new PositionObject(1, new Position(2f, 3f));
   - The need for class components has significantly lowered down since functional can just do the same with less code.
   - Instead of defining initial state in a constructor, we can use `React Hooks`, specifically `useState`.
   - Instead of `componentDidMount` and `componentDidUpdate`, `useEffect`, which is part of `React Hooks`, can manage changes made to the state.
-- How to untrack files already added to `Git` when adding the `.gitignore` afterwards?
+- How does one untrack files already added to `Git` when adding the `.gitignore` afterwards?
   - Commit all changes, including `.gitignore`.
   - `git rm -r --cached .`
   - `git add .`
@@ -2521,7 +2521,7 @@ PositionObject positionObject = new PositionObject(1, new Position(2f, 3f));
   - Replaces `componentDidMount` and `ComponentDidUpdate`.
   - The second argument of `useEffect` will go over an array of values the effect depends on.
     - Passing an empty array, the `useEffect` will only run on first render.
-- How to stash in the terminal for `Git`?
+- How does one stash in the terminal for `Git`?
   - `git stash` or `git stash push`
 - How do you apply the stash in the terminal for `Git`?
   - `git stash apply`
@@ -2743,7 +2743,7 @@ reduce([🍿, 🍳], eat) => 💩
 - What is the difference between `React Hooks` and `React Context API`?
   - `React Hooks` allows you to use local state inside of function components.
   - `React Context API` allows you to share state with other components.
-- How to `git pull` multiple repositories at once? (Still need fixing of checkout branch)
+- How does one `git pull` multiple repositories at once? (Still need fixing of checkout branch)
   - `find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {} pull \;`
   - Made a shortcut called `git-pull-all` by doing so:
 
@@ -2825,13 +2825,13 @@ alias git-pull-all="find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {
 
 # February 19 2020
 
-- How to find out who are the super users on a system?
+- How does one find out who are the super users on a system?
   - `grep '^sudo:.*$' /etc/group | cut -d: -f4`
-- How to check privileges of a user?
+- How does one check privileges of a user?
   - `sudo -l -U %USERNAME%`
-- How to unmodify a file that's modified in `Git`?
+- How does one unmodify a file that's modified in `Git`?
   - `git checkout -- %FILE-NAME%`
-- How to select files in another branch that you want in your branch?
+- How does one select files in another branch that you want in your branch?
   - Be in your branch where you want the changes.
   - `git checkout --patch %OTHER-BRANCH% %FILE-NAME%`
   - Remove `--patch` if the files you want are new to your branch.
@@ -2929,7 +2929,7 @@ alias git-pull-all="find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {
 - What is `Webpack`?
   - An open-source JavaScript module bundler that takes modules with dependencies and generates `static` assets representing those modules.
   - If you have 5 `.css` files, `Webpack` transforms them into 1 `.css` to alleviate call noise.
-- How to check if a package is installed globally?
+- How does one check if a package is installed globally?
   - `npm list -g`
   - `npm list -g %PACKAGE-NAME%`
 - Gym!
@@ -2981,7 +2981,7 @@ alias git-pull-all="find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {
   - Cautions with references!
     - References requires queries for each individual document for each individual document: O(n2)
     - If only using references, relational database may be better.
-  - How to pick what to utilize?
+  - How does one pick what to utilize?
     - Depends on how much you use a specific thing.
     - If it's static and/or used a lot, embedded is best.
     - If it's dynamic and/or used less, references is best.
@@ -3320,7 +3320,7 @@ u=rwx,g=rwx,o=
   - A open source analytics and monitoring solution for every database.
 - What is `Prometheus`?
   - Prometheus is a free software application used for event monitoring and alerting.
-- How to extract a `.tar.gz` file?
+- How does one extract a `.tar.gz` file?
   - `gunzip %FILE%.tar.gz`
   - `tar -xvf %FILE%.tar`
 - Gym!
@@ -3390,10 +3390,10 @@ u=rwx,g=rwx,o=
 - What is `Picture-In-Picture`?
   - A feature originated from television receivers where it displays a smaller video program alongside the main video program.
 - Firefox and Chrome both have Picture-In-Picture options.
-- How to remove terminal prompt?
+- How does one remove terminal prompt?
   - `export PS1='>'`
   - Changes the terminal prompt to `>`.
-- How to increase a `VirtualBox` disk size?
+- How does one increase a `VirtualBox` disk size?
   - Make sure virtual machines are off.
   - Highlight virtual machine in `VirtualBox`.
   - Go to settings.
@@ -3506,9 +3506,9 @@ describe("Application launch", function() {
 - What is `Chai`?
   - A BDD/TDD (Behavioral Driven Development/Technical Driven Development) assertion library for `Node.js`.
   - Makes it easy to express and be readable to anyone.
-- How to run scripts after one each other in `Linux`?
+- How does one run scripts after one each other in `Linux`?
   - Use `&` between scripts.
-- How to run scripts simultaneously in `Linux`?
+- How does one run scripts simultaneously in `Linux`?
   - Use `|` between scripts.
 - There are different auto-documentation tools that look at the code and create a `HTML` file from it that's fast and easy to access.
 - What is a traditional virtualization?

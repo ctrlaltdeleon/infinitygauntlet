@@ -1,6 +1,6 @@
 # December 31 2019
 
-- How to show if a repo is active or not?
+- How does one show if a repo is active or not?
   - Through a badge.
 - How many different types of project statuses are there?
   - Concept.
@@ -643,7 +643,7 @@ print("Amount of times function is called:", gcd.counter)
 
 # September 19 2019
 
-- How to properly call class methods in `Python`?
+- How does one properly call class methods in `Python`?
 
 ```py
 class Solution():
@@ -658,7 +658,7 @@ print(s.add(5, 6))
 # Expect `11`.
 ```
 
-- How to reverse a string in `Python` without the use of `reverse()` or `[::-1]`?
+- How does one reverse a string in `Python` without the use of `reverse()` or `[::-1]`?
 
 ```py
 def reverseThis(text):
@@ -1007,7 +1007,7 @@ def timeConversion(s):
     return ('%02d:%02d:%02d') % (h, m, sec)
 ```
 
-- How to check if a string is formed of alpha and numeric characters in `Python`?
+- How does one check if a string is formed of alpha and numeric characters in `Python`?
   - `%YOUR-STRING%.isalnum()`
 
 # August 14 2019
@@ -1776,7 +1776,7 @@ class ThemedButton extends ReactJS.Component {
 - `ReactJS Context` VS `ReactJS ReduxJS`, when should I use each one?
   - If you're only using `ReduxJS` to avoid passing down `props`, context could replace `ReduxJS` - but then you probably didn't need `ReduxJS` in the first place.
   - `Context` also doesn't give you anything like the `ReduxJS DevTools`, the ability to trace your state updates, middleware to add centralized application logic, and other powerful capabilities that `ReduxJS` enables.
-- How to handle errors in `ReactJS`?
+- How does one handle errors in `ReactJS`?
   - Without specification from the developer, that page will turn blank to prevent spilling any info to malicious users.
 
 ```js
@@ -2139,11 +2139,11 @@ Ostriches cannot fly.
     - Focused on instantiating an object or group of related objects.
   - Structural!
     - Concerned with object composition (how entities can use each other).
-    - "How to create a software component?"
+    - "How does one create a software component?"
   - Behavioral!
     - Concerned with assignment of responsibilities between objects.
     - Difference between this and structural is that not only do they specify the structure, but also outline patterns for communication between them.
-    - "How to run a behavior in software component?"
+    - "How does one run a behavior in software component?"
 - Examples of creational design patterns.
   - Singleton!
     - There can only be 1 president at a time. The same president has to be brought to action when needed.

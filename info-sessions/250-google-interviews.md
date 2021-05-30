@@ -4,7 +4,7 @@
 Topic:    What I Learned Doing 250 Interviews at Google
 Info:     https://www.youtube.com/watch?v=r8RxkpUvxK0
 Name:     Moishe Lettvin (mlettvin@etsy.com)
-Time:     Wednesday, June 26, 2013
+Time:     2013-06-26
 ```
 
 Notes:

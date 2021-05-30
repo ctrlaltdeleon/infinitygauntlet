@@ -1,3 +1,3 @@
 # HOW TO
 
-Contains "How to"s and the variance.
+Contains "How to's" and the variance.
