@@ -20,4 +20,7 @@
   - Optimizes Minecraft.
 - Xaero's World Map!
   - Press `M` to display the world map.
-  - 
+
+# Conclusion
+
+- Thank you.

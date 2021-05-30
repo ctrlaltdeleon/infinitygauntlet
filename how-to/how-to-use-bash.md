@@ -1,5 +1,10 @@
 # HOW TO USE BASH
 
+1. Introduction
+2. Commands
+3. Scenarios
+   1. Computer Freeze
+   2. Infinite Output
 ## Commands
 
 Need to remove a directory?
@@ -27,3 +32,7 @@ ls
   - Prints out `<something>` consecutively in a column.
 - `yes 420|tr '\n' ' '`
   - Prints out `420` every space, and starts a new line when the amount in the line is filled.
+
+## Conclusion:
+
+- Thank you.

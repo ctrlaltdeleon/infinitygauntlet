@@ -20,15 +20,6 @@
 - bettie f williams elementary, what's old address
 - google trends to get data
 
-- The Dow Jones Industrial Average is a stock index made up of 30 of the largest companies in the country- companies like Disney, Boeing, Visa, and Microsoft. Each stock has a certain weight based on what it needed to be to keep the index the same when they swapped the stock onto the index- (they keep changing up the stocks that make it up, and General Electric is the only one of the original stocks that's still on the index).
-
-The Nasdaq composite is an index made up of all the stocks on the Nasdaq stock exchange (but not the ones on the New York Stock Exchange or any other exchange). Technology stocks make up a bigger portion of the Nasdaq than the NYSE, so technology is over-represented in the Nasdaq composite number.
-
-The S&P 500 is made up of about 500 large companies, which together count for the vast majority of all stock trading. This index is probably more representative of the economy as a whole than the Nasdaq (which is too heavy on technology) or the Dow (which only covers 30 companies).
-- Index fund represents a specific set S&P 500, NASDAQ, DJ
-- Mutual Fund, interchangable
-- ETF 
-
 Index Funds are a sub-set of Mutual Funds.
 
 There are Actively Managed Funds (the ones that most likely not to out perform the market)

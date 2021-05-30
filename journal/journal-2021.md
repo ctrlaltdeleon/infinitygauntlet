@@ -1,4 +1,7 @@
 # May 22 2021
+
+- ???
+
 # May 21 2021
 
 - End of the work week.
@@ -43,17 +46,44 @@
 
 # May 14 2021
 
--
+- ???
 
 # May 13 2021
+
+- ???
+
 # May 12 2021
+
+- ???
+
 # May 11 2021
+
+- ???
+
 # May 10 2021
+
+- ???
+
 # May 9 2021
+
+- ???
+
 # May 8 2021
+
+- ???
+
 # May 7 2021
+
+- ???
+
 # May 6 2021
+
+- ???
+
 # May 5 2021
+
+- ???
+
 # May 4 2021
 
 - Happy Star Wars day!
@@ -192,6 +222,7 @@ ipcMain.on("%SOME-ROUTE-NAME%, function (event, data) {
   - Long time since we played, Will hit me in the face when serving. :(
 - Went to Brenners!
   - Salty runback of 5 minute dungeon.
+
 # April 24 2021
 
 - We lose 2v4 hehe.
@@ -433,9 +464,8 @@ export class %SOME-OBJECT% {
 # March 14 2021
 
 - Happy birthday to Jean from Genshin Impact.
-- Went to Brendan's!
-  - 
-- Played spikeball with the homies and "Betrayal at House on the Hill" wh
+- Went to Brenners!
+  - Played spikeball with the homies and "Betrayal at House on the Hill".
 
 # March 13 2021
 
@@ -496,6 +526,7 @@ export class %SOME-OBJECT% {
 # Feburary 28 2021
 
 - Started lubing up the switches, I definitely do feel a difference between lubed vs unlubed.
+
 # Feburary 27 2021
 
 - ???
@@ -510,6 +541,7 @@ export class %SOME-OBJECT% {
 # Feburary 24 2021
 
 - ???
+
 # Feburary 23 2021
 
 - ???
@@ -545,27 +577,68 @@ int value = input == null ? 0 : input.equals("") ? 0 : Integer.parseInt(input);
 
 - In your case start with 5% in the Roth TSP to get the match, then start working on maxing out a Roth IRA, then back to the TSP.
 - Usually, people invest into their 401k up to the company match, and then their IRA to the max, and then back to the 401k to the max. The reason they do this is because the average 401k usually has higher fees than their IRA does, but leaving free money (the match) on the table would be stupid; hence the match, IRA, back to 401k.
+
 # Feburary 16 2021
 
--
+- ???
 
 # Feburary 15 2021
+
+- ???
+
 # Feburary 14 2021
+
+- ???
+
 # Feburary 13 2021
+
+- ???
+
 # Feburary 12 2021
+
+- ???
+
 # Feburary 11 2021
+
+- ???
+
 # Feburary 10 2021
+
+- ???
+
 # Feburary 9 2021
+
+- ???
+
 # Feburary 8 2021
+
+- ???
+
 # Feburary 7 2021
+
+- ???
+
 # Feburary 6 2021
+
+- ???
+
 # Feburary 5 2021
+
+- ???
+
 # Feburary 4 2021
+
+- ???
+
 # Feburary 3 2021
+
+- ???
+
 # Feburary 2 2021
 
 - Gym!
   - Volleyball.
+
 # Feburary 1 2021
 
 - In `JavaScript`, is there an easy way to automatically add properties to objects that are undefined?
@@ -618,15 +691,17 @@ test[variable].world = "Hello world!";
   
 # January 28 2021
 
-- I don't think you can really go wrong with any of the three; I'm a long-time customer of two of them.
-
-The biggest difference, in my eyes, is the actual structure of the companies themselves--
-
--Schwab is a publicly traded company, and management is responsible to a board of directors and holders of their stock. When they cut fees, they're cutting their profit margin, and presumably the value that they can return to their shareholders
-
--Fidelity is a privately held company, primarily owned and controlled by the descendants of its founder, and other company executives. While they're still a for-profit enterprise, the fact that they're private and closely-held gives them much more latitude in how they operate-- they don't have to make their earnings public, and they don't have to worry about a shareholder otherwise unconnected with the company exerting influence on how they run the business.
-
--Vanguard is essentially a mutual company. The company itself is owned by its funds, so in owning shares in a Vanguard fund, you own part of Vanguard itself-- the structure is a little like a credit union. The return of value to the 'shareholders' (i.e. the investors in Vanguard funds) comes in the form of reduced fees.
+- Which brokerage provides the best safety for my investments? (USA at least.)
+  - Schwab.
+    - Publicly traded.
+    - Cares about own image, competition.
+  - Fidelity.
+    - Privately owned.
+    - Doesn't care, no competition.
+  - Vanguard.
+    - Mutually owned.
+    - Depends on one's gesture since one owns part of the company.
+  - No particular order, personally went with Vanguard.
 
 # January 27 2021
 
@@ -698,6 +773,7 @@ const handleState = (event) => {
 onBlur={handleState};
 onChange={(event) => setState(event.target.value)};
 ```
+
 # January 20 2021
 
 - Gym!
@@ -757,17 +833,21 @@ onChange={(event) => setState(event.target.value)};
 
 - Gym!
   - Flex.
+
 # January 10 2021
 
 - Gym!
   - Flex.
+
 # January 9 2021
 
 - Gym!
   - Volleyball.
+
 # January 8 2021
 
 - Working on self assessment.
+
 # January 7 2021
 
 - Amount of downloads `@acfromspace/weeb` has thus far?
@@ -779,10 +859,12 @@ onChange={(event) => setState(event.target.value)};
   - Grammy is for music.
   - Oscar is for film.
   - Tony is for theatre.
+
 # January 6 2021
 
 - Gym!
   - Flex.
+
 # January 5 2021
 
 - Time to teach `MongoDB`!
@@ -836,6 +918,7 @@ public static String createCharacterElement(Character character) {
 - Cleaning my room, finally got to it after taking long naps and trying to put myself together.
 - Got stuff to return eventually.
 - Demoralized from League of Legends, just was not able to carry the team despite the effort I put in.
+
 # January 2 2021
 
 - Movie!
@@ -843,6 +926,7 @@ public static String createCharacterElement(Character character) {
 - Thanks Kirby.
 - Gym!
   - Volleyball.
+
 # January 1 2021
 
 - Happy new year!

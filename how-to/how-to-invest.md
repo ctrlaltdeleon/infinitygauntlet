@@ -11,22 +11,23 @@
 
 ## 1: Introduction
 
-- Having a core routine provides your skin with all the necessary steps to keep it clean, healthy, and protected.
-- Whether you’re looking for a minimalist routine or an extensive routine, this is the place to start!
-
+- This is a simple guide to investing in different types of markets and what your goals could be.
+- This is not financial advice, this will not make you rich or poor, but aware.
 - If it's good enough to screenshot, it's time to sell.
 
-## 2: Understanding Your Skin Type
+## 2: Brokerages
 
-- There are 5 types of skin types:
-  - Dry.
-  - Oily.
-  - Seasonal.
-  - Combination.
-  - Normal.
+- What is a brokerage?
+  - Brokerages are institutions that allow...
 
-## 2.1: Dry
+## 3: Stocks
 
-## 3.1:
+- What is a stock?
+
+## 3.1: IPO
 
 https://finance.yahoo.com/calendar/ipo/
+
+## 7: Conclusion.
+
+- Thank you.

@@ -1,5 +1,15 @@
 # HOW TO GOOGLE
 
+1. Introduction
+2. Shortcuts
+5. Conclusion
+
+## 1: Introduction
+
+- This is a simple guide on how to search advantageously when using Google.
+
+## 2: Shortcuts
+
 - `""`
   - `"hot dogs"` VS `hot dogs`
   - This will show the food instead of rather interesting dogs.
@@ -33,3 +43,7 @@
 - `%TRACKING-NUMBER%`
   - `123456789ABC`
   - Finds the details of your package of the designated tracking number provided.
+
+## 3: Conclusion
+
+- Thank you.
