@@ -28,6 +28,6 @@
 
 https://finance.yahoo.com/calendar/ipo/
 
-## 7: Conclusion.
+## 7: Conclusion
 
 - Thank you.
