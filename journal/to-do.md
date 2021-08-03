@@ -85,3 +85,22 @@ willbreaker
 https://www.5dollartrafficschool.com/
 https://www.reddit.com/r/orangecounty/comments/g8uuu2/has_anyone_had_luck_contesting_a_speeding_ticket/
 https://yugiohdeck.github.io/#K/4DnTPpfW4MZ45kVablnOeNoC7Uxbf1Ui4tWkO2Ed54IwaQSuRYdn0m6ZQBrF3MJVnMl5jULqebGqCLhtrnWu9Z3U3s:Monarchs%20Budget
+
+https://itsfoss.com/how-to-hack-ubuntu-password/
+
+https://github.com/arturbien/React95
+
+And all it took was to don't ever, for any reason, do anything to anyone for any reason ever, no matter what, no matter where, or who, or who you are with, or where you are going, or where you've been... ever, for any reason whatsoever.
+
+https://english.stackexchange.com/questions/24060/what-word-defines-a-category-suited-for-both-header-and-footer
+header and footer? ->
+
+Metaphor time- "I'm gonna lend your car out to someone well known for driving like an idiot and if they crash it you get nothing in return"
+
+how-to
+info-sessions
+everything else below
+
+https://www.reddit.com/r/AskReddit/comments/nnj3w7/people_who_choose_to_be_kind_everyday_despite_of/
+
+https://www.deviantart.com/starkiteckt-designs/gallery
