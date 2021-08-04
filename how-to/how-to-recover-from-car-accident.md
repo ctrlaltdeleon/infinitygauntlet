@@ -2,8 +2,8 @@
 
 1. Introduction
 2. Initial Impact
-   1. Stuff 2
-3. Conclusion
+3. What do you do?
+4. Conclusion
 
 ## 1: Introduction
 
@@ -13,9 +13,16 @@
 
 - Drive to an available area.
 
-## 2.1: Stuff 2
+## 3: What do you do?
 
-- ???
+- Based on your discretion, call the police.
+- Take pictures and videos of these things:
+  - The environment.
+  - The affected cars.
+  - License plate numbers.
+  - Driver's License.
+  - Insurance information.
+- Get an estimate
 
 ## 3: Conclusion
 

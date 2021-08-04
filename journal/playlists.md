@@ -25,3 +25,6 @@ honne || "location unknown" (ft. beka) (brooklyn session version)
 ## songs for after your heart is broken lofi edition
 
 homie cat || pure heart
+tenno || sayonara
+malana || belong with her
+stian || ghost of you

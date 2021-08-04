@@ -1,3 +1,71 @@
+# July 14 2021
+
+- Will I ever keep up with this lol.
+- My life just got so much busier adn I'm not really on my computer as much as I'd like to.
+
+# July 11 2021
+# July 11 2021
+# July 11 2021
+# July 10 2021
+# July 9 2021
+# July 8 2021
+# July 7 2021
+# July 6 2021
+# July 5 2021
+# July 4 2021
+# July 3 2021
+# July 2 2021
+
+# July 1 2021
+# June 30 2021
+# June 29 2021
+# June 28 2021
+
+- When coding, when are the lines of code within a file too much?
+  - Find the balance between separation and density.
+  - Main goal, focus on readability.
+    - Would a 5 year old understand your code?
+- How to test `void` functions?
+  - Think about converting to boolean if applicable.
+  - Use "Mock" libraries that help with making sure the functions run accordingly.
+
+# June 27 2021
+# June 26 2021
+# June 25 2021
+# June 24 2021
+# June 23 2021
+# June 22 2021
+# June 21 2021
+# June 20 2021
+# June 19 2021
+# June 18 2021
+# June 17 2021
+# June 16 2021
+# June 15 2021
+# June 14 2021
+# June 13 2021
+# June 12 2021
+# June 11 2021
+# June 10 2021
+# June 9 2021
+
+- Brought my custom keyboard to work today.
+  - Andrew noticed the IBM keycaps.
+  - Brandon noticed the Japanese hiragana.
+  - Dusty was wondering about the lingo and getting into the computer stuff.
+  - Kyle touched it and was disgusted cause it felt like rubber lol.
+  - Michael was amazed and loved it.
+  - Victoria was like "Yeah I touched it lol".
+
+# June 8 2021
+
+- ???
+
+# June 7 2021
+
+- How to do "UNK" if "UNKNOWN"?
+  - Compare the amount of "UNK to "UNKNOWN".
+
 # May 22 2021
 
 - ???

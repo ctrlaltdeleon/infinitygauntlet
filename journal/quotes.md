@@ -14,3 +14,5 @@
 - "what if you had it all, but nobody to call? maybe then you'd know me." (justin bieber)
 - "you're not down anything unless you sold." (reddit)
 - "i don't want to hurt your feelings, so by hurting your feelings more i'll ghost" (the get up spotify)
+- "toxicity is when being vulnerable with a person hurts you more" (matthew hussey)
+- "in a world full of bad, the good never left, they were just hidden" (me)
