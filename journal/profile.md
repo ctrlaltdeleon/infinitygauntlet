@@ -10,6 +10,7 @@
 - ascendant (outer): leo
 - midheaven (outermost): aries
 - 1:05 am
+- 605664649
 
 # stats
 - unsplash: https://unsplash.com/@acfromspace/stats
