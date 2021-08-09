@@ -9,12 +9,13 @@
    3. Color Type
    4. Coatings
 5. Conclusion
+   1. My Take
 
 ## 1: Introduction
 
 - This is a simple guide of how to choose glasses.
 - I recommend `eyebuydirect` to purchase said glasses, to get $10 off your purchase use my referral code, `IF8256FGN3`!
-- 
+
 ## 2: What things to consider?
 
 - How long ago was your eye exam?
@@ -92,3 +93,7 @@
 ## 5: Conclusion
 
 - Thank you.
+
+## 5.1: My Take
+
+- Consider shipping on certain websites do affect the selection of frames and lenses.

@@ -49,6 +49,7 @@
 - aesthetic lofi mood: https://www.inthemoodfor.net/
 - cute space: https://meyoco.art/
 - midi fighter: https://store.djtechtools.com/products/midi-fighter-3d
+- vaporwave clothing: https://www.astralthrob.com/
 
 ## music 
 
