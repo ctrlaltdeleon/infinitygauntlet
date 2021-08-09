@@ -104,3 +104,17 @@ everything else below
 https://www.reddit.com/r/AskReddit/comments/nnj3w7/people_who_choose_to_be_kind_everyday_despite_of/
 
 https://www.deviantart.com/starkiteckt-designs/gallery
+
+
+1. Please introduce yourself, including, name, title, role, where you are from. (1 minute each)
+   1. Andrew De Leon, people at work call me AC cause there's too many Andrews.
+   2. My title here is "scientist".
+   3. My role is that I make software on stuff with a team. It's confidential.
+   4. I'm from San Diego!
+2. Can you tell us about your education and career journey, including where you went to college, your major, and your career path? (1-2 minutes each)
+   1. I got my education at SDSU with a bachelors in Computer Science.
+   2. My career journey was certainly daunting, being unemployed after graduation while comparing myself to my peers, persistency to learn, to network, and to being open to any opportunity led to where I am today. Now I'm learning more than I have a year ago and I transitioned from someone who didn't know anything to a full-stack developer.
+3. What made you choose a career in STEM? (1- 2 minutes each)
+   1. What made me choose my career in STEM
+
+https://uci.zoom.us/j/93629833482
