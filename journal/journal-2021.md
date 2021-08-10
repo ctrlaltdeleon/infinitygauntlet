@@ -1,25 +1,183 @@
-# July 14 2021
+# 8-10
+
+- In 'React', what's the best way to pass around variables and functions across files?
+  - Depends on the situation really.
+    - Miniscule thing that is used almost everywhere? A global variable.
+    - Thing that is used few levels within each other? Prop drilling.
+    - Thing that is used from root to the very bottom level? React API Context.
+
+# 8-9
+
+- Volleyball!
+  - Open Gym Monte.
+
+# 8-8
+
+- Volleyball!
+  - Discovery Park.
+
+# 8-7
+
+- ???
+
+# 8-6
+
+- ???
+
+# 8-5
+
+- ???
+
+# 8-4
+
+- ???
+
+# 8-3
+
+- ???
+
+# 8-2
+
+- ???
+
+# 8-1
+
+- ???
+
+# 7-21
+
+- ???
+
+# 7-30
+
+- ???
+
+# 7-29
+
+- ???
+
+# 7-28
+
+- ???
+
+# 7-27
+
+- ???
+
+# 7-26
+
+- ???
+
+# 7-25
+
+- ???
+
+# 7-24
+
+- ???
+
+# 7-23
+
+- ???
+
+# 7-22
+
+- ???
+
+# 7-21
+
+- ???
+
+# 7-20
+
+- ???
+
+# 7-19
+
+- ???
+
+# 7-18
+
+- ???
+
+# 7-17
+
+- ???
+
+# 7-16
+
+- ???
+
+# 7-15
+
+- ???
+
+# 7-14
 
 - Will I ever keep up with this lol.
 - My life just got so much busier adn I'm not really on my computer as much as I'd like to.
 
-# July 11 2021
-# July 11 2021
-# July 11 2021
-# July 10 2021
-# July 9 2021
-# July 8 2021
-# July 7 2021
-# July 6 2021
-# July 5 2021
-# July 4 2021
-# July 3 2021
-# July 2 2021
+# 7-13
 
-# July 1 2021
-# June 30 2021
-# June 29 2021
-# June 28 2021
+- ???
+
+# 7-12
+
+- ???
+
+# 7-11
+
+- ???
+
+# 7-10
+
+- ???
+
+# 7-9
+
+- ???
+
+# 7-8
+
+- ???
+
+# 7-7
+
+- ???
+
+# 7-6
+
+- ???
+
+# 7-5
+
+- ???
+
+# 7-4
+
+- ???
+
+# 7-3
+
+- ???
+
+# 7-2
+
+- ???
+
+# 7-1
+
+- ???
+
+# 6-30
+
+- ???
+
+# 6-29
+
+- ???
+
+# 6-28
 
 - When coding, when are the lines of code within a file too much?
   - Find the balance between separation and density.
@@ -29,25 +187,79 @@
   - Think about converting to boolean if applicable.
   - Use "Mock" libraries that help with making sure the functions run accordingly.
 
-# June 27 2021
-# June 26 2021
-# June 25 2021
-# June 24 2021
-# June 23 2021
-# June 22 2021
-# June 21 2021
-# June 20 2021
-# June 19 2021
-# June 18 2021
-# June 17 2021
-# June 16 2021
-# June 15 2021
-# June 14 2021
-# June 13 2021
-# June 12 2021
-# June 11 2021
-# June 10 2021
-# June 9 2021
+# 6-27
+
+- ???
+
+# 6-26
+
+- ???
+
+# 6-25
+
+- ???
+
+# 6-24
+
+- ???
+
+# 6-23
+
+- ???
+
+# 6-22
+
+- ???
+
+# 6-21
+
+- ???
+
+# 6-20
+
+- ???
+
+# 6-19
+
+- ???
+
+# 6-18
+
+- ???
+
+# 6-17
+
+- ???
+
+# 6-16
+
+- ???
+
+# 6-15
+
+- ???
+
+# 6-14
+
+- ???
+
+# 6-13
+
+- ???
+
+# 6-12
+
+- ???
+
+# 6-11
+
+- ???
+
+# 6-10
+
+- ???
+
+# 6-9 (lol)
 
 - Brought my custom keyboard to work today.
   - Andrew noticed the IBM keycaps.
@@ -57,45 +269,105 @@
   - Michael was amazed and loved it.
   - Victoria was like "Yeah I touched it lol".
 
-# June 8 2021
+# 6-8
 
 - ???
 
-# June 7 2021
+# 6-7
 
 - How to do "UNK" if "UNKNOWN"?
   - Compare the amount of "UNK to "UNKNOWN".
 
-# May 22 2021
+# 6-6
 
 - ???
 
-# May 21 2021
+# 6-5
+
+- ???
+
+# 6-4
+
+- ???
+
+# 6-3
+
+- ???
+
+# 6-2
+
+- ???
+
+# 6-1
+
+- ???
+
+# 5-31
+
+- ???
+
+# 5-30
+
+- ???
+
+# 5-29
+
+- ???
+
+# 5-28
+
+- ???
+
+# 5-27
+
+- ???
+
+# 5-26
+
+- ???
+
+# 5-25
+
+- ???
+
+# 5-24
+
+- ???
+
+# 5-23
+
+- ???
+
+# 5-22
+
+- ???
+
+# 5-21
 
 - End of the work week.
 - We almost forgot a coworkers lunch so we had to go back and drive to the restaurant again.
 
-# May 20 2021
+# 5-20
 
 - Gym!
   - Chest and triceps.
 - Decided to start my series called "I review %INSERT-TOPIC-HERE% in 30 seconds".
   - Wanted to include mainly media such as movies, anime, shows, and manga, but can be extended.
-# May 19 2021
+# 5-19
 
 - Played volleyball and Santa Venetia park with friends.
 
-# May 18 2021
+# 5-18
 
 - Chose to telework today.
 - Lots of emails to sift through, I don't like getting unneeded emails.
 
-# May 17 2021
+# 5-17
 
 - Feel pretty tired today.
 - Car didn't start up due to my radar being plugged into the 12V socket in the car which never turns off.
 
-# May 16 2021
+# 5-16
 
 - Finishing up the "The New Mutants" movie.
 - Kuya visited then I took a nap.
@@ -108,51 +380,51 @@
     - Got Nezuko!
     - Got Zenitsu!
 
-# May 15 2021
+# 5-15
 
 - Went to a family party where it was Pokemon themed.
 
-# May 14 2021
+# 5-14
 
 - ???
 
-# May 13 2021
+# 5-13
 
 - ???
 
-# May 12 2021
+# 5-12
 
 - ???
 
-# May 11 2021
+# 5-11
 
 - ???
 
-# May 10 2021
+# 5-10
 
 - ???
 
-# May 9 2021
+# 5-9
 
 - ???
 
-# May 8 2021
+# 5-8
 
 - ???
 
-# May 7 2021
+# 5-7
 
 - ???
 
-# May 6 2021
+# 5-6
 
 - ???
 
-# May 5 2021
+# 5-5
 
 - ???
 
-# May 4 2021
+# 5-4
 
 - Happy Star Wars day!
 - In `Java`, how is a class extended to have additional capability?
@@ -181,23 +453,23 @@ public class EffectMonster extends Monster {
 }
 ```
 
-# May 3 2021
+# 5-3
 
 - ???
 
-# May 2 2021
+# 5-2
 
 - ???
 
-# May 1 2021
+# 5-1
 
 - ???
 
-# April 30 2021
+# 4-30
 
 - ???
 
-# April 29 2021
+# 4-29
 
 - I know who shot JFK!
 - Got some custom vans shoes.
@@ -257,13 +529,13 @@ ipcMain.on("%SOME-ROUTE-NAME%, function (event, data) {
   });
 ```
 
-# April 28 2021
+# 4-28
 
 - Was planning to eat at Hanu, but the wait time was too long so Manna instead with Kirby!
 - Gym!
   - Chest and triceps.
 
-# April 27 2021
+# 4-27
 
 - Woke up feeling refreshed a bit, even after snoozing the button a couple of times.
   - Apparently sleeping and then waking up at 90 minute increments (1.5 hours, 3 hours, 4.5 hours, etc.) abides by the sleep cycle.
@@ -274,12 +546,12 @@ ipcMain.on("%SOME-ROUTE-NAME%, function (event, data) {
   - Santa Venetia park and met some new people such as Alina (?) and John (?).
   - I don't know how to spell names.
 
-# April 26 2021
+# 4-26
 
 - Gym!
   - Back and biceps.
 
-# April 25 2021
+# 4-25
 
 - Ate at Menya Ultra with Kirby.
   - WE MISSED THE BRAISED CHASHU, WE WERE #7 & #8 AND THEY ONLY HAVE 5 AT OPENING.
@@ -291,58 +563,58 @@ ipcMain.on("%SOME-ROUTE-NAME%, function (event, data) {
 - Went to Brenners!
   - Salty runback of 5 minute dungeon.
 
-# April 24 2021
+# 4-24
 
 - We lose 2v4 hehe.
 
-# April 23 2021
+# 4-23
 
 - Played 5 minute dungeon with Karasuno.
   - They seemed to enjoy it a lot!
   - Brandon, Will, and Kalani hopped in one at a time in the order and liked the game.
-# April 22 2021
+# 4-22
 
 - In `Git`, how does one check the amount of commits on a branch that has been worked on?
   - `git rev-list --count HEAD^%YOUR-BRANCH-NAME%
 
-# April 21 2021
+# 4-21
 
 - Gym!
   - Chest and triceps.
 
-# April 20 2021
+# 4-20 (blaze it)
 
 - 2nd dose of the Pfizer shot!
 
-# April 19 2021
+# 4-19
 
 - Felt very tired this day.
 
-# April 18 2021
+# 4-18
 
 - Played volleyball then spikeball.
 
-# April 17 2021
+# 4-17
 
 - ???
 
-# April 16 2021
+# 4-16
 
 - Watched highlights.
 
-# April 15 2021
+# 4-15
 
 - ???
 
-# April 14 2021
+# 4-14
 
 - ???
 
-# April 13 2021
+# 4-13
 
 - Looked somewhat cloudy today, light rain.
 
-# April 12 2021
+# 4-12
 
 - Dressed up today for work then being notified the admiral isn't coming, phew.
 - When making object classes, how should it be formatted?
@@ -364,7 +636,7 @@ export class %SOME-OBJECT% {
 - Had to bring home Taco Bell for the family.
 - Fixing trading cards, need to figure out a way to document pricing of cards.
 
-# April 11 2021
+# 4-11
 
 - Went to Gamezone with Citrus, Junpei, and Kirby.
   - Got these items:
@@ -381,12 +653,12 @@ export class %SOME-OBJECT% {
   - Spikeball!
     - Marco has a wicked serve.
 
-# April 10 2021
+# 4-10
 
 - Beach Volleyball!
 - Just wanted some time to myself this day.
 
-# April 9 2021
+# 4-9
 
 - Went to see the doctor, referred me to a dermatologist.
   - Took about 2 hours for general checkup, urine test, blood tests, and pharmacy.
@@ -394,26 +666,26 @@ export class %SOME-OBJECT% {
   - That was a bloody shield.
   - I liked Battlestar, shame he died.
 
-# April 8 2021
+# 4-8
 
 - ???
 
-# April 7 2021
+# 4-7
 
 - ???
 
-# April 6 2021
+# 4-6
 
 - ???
 
-# April 5 2021
+# 4-5
 
 - Back to work!
 - Left earlier than usual, but due to traffic, arrived at the same time I usually do.
 - Got Subway today, apparently their register wasn't working for cards.
   - Led to lunch time rush bust. :(
   
-# April 4 2021
+# 4-4
 
 - Took long required naps today.
 - Family got their first dose of COVID-19 vaccines.
@@ -422,7 +694,7 @@ export class %SOME-OBJECT% {
   - Felt bad for feeling that way and expressing it?
   - I just felt bad haha.
 
-# April 3 2021
+# 4-3
 
 - Menya Ultra with Kirby first thing in the morning.
 - While waiting for Menya Ultra, explored Daiso.
@@ -433,11 +705,11 @@ export class %SOME-OBJECT% {
 - Gym!
   - Volleyball for almost 5 hours.
 
-# April 2 2021
+# 4-2
 
 - Feel pretty good about outfit today, plain black shirts are nice.
 
-# April 1 2021
+# 4-1
 
 - In `Git`, how does one rename a local branch that you're on?
   - `git branch -m %NEW-BRANCH-NAME%`
@@ -447,7 +719,7 @@ export class %SOME-OBJECT% {
 - Gym!
   - Flex.
 
-# March 31 2021
+# 3-31
 
 - Arm feels a bit sore.
 - Got together with San Diego friends to eat out.
@@ -457,7 +729,7 @@ export class %SOME-OBJECT% {
 - Gym!
   - Flex.
 
-# March 30 2021
+# 3-30
 
 - Got my first dose of the Pfizer vaccine for COVID-19!
 - Went to San Ysidro school area to eat some Tacos El Gordo with Kirby.
@@ -466,171 +738,171 @@ export class %SOME-OBJECT% {
   - "Zack Snyder's Justice League"
   - Finally finished it after so long since it's 4 hours.
 
-# March 29 2021
+# 3-29
 
 - Fixed up my desk a bit, mostly just boxes, cables.
 - Gym!
   - Flex.
 
-# March 28 2021
+# 3-28
 
 - ???
 
-# March 27 2021
+# 3-27
 
 - ???
 
-# March 26 2021
+# 3-26
 
 - ???
 
-# March 25 2021
+# 3-25
 
 - ???
 
-# March 24 2021
+# 3-24
 
 - ???
 
-# March 23 2021
+# 3-23
 
 - ???
 
-# March 22 2021
+# 3-22
 
 - ???
 
-# March 21 2021
+# 3-21
 
 - ???
 
-# March 20 2021
+# 3-20
 
 - ???
 
-# March 19 2021
+# 3-19
 
 - ???
 
-# March 18 2021
+# 3-18
 
 - ???
 
-# March 17 2021
+# 3-17
 
 - ???
 
-# March 16 2021
+# 3-16
 
 - ???
 
-# March 15 2021
+# 3-15
 
 - Tattoo today!
   - Princess Mononoke inspired, the scene where Ashitaka says "you're beautiful" to San.
 
-# March 14 2021
+# 3-14
 
 - Happy birthday to Jean from Genshin Impact.
 - Went to Brenners!
   - Played spikeball with the homies and "Betrayal at House on the Hill".
 
-# March 13 2021
+# 3-13
 
 - ???
 
-# March 12 2021
+# 3-12
 
 - ???
 
-# March 11 2021
+# 3-11
 
 - ???
 
-# March 10 2021
+# 3-10
 
 - ???
 
-# March 9 2021
+# 3-9
 
 - ???
 
-# March 8 2021
+# 3-8
 
 - ???
 
-# March 7 2021
+# 3-7
 
 - ???
 
-# March 6 2021
+# 3-6
 
 - ???
 
-# March 5 2021
+# 3-5
 
 - "Wandavision"!
 
-# March 4 2021
+# 3-4
 
 - ???
 
-# March 3 2021
+# 3-3
 
 - Movie!
   - "The Great Gatsby".
 - Rewatched some funny scenes from "The Office".
 
-# March 2 2021
+# 3-2
 
 - Started "Darling the in the Franxx".
 - No more Pokemon cereal boxes. 😞
   
-# March 1 2021
+# 3-1
 
 - Start of another work week.
 - Thanks for being there for me Kirby.
 
-# Feburary 28 2021
+# 2-28
 
 - Started lubing up the switches, I definitely do feel a difference between lubed vs unlubed.
 
-# Feburary 27 2021
+# 2-27
 
 - ???
-# Feburary 26 2021
+# 2-26
 
 - ???
 
-# Feburary 25 2021
+# 2-25
 
 - Got gymnastics rings!
 
-# Feburary 24 2021
+# 2-24
 
 - ???
 
-# Feburary 23 2021
+# 2-23
 
 - ???
   
-# Feburary 22 2021
+# 2-22
 
 - ???
 
-# Feburary 21 2021
+# 2-21
 
 - ???
 
-# Feburary 20 2021
+# 2-20
 
 - ???
 
-# Feburary 19 2021
+# 2-19
 
 - ???
 
-# Feburary 18 2021
+# 2-18
 
 - Can one chain ternary operations?
 
@@ -641,73 +913,73 @@ int value = input == null ? 0 : input.equals("") ? 0 : Integer.parseInt(input);
 // Else if the input is blank, value is also 0.
 // Else parse the input.
 ```
-# Feburary 17 2021
+# 2-17
 
 - In your case start with 5% in the Roth TSP to get the match, then start working on maxing out a Roth IRA, then back to the TSP.
 - Usually, people invest into their 401k up to the company match, and then their IRA to the max, and then back to the 401k to the max. The reason they do this is because the average 401k usually has higher fees than their IRA does, but leaving free money (the match) on the table would be stupid; hence the match, IRA, back to 401k.
 
-# Feburary 16 2021
+# 2-16
 
 - ???
 
-# Feburary 15 2021
+# 2-15
 
 - ???
 
-# Feburary 14 2021
+# 2-14
 
 - ???
 
-# Feburary 13 2021
+# 2-13
 
 - ???
 
-# Feburary 12 2021
+# 2-12
 
 - ???
 
-# Feburary 11 2021
+# 2-11
 
 - ???
 
-# Feburary 10 2021
+# 2-10
 
 - ???
 
-# Feburary 9 2021
+# 2-9
 
 - ???
 
-# Feburary 8 2021
+# 2-8
 
 - ???
 
-# Feburary 7 2021
+# 2-7
 
 - ???
 
-# Feburary 6 2021
+# 2-6
 
 - ???
 
-# Feburary 5 2021
+# 2-5
 
 - ???
 
-# Feburary 4 2021
+# 2-4
 
 - ???
 
-# Feburary 3 2021
+# 2-3
 
 - ???
 
-# Feburary 2 2021
+# 2-2
 
 - Gym!
   - Volleyball.
 
-# Feburary 1 2021
+# 2-1
 
 - In `JavaScript`, is there an easy way to automatically add properties to objects that are undefined?
 
@@ -742,22 +1014,22 @@ test[variable].world = "Hello world!";
 - Gym!
   - Flex.
 
-# January 31 2021
+# 1-31
 
 - Got to see the old gang again and played spikeball, secret hitler, and more.
 - Gym!
   - Flex.
   
-# January 30 2021
+# 1-30
 
 - I think I'm falling for you.
   
-# January 29 2021
+# 1-29
 
 - Donut Bar, Zion Market, WandaVision EP. 4.
 - Slept all day.
   
-# January 28 2021
+# 1-28
 
 - Which brokerage provides the best safety for my investments? (USA at least.)
   - Schwab.
@@ -771,17 +1043,17 @@ test[variable].world = "Hello world!";
     - Depends on one's gesture since one owns part of the company.
   - No particular order, personally went with Vanguard.
 
-# January 27 2021
+# 1-27
 
 - Gym!
   - Volleyball.
   - Went to Rohr Park this time around, plenty of spots, lights are great.
   
-# January 26 2021
+# 1-26
 
 - ???
 - 
-# January 25 2021
+# 1-25
 
 Former optician here!
 
@@ -797,18 +1069,18 @@ If you have any other questions I’d be happy to help :)
 
 - Finally finished my long task.
 
-# January 24 2021
+# 1-24
 
 - Stayed home.
 
-# January 23 2021
+# 1-23
 
 - Uncle Agapito.
 
-# January 22 2021
+# 1-22
 
 - Stayed home.
-# January 21 2021
+# 1-21
 
 - In `React`, how should autosave be handled in terms of string inputs?
   
@@ -842,12 +1114,12 @@ onBlur={handleState};
 onChange={(event) => setState(event.target.value)};
 ```
 
-# January 20 2021
+# 1-20
 
 - Gym!
   - Volleyball.
 
-# January 19 2021
+# 1-19
 
 - What is relationship anarchy?
   - The idea of relationships decided by people and what they bring out of you rather than labels.
@@ -856,38 +1128,38 @@ onChange={(event) => setState(event.target.value)};
   - Volleyball.
   - Took it easy and went for setter position to give hitters what they can which worked out well.
   
-# January 18 2021
+# 1-18
 
 - Martin Luther King Jr. day.
 - Gym!
   - Volleyball.
   - Was pissed and just want to be better.
 
-# January 17 2021
+# 1-17
 
 - Slept.
   
-# January 16 2021
+# 1-16
 
 - Gym!
   - Volleyball.
   - Flex.
 
-# January 15 2021
+# 1-15
 
 - Gym!
   - Flex.
 
-# January 14 2021
+# 1-14
 
 - Gym!
   - Volleyball.
 
-# January 13 2021
+# 1-13
 
 - Anybody with flights to the USA will need a negative status of COVID.
 
-# January 12 2021
+# 1-12
 
 - Protein intake should be near 1 gram per kilogram of bodyweight.
   - Currently at ~70 kilograms, so ~70 grams of protein per day.
@@ -897,26 +1169,26 @@ onChange={(event) => setState(event.target.value)};
   - Volleyball.
   - Got one really nice pipe spike in, but it hit the net, but ended on the other side.
 
-# January 11 2021
+# 1-11
 
 - Gym!
   - Flex.
 
-# January 10 2021
+# 1-10
 
 - Gym!
   - Flex.
 
-# January 9 2021
+# 1-9
 
 - Gym!
   - Volleyball.
 
-# January 8 2021
+# 1-8
 
 - Working on self assessment.
 
-# January 7 2021
+# 1-7
 
 - Amount of downloads `@acfromspace/weeb` has thus far?
   - 684.
@@ -928,12 +1200,12 @@ onChange={(event) => setState(event.target.value)};
   - Oscar is for film.
   - Tony is for theatre.
 
-# January 6 2021
+# 1-6
 
 - Gym!
   - Flex.
 
-# January 5 2021
+# 1-5
 
 - Time to teach `MongoDB`!
   - Went really well! Besides the `.git` mess we ended up in, mostly due to `NetBeans` IDE going into `IntelliJ` IDE.
@@ -941,7 +1213,7 @@ onChange={(event) => setState(event.target.value)};
   - `Ctrl + Alt + O`
   - This also adds required imports and removes unneeded imports.
 
-# January 4 2021
+# 1-4
 
 - Finally back to work with the whole team.
 - In `JavaScript`, how does one insert characters in a string at specific locations, I.E. a phone number?
@@ -981,13 +1253,13 @@ public static String createCharacterElement(Character character) {
 - Gym!
   - Flex.
 
-# January 3 2021
+# 1-3
 
 - Cleaning my room, finally got to it after taking long naps and trying to put myself together.
 - Got stuff to return eventually.
 - Demoralized from League of Legends, just was not able to carry the team despite the effort I put in.
 
-# January 2 2021
+# 1-2
 
 - Movie!
   - "Soul".
@@ -995,7 +1267,7 @@ public static String createCharacterElement(Character character) {
 - Gym!
   - Volleyball.
 
-# January 1 2021
+# 1-1
 
 - Happy new year!
 - Fell asleep through it lol.

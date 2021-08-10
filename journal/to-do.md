@@ -118,3 +118,13 @@ https://www.deviantart.com/starkiteckt-designs/gallery
    1. What made me choose my career in STEM
 
 https://uci.zoom.us/j/93629833482
+
+laptop:
+
+ssd, 16GBram+, 1920x1080resolution
+
+https://www.amazon.com/s?k=windows+10+laptop&i=computers&rh=n%3A565108%2Cp_n_feature_twelve_browse-bin%3A9521908011%2Cp_72%3A1248879011%2Cp_n_feature_twenty-nine_browse-bin%3A23447647011%2Cp_n_feature_five_browse-bin%3A13580788011%2Cp_n_feature_eleven_browse-bin%3A13580795011%7C13580796011%7C9521903011%2Cp_n_feature_three_browse-bin%3A13580803011%7C9647486011&dc&qid=1628617452&rnid=9647481011&ref=sr_nr_p_n_feature_three_browse-bin_4
+
+https://www.amazon.com/Flagship-Dell-5502-Quad-Core-i7-1165G7/dp/B08XNZNLVG/ref=sr_1_10?dchild=1&keywords=windows%2B10%2Blaptop&qid=1628617460&refinements=p_n_feature_twelve_browse-bin%3A9521908011%2Cp_72%3A1248879011%2Cp_n_feature_twenty-nine_browse-bin%3A23447647011%2Cp_n_feature_five_browse-bin%3A13580788011%2Cp_n_feature_eleven_browse-bin%3A13580795011%7C13580796011%7C9521903011%2Cp_n_feature_three_browse-bin%3A13580803011%7C9647486011&rnid=9647481011&s=pc&sr=1-10&th=1
+
+https://www.amazon.com/HP-Touchscreen-Backlit-Keyboard-Fingerprint/dp/B0979NYPNS/ref=sr_1_12?dchild=1&keywords=windows+10+laptop&qid=1628617460&refinements=p_n_feature_twelve_browse-bin%3A9521908011%2Cp_72%3A1248879011%2Cp_n_feature_twenty-nine_browse-bin%3A23447647011%2Cp_n_feature_five_browse-bin%3A13580788011%2Cp_n_feature_eleven_browse-bin%3A13580795011%7C13580796011%7C9521903011%2Cp_n_feature_three_browse-bin%3A13580803011%7C9647486011&rnid=9647481011&s=pc&sr=1-12
