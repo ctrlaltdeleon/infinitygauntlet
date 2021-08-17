@@ -1,3 +1,52 @@
+# 8-17
+
+- What's an ideal `React` folder structure to consider?
+
+```
+- %REPO-NAME%
+-- src/ (code)
+--- app/ (bulk of the app itself)
+--- assets/ (images, stylesheets)
+--- components/ (reusable react components)
+--- helper/ (functions that don't render but provide utility)
+--- test/ (testing code)
+-- .env (secret stuff)
+-- .gitignore (no node modules please)
+-- config.json (if needing to configure from a user standpoint)
+-- license (and registration please)
+-- package.json (dependency hell)
+-- README.md (oh look at me!)
+```
+
+# 8-16
+
+- Watch your money!
+- Volleyball!
+  - Open Gym Monte.
+
+# 8-15
+
+- Disneyland.
+
+# 8-14
+
+- California Adventure.
+
+# 8-13
+
+- Disneyland.
+
+# 8-12
+
+- What a scramble at work.
+  - Reverting and not being able to recover work, :(
+
+# 8-11
+
+- Gym!
+  - Back and biceps.
+- Finished my twitch trailer after a year lol.
+
 # 8-10
 
 - In 'React', what's the best way to pass around variables and functions across files?
