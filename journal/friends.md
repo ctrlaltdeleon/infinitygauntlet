@@ -67,6 +67,10 @@
 - poke: half brown rice, half salad, shrimp, scallops, no wasabi
 - shel silverstein.
 
+## mcknight (bm)
+
+- ahri.
+
 ## pacheekies (np)
 
 - conventions.
@@ -96,6 +100,10 @@
 
 - big bang.
 - twice.
+
+## wsupbitches (md)
+
+- adc main.
 
 ## xiangling (nc)
 

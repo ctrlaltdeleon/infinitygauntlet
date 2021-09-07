@@ -79,3 +79,8 @@
 ## streaming
 
 - voice ui: https://nerdordie.com/product/voice-ui-alert-sounds/
+
+## tattoo artists
+
+- rockyhowetattoo
+- visualamor

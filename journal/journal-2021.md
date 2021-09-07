@@ -1,3 +1,124 @@
+# 9-7
+
+- What's the difference at AMC between `Dolby" and `IMAX` option.
+  - "Dolby" offers leather, reclining seats, better sound, crisp images.
+    - Better for 2 or less people.
+  - "IMAX" offers more seating, bigger screen.
+    - Better for parties.
+- What's the difference between `member variable` and `method variable`.
+  - A `member variable` (also known as instance variables in Java), are variables declared in a class, but outside a method, constructor, or any other block.
+  - A `method variable` are variables declared in a method, constructor, or any other block.
+
+# 9-6
+
+- Last day of "PAX".
+  - Tried to play "Tales of Arise" but was not fast enough.
+  - Was able to try "Blacksmith Bay" though!
+    - Was quite buggy, helper had to help with a lot of stuff since bugs kept occurring.
+    - Small pin was given, like really small haha.
+- Had "Subway".
+  - It's been such a long time.
+
+# 9-5
+
+- 3rd day of "PAX".
+  - Games that I did enjoy was a game called "Squish".
+- Had "Dough Zone" for the first time!
+  - Was like "Din Tai Fung", but was more on the budget scale.
+- Had "Noi", a Thai restuarant, for dinner.
+  - Got to finally see Illoai and WsupBitches.
+- Watched "Austin Powers: International Man of Mystery".
+
+# 9-4
+
+- 2nd day of "PAX".
+- Started watching "Austin Powers: Goldmember".
+- Had late night pizza thanks to McKnight.
+
+# 9-3
+
+- 1st day of "PAX".
+  - Much smaller than I imagined, but it makes sense due to COVID.
+- We had a yummy restaurant called "Veggie Grill".
+  - I love this healthy alternative.
+  - Had the "Far East" salad.
+
+# 9-2
+
+- Getting ready to leave to Seattle from San Diego.
+
+# 9-1
+
+- ???
+
+# 8-31
+
+- ???
+
+# 8-30
+
+- In `React`, when to use `useRef` vs `useState`?
+  - If you want to update data and cause a UI update, `useState`.
+  - If you need some kind of data container throughout the component’s lifecycle without causing render cycles on mutating your variable, then `useRef`.
+- For inline styling, how to combine multiple styles?
+  - `<Button style={...style, ...{width: "20%"}}/>`
+- Volleyball!
+  - 
+
+# 8-29
+
+- ???
+
+# 8-28
+
+- ???
+
+# 8-27
+
+- ???
+
+# 8-26
+
+- ???
+
+# 8-25
+
+- In `Object Oriented Programming`, what is an `interface`?
+  - An interface is a blueprint for other classes to copy to enforce functions.
+  - An interface could have CRUD and any files implementing that interface must have CRUD.
+
+# 8-24
+
+- Gym!
+  - Chest and triceps.
+  - Pushing my limits I feel like, which feels good.
+
+# 8-23
+
+- Volleyball!
+  - Open Gym Monte.
+  - Was a bit crowded, but vibes were great!
+
+# 8-22
+
+- ???
+
+# 8-21
+
+- ???
+
+# 8-20
+
+- ???
+
+# 8-19
+
+- ???
+
+# 8-18
+
+- ???
+
 # 8-17
 
 - What's an ideal `React` folder structure to consider?
@@ -404,7 +525,8 @@
   - Wanted to include mainly media such as movies, anime, shows, and manga, but can be extended.
 # 5-19
 
-- Played volleyball and Santa Venetia park with friends.
+- Volleyball!
+  - Santa Venetia park with friends.
 
 # 5-18
 
@@ -420,10 +542,11 @@
 
 - Finishing up the "The New Mutants" movie.
 - Kuya visited then I took a nap.
-- Played volleyball and had good numbers and good players, but could tell people got tired at the end.
+- Volleyball!
+  - Had good numbers and good players, but could tell people got tired at the end.
 - Went to Brenners.
   - Won both times in spikeball.
-  - 1 with Kirby and 1 with Brenner.
+  - 1 with Kirby and 1 with Brenners.
   - It started raining during the 2nd game so we tried playing under the tarp, but was too low.
   - Pulled in Puzzle & Dragons since it was a Demon Slayer event.
     - Got Nezuko!
@@ -641,7 +764,8 @@ ipcMain.on("%SOME-ROUTE-NAME%, function (event, data) {
 
 # 4-18
 
-- Played volleyball then spikeball.
+- Volleyball!
+- Spikeball!
 
 # 4-17
 
@@ -751,8 +875,8 @@ export class %SOME-OBJECT% {
 - Got Ootea!
 - Went to Gamezone and got a transparent container, small sleeves, and Yugioh cards!
   - Relived the original Yugi decks and got Exodia!
-- Gym!
-  - Volleyball for almost 5 hours.
+- Volleyball!
+  - Almost 5 hours.
 
 # 4-2
 
@@ -1025,8 +1149,7 @@ int value = input == null ? 0 : input.equals("") ? 0 : Integer.parseInt(input);
 
 # 2-2
 
-- Gym!
-  - Volleyball.
+- Volleyball!
 
 # 2-1
 
@@ -1094,8 +1217,7 @@ test[variable].world = "Hello world!";
 
 # 1-27
 
-- Gym!
-  - Volleyball.
+- Volleyball!
   - Went to Rohr Park this time around, plenty of spots, lights are great.
   
 # 1-26
@@ -1165,23 +1287,20 @@ onChange={(event) => setState(event.target.value)};
 
 # 1-20
 
-- Gym!
-  - Volleyball.
+- Volleyball!
 
 # 1-19
 
 - What is relationship anarchy?
   - The idea of relationships decided by people and what they bring out of you rather than labels.
 - Was extremely tired.
-- Gym!
-  - Volleyball.
+- Volleyball!
   - Took it easy and went for setter position to give hitters what they can which worked out well.
   
 # 1-18
 
 - Martin Luther King Jr. day.
-- Gym!
-  - Volleyball.
+- Volleyball!
   - Was pissed and just want to be better.
 
 # 1-17
@@ -1190,8 +1309,8 @@ onChange={(event) => setState(event.target.value)};
   
 # 1-16
 
+- Volleyball!
 - Gym!
-  - Volleyball.
   - Flex.
 
 # 1-15
@@ -1201,8 +1320,7 @@ onChange={(event) => setState(event.target.value)};
 
 # 1-14
 
-- Gym!
-  - Volleyball.
+- Volleyball!
 
 # 1-13
 
@@ -1214,8 +1332,7 @@ onChange={(event) => setState(event.target.value)};
   - Currently at ~70 kilograms, so ~70 grams of protein per day.
   - Protein shake gives ~25 grams.
   - Protein bars gives ~10 grams.
-- Gym!
-  - Volleyball.
+- Volleyball!
   - Got one really nice pipe spike in, but it hit the net, but ended on the other side.
 
 # 1-11
@@ -1230,8 +1347,7 @@ onChange={(event) => setState(event.target.value)};
 
 # 1-9
 
-- Gym!
-  - Volleyball.
+- Volleyball!
 
 # 1-8
 
@@ -1313,8 +1429,7 @@ public static String createCharacterElement(Character character) {
 - Movie!
   - "Soul".
 - Thanks Kirby.
-- Gym!
-  - Volleyball.
+- Volleyball!
 
 # 1-1
 
