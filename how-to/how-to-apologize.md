@@ -1,10 +1,14 @@
 # HOW TO APOLOGIZE
 
+Last updated: 2021-09-08
+
+## Chapters
+
 1. Introduction
 2. Instructions
 3. Tips
 4. Conclusion
-   1. My take
+   1. My Take
 
 ## 1: Introduction
 
@@ -42,4 +46,4 @@
 
 ## 4.1: My Take
 
-- I made this because I need a reminder on how to apologize.
+- I would for giving time to let people recover, but still let them know right away you're sorry.

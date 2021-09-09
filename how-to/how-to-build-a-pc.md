@@ -1,5 +1,9 @@
 # HOW TO BUILD A PC
 
+Last updated: 2021-09-08
+
+## Chapters
+
 1. Introduction
 2. What parts to choose first?
 3. Case
@@ -38,7 +42,6 @@
   - GPU.
 - Why not choose other parts first?
   - The three above are the most important as opposed to the other parts.
-  - Everything else is "filler".
 
 ## 3: Case
 
@@ -162,10 +165,10 @@
   - White.
     - Stiff, clicky.
 - Different types of layouts for mechanical keyboards:
-  - 60.
-  - 65.
-  - 75.
-  - 100.
+  - 60%.
+  - 65%.
+  - 75%.
+  - 100%.
 - Different build parts for mechanical keyboards:
   - Case.
   - PCB.
@@ -245,7 +248,7 @@
   - Size.
     - Do you want to use a HDD to store a lot of things for cheap?
   - Speed.
-    - Do you want to use a SSD to speed up applications, including the operating system, at a price?
+    - Do you want to use a NVM Express/SSD to speed up applications, including the operating system, at a price?
 
 ## 11: Extras
 
@@ -258,3 +261,9 @@
 ## 12: Conclusion
 
 - Thank you.
+
+## 12: My Take
+
+- I would go for case first since I'm a minimal person.
+  - Currently have NZXT H1.
+  - RGB is pretty, but matching aesthetics is my cup of tea.

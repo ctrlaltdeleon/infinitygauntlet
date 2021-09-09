@@ -1,5 +1,9 @@
 # HOW TO TEMPLATE
 
+Last updated: 2021-04-20
+
+## Chapters
+
 1. Introduction
 2. Instructions
    1. Stuff
@@ -25,4 +29,4 @@
 
 ## 3.1: My Take
 
-- I made this because...
+- I would go for...
