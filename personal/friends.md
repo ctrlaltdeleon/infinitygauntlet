@@ -84,6 +84,11 @@
 
 - magic the gathering.
 
+## pokemans (jg)
+
+- cheese pizza.
+- strawberry popcorn.
+
 ## rei ayanami (tr)
 
 - capybara.
@@ -100,6 +105,11 @@
 
 - big bang.
 - twice.
+
+## tryndamere (rb)
+
+- john mayer.
+- tryndamere.
 
 ## wsupbitches (md)
 

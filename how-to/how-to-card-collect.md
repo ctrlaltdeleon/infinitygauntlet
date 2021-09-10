@@ -1,15 +1,14 @@
 # HOW TO CARD COLLECT 
 
-Last updated: 2021-09-08
+Last updated: 2021-09-10
 
 ## Chapters
 
 1. Introduction
-2. Checking Prices
-3. Sleeving
+2. Sleeving
    1. Magic the Gathering (MTG)/Pokemon
    2. Yu-gi-oh
-4. Conclusion
+3. Conclusion
    1. My Take
 
 ## 1: Introduction
@@ -47,7 +46,10 @@ Last updated: 2021-09-08
 
 ## 3.1: My Take
 
+- I would go for single sleeving if:
+  - Playing just standard games with friends.
 - I would go for double sleeving if:
   - Card value is great.
   - Card is foil (to prevent creasing of the card).
+  - The deck you have is your final version, to reduce changing all the time.
 

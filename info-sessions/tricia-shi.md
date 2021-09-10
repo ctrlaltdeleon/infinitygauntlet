@@ -4,7 +4,7 @@
 Topic:    N/A
 Link:     N/A
 Name:     Tricia Shi (SDE on OWL website, tshi@blizzard.com)
-Time:     Monday, November 26, 2018
+Time:     2018-11-26
 ```
 
 Notes:

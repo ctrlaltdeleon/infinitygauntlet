@@ -133,83 +133,14 @@ https://overreacted.io/making-setinterval-declarative-with-react-hooks/
 
 poses: https://www.youtube.com/watch?v=g7fIhkFY_jo
 
-### all performance socks have
+credit card fixing
 
-hex tec
-Airflow Venting
-Honeycomb Arch Support System
-Seamless Toe
-Strategic Zone Cushioning
-Y-Stitched Heel
+spotify x
+iphone x
+usaa x
+amazon x
 
-### all-purpose 67% Polyester, 16% Nylon, 15% Cotton, 2% Elastane
+debit card fixing
 
-Blister Tab
-Left-Right Contoured
+sdsu arc (visa or mastercard only) x
 
-### tennis 60% Polyester, 22% Nylon, 15% Cotton, 3% Spandex
-
-Stay-Up Technology
-Left-Right Contoured
-
-### golf 60% Polyester, 22% Nylon, 15% Cotton, 3% Spandex
-
-Blister Tab
-
-### running 51% Polyester, 33% Nylon, 12% Cotton, 4% Spandex
-
-Blister Tab
-Left-Right Contoured
-
-### mens original 69% Cotton, 27% Polyester, 3% Rubber, 1% Spandex
-
-Extra-Long Staple Cotton
-Cushioned Footbed
-Honeycomb Arch Support System
-Blister Tab
-Y-Stitched Heel
-Seamless Toe
-
-### compression 64% Cotton, 17% Polyester, 13% Nylon, 6% Spandex
-
-15-20 mmHg Compression Level
-Extra Durable Yarn
-Y-Stitched Heel
-Seamless Toe
-Honeycomb Arch Support System
-Extra-Long Staple Cotton
-Strategic Zone Cushioning
-
-best to get running and all-purpose? mostly polyster
-the original socks have cotton
-
-https://bombas.com/collections/mens-compression-socks
-
-### melvor skilling 
-Cargo Net
-Rope Jump
-Pipe Balance
-Mud Crawl
-Tree Climb
-Tree Hop
-Spike Trap
-Tree Hang
-Water Jump
-Boulder Move
-Pillar of Skilling
-
-Cargo Net, Balance Beam, Balance Seesaw, Gap Jump, Mountain Climb, Tree Balance, Heat Trap, Tree Hang, Ice Jump, Boulder Move
-
-### new volleyball video
-
-20:45 martin spike
-24:45 elijah spike
-28:59 set to other side lol
-33:15 KO matt
-36:45 nice receive arlynn
-44:25 nice saveu
-58:05 oh no brendan butter finga
-1:01:25 celina slick net serve
-1:02:10 lmao "OUT! *whispers* it was in"
-1:03:55 butterest set ever
-1:31:40 get blocked

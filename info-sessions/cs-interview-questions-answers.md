@@ -2,9 +2,9 @@
 
 ```
 Topic:    27 C# Interview Questions and Answers to Know in 2019
-Info:     https://tinyurl.com/csharpinterview
+Link:     https://tinyurl.com/csharpinterview
 Name:     Alex (@aershov24) Full Stack Developer
-Time:     Wednesday, November 14, 2018
+Time:     2018-11-04
 ```
 
 Notes:

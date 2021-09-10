@@ -1,3 +1,15 @@
+# 9-10
+
+- I'm going to miss my friends.
+
+# 9-9
+
+- ???
+
+# 9-8
+
+- ???
+
 # 9-7
 
 - What's the difference at AMC between `Dolby" and `IMAX` option.

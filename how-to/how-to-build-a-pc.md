@@ -26,7 +26,7 @@ Last updated: 2021-09-08
 
 ## 1: Introduction
 
-- This is a simple guide of how to build a PC via purchasing the parts for myself mainly.
+- This is a simple guide of how to build a PC.
 - I highly recommend using `pcpartpicker.com` for reference.
   - Make sure the parts your pick are compatible with each other!
 - Always consider your budget.

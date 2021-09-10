@@ -1,8 +1,13 @@
 # HOW TO CLEAN A DESKMAT
 
+Last updated: 2021-09-09
+
+## Chapters
+
 1. Introduction
 2. Instructions
 3. Conclusion
+   1. My Take
 
 ## 1: Introduction
 
@@ -19,9 +24,13 @@
    1. Use a circular motion.
    2. Get all sections.
 5. Wash away with water.
-6. Dry.
+6. Dry with towel.
 7. Done!
 
 ## 3: Conclusion
 
 - Thank you.
+
+## 3.1: My Take
+
+- N/A

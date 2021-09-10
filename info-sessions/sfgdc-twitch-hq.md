@@ -4,7 +4,7 @@
 Topic:    SF Game Development Community Twitch HQ
 Link:     N/A
 Name:     Jon Bulava (@jbulava, Development Advocate)
-Time:     Tuesday, May 21, 2019
+Time:     2019-05-21
 ```
 
 Notes:
