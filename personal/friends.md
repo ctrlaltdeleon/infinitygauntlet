@@ -67,10 +67,6 @@
 - poke: half brown rice, half salad, shrimp, scallops, no wasabi
 - shel silverstein.
 
-## mcknight (bm)
-
-- ahri.
-
 ## pacheekies (np)
 
 - conventions.
@@ -101,6 +97,11 @@
 - kpop enthusiast.
 - weight lifter.
 
+## selteric (ws)
+
+- clean.
+- same waifu taste.
+
 ## taeyang (av)
 
 - big bang.
@@ -114,6 +115,10 @@
 ## wsupbitches (md)
 
 - adc main.
+
+## xeiyon (bm)
+
+- ahri.
 
 ## xiangling (nc)
 

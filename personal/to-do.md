@@ -64,8 +64,6 @@ https://docs.google.com/document/d/1DPfFG5H9ysqZJDl_fQDsTNCQxsThgVuLD1XxMJg52Ts/
 http://react-material.fusetheme.com/apps/dashboards/analytics
 https://github.com/TheoXiong/electron-find
 
-https://www.amazon.com/Minnetonka-Womens-Wilder-Sneakers-Vintage/dp/B089JXPDCC/ref=sr_1_12?dchild=1&keywords=Suede%2BSlip%2BOn%2BSneakers&qid=1619027629&sr=8-12&th=1
-
 how did trell win?
 https://www.youtube.com/watch?v=2vLONj2ltR0
 he won cause opponent milled
@@ -144,3 +142,36 @@ debit card fixing
 
 sdsu arc (visa or mastercard only) x
 
+just change everyone's names in friends and journal
+
+db.adminCommand("listDatabases").databases.
+   map(d => d.name).
+   filter(n => ["admin", "config", "local"].indexOf(n) == -1 ).
+   map(n => db.getSiblingDB(n).dropDatabase())
+
+  MongoshInvalidInputError: Cannot pass a function that calls a Mongosh API method as an argument
+
+  mongodb 4.4.1
+  mongo shell 0.4.0 beta
+
+## STACKOVERFLOW INEEDHELPLEARNING2
+
+Just by looking at it, it's because of 2 things.
+
+ 1. Each of those reviews are within a `<Grid>` of attribute `container` when it should be `item`.
+ 2. When specifying the size `xs={12}`, this sizes a component to occupy the whole viewport width regardless of its size. This means the next "item" will move over to the bottom. Try a smaller one or don't put anything at all and let Material UI figure it out for you.
+
+```js
+... beginning of your code
+  {myReviews.map(myReviews => (
+    <Grid item direction="row" spacing={0}> // Changed here!
+      <div className='myReviews' key={myReviews.id}>
+        <Card variant="outlined">
+          ... rest of the inner code here ...
+        </Card>
+      </div>
+    </Grid>
+... ending of your code
+```
+
+Material-UI example code of `<Grid>` using attribute `item`: https://codesandbox.io/s/8zesn?file=/demo.tsx

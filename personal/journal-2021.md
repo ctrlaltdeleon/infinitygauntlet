@@ -1,3 +1,88 @@
+# 9-30
+# 9-29
+
+- What's the difference between a dialog, modal, modeless, and window?
+  - A window displays something.
+  - A dialog is a window that asks for a user's response.
+  - A modal is a dialog that requires a user's response and will close if the user decides to do other things.
+  - A modeless is a dialog that requires a user's response, but remain open despite the user doing other things.
+- Remembered a memory of playing with "Standard", "TRL", etc. on league and a few friends trying to go pro.
+
+# 9-28
+# 9-27
+# 9-26
+# 9-25
+# 9-24
+# 9-23
+
+- In `bash`, `\\\` means what?
+  - It means ` ` (space) since in scripts a space signifies a separate command, but sometimes we want to reference file names.
+  - For example if we're trying to copy a file `scp /Documents/Some\\\ File.txt .` in which `Some File.txt` is like so.
+- In `bash`, how do you rename a file?
+  - `mv %OLD-FILE-NAME% %NEW-FILE-NAME%
+
+# 9-22
+# 9-21
+
+- In `bash`, what does 'pwd' do?
+  - It means "Print working directory".
+  - Outputs the file directory that a user is currently in.
+  - For example it will output `/home/public`or something similar.
+
+# 9-20
+
+- ???
+
+# 9-19
+# 9-18
+# 9-17
+
+- ???
+
+# 9-16
+
+- ???
+
+# 9-15
+
+- NAVWAR Mark came in and heard politics and said in a joking tone "No politics! NAVWAR happy! Me happy!".
+
+# 9-14
+
+- In `React`, how should modals be paired with menus?
+  - Modals should be at the same level as menus, even though they use each other, they're separate.
+  - For example if I click on the settings icon, a menu opens, click on preferences, it should open the preferences and close the menu.
+  - Mistake I was running into was that by setting the state of the menu to close when the preferences opens, it also closed the preferences which was not desired behavior.
+- Gym!
+  - Back and biceps.
+  - Went conventional deadlift at 255 lbs.
+
+# 9-13
+
+- Volleyball!
+  - Monte.
+  - Recording didn't work out since the volume button was pressed when I put the phone down thus stopping the video.
+- I got to play with Brian, Mark, and Walter and it was super nice.
+  - League of Legends.
+    - If we lose, we play Phasmophobia.
+  - Phasmophobia.
+    - We won League, but wanted to spook ourselves.
+    - We finished everything in the house level, but got the ghost wrong, there was no freezing temps though!
+    - We went to the prison level, Walter died and then Brian died, and then Mark and I had to leave, but the front door was locked and we remembered that Brian had the key, so we had to swoop on by, almost die again, and leave the level.
+  - League of Legends.
+    - Just played ARAM.
+    - I went 0/10 Yasuo lol.
+
+# 9-12
+
+- Movie!
+  - "Shang-Chi and The Legend of The Ten Rings".
+  - Best MCU (Marvel Cinematic Universe) media so far through my regards.
+
+# 9-11
+
+- Some Seattle friend drama, but glad it passed over by kind of.
+
 # 9-10
 
 - I'm going to miss my friends.
@@ -535,6 +620,7 @@
   - Chest and triceps.
 - Decided to start my series called "I review %INSERT-TOPIC-HERE% in 30 seconds".
   - Wanted to include mainly media such as movies, anime, shows, and manga, but can be extended.
+
 # 5-19
 
 - Volleyball!
@@ -552,7 +638,8 @@
 
 # 5-16
 
-- Finishing up the "The New Mutants" movie.
+- Movie!
+  - "The New Mutants".
 - Kuya visited then I took a nap.
 - Volleyball!
   - Had good numbers and good players, but could tell people got tired at the end.
@@ -920,7 +1007,7 @@ export class %SOME-OBJECT% {
 - Went to San Ysidro school area to eat some Tacos El Gordo with Kirby.
   - Has some nice fields and playgrounds, potential sport area, really nice!
 - Movie!
-  - "Zack Snyder's Justice League"
+  - "Zack Snyder's Justice League".
   - Finally finished it after so long since it's 4 hours.
 
 # 3-29

@@ -61,6 +61,8 @@ If you need ideas for adventures.
   - Open market experience, nature vibes, parks nearby.
 - Mount Soledad (San Diego).
   - View of the city and ocean, windy.
+- Rooftop Cinema Club (San Diego).
+  - Movie, rooftop, night lights.
 - Stonewall Peak (San Diego).
   - Hike, easy, 2 hours to do, great view.
 - Suspension Bridge (San Diego).

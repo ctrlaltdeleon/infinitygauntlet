@@ -15,7 +15,7 @@ Last updated: 2021-09-10
 
 ## 1: Introduction
 
-- This is a simple guide of how to bombas socks.
+- This is a simple guide of how to Bombas socks.
 
 ## 2: Performance Socks
 
