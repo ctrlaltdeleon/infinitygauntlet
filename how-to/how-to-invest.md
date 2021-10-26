@@ -31,3 +31,36 @@ https://finance.yahoo.com/calendar/ipo/
 ## 7: Conclusion
 
 - Thank you.
+
+3-fund portfolio
+NASDAQ, all US stocks
+SPY, top 500 US stocks
+DOWJONES, top 30 US stocks
+L funds (lifecycle) are a combination of Individual Funds
+
+GFSCI
+Goverment
+Fixed INcome
+Common Stock
+Small Cap Stock
+Internation Stock
+
+G = Produce a rate of return higher than inflation while avoiding exposure to credit (default) risk.
+F = Match the performance of the Bloomberg Barclays U.S. Aggregate Bond Index.
+C = SPY
+s = Dow Jones
+I = Match the performance of the MSCI EAFE (Europe, Australasia, Far East) Index.
+
+'m in L2050 100%
+
+contributing to roth TSP does not affect roth IRA
+
+if die
+
+1) spouse
+2) children
+3) parents
+4) admin of estate
+5) kin of estate
+
+(does not include step relatives)
