@@ -64,8 +64,6 @@ https://docs.google.com/document/d/1DPfFG5H9ysqZJDl_fQDsTNCQxsThgVuLD1XxMJg52Ts/
 http://react-material.fusetheme.com/apps/dashboards/analytics
 https://github.com/TheoXiong/electron-find
 
-https://www.amazon.com/Minnetonka-Womens-Wilder-Sneakers-Vintage/dp/B089JXPDCC/ref=sr_1_12?dchild=1&keywords=Suede%2BSlip%2BOn%2BSneakers&qid=1619027629&sr=8-12&th=1
-
 how did trell win?
 https://www.youtube.com/watch?v=2vLONj2ltR0
 he won cause opponent milled
@@ -104,3 +102,78 @@ everything else below
 https://www.reddit.com/r/AskReddit/comments/nnj3w7/people_who_choose_to_be_kind_everyday_despite_of/
 
 https://www.deviantart.com/starkiteckt-designs/gallery
+
+
+1. Please introduce yourself, including, name, title, role, where you are from. (1 minute each)
+   1. Andrew De Leon, people at work call me AC cause there's too many Andrews.
+   2. My title here is "scientist".
+   3. My role is that I make software on stuff with a team. It's confidential.
+   4. I'm from San Diego!
+2. Can you tell us about your education and career journey, including where you went to college, your major, and your career path? (1-2 minutes each)
+   1. I got my education at SDSU with a bachelors in Computer Science.
+   2. My career journey was certainly daunting, being unemployed after graduation while comparing myself to my peers, persistency to learn, to network, and to being open to any opportunity led to where I am today. Now I'm learning more than I have a year ago and I transitioned from someone who didn't know anything to a full-stack developer.
+3. What made you choose a career in STEM? (1- 2 minutes each)
+   1. What made me choose my career in STEM
+
+https://uci.zoom.us/j/93629833482
+
+laptop:
+
+ssd, 16GBram+, 1920x1080resolution
+
+https://www.amazon.com/s?k=windows+10+laptop&i=computers&rh=n%3A565108%2Cp_n_feature_twelve_browse-bin%3A9521908011%2Cp_72%3A1248879011%2Cp_n_feature_twenty-nine_browse-bin%3A23447647011%2Cp_n_feature_five_browse-bin%3A13580788011%2Cp_n_feature_eleven_browse-bin%3A13580795011%7C13580796011%7C9521903011%2Cp_n_feature_three_browse-bin%3A13580803011%7C9647486011&dc&qid=1628617452&rnid=9647481011&ref=sr_nr_p_n_feature_three_browse-bin_4
+
+https://www.amazon.com/Flagship-Dell-5502-Quad-Core-i7-1165G7/dp/B08XNZNLVG/ref=sr_1_10?dchild=1&keywords=windows%2B10%2Blaptop&qid=1628617460&refinements=p_n_feature_twelve_browse-bin%3A9521908011%2Cp_72%3A1248879011%2Cp_n_feature_twenty-nine_browse-bin%3A23447647011%2Cp_n_feature_five_browse-bin%3A13580788011%2Cp_n_feature_eleven_browse-bin%3A13580795011%7C13580796011%7C9521903011%2Cp_n_feature_three_browse-bin%3A13580803011%7C9647486011&rnid=9647481011&s=pc&sr=1-10&th=1
+
+https://www.amazon.com/HP-Touchscreen-Backlit-Keyboard-Fingerprint/dp/B0979NYPNS/ref=sr_1_12?dchild=1&keywords=windows+10+laptop&qid=1628617460&refinements=p_n_feature_twelve_browse-bin%3A9521908011%2Cp_72%3A1248879011%2Cp_n_feature_twenty-nine_browse-bin%3A23447647011%2Cp_n_feature_five_browse-bin%3A13580788011%2Cp_n_feature_eleven_browse-bin%3A13580795011%7C13580796011%7C9521903011%2Cp_n_feature_three_browse-bin%3A13580803011%7C9647486011&rnid=9647481011&s=pc&sr=1-12
+
+https://overreacted.io/making-setinterval-declarative-with-react-hooks/
+
+poses: https://www.youtube.com/watch?v=g7fIhkFY_jo
+
+credit card fixing
+
+spotify x
+iphone x
+usaa x
+amazon x
+
+debit card fixing
+
+sdsu arc (visa or mastercard only) x
+
+just change everyone's names in friends and journal
+
+db.adminCommand("listDatabases").databases.
+   map(d => d.name).
+   filter(n => ["admin", "config", "local"].indexOf(n) == -1 ).
+   map(n => db.getSiblingDB(n).dropDatabase())
+
+  MongoshInvalidInputError: Cannot pass a function that calls a Mongosh API method as an argument
+
+  mongodb 4.4.1
+  mongo shell 0.4.0 beta
+
+## STACKOVERFLOW INEEDHELPLEARNING2
+
+Just by looking at it, it's because of 2 things.
+
+ 1. Each of those reviews are within a `<Grid>` of attribute `container` when it should be `item`.
+ 2. When specifying the size `xs={12}`, this sizes a component to occupy the whole viewport width regardless of its size. This means the next "item" will move over to the bottom. Try a smaller one or don't put anything at all and let Material UI figure it out for you.
+
+```js
+... beginning of your code
+  {myReviews.map(myReviews => (
+    <Grid item direction="row" spacing={0}> // Changed here!
+      <div className='myReviews' key={myReviews.id}>
+        <Card variant="outlined">
+          ... rest of the inner code here ...
+        </Card>
+      </div>
+    </Grid>
+... ending of your code
+```
+
+Material-UI example code of `<Grid>` using attribute `item`: https://codesandbox.io/s/8zesn?file=/demo.tsx
+
+mkorostoff.github.io/1-pixel-wealth/

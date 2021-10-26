@@ -2,7 +2,7 @@
 
 ```
 Topic:    N/A
-Info:     N/A
+Link:     N/A
 Name:     Kevin Do (Northrop Grumman Intern, PlayStation Intern, and Twitch Software Developer Engineer)
 Time:     N/A
 ```

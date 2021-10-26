@@ -199,7 +199,7 @@ export const useStateWithCallback = (initialState) => {
   - Flex.
 # December 6 2020
 
-- Played Genshin Impact with Xiangling (collecting anemo) and Paimon (Zhongli drop domains).
+- Played Genshin Impact with Nessa (collecting Anemo) and Paimon (Zhongli drop domains).
 - Gym!
   - Flex.
   - Volleyball.
@@ -314,7 +314,7 @@ for (Object result : results) {
 
 # November 22 2020
 
-- Got to have Rail Rail with Rei Ayanami, Taeyang, and female shadow clone.
+- Got to have Rail Rail with Albert, Laiko, and Trishia.
 - Relaxed.
 - Played Raft and oh my gosh haha.
 
@@ -749,7 +749,7 @@ Slowest: Filter, IndexOf
 # October 13 2020
 
 - :)
-- Thank you to female shadow clone, Rei Ayanami, and family.
+- Thank you to Laiko, Trishia, and family.
 - Gym!
   - Volleyball.
 
@@ -877,7 +877,7 @@ sudo chmod -R 755 %TARGET-DIRECTORY%
 
 # September 23 2020
 
-- Handoo BBQ with Taeyang, Jisun, and Scantron.
+- Handoo BBQ with Albert, Laiko, and Scantron.
 
 # September 22 2020
 

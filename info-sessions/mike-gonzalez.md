@@ -2,9 +2,9 @@
 
 ```
 Topic:    N/A
-Info:     N/A
+Link:     N/A
 Name:     Mike Gonzalez (Friend of Keith Harris, 3D artist to Creative Director for Activision/Blizzard)
-Time:     Friday, January 11, 2018
+Time:     2018-01-11
 ```
 
 Notes:

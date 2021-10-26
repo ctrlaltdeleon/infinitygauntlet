@@ -56,6 +56,7 @@
 - lofi playlist (breathing dreams like air, girl in front of sunset/railing): https://www.youtube.com/watch?v=dOFsCX72jyU
 - lofi playlist (i can't sleep, it's 4am, sad guy smoking): https://www.youtube.com/watch?v=NDfF_XwNtIw
 - lofi playlist (guy staring to the right, pink square): https://www.youtube.com/watch?v=xZp7W-VvLlo
+- lofi playlist (newspaper computer, virtual coding): https://www.youtube.com/watch?v=XIJQZ4FZAYE
 - lofi playlist (purple couple, backs to car): https://www.youtube.com/watch?v=NxSDNogkKX0
 - lofi stream (anime girl, tokyo lost tracks)https://www.youtube.com/watch?v=WBfbkPTqUtU
 - lofi xmas (anime town with tree in the middle, seems sketch, but actually really good): https://www.youtube.com/watch?v=VRSfFmZan24
@@ -79,3 +80,8 @@
 ## streaming
 
 - voice ui: https://nerdordie.com/product/voice-ui-alert-sounds/
+
+## tattoo artists
+
+- rockyhowetattoo
+- visualamor

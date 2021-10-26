@@ -80,6 +80,11 @@
 
 - magic the gathering.
 
+## pokemans (jg)
+
+- cheese pizza.
+- strawberry popcorn.
+
 ## rei ayanami (tr)
 
 - capybara.
@@ -92,10 +97,28 @@
 - kpop enthusiast.
 - weight lifter.
 
+## selteric (ws)
+
+- clean.
+- same waifu taste.
+
 ## taeyang (av)
 
 - big bang.
 - twice.
+
+## tryndamere (rb)
+
+- john mayer.
+- tryndamere.
+
+## wsupbitches (md)
+
+- adc main.
+
+## xeiyon (bm)
+
+- ahri.
 
 ## xiangling (nc)
 

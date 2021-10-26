@@ -2,8 +2,8 @@
 
 ```
 Topic:    Blizzcon Codecraft
-Info:     https://www.youtube.com/watch?v=BbHyqN6ZJ-0
-Name:     Diana (One of the speakers), Brandon (One of the Overwatch League Software Engineers), Trishia (One of the Overwatch League Software Engineers) (tshi@blizzard.com)
+Link:     https://www.youtube.com/watch?v=BbHyqN6ZJ-0
+Name:     Diana (One of the speakers), Brandon (One of the Overwatch League Software Engineers), Tricia (One of the Overwatch League Software Engineers) (tshi@blizzard.com)
 Time:     2018-11-03
 ```
 

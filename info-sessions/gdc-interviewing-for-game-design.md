@@ -2,7 +2,7 @@
 
 ```
 Topic:    Interviewing for Game Design
-Info:     https://www.youtube.com/watch?v=uUQKbowVsIE
+Link:     https://www.youtube.com/watch?v=uUQKbowVsIE
 Name:     Richard Carrillo (Ubisoft Game Designer)
 Time:     2017
 ```
