@@ -177,3 +177,12 @@ Just by looking at it, it's because of 2 things.
 Material-UI example code of `<Grid>` using attribute `item`: https://codesandbox.io/s/8zesn?file=/demo.tsx
 
 mkorostoff.github.io/1-pixel-wealth/
+
+```js
+const endtime = useSelector(selectEndTime);
+const [endtime, setEndtime] = useState(endtime)
+
+dispatch are sets
+selector are gets
+reducers are variable
+```
