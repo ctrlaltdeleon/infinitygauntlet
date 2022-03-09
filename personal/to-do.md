@@ -190,3 +190,8 @@ reducers are variable
 https://www.youtube.com/watch?v=2uRebmgB31A
 
 interviewing.io
+
+salary expectations? don't give them the number
+what's the compensation band for this position?
+can we revisit this later?
+"that's a good start!"
