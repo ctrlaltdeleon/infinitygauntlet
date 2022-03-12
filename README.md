@@ -1,11 +1,8 @@
-<!-- HEADING -->
+<!-- heading -->
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/10361542/71635438-7e97da00-2bd9-11ea-9940-8a42bd798a00.png" width="60">
-</p>
 <h1 align="center">️infinitygauntlet</h1>
 
-<!-- DESCRIPTION -->
+<!-- description -->
 
 <h3 align="center">
   <span role="img" aria-label="Milky Way">🌌</span>
@@ -15,7 +12,7 @@
   Books, coding jit jots, information sessions, music playlists, and more.
 </p>
 
-<!-- BADGES -->
+<!-- badges -->
 
 <p align="center">
     <a href="https://github.com/acfromspace/infinitygauntlet/blob/master/LICENSE">
@@ -25,7 +22,7 @@
         <img src="https://www.repostatus.org/badges/latest/active.svg" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." /></a>
 </p>
 
-<!-- FEATURES -->
+<!-- features -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/10361542/71680303-8f159500-2d3e-11ea-8367-fef5bfc3e484.gif">
@@ -33,9 +30,9 @@
 
 [_infinitygauntlet_](https://acfromspace.gitbook.io/infinitygauntlet/) is a repository with the following features:
 
-- **Memes.** Usually wholesome, hidden away in secret aways.
-- **Diversity.** I give everything a chance and share my learnings with everyone.
-- **Aesthetic.** I just like the way the things look and this is heavily influence by retro, vaporwave, and lo-fi.
+- **Memes.** Wholesome.
+- **Aesthetic.** Heavy influence by lo-fi, minimal, retro, and vaporwave.
+- **Diversity.** Give everything a chance and share learnings with everyone.
 
 ## <span role="img" aria-label="Musical Note">🎵</span> Music I zone to!
 
@@ -45,13 +42,13 @@
 
 - [I made a website with those playlists, curated from Soundcloud, Spotify, and YouTube.](https://mindstone.netlify.com/)
 
-<!-- WHAT'S INSIDE? -->
+<!-- what's inside -->
 
 ## <span role="img" aria-label="Thinking Face">🤔</span> What's inside?
 
-【﻿ Ｃｏｎｓｔａｎｔ　ｕｐｄａｔｅｄ　ｒｅｆｉｎｅｄ　ｃｈａｏｓ！】 (ピザが大好き)
+【﻿ ｃｏｎｓｔａｎｔ　ｕｐｄａｔｅｄ　ｒｅｆｉｎｅｄ　ｃｈａｏｓ！】 (ピザが大好き)
 
-<!-- LICENSE -->
+<!-- license -->
 
 ## <span role="img" aria-label="Oncoming Police Car">🚔</span> [License](https://github.com/acfromspace/infinitygauntlet/blob/master/LICENSE)
 

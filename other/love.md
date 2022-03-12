@@ -37,9 +37,11 @@ If you need ideas for adventures.
 - 7 Leaves (Orange County).
   - Boba, flexible hours.
 - Addison (San Diego).
-  - The only michelin star in San Diego.
+  - Michelin star.
 - Breakfast Republic (San Diego).
   - Brunch.
+- Menya Ultra (San Diego).
+  - Ramen, limited time hours.
 - Omomo (Orange County).
   - Boba, artisan drinks.
 - Sidecar (San Diego).

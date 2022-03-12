@@ -83,3 +83,11 @@ If you must break the lease, what are the consequences/options?
 What's the average rental time for apartments in the building? If people aren't staying long, it's a bad sign.
 
 Try to get a look at as many different options in the area as possible so you can see if what they're offering is competitively priced for the size/type of unit you're seeking.
+
+consider these utilities
+
+water (cold vs hot)
+electric
+parking spot
+gas
+trash
