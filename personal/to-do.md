@@ -187,6 +187,10 @@ selector are gets
 reducers are variable
 ```
 
+neiman marcus bath towels soft
+
+https://resume.creddle.io/resume/ayjgtizt9n7
+
 https://www.youtube.com/watch?v=2uRebmgB31A
 
 interviewing.io
