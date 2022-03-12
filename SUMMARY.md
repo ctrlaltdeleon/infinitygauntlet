@@ -1,4 +1,4 @@
-# Summary
+# SUMMARY
 
 - [README.md](README.md)
 - [Algorithms](algorithms/README.md)

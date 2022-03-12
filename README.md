@@ -1,18 +1,18 @@
-<!-- heading -->
+<!-- HEADING -->
 
 <h1 align="center">️infinitygauntlet</h1>
 
-<!-- description -->
+<!-- DESCRIPTION -->
 
 <h3 align="center">
   <span role="img" aria-label="Milky Way">🌌</span>
 </h3>
 <p align="center">
-  <strong>Personal weapon that contains my workflow.</strong><br>
-  Books, coding jit jots, information sessions, music playlists, and more.
+  <strong>Holder of information.</strong><br>
+  Mind, power, reality, soul, space, and time.
 </p>
 
-<!-- badges -->
+<!-- BADGES -->
 
 <p align="center">
     <a href="https://github.com/acfromspace/infinitygauntlet/blob/master/LICENSE">
@@ -22,7 +22,7 @@
         <img src="https://www.repostatus.org/badges/latest/active.svg" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." /></a>
 </p>
 
-<!-- features -->
+<!-- FEATURES -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/10361542/71680303-8f159500-2d3e-11ea-8367-fef5bfc3e484.gif">
@@ -40,15 +40,15 @@
   <img src="https://user-images.githubusercontent.com/10361542/71680323-9dfc4780-2d3e-11ea-9f24-94ad303d521c.gif">
 </p>
 
-- [I made a website with those playlists, curated from Soundcloud, Spotify, and YouTube.](https://mindstone.netlify.com/)
+- [Made a website with those playlists, curated from Soundcloud, Spotify, and YouTube.](https://mindstone.netlify.com/)
 
-<!-- what's inside -->
+<!-- WHAT'S INSIDE -->
 
 ## <span role="img" aria-label="Thinking Face">🤔</span> What's inside?
 
 【﻿ ｃｏｎｓｔａｎｔ　ｕｐｄａｔｅｄ　ｒｅｆｉｎｅｄ　ｃｈａｏｓ！】 (ピザが大好き)
 
-<!-- license -->
+<!-- LICENSE -->
 
 ## <span role="img" aria-label="Oncoming Police Car">🚔</span> [License](https://github.com/acfromspace/infinitygauntlet/blob/master/LICENSE)
 
