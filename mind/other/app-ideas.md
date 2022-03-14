@@ -1,4 +1,4 @@
-# APP IDEAS
+# App Ideas
 
 - Calculator.
   - Everyone's order at original price.

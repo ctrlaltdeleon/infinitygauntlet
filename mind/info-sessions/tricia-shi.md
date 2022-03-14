@@ -1,4 +1,4 @@
-# TRICIA SHI INFO SESSION
+# Tricia Shi
 
 ```
 Topic:    N/A

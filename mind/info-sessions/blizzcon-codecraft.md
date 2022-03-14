@@ -1,4 +1,4 @@
-# BLIZZCON CODECRAFT
+# Blizzcon Codecraft
 
 ```
 Topic:    Blizzcon Codecraft

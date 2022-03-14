@@ -6,7 +6,7 @@
 
 ## 1: Introduction
 
-- This is a simple guide on how to search advantageously when using Google.
+- A guide on how to search advantageously when using Google.
 
 ## 2: Shortcuts
 

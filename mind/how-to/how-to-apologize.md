@@ -1,18 +1,17 @@
-# HOW TO APOLOGIZE
+# How to Apologize
 
-Last updated: 2021-09-08
+Last updated: 2022-03-13
 
 ## Chapters
 
 1. Introduction
 2. Instructions
-3. Tips
-4. Conclusion
+3. Conclusion
    1. My Take
 
 ## 1: Introduction
 
-- This is a simple guide of how to apologize.
+- A guide of how to apologize.
 
 ## 2: Instructions
 
@@ -29,21 +28,10 @@ Last updated: 2021-09-08
 - Optional (depends on timing). Ask if they'll forgive you.
   - "I hope you can forgive me, and again, I'm sorry."
 
-## 3: Tips
-
-- Changed behavior is the best apology.
-- Core concepts to apologizing is "LUV".
-  - Listen.
-  - Understand.
-  - Validate.
-- Don't be defensive.
-  - It's understandable it wasn't your intention, but what you did still went into effect.
-  - I could accidentally slice someone's arm off, but the fact is, I did.
-
 ## 4: Conclusion
 
 - Thank you.
 
 ## 4.1: My Take
 
-- I would for giving time to let people recover, but still let them know right away you're sorry.
+- Give people space, but be clear in your intention.

@@ -1,7 +1,11 @@
-# HOW TO GLASSES
+# How to Glasses
+
+Last updated: 2022-03-13
+
+## Chapters
 
 1. Introduction
-2. What things to consider?
+2. What Things to Consider?
 3. Frames
 4. Lenses
    1. Usage
@@ -13,10 +17,10 @@
 
 ## 1: Introduction
 
-- This is a simple guide of how to choose glasses.
+- A guide of how to glasses.
 - I recommend `eyebuydirect` to purchase said glasses, to get $10 off your purchase use my referral code, `IF8256FGN3`!
 
-## 2: What things to consider?
+## 2: What Things to Consider?
 
 - How long ago was your eye exam?
   - If you're in this age:
@@ -34,7 +38,7 @@
 
 ## 3: Frames
 
-- ???
+- Frames can take many shapes, rectangular, oval, and more.
 
 ## 4: Lenses
 

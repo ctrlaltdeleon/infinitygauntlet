@@ -1,4 +1,4 @@
-# SF Game Development Community Twitch HQ
+# SFGDC Twitch HQ
 
 ```
 Topic:    SF Game Development Community Twitch HQ

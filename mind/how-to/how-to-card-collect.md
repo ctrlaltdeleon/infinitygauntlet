@@ -1,4 +1,4 @@
-# HOW TO CARD COLLECT 
+# How to Card Collect
 
 Last updated: 2021-09-10
 
@@ -7,13 +7,13 @@ Last updated: 2021-09-10
 1. Introduction
 2. Sleeving
    1. Magic the Gathering (MTG)/Pokemon
-   2. Yu-gi-oh
+   2. Yu-Gi-Oh
 3. Conclusion
    1. My Take
 
 ## 1: Introduction
 
-- This is a simple guide of how to card collect.
+- A guide of how to card collect.
 
 ## 2: Sleeving
 
@@ -30,7 +30,7 @@ Last updated: 2021-09-10
   - KMC Standard Perfects.
   - Dragon Shields.
 
-## 2.2: Yu-gi-oh
+## 2.2: Yu-Gi-Oh
 
 - Single sleeving?
   - Dragon Shield.

@@ -1,6 +1,6 @@
-# HOW TO TEMPLATE
+# How to Template
 
-Last updated: 2021-04-20
+Last updated: 2022-03-13
 
 ## Chapters
 
@@ -12,16 +12,17 @@ Last updated: 2021-04-20
 
 ## 1: Introduction
 
-- This is a simple guide of...
+- A guide of how to template.
+- You may want to use these tools before starting...
 
 ## 2: Instructions
 
 - What are you looking for?
-  - Are you looking for so-so, then think about this.
+  - Are you looking for so-so, then think about this...
 
 ## 2.1: Stuff
 
-- ???
+- For this category, you may want to consider...
 
 ## 3: Conclusion
 
@@ -29,4 +30,5 @@ Last updated: 2021-04-20
 
 ## 3.1: My Take
 
-- I would go for...
+- I like doing this, but not everyone has to...
+  - Every section doesn't need an explanation if there are sub-sections.

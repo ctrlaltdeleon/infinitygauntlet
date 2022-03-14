@@ -1,40 +1,51 @@
-# HOW TO COOK STEAK
+# How to Cook Steak
 
-Last updated: 2021-04-20
+Last updated: 2022-03-13
 
 ## Chapters
 
 1. Introduction
-2. Preparation
-3. Cooking
-4. Conclusion
+2. Ingredients
+3. Preparation
+4. Cooking
+5. Conclusion
    1. My Take
 
 ## 1: Introduction
 
-- This is a simple guide of how to cook steak.
+- A guide of how to cook steak.
 
-## 2: Preparation
+## 2: Ingredients
 
-- 1 New York cut steak.
-  - Let this defrost and absorb moisture with paper towel.
-    - Avoids sparkling oil when cooking.
-  - Apply seasoning (Salt & Pepper).
-  - Apply light oil onto the steak.
-    - Efficient use of oil rather than on pan.
-- Rosemary.
-- Thyme.
-- Butter.
+1. Butter.
+2. Salt.
+3. Steak.
+4. Pepper.
+5. Rosemary.
+6. Thyme.
 
-## 3: Cooking
+## 3: Preparation
 
-1. Put pan to medium heat.
-2. 
+1. Salt and pepper the steak.
 
-## 3: Conclusion
+## 4: Cooking
+
+1. Put pan to medium-high heat.
+2. Oil up the pan.
+3. Add steak.
+4. Add Rosemary.
+5. Add Thyme.
+6. Cook for 8 minutes on 1 side for medium-rare.
+7. Flip.
+8. Add butter.
+9. Cook for 8 minutes and baste the steak with the butter.
+10. Serve.
+
+## 5: Conclusion
 
 - Thank you.
 
-## 3.1: My Take
+## 5.1: My Take
 
-- I would go for...
+- N/A
+

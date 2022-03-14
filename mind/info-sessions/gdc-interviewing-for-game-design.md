@@ -1,4 +1,4 @@
-# GDC INTERVIEWING FOR GAME DESIGN
+# GDC Interviewing for Game Design
 
 ```
 Topic:    Interviewing for Game Design

@@ -1,4 +1,6 @@
-# HOW TO SKIN CARE
+# How to Skin Care
+
+Last updated: 2022-03-13
 
 1. Introduction
 2. Figuring Out Your Skin Type
@@ -25,11 +27,11 @@
    1. Where to Start
    2. Adding New Products
 9. Conclusion
+   1. My Take
 
 ## 1: Introduction
 
-- Having a core routine provides your skin with all the necessary steps to keep it clean, healthy, and protected.
-- Whether you’re looking for a minimalist routine or an extensive routine, this is the place to start!
+- A guide of how to skin care.
 
 ## 2: Understanding Your Skin Type
 
@@ -93,44 +95,109 @@
 
 ## 3: Skin Proclivities
 
-- Skin proclivities are different from skin type in that they’re things your skin is prone to, rather than a fundamental state of being.
-- There are 3 types of skin proclivities:
-  - Sensitivity
-  - Pigmentation
-  - Wrinkles
-- AC*** REMEMBER TO DO THIS:
-  - https://www.reddit.com/r/SkincareAddiction/wiki/sca_routine
+- What your skin is prone to.
 
 ## 3.1: Sensitivity
 
 - What is it?
+  - When the skin is more prone to irritation or inflammation from alcochol, fragrance, pH levels, etc.
 - How can you tell if you have it?
+  - Redness, stinging, small painless bumps, discomfort to touch, allergies.
 - What should you do about it?
+  - Variable depending on problem, but all leads to changing a product or using a new product.
 
 ## 3.2: Pigmentation
 
 - What is it?
+  - When the skin is more prone to produce melanin.
 - How can you tell if you have it?
+  - Darker skin or tan easily.
 - What should you do about it?
+  - Sunscreen.
 
 ## 3.3: Wrinkles
 
 - What is it?
+  - When the skin is more prone to develop fine lines and wrinkles.
 - How can you tell if you have it?
+  - Lighter skin usually.
 - What should you do about it?
+  - Sunscreen.
+  - Collagen products.
+  - Avoid the sun altogether!
 
 ## 4: Skin Conditions
+
+- These are curable, temporary states that are currently affecting your skin.
 
 ## 4.1: Dehydration
 
 - What is it?
+  - When the skin is low on ceramides, cholesterol, and fatty acids.
 - How can you tell if you have it?
+  - Dry, flaky, sensitive, prone to breakouts.
 - What should you do about it?
+  - Reduce pH, less exfoliation, less sun, moisturizer, water-based toner/serum.
 
 ## 4.2: Acne
 
 - What is it?
+  - When the skin is high on oils, dead skin cells, and bacteria.
 - How can you tell if you have it?
+  - Oh you'll know.
 - What should you do about it?
+  - Stop touching it, put a cover over it to prevent touching.
 
 ## 5: Having the Right Mindset
+
+- There are no miracle products or brands.
+- Everyone is different.
+- Realistic expectations.
+
+## 6: Create a Reasonable Budget
+
+- This isn't a one-time expense, it becomes a spending habit.
+
+## 7: Components to the Routine
+
+## 7.1: Cleanser
+
+- Cleans off sweat, oil, bacteria, and dirt.
+
+## 7.2: Toner
+
+- Balances the pH levels on your skin.
+
+## 7.3: Moisturizer
+
+- Nourishes the skin and improves the skin's barrier.
+
+## 7.4: Sunscreen
+
+- Prevents skin cancer, fine lines, and hyperpigmentation.
+
+## 8: Starting the Routine
+
+## 8.1: Where to Start
+
+- Start with a cleanser, moisturizer, and sunscreen.
+- Switch these out as reasonable to figure out what you like.
+
+## 8.2: Adding New Products
+
+- Go 1 product at a time for a week to test what happens to your skin and address accordingly.
+
+## 9: Conclusion
+
+- Thank you.
+
+## 9.1: My Take
+
+- The products I use are:
+  - Cerave Hydrating Face Wash. (Cleanser)
+  - Stridex Saliclic Acid Pads. (Acne)
+  - The Ordinary Niacinamide 10% + Zinc 1% Oil Control Serum. (Brightens)
+  - Hadalabo Gokujun Hyaluronic Lotion Moist. (Toner)
+  - Aveeno Skin Relief Moisturizing. (Moisturizer)
+  - Medicine. (Eczema)
+  - APIEU Pure SPF45/PA+++. (Sunscreen)

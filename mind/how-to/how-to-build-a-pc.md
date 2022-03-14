@@ -1,4 +1,4 @@
-# HOW TO BUILD A PC
+# How to Build a PC
 
 Last updated: 2021-09-08
 
@@ -26,7 +26,7 @@ Last updated: 2021-09-08
 
 ## 1: Introduction
 
-- This is a simple guide of how to build a PC.
+- A guide of how to build a PC.
 - I highly recommend using `pcpartpicker.com` for reference.
   - Make sure the parts your pick are compatible with each other!
 - Always consider your budget.
@@ -262,8 +262,8 @@ Last updated: 2021-09-08
 
 - Thank you.
 
-## 12: My Take
+## 12.1: My Take
 
 - I would go for case first since I'm a minimal person.
-  - Currently have NZXT H1.
-  - RGB is pretty, but matching aesthetics is my cup of tea.
+- Currently have NZXT H1.
+- RGB is pretty, but matching aesthetics is my cup of tea.

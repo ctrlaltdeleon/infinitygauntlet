@@ -1,4 +1,4 @@
-# 250 GOOGLE INTERVIEWS
+# 250 Google Interviews
 
 ```
 Topic:    What I Learned Doing 250 Interviews at Google

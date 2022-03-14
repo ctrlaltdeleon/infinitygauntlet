@@ -1,4 +1,4 @@
-# HOW TO CLEAN A DESKMAT
+# How to Clean a Deskmat
 
 Last updated: 2021-09-09
 
@@ -11,21 +11,20 @@ Last updated: 2021-09-09
 
 ## 1: Introduction
 
-- This is a simple guide of how to clean a deskmat.
+- A guide of how to clean a deskmat.
 
 ## 2: Instructions
 
-1. Put deskmat in bathtub.
-   1. Grippy side on the bottom.
-2. Pour some water on the deskmat.
-   1. Have the deskmat semi-submerged.
-3. Put detergent on the top of the deskmat.
-4.  Use a soft sponge on the deskmat.
-   1. Use a circular motion.
-   2. Get all sections.
-5. Wash away with water.
-6. Dry with towel.
-7. Done!
+- Put deskmat in bathtub.
+   - Grippy side on the bottom.
+- Pour some water on the deskmat.
+   - Have the deskmat semi-submerged.
+- Put detergent on the top of the deskmat.
+- Use a soft sponge on the deskmat.
+  - Use a circular motion.
+- Wash away with water.
+- Dry with towel.
+- Done!
 
 ## 3: Conclusion
 

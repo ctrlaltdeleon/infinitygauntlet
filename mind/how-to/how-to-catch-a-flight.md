@@ -1,44 +1,63 @@
-# HOW TO CATCH A FLIGHT
+# How to Catch a Flight
 
-Last updated: 2021-09-09
+Last updated: 2022-03-13
 
 ## Chapters
 
 1. Introduction
-2. Before you leave
-3. Booking your flight
-4. Catching your flight
-   1. Finding your terminal
-   2. Printing your boarding pass
+2. Before You Leave
+3. Booking Your Flight
+4. Catching Your Flight
+   1. Finding Your Terminal
+   2. Printing Your Boarding Pass
    3. TSA
-   4. Arriving at your gate
+   4. Arriving at Your Gate
    5. Landing
 5. Conclusion
+   1. My Take
 
 ## 1: Introduction
 
-- This is a simple guide of the intricacies of the process of catching a flight.
+- A guide of how to catch a flight.
 
-## 2: Before you leave
+## 2: Before You Leave
 
 - Where are you going?
 - When are you leaving?
 - How long will you be gone for?
 
-## 3: Booking your flight
+## 3: Booking Your Flight
 
 - Booking online, most notably Google Flights, is the most easiest.
   - Compares a great amount.
   - Note that some airlines do not exist on Google Flights.
 
-## 4: Catching your flight
+## 4: Catching Your Flight
 
 - Depending on airport, these steps may be different.
-- Arrive at the correct terminal depending on which flight you're on.
+
+## 4.1: Finding Your Terminal
+
+- Terminals have different airlines, so make sure to read the signs on the way there.
+
+## 4.2: Printing Your Boarding Pass
+
 - Seek a boarding pass machine in order to print your boarding pass.
+- Have the boarding pass and your ID ready for TSA.
 
-## 4.1: Finding your terminal
+## 4.3: TSA
 
-## 4: Conclusion
+- Be prepared to remove your electronics from bag, metals on you, and shoes.
+
+## 4.4: Arriving at Your Gate
+
+- Gates usually have a letter and number associated with it.
+  - A-1 for example.
+
+## 5: Conclusion
 
 - Thank you.
+
+## 5.1: My Take
+
+- N/A

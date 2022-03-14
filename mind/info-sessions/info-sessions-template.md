@@ -1,4 +1,4 @@
-# INFO SESSIONS TEMPLATE
+# Info Sessions Template
 
 ```
 Topic:    How to Make Great Ramen

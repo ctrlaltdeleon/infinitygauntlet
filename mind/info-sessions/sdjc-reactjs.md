@@ -1,4 +1,4 @@
-# SAN DIEGO JAVASCRIPT COMMUNITY: REACTJS
+# SDJC ReactJS
 
 ```
 Topic:    San Diego JavaScript Community: ReactJS Monthly Meetup @ Amazon

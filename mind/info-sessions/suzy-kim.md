@@ -1,4 +1,4 @@
-# SUZY KIM INFO SESSION
+# Suzy Kim
 
 ```
 Topic:    N/A

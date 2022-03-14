@@ -1,4 +1,4 @@
-# MIKE INFO SESSION
+# Mike Gonzalez
 
 ```
 Topic:    N/A

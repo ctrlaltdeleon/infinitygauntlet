@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
-const settings = require("./settings.json.js"); // ./ = current directory
+const settings = require("./settings.json.js.js"); // ./ = current directory
 
 client.on("ready", () => {
   console.log(`Logged in as ${client.user.tag}!`);

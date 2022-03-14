@@ -1,4 +1,4 @@
-# KEVIN DO INFO SESSION
+# Kevin Do
 
 ```
 Topic:    N/A

@@ -1,4 +1,4 @@
-# KEITH INFO SESSION
+# Keith Harris
 
 ```
 Topic:    N/A
