@@ -1,6 +1,4 @@
-# GOOGLE SCRIPT COUNT COLOR
-
-Called `COUNTCOLOR.gs` in my project hub.
+# Google Script Count Color
 
 ```cs
 /**

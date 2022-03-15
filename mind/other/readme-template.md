@@ -1,8 +1,5 @@
 <!-- HEADING -->
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/10361542/71635438-7e97da00-2bd9-11ea-9940-8a42bd798a00.png" width="60">
-</p>
 <h1 align="center">️TITLE OF THE REPO</h1>
 
 <!-- DESCRIPTION -->

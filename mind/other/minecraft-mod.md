@@ -1,4 +1,4 @@
-# HOW TO MINECRAFT MOD
+# Minecraft Mod
 
 ## Tutorial (Windows)
 
@@ -20,7 +20,3 @@
   - Optimizes Minecraft.
 - Xaero's World Map!
   - Press `M` to display the world map.
-
-# Conclusion
-
-- Thank you.

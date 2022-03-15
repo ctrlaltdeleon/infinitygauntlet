@@ -1,4 +1,4 @@
-# WIFI PASSWORDS
+# Wifi Passwords
 
 - Arlynn: `grandflower095`
 - Tea N More: `gentletrumpet757`
