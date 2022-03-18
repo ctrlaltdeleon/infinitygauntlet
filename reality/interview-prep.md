@@ -1,4 +1,4 @@
-# PERSONAL INTERVIEW TEMPLATE
+# Interview Prep
 
 ## Essential
 
