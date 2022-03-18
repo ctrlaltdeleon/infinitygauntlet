@@ -1,13 +1,8 @@
 """
-@author: acfromspace
-"""
-
-"""
 Notes:
 
 Given two arrays, write a function to compute their intersection.
 """
-
 
 class Solution:
     def intersect(self, nums1: [int], nums2: [int]) -> [int]:
@@ -25,7 +20,6 @@ class Solution:
                 small.remove(index)
         return solution
 
-
 test = Solution()
 nums1 = [4, 9, 5]
 nums2 = [5, 9, 4, 9, 8, 4]
@@ -35,7 +29,31 @@ nums2 = [1, 1]
 print("intersect():", test.intersect(nums1, nums2))
 
 """
-Time complexity: O(n). We traverse the list containing "n" elements only once.
+big: [5, 9, 4, 9, 8, 4]
+index: 5
+small: [4, 9, 5]
+big: [5, 9, 4, 9, 8, 4]
+index: 9
+small: [4, 9]
+big: [5, 9, 4, 9, 8, 4]
+index: 4
+small: [4]
+big: [5, 9, 4, 9, 8, 4]
+index: 9
+big: [5, 9, 4, 9, 8, 4]
+index: 8
+big: [5, 9, 4, 9, 8, 4]
+index: 4
+intersect(): [5, 9, 4]
+big: [2, 1]
+index: 2
+big: [2, 1]
+index: 1
+small: [1, 1]
+intersect(): [1]
+"""
 
+"""
+Time complexity: O(n). We traverse the list containing "n" elements only once.
 Space complexity: O(n). To allocate the `solution` data structure.
 """

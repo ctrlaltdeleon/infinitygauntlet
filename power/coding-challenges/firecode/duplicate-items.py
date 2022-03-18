@@ -1,8 +1,3 @@
-"""
-@author: acfromspace
-"""
-
-
 def duplicate_items(list_numbers):
     duplicates = []
     list_numbers.sort()
@@ -13,12 +8,14 @@ def duplicate_items(list_numbers):
     # This cuts down unnecessary truths.
     return list(set(duplicates))
 
-
 list_numbers = [1, 2, 3, 2, 4, 5, 1, 2]
 print("duplicate_items():", duplicate_items(list_numbers))
 
 """
-Pythonic solution:
+duplicate_items(): [1, 2]
+"""
+
+"""
 def duplicate_items(list_numbers):
     set_list = set(list_numbers)
     return [i for i in set_list if list_numbers.count(i)>1]

@@ -68,7 +68,7 @@ Last updated: 2022-03-13
   - CYL.
     - Cylinder.
   - Axis.
-    - Measured between 1° and 180° to tell orientation of the 
+    - Measured between 1° and 180° to tell orientation of the
 
 ## 4.3: Color Type
 

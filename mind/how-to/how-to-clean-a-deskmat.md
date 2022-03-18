@@ -16,9 +16,9 @@ Last updated: 2021-09-09
 ## 2: Instructions
 
 - Put deskmat in bathtub.
-   - Grippy side on the bottom.
+  - Grippy side on the bottom.
 - Pour some water on the deskmat.
-   - Have the deskmat semi-submerged.
+  - Have the deskmat semi-submerged.
 - Put detergent on the top of the deskmat.
 - Use a soft sponge on the deskmat.
   - Use a circular motion.

@@ -21,6 +21,7 @@ class Song
         return songCount;
     }
 }
+
 class Driver
 {
     static void Main(string[] args)
@@ -37,4 +38,3 @@ class Driver
         Console.ReadLine();
     }
 }
-

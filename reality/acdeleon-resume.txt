@@ -24,7 +24,7 @@ Tools: Visual Studio Code, Git, Photoshop, Illustrator, Lightroom, Premiere
 EXPERIENCE
 
 Aztec Game Lab · San Diego, CA 2017 - 2018 
-Front-End Developer 
+Front-end Developer 
 https://github.com/AztecGameLab 
 (ReactJS + Node.js + Redux + Firebase + Firestore + Unity + Unreal)
 

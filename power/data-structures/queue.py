@@ -1,8 +1,3 @@
-"""
-@author: acfromspace
-"""
-
-
 class Queue:
     def __init__(self):
         self.items = []
@@ -23,7 +18,6 @@ class Queue:
     def showcase(self):
         return print("showcase():", self.items)
 
-
 queue = Queue()
 queue.is_empty()
 queue.showcase()
@@ -39,8 +33,6 @@ queue.dequeue()
 queue.showcase()
 
 """
-Output:
-
 is_empty(): True
 showcase(): []
 enqueue(): hello

@@ -1,4 +1,4 @@
-# CRACKING THE CODING INTERVIEW
+# Cracking The Coding Interview
 
 ## 1: The Interview Process
 

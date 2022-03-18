@@ -1,9 +1,4 @@
-"""
-@author: acfromspace
-"""
-
 if __name__ == "__main__":
-
     test_cases = int(input("Number of test cases: "))
     for counter in range(test_cases):
         even, odd = "", ""
@@ -15,10 +10,18 @@ if __name__ == "__main__":
                 odd += value
         print(even, odd)
 
+"""
+Number of test cases: 3
+Input the string to divide even and odd indexes by: hello
+hlo el
+Input the string to divide even and odd indexes by: ababab
+aaa bbb
+Input the string to divide even and odd indexes by: aaabbb
+aab abb
+"""
 
 """
-Pythonic solution:
-    for i in range(int(input())): s=input(); print(*["".join(s[::2]),"".join(s[1::2])])
+for i in range(int(input())): s=input(); print(*["".join(s[::2]),"".join(s[1::2])])
 
 To elaborate, print(even, odd):
 Join to empty string every even number starting with 0.

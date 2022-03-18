@@ -1,6 +1,3 @@
-"""
-@author: acfromspace
-"""
 
 
 def isPrime(number):

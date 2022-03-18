@@ -74,7 +74,7 @@
       // Array.prototype.filter()
       // 1. Filter the list of inventors for those who were born in the 1500's
       const fifteen = inventors.filter(
-        inventor => inventor.year >= 1500 && inventor.year < 1600,
+        (inventor) => inventor.year >= 1500 && inventor.year < 1600
       );
 
       console.table(fifteen);
@@ -82,7 +82,7 @@
       // Array.prototype.map()
       // 2. Give us an array of the inventor first and last names
       const fullNames = inventors.map(
-        inventor => `${inventor.first} ${inventor.last}`,
+        (inventor) => `${inventor.first} ${inventor.last}`
       );
       console.log(fullNames);
 
@@ -108,7 +108,7 @@
       console.log(totalYears);
 
       // 5. Sort the inventors by years lived
-      const oldest = inventors.sort(function(a, b) {
+      const oldest = inventors.sort(function (a, b) {
         const lastInventor = a.passed - a.year;
         const nextInventor = b.passed - b.year;
         return lastInventor > nextInventor ? -1 : 1;
@@ -153,7 +153,7 @@
         "pogostick",
       ];
 
-      const transportation = data.reduce(function(obj, item) {
+      const transportation = data.reduce(function (obj, item) {
         if (!obj[item]) {
           obj[item] = 0;
         }

@@ -1,13 +1,4 @@
 /*
-@author: acfromspace
-*/
-
-#include <iostream>
-#include <iomanip>
-
-using namespace std;
-
-/*
 DESCRIPTION:
 
 Write a program to count each occurrence of each letter and number in a string.
@@ -23,6 +14,11 @@ cin.getline(msg, MAX);
 Then, using FUNCTION, count and display the number of times each letter and number appear.
 You may wish to consult an ASCII chart to help you out.
 */
+
+#include <iostream>
+#include <iomanip>
+
+using namespace std;
 
 // Global.
     const int MSG_MAX = 120;

@@ -6,7 +6,7 @@ Link:     https://www.youtube.com/watch?v=uUQKbowVsIE
 Name:     Richard Carrillo (Ubisoft Game Designer)
 Time:     2017
 ```
-   
+
 Notes:
 
 - Standard Protocol.

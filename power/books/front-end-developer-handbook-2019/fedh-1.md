@@ -1,4 +1,4 @@
-# FRONT-END DEVELOPER HANDBOOK 2019
+# Front-end Developer Handbook 2019
 
 ## 1: What Is a Front-end Developer?
 

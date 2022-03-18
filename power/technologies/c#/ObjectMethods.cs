@@ -22,6 +22,7 @@ class Student
         return false;
     }
 }
+
 class Driver
 {
     static void Main(string[] args)
@@ -33,4 +34,3 @@ class Driver
         Console.ReadLine();
     }
 }
-

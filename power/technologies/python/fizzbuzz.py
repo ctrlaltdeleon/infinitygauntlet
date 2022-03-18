@@ -1,6 +1,3 @@
-"""
-@author: acfromspace
-"""
 
 
 class FizzBuzz:

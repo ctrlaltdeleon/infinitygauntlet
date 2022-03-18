@@ -3,7 +3,7 @@
 ## Essential
 
 - COMPANY NAME:
-- JOB TITLE: Software Engineer/Front-End Developer
+- JOB TITLE: Software Engineer/Front-end Developer
 - INTERVIEWER NAME:
 - INTERVIEWER JOB TITLE:
 

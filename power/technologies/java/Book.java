@@ -1,9 +1,3 @@
-/**
-
-* A class to represent a single Book
-
-*/
-
 public class Book {
 
     private String title;
@@ -13,8 +7,7 @@ public class Book {
     public Book(String title, double price) {
 
         this.title = title;
-
-                this.price = price;
+        this.price = price;
 
     }
 
@@ -47,8 +40,6 @@ public class Book {
     public String toString() {
 
         return title + " ($" + price + ")";
-
-       
 
     }
 

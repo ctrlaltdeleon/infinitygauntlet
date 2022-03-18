@@ -1,17 +1,16 @@
-"""
-@author: acfromspace
-"""
-
-
 def dec_to_bin(number):
     if number < 2:
         return str(number)
     else:
         return dec_to_bin(number // 2) + dec_to_bin(number % 2)
 
-
 number = int(input("Input a decimal number: "))
 print("dec_to_bin():", dec_to_bin(number))
+
+"""
+Input a decimal number: 21
+dec_to_bin(): 10101
+"""
 
 """
 INPUT:

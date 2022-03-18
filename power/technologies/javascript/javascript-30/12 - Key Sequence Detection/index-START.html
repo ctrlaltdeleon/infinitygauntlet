@@ -23,7 +23,7 @@
     <script>
       const pressed = [];
       const secretCode = "uwu";
-      window.addEventListener("keyup", e => {
+      window.addEventListener("keyup", (e) => {
         // Whichever key is pressed is pushed into the array
         pressed.push(e.key);
         // The splice() method changes the contents of an array by removing existing elements and/or adding new elements
@@ -32,7 +32,7 @@
           // -5 - 1 = -6
           -secretCode.length - 1,
           // n - 5 = what is inserted
-          pressed.length - secretCode.length,
+          pressed.length - secretCode.length
         );
         console.log(pressed);
         // pressed.join("") === secretCode does work, but what if the user goes overboard?

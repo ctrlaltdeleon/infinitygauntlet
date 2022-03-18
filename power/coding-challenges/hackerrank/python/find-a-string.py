@@ -1,8 +1,3 @@
-"""
-@author: acfromspace
-"""
-
-
 def count_substring(string, sub_string):
     count = 0
     for index in range(len(string)):
@@ -10,5 +5,8 @@ def count_substring(string, sub_string):
             count += 1
     return count
 
-
 print("count_substring():", count_substring("ABCDEFEFE", "EFE"))
+
+"""
+count_substring(): 2
+"""

@@ -1,11 +1,4 @@
 /*
-@author: acfromspace
-*/
-
-#include <iostream>
-using namespace std;
-
-/*
 DESCRIPTION:
 
 A list of numbers are given.
@@ -27,6 +20,9 @@ SAMPLE OUTPUT 2:
 
 24
 */
+
+#include <iostream>
+using namespace std;
 
 int gcd(int a, int b)
 {

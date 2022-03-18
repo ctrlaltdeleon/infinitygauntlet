@@ -1,8 +1,3 @@
-"""
-@author: acfromspace
-"""
-
-
 def binary_search(a_list, item):
     left = 0
     right = len(a_list) - 1
@@ -16,7 +11,10 @@ def binary_search(a_list, item):
             right = mid - 1
     return False
 
-
 a_list = [0, 2, 4, 8]
 item = 8
 print("binary_search():", binary_search(a_list, item))
+
+"""
+binary_search(): True
+"""

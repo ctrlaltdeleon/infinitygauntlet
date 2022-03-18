@@ -5,7 +5,7 @@ Last updated: 2022-03-14
 ## Chapters
 
 1. Introduction
-2. Instructions 
+2. Instructions
 3. Conclusion
    1. My Take
 

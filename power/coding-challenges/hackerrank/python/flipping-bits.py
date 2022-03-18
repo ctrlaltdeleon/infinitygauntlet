@@ -1,14 +1,3 @@
-"""
-@author: acfromspace
-"""
-
-import math
-import os
-import random
-import re
-import sys
-
-
 def flipping_bits(n):
     # This number is (2**32)-1.
     # Unsigned integers given which is 32.
@@ -19,9 +8,14 @@ def flipping_bits(n):
     # ^ = bitwise XOR
     return n ^ THE_FLIPPING
 
-
 q = int(input("Number of queries to be inputted: "))
 for q_itr in range(q):
     n = int(input("Insert random numbers to be flipped: "))
     result = flipping_bits(n)
     print("flipping_bits():", result)
+
+"""
+Number of queries to be inputted: 1
+Insert random numbers to be flipped: 123213
+flipping_bits(): 4294844082
+"""

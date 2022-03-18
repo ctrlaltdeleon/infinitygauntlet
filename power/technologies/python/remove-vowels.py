@@ -1,6 +1,3 @@
-"""
-@author: acfromspace
-"""
 
 
 def removeVowels1(string):

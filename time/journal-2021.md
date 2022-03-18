@@ -1,4 +1,5 @@
 # 9-30
+
 # 9-29
 
 - What's the difference between a dialog, modal, modeless, and window?
@@ -9,10 +10,15 @@
 - Remembered a memory of playing with "Standard", "TRL", etc. on league and a few friends trying to go pro.
 
 # 9-28
+
 # 9-27
+
 # 9-26
+
 # 9-25
+
 # 9-24
+
 # 9-23
 
 - In `bash`, `\\\` means what?
@@ -22,6 +28,7 @@
   - `mv %OLD-FILE-NAME% %NEW-FILE-NAME%
 
 # 9-22
+
 # 9-21
 
 - In `bash`, what does 'pwd' do?
@@ -34,7 +41,9 @@
 - ???
 
 # 9-19
+
 # 9-18
+
 # 9-17
 
 - ???
@@ -160,7 +169,7 @@
 - For inline styling, how to combine multiple styles?
   - `<Button style={...style, ...{width: "20%"}}/>`
 - Volleyball!
-  - 
+  -
 
 # 8-29
 
@@ -750,7 +759,7 @@ public class EffectMonster extends Monster {
   - It was about $100 each, but hey it's gonna be worth it.
     - I hope.
 - In `Electron`, how does one render a save dialog with proper information being transferred?
-  
+
 ```js
 const { BrowserWindow, dialog, ipcMain } = require("electron");
 const fs = require("fs");
@@ -843,6 +852,7 @@ ipcMain.on("%SOME-ROUTE-NAME%, function (event, data) {
 - Played 5 minute dungeon with Karasuno.
   - They seemed to enjoy it a lot!
   - Brandon, Will, and Kalani hopped in one at a time in the order and liked the game.
+
 # 4-22
 
 - In `Git`, how does one check the amount of commits on a branch that has been worked on?
@@ -956,7 +966,7 @@ export class %SOME-OBJECT% {
 - Left earlier than usual, but due to traffic, arrived at the same time I usually do.
 - Got Subway today, apparently their register wasn't working for cards.
   - Led to lunch time rush bust. :(
-  
+
 # 4-4
 
 - Took long required naps today.
@@ -1129,7 +1139,7 @@ export class %SOME-OBJECT% {
 
 - Started "Darling the in the Franxx".
 - No more Pokemon cereal boxes. 😞
-  
+
 # 3-1
 
 - Start of another work week.
@@ -1142,6 +1152,7 @@ export class %SOME-OBJECT% {
 # 2-27
 
 - ???
+
 # 2-26
 
 - ???
@@ -1157,7 +1168,7 @@ export class %SOME-OBJECT% {
 # 2-23
 
 - ???
-  
+
 # 2-22
 
 - ???
@@ -1185,6 +1196,7 @@ int value = input == null ? 0 : input.equals("") ? 0 : Integer.parseInt(input);
 // Else if the input is blank, value is also 0.
 // Else parse the input.
 ```
+
 # 2-17
 
 - In your case start with 5% in the Roth TSP to get the match, then start working on maxing out a Roth IRA, then back to the TSP.
@@ -1290,16 +1302,16 @@ test[variable].world = "Hello world!";
 - Got to see the old gang again and played spikeball, secret hitler, and more.
 - Gym!
   - Flex.
-  
+
 # 1-30
 
 - I think I'm falling for you.
-  
+
 # 1-29
 
 - Donut Bar, Zion Market, WandaVision EP. 4.
 - Slept all day.
-  
+
 # 1-28
 
 - Which brokerage provides the best safety for my investments? (USA at least.)
@@ -1318,11 +1330,12 @@ test[variable].world = "Hello world!";
 
 - Volleyball!
   - Went to Rohr Park this time around, plenty of spots, lights are great.
-  
+
 # 1-26
 
 - ???
-- 
+-
+
 # 1-25
 
 Former optician here!
@@ -1350,10 +1363,11 @@ If you have any other questions I’d be happy to help :)
 # 1-22
 
 - Stayed home.
+
 # 1-21
 
 - In `React`, how should autosave be handled in terms of string inputs?
-  
+
 ```js
 // With autosave.
 const [autoSave, setAutoSave] = useState("");
@@ -1395,7 +1409,7 @@ onChange={(event) => setState(event.target.value)};
 - Was extremely tired.
 - Volleyball!
   - Took it easy and went for setter position to give hitters what they can which worked out well.
-  
+
 # 1-18
 
 - Martin Luther King Jr. day.
@@ -1405,7 +1419,7 @@ onChange={(event) => setState(event.target.value)};
 # 1-17
 
 - Slept.
-  
+
 # 1-16
 
 - Volleyball!
@@ -1456,7 +1470,7 @@ onChange={(event) => setState(event.target.value)};
 
 - Amount of downloads `@acfromspace/weeb` has thus far?
   - 684.
-- What is  ultimate achievement in Hollywood?
+- What is ultimate achievement in Hollywood?
   - Achieving an Emmy, a Grammy, an Oscar, and a Tony, also referred to as an "EGOT".
 - What are the differences between an Emmy, a Grammy, an Oscary, and a Tony?
   - Emmy is for television.

@@ -1,8 +1,3 @@
-"""
-@author: acfromspace
-"""
-
-
 def insert_star_between_pairs(a_string):
     # No string? No stars.
     if a_string is None:
@@ -18,6 +13,9 @@ def insert_star_between_pairs(a_string):
     # Return the whole string, no new stars added.
     return a_string[0:1] + insert_star_between_pairs(a_string[1:len(a_string)])
 
-
 a_string = "abbba"
 print("insert_star_between_pairs():", insert_star_between_pairs(a_string))
+
+"""
+insert_star_between_pairs(): ab*b*ba
+"""

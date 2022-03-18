@@ -17,7 +17,6 @@ function foodLocation() {
   let x = floor(random(w));
   let y = floor(random(h));
   food = createVector(x, y);
-
 }
 
 function keyPressed() {
@@ -29,28 +28,26 @@ function keyPressed() {
     snake.setDir(0, 1);
   } else if (keyCode === UP_ARROW) {
     snake.setDir(0, -1);
-  } else if (key == ' ') {
-     snake.grow();  
+  } else if (key == " ") {
+    snake.grow();
   }
-
 }
-
 
 function draw() {
   scale(rez);
   background(220);
   if (snake.eat(food)) {
-    foodLocation(); 
+    foodLocation();
   }
   snake.update();
   snake.show();
-  
+
   if (snake.endGame()) {
     print("END GAME");
     background(255, 0, 0);
     noLoop();
   }
-  
+
   noStroke();
   fill(255, 0, 0);
   rect(food.x, food.y, 1, 1);

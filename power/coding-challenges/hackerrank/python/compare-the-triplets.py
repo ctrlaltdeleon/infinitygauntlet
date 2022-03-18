@@ -1,15 +1,4 @@
-"""
-@author: acfromspace
-"""
-
-import math
-import os
-import random
-import re
-import sys
-
-
-def compareTriplets(a, b):
+def compare_triplets(a, b):
     score = [0, 0]
     for index in range(len(a)):
         if a[index] > b[index]:
@@ -18,7 +7,10 @@ def compareTriplets(a, b):
             score[1] += 1
     return score
 
-
 a = [5, 6, 7]
 b = [3, 6, 10]
-print("comparetriplets():", compareTriplets(a, b))
+print("compare_triplets():", compare_triplets(a, b))
+
+"""
+compare_triplets(): [1, 1]
+"""

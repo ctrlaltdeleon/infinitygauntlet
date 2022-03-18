@@ -50,7 +50,10 @@ newString.substring(2); // Returns "zilla".
 - In `React`, using `useState`, how does one update a value within an object?
 
 ```js
-setExampleState(exampleState => ({...exampleState, masterField2: {...etc} }));
+setExampleState((exampleState) => ({
+  ...exampleState,
+  masterField2: { ...etc },
+}));
 ```
 
 # December 28 2020
@@ -73,6 +76,7 @@ setExampleState(exampleState => ({...exampleState, masterField2: {...etc} }));
 
 - Gym!
   - Flex.
+
 # December 27 2020
 
 - Relaxed.
@@ -152,7 +156,7 @@ export const useStateWithCallback = (initialState) => {
   }, [state]);
 
   return [state, setStateCallback];
-}
+};
 ```
 
 # December 14 2020
@@ -171,10 +175,11 @@ export const useStateWithCallback = (initialState) => {
 
 - Gym!
   - Volleyball.
+
 # December 11 2020
 
--  Sleepy and tired.
--  Losing my touch in keeping up with relationships.
+- Sleepy and tired.
+- Losing my touch in keeping up with relationships.
 
 # December 10 2020
 
@@ -192,11 +197,13 @@ export const useStateWithCallback = (initialState) => {
 # December 8 2020
 
 - ???
+
 # December 7 2020
 
 - Barbell came in, need to buy weights.
 - Gym!
   - Flex.
+
 # December 6 2020
 
 - Played Genshin Impact with Nessa (collecting Anemo) and Paimon (Zhongli drop domains).
@@ -295,12 +302,13 @@ org.opentest4j.MultipleFailuresError:
 - How does one convert media files via terminal?
   - `ffmpeg` software.
 - In `Java`, how does one iterate through objects in an `ArrayList`?
-  
+
 ```java
 for (Object result : results) {
     // Process each result.
 }
 ```
+
 - Gym!
   - Volleyball.
 
@@ -335,7 +343,7 @@ for (Object result : results) {
 - Took care of Rei Ayanami and settled things.
 - Gym!
   - Volleyball.
-  
+
 # November 18 2020
 
 - Such a simp.
@@ -361,10 +369,9 @@ const [someState, setSomeState] = useState("");
 
 ```js
 {
-  unreadMessages.length > 0 &&
-  <h1>
-    You have {unreadMessages.length} unread messages.
-  </h1>
+  unreadMessages.length > 0 && (
+    <h1>You have {unreadMessages.length} unread messages.</h1>
+  );
 }
 ```
 
@@ -372,7 +379,7 @@ In `React`, what's the best way to do multiple `onClick` events?
 
 ```js
 // Bad.
-onClick={() => { 
+onClick={() => {
   console.log('hello!');
   console.log('👋');
 }}
@@ -399,7 +406,7 @@ function greeting() {
 ...
 function waveHello() {
   console.log('👋');
-}  
+}
 ...
 onClick={greeting}
 
@@ -573,7 +580,7 @@ npm publish --registry%REGISTRY%
   - Note that assets outside of the `src/` are not supported.
   - `<img src={require("%PATH-TO-THE-IMAGE%")} alt="something"/>
 - How do I transfer installed `Linux` packages and settings from one distro to another?
-  
+
 ```sh
 sudo apt-get install apt-clone
 apt-clone clone %PACKAGE%
@@ -2776,7 +2783,7 @@ alias git-pull-all="find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {
   - To show a document in a collection in a pretty style.
     - `db.%COLLECTION-NAME%.find({%KEY%: "%VALUE%"}).pretty()`
 - How do you `scp` a file with spaces within?
-  - `scp ac@localmachine:~/'Front-End\ Initial\ Software\ Design\ Diagram.odg' ~/`
+  - `scp ac@localmachine:~/'Front-end\ Initial\ Software\ Design\ Diagram.odg' ~/`
 - Gym!
   - Back and biceps.
 
@@ -3473,7 +3480,7 @@ const app = new Application({
   args: [path.join(__dirname, "..")], // Points to root directory of application as a starting point.
 });
 
-describe("Application launch", function() {
+describe("Application launch", function () {
   this.timeout(10000); // `Mocha`'s default timeout because launching can take a while.
 
   beforeEach(() => {
@@ -3486,10 +3493,10 @@ describe("Application launch", function() {
     }
   });
 
-  it("should have 1 window", function() {
+  it("should have 1 window", function () {
     const count = await app.client.getWindowCount();
     return assert.equal(count, 1);
-  })
+  });
 });
 ```
 

@@ -25,15 +25,15 @@ Last updated: 2022-03-13
 ## 3: Preparation
 
 1. In a bowl:
-  1. Mix peanut butter and jam together.
-  2. Order matters here a lot!
+1. Mix peanut butter and jam together.
+1. Order matters here a lot!
 
 ## 4: Cooking
 
 1. Put pan to medium-high heat.
 2. Oil up the pan.
-  1. Assumes the user has a preferred oil.
-3. Serve.
+3. Assumes the user has a preferred oil.
+4. Serve.
 
 ## 5: Conclusion
 

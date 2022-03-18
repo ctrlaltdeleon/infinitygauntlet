@@ -1,14 +1,3 @@
-"""
-@author: acfromspace
-"""
-
-import math
-import os
-import random
-import re
-import sys
-
-
 def counting_valleys(n, s):
     inValley = False
     vallies = 0
@@ -26,7 +15,12 @@ def counting_valleys(n, s):
             vallies += 1
     return vallies
 
-
 n = int(input("Input number of steps taken: "))
 s = input("""Input string "U" and "D" to create a path: """)
 print("counting_valleys():", counting_valleys(n, s))
+
+"""
+Input number of steps taken: 5
+Input string "U" and "D" to create a path: U D D U U
+counting_valleys(): 0
+"""

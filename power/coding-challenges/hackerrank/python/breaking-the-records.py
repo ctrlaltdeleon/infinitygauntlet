@@ -1,9 +1,4 @@
-"""
-@author: acfromspace
-"""
-
-
-def breakingRecords(scores):
+def breaking_records(scores):
     mini = maxi = scores[0]
     min_count = max_count = 0
     for index in scores[1:]:
@@ -15,6 +10,9 @@ def breakingRecords(scores):
             mini = index
     return max_count, min_count
 
-
 scores = [10, 5, 20, 4, 5, 25, 30, 10]
-print("breakingRecords():", breakingRecords(scores))
+print("breaking_records():", breaking_records(scores))
+
+"""
+breaking_records(): (3, 2)
+"""

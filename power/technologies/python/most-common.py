@@ -1,6 +1,3 @@
-"""
-@author: acfromspace
-"""
 
 from collections import Counter
 

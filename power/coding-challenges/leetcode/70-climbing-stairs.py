@@ -1,8 +1,4 @@
 """
-@author: acfromspace
-"""
-
-"""
 Notes:
 
 Similar to a Fibonacci solution!
@@ -11,7 +7,6 @@ Climbing to the top of the stairs takes any number of steps, but the steps taken
 
 How many steps does it take to reach "n"?
 """
-
 
 class Solution:
     def climb_stairs(self, n: int) -> int:
@@ -29,7 +24,6 @@ class Solution:
             step1 = temp
         return step2
 
-
 test = Solution()
 test1 = 1
 test2 = 8
@@ -42,7 +36,12 @@ print("Number of steps needed for " + str(test3) +
       " steps:", test.climb_stairs(test3))
 
 """
-Time complexity: O(n). Single loop up to "n" is required to calculate "n" fibonacci number.
+Number of steps needed for 1 steps: 1
+Number of steps needed for 8 steps: 34
+Number of steps needed for 9 steps: 55
+"""
 
+"""
+Time complexity: O(n). Single loop up to "n" is required to calculate "n" fibonacci number.
 Space complexity: O(1). Constant space is used. 
 """

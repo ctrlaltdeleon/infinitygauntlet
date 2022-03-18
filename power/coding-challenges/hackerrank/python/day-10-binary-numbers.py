@@ -1,14 +1,9 @@
-"""
-@author: acfromspace
-"""
-
-import math
-import os
-import random
-import re
-import sys
-
 print(len(max(bin(int(input("Input an integer: ").strip()))[2:].split('0'))))
+
+"""
+Input an integer: 500
+5
+"""
 
 """
 int(input().strip())

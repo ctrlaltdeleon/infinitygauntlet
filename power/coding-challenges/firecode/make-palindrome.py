@@ -1,8 +1,3 @@
-"""
-@author: acfromspace
-"""
-
-
 def make_palindrome(string):
     if string == string[::-1]:
         return string
@@ -11,26 +6,18 @@ def make_palindrome(string):
         back = back[1:]
         return string + back
 
-
 string = str(input("Input a string to make a palindrome: "))
 print("make_palindrome():", make_palindrome(string))
 
 """
-Pythonic solution:
+Input a string to make a palindrome: hello
+make_palindrome(): hellolleh
+"""
 
-Great use of recursion here:
-    def make_palindrome(string):
-        if string == string[::-1]:
-            return string
-        else:
-            return string[0] + make_palindrome(string[1:]) + string[0]
-
-race
-r
-a
-c
-e
-c
-a
-r
+"""
+def make_palindrome(string):
+    if string == string[::-1]:
+        return string
+    else:
+        return string[0] + make_palindrome(string[1:]) + string[0]
 """

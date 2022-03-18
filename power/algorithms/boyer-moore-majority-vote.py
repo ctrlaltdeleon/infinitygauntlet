@@ -1,7 +1,9 @@
 """
-@author: acfromspace
+Best time complexity: O(n)
+Worst time complexity: O(n)
+Best space complexity: O(1)
+Worst space complexity: O(1)
 """
-
 
 def boyer_moore_majority_vote(data):
     counter = 0
@@ -14,6 +16,9 @@ def boyer_moore_majority_vote(data):
             return most
     return most
 
-
 data = [1, 2, 3, 2, 2, 3, 1, 1, 1, 2, 1]
 print("boyer_moore_majority_vote():", boyer_moore_majority_vote(data))
+
+"""
+boyer_moore_majority_vote(): 1
+"""

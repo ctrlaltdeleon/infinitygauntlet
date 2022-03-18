@@ -1,8 +1,3 @@
-"""
-@author: acfromspace
-"""
-
-
 class Stack:
     def __init__(self):
         self.items = []
@@ -25,7 +20,6 @@ class Stack:
 
     def showcase(self):
         return print("showcase():", self.items)
-
 
 stack = Stack()
 stack.is_empty()
@@ -52,8 +46,6 @@ stack.size()
 stack.showcase()
 
 """
-Output:
-
 is_empty(): True
 showcase(): []
 push(): 4

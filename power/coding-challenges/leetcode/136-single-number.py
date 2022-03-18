@@ -1,8 +1,3 @@
-"""
-@author: acfromspace
-"""
-
-
 class Solution:
     def single_number1(self, nums: [int]) -> int:
         # Time: O(n^2).
@@ -39,10 +34,16 @@ class Solution:
             bit ^= index
         return bit
 
-
 test = Solution()
 nums = [4, 1, 2, 1, 2]
 print("single_number1():", test.single_number1(nums))
 print("single_number2():", test.single_number2(nums))
 print("single_number3():", test.single_number3(nums))
 print("single_number4():", test.single_number4(nums))
+
+"""
+single_number1(): 4
+single_number2(): 4
+single_number3(): 4
+single_number4(): 4
+"""

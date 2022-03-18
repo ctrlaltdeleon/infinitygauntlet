@@ -1,9 +1,5 @@
-"""
-@author: acfromspace
-"""
-
 queries = int(input("Input amount of queries: "))
-name_phone = [input("Input key (name) and value (phone number) seperated by a space: ").split()
+name_phone = [input("Input key (name) and value (phone number) separated by a space: ").split()
               for _ in range(queries)]
 phone_book = {k: v for k, v in name_phone}
 while True:
@@ -16,3 +12,12 @@ while True:
             print("Not found")
     except:
         break
+
+"""
+Input amount of queries: 1
+Input key (name) and value (phone number) seperated by a space: hello 1112223333
+Name you would like to check? hello
+hello=1112223333
+Name you would like to check? hi
+Not found
+"""

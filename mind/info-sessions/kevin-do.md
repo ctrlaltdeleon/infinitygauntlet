@@ -101,10 +101,10 @@ ReactDOM.render(
 
 - https://devskiller.com/coding-tests-skill/react/
 - What’d you think of the take home test? (If they did a take home test.)
-- TypeScript experience? 
-- Overall JavaScript experience? 
+- TypeScript experience?
+- Overall JavaScript experience?
 - Overall async experience?
-- Styling? 
+- Styling?
   - Sass, inline, other?
 - React?
   - General experience with React?
@@ -134,13 +134,13 @@ ReactDOM.render(
     - How do you deal with async actions?
 - Error handling?
   - How would you handle errors?
-- Testing experience? 
+- Testing experience?
   - Unit tests?
   - Manual VS automatic tests?
 - Cultural?
   - Bias for action?
-- Give me an example of a calculated risk that you have taken where speed was critical. 
-  - What was the situation and how did you handle it? 
+- Give me an example of a calculated risk that you have taken where speed was critical.
+  - What was the situation and how did you handle it?
   - What steps did you take to mitigate the risk? What was the outcome?
-- Describe a situation where you made an important business decision without consulting your manager. 
+- Describe a situation where you made an important business decision without consulting your manager.
   - What was the situation and how did it turn out?

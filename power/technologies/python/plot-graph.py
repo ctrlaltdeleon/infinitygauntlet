@@ -1,6 +1,3 @@
-"""
-@author: acfromspace
-"""
 
 import matplotlib.pyplot as plt
 

@@ -1,12 +1,4 @@
-/*
-@author: acfromspace
-*/
-
-#include <cmath>
-#include <cstdio>
-#include <vector>
 #include <iostream>
-#include <algorithm>
 using namespace std;
 
 int solve_me_first(int a, int b)

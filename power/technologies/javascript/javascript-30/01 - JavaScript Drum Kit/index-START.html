@@ -104,10 +104,10 @@
       // Find all elements in the document with a class `.key`.
       const keys = Array.from(document.querySelectorAll(".key"));
       // These listeners are specifically for keys.
-      keys.forEach(key =>
+      keys.forEach((key) =>
         key.addEventListener("transitionend", removeTransition)
       );
-      keys.forEach(key => key.addEventListener("click", playByClick));
+      keys.forEach((key) => key.addEventListener("click", playByClick));
       // This listener is specifically for the active window.
       window.addEventListener("keydown", playByKeyboard);
     </script>

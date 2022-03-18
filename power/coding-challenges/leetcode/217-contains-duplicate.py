@@ -1,13 +1,8 @@
 """
-@author: acfromspace
-"""
-
-"""
 Notes:
 
 Check if the list contains a duplicate or not.
 """
-
 
 class Solution:
     def contains_duplicate1(self, nums: [int]) -> bool:
@@ -26,7 +21,6 @@ class Solution:
                     return True
         return False
 
-
 test = Solution()
 nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 1]
 print("contains_duplicate():", test.contains_duplicate1(nums))
@@ -38,7 +32,13 @@ nums = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 print("contains_duplicate():", test.contains_duplicate2(nums))
 
 """
-Time complexity: O(n log n). Due to sorting time complexity will always add O(n log n).
+contains_duplicate(): True
+contains_duplicate(): False
+contains_duplicate(): True
+contains_duplicate(): False
+"""
 
+"""
+Time complexity: O(n log n). Due to sorting time complexity will always add O(n log n).
 Space complexity: O(1). This is assuming the built-in sort uses heapsort for example.
 """

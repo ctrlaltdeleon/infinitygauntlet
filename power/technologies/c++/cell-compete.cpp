@@ -1,11 +1,4 @@
 /*
-@author: acfromspace
-*/
-
-#include <iostream>
-using namespace std;
-
-/*
 DESCRIPTION:
 
 A colony of 8 cells are next to each other.
@@ -28,6 +21,9 @@ SAMPLE OUTPUT 2:
 
 [0,0,0,0,0,1,1,0]
 */
+
+#include <iostream>
+using namespace std;
 
 int *cell_compete(int *cells, int days)
 {

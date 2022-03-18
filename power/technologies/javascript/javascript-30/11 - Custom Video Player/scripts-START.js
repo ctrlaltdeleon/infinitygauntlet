@@ -35,7 +35,7 @@ function skip() {
   // parseFloat() parses a string and returns a floating point number
   console.log(
     "%cSOMEONE OUT THERE CARES ABOUT YOU",
-    "font-size:40px; background:pink;",
+    "font-size:40px; background:pink;"
   );
   console.log("me");
   video.currentTime += parseFloat(this.dataset.skip);
@@ -66,14 +66,16 @@ video.addEventListener("pause", updateButton);
 video.addEventListener("timeupdate", handleProgress);
 toggle.addEventListener("click", togglePlay);
 // considers each skip button
-skipButtons.forEach(button => button.addEventListener("click", skip));
-ranges.forEach(range => range.addEventListener("change", handleRangeUpdate));
-ranges.forEach(range => range.addEventListener("mousemove", handleRangeUpdate));
+skipButtons.forEach((button) => button.addEventListener("click", skip));
+ranges.forEach((range) => range.addEventListener("change", handleRangeUpdate));
+ranges.forEach((range) =>
+  range.addEventListener("mousemove", handleRangeUpdate)
+);
 // this is for the mousemove option, because we need a mousedown before firing or it's constant on hover
 let mousedown = false;
 // we look at the what's clicked (e) and check offsetX
 progress.addEventListener("click", scrub);
-progress.addEventListener("mousemove", e => mousedown && scrub(e));
+progress.addEventListener("mousemove", (e) => mousedown && scrub(e));
 progress.addEventListener("mousedown", () => (mousedown = true));
 progress.addEventListener("mouseup", () => (mousedown = false));
 
