@@ -1,5 +1,6 @@
-# ODD ACHIEVEMENTS
+# odd achievements
 
+- 2022-03 popped off on tiktok with haikyuu video
 - 2021-04-20 Fully vaccinated for COVID-19!
 - 2021 Built my own keyboard!
 - 2021 Got my first tattoo! (Princess Mononoke)

@@ -2,135 +2,125 @@
 
 ## abg (ka)
 
-- anime.
-- lilo & stitch.
-- literally abg.
-- tattoos.
-- valorant.
+- anime
+- lilo & stitch
+- literally abg
+- tattoos
+- valorant
 
 ## aries (mv)
 
-- astrology.
-- pink.
-- soft.
+- astrology
+- pink
+- soft
 
 ## brenners (bz)
 
-- 3d printer.
-- building things.
-- soldering.
-- volleyball.
+- 3d printer
+- building things
+- soldering
+- volleyball
 
 # citrus (cg0917)
 
-- cooking.
-- gordon ramsay.
-- yugioh.
+- cooking
+- gordon ramsay
+- yugioh
 
 ## clarinet (jt)
 
-- hiking.
+- hiking
 
 ## female shadow clone (lc1014)
 
-- tiger milk tea.
+- tiger milk tea
 
 ## guts (gb)
 
-- red velvet.
+- red velvet
 
 ## illaoi (ng)
 
-- illaoi.
-- ornn.
+- illaoi
+- ornn
 
 ## jello (as)
 
-- c-walk.
-- prideful.
-- valorant.
+- c-walk
+- prideful
+- valorant
 
 ## kairi (st0925)
 
-- alpaca.
+- alpaca
 
 ## junpei (jc)
 
-- persona.
-- rwby.
-- weiss schwarz.
+- persona
+- rwby
+- weiss schwarz
 
 ## kirby (aa0412)
 
-- atticus.
-- light blue.
+- atticus
+- light blue
 - poke: half brown rice, half salad, shrimp, scallops, no wasabi
-- shel silverstein.
+- shel silverstein
 
 ## pacheekies (np)
 
-- conventions.
-- valheim.
+- conventions
+- valheim
 
 ## paimon (jp)
 
-- picnics.
+- picnics
 
 ## pickles (ds)
 
-- magic the gathering.
+- magic the gathering
 
 ## pokemans (jg)
 
-- cheese pizza.
-- strawberry popcorn.
+- cheese pizza
+- strawberry popcorn
 
 ## rei ayanami (tr)
 
-- capybara.
-- evangelion.
-- puzzles.
-- sad.
+- capybara
+- evangelion
+- puzzles
+- sad
 
 ## rock (kr)
 
-- kpop enthusiast.
-- weight lifter.
+- kpop enthusiast
+- weight lifter
 
 ## selteric (ws)
 
-- clean.
-- same waifu taste.
+- clean
+- same waifu taste
 
 ## taeyang (av)
 
-- big bang.
-- twice.
+- big bang
+- twice
 
 ## tryndamere (rb)
 
-- john mayer.
-- tryndamere.
+- john mayer
+- tryndamere
 
 ## wsupbitches (md)
 
-- adc main.
+- adc main
 
 ## xeiyon (bm)
 
-- ahri.
+- ahri
 
 ## xiangling (nc)
 
-- nami.
-- xiao.
-
-# groups
-
-## fs
-
-## san diego
-
-## seattle
-
-## volleyball
+- nami
+- xiao

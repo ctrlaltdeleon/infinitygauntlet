@@ -6,9 +6,9 @@ you won't need an oil change, or even an engine check too
 but how you drive with this vehicle is all up to you
 
 imagination is driving on a road that never stops
-upon this aspalt, you'll observe ideas, inspiration, and even shops
+upon this asphalt, you'll observe ideas, inspiration, and even shops
 this vehicle will send you anywhere as long as you commit
-takes you to the narrow depths of valleys, to the sky eaven touching summits
+takes you to the narrow depths of valleys, to the sky, even touching summits
 
-remember, with imagineation, you will always know,
+remember, with imagination, you will always know,
 you can go anywhere you want to go
