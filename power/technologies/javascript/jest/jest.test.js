@@ -40,7 +40,7 @@ test("Admin should be in usernames", () => {
 
 test("User fetched name should be Leanne Graham 1", () => {
   expect.assertions(1);
-  return functions.fetchUser().then(data => {
+  return functions.fetchUser().then((data) => {
     expect(data.name).toEqual("Leanne Graham");
   });
 });

@@ -18,9 +18,9 @@ you're not the same as you used to be
 new moon
 full moon
 different types of moons
-you were the moon, but it's hard to remember
+it's hard to remember who you were
 
 what am i saying?
 it's not hard to remember
-but it's hard to forget
+it's hard to forget
 you're still my moon

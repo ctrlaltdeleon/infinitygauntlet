@@ -1,13 +1,7 @@
-"""
-@author: acfromspace
-"""
-
-
 class Node:
     def __init__(self, data):
         self.data = data
         self.next = None
-
 
 class Solution:
     def display(self, head):
@@ -31,7 +25,6 @@ class Solution:
             self.tail = node
         return head
 
-
 list_data = Solution()
 T = int(input("Input number of elements to exist: "))
 head = None
@@ -41,3 +34,11 @@ for i in range(T):
 list_data.display(head)
 
 # Important to note that head(), tail(), next() are built-in functions in Python.
+
+"""
+Input number of elements to exist: 3
+Insert element #1: 10
+Insert element #2: 20
+Insert element #3: 30
+10 20 30 
+"""

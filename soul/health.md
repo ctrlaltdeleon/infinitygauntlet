@@ -1,15 +1,27 @@
-# HEALTH
+# health
 
-- ???
+## dental
 
-## Prescription
+- 2020-02
+  - cleaning
+  - fillings
+- 2020-08
+  - cleaning
+- 2021-03
+  - cleaning
+- 2021-09
+  - cleaning
+- 2022-04
+  - cleaning
 
-- 2015 December.
-  - OD Sphere.
-    - -1.50.
-  - OS Sphere.
-    - -1.25.
-  - OS Cylinder.
-    - -0.25.
-  - Axis.
-    - 022.
+## eye prescription
+
+- 2015-12
+  - od sphere
+    - 150
+  - os sphere
+    - 125
+  - os cylinder
+    - 025
+  - axis
+    - ???

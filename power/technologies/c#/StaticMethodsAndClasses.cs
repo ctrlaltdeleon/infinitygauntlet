@@ -9,6 +9,7 @@ static class UsefulTools
         Console.WriteLine("Hi " + name);
     }
 }
+
 class Driver
 {
     static void Main(string[] args)
@@ -19,4 +20,3 @@ class Driver
         Console.ReadLine();
     }
 }
-

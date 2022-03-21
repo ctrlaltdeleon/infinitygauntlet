@@ -39,4 +39,3 @@ public class TestNamespace
         Console.ReadLine();
     }
 }
-

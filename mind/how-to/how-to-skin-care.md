@@ -21,8 +21,8 @@ Last updated: 2022-03-13
 7. Components to the Routine
    1. Cleanser
    2. Toner
-   2. Moisturizer
-   3. Sunscreen
+   3. Moisturizer
+   4. Sunscreen
 8. Starting the Routine
    1. Where to Start
    2. Adding New Products

@@ -1414,7 +1414,7 @@ componentDidMount() {
 
 # June 20 2019
 
-- Front-End Developer Handbook.
+- Front-end Developer Handbook.
 - Met up with friends.
 - Gym!
   - Chest and triceps.

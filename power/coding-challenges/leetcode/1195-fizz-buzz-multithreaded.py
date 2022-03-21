@@ -1,15 +1,10 @@
 """
-@author: acfromspace
-"""
-
-"""
 Notes:
 
 Implement a multi-threaded version of FizzBuzz with four threads.
 """
 
 import threading
-
 
 class FizzBuzz(object):
     def __init__(self, n):
@@ -65,9 +60,7 @@ class FizzBuzz(object):
                 else:
                     self.nn.release()
 
-
 """
 Time complexity: O(?). Multi-threading lol.
-
 Space complexity: O(?). Multi-threading lol. 
 """

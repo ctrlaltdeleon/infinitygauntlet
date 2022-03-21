@@ -1,4 +1,4 @@
-# LOVE
+# Love
 
 If you need ideas for adventures.
 
@@ -53,6 +53,7 @@ If you need ideas for adventures.
 
 - Boba.
 - Flowers.
+- Letter.
 - Tea.
 
 ## Places

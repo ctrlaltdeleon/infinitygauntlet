@@ -15,7 +15,7 @@ const app = new Application({
  * @returns {App} Returns test conclusion.
  * @example Show an example here.
  */
-describe("Application launches! 🚀", function() {
+describe("Application launches! 🚀", function () {
   this.timeout(10000);
 
   beforeEach(() => {

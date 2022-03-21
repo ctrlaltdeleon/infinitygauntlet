@@ -1,15 +1,10 @@
 """
-@author: acfromspace
-"""
-
-"""
 Notes:
 
 Rotate a list according to the number of rotations.
 
 I know it's not return to something, but for testing purposes I put the return statements.
 """
-
 
 class Solution(object):
     def rotate_right1(self, nums: [int], k: int) -> None:
@@ -36,7 +31,6 @@ class Solution(object):
             nums[:-k], nums[-k:] = reversed(nums[:-k]), reversed(nums[-k:])
         return nums
 
-
 test = Solution()
 nums = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 k = 3
@@ -52,7 +46,13 @@ k = 3
 print("rotate_left2():", test.rotate_left2(nums, k))
 
 """
-Time complexity: O(n).
+rotate_right1(): [7, 8, 9, 1, 2, 3, 4, 5, 6]
+rotate_left1(): [4, 5, 6, 7, 8, 9, 1, 2, 3]
+rotate_right2(): [7, 8, 9, 1, 2, 3, 4, 5, 6]
+rotate_left2(): [4, 5, 6, 7, 8, 9, 1, 2, 3]
+"""
 
+"""
+Time complexity: O(n).
 Space complexity: O(n).
 """

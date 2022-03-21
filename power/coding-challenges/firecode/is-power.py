@@ -1,15 +1,3 @@
-"""
-@author: acfromspace
-"""
-
-"""
-base^power = number
-base = any number that satisfies
-power = power being found
-number = product
-"""
-
-
 def is_power_1(number):
     power = 4
     if (number <= 0):
@@ -20,14 +8,24 @@ def is_power_1(number):
         number = number // power
     return True
 
-
 def is_power_2(number, base):
     while (number % base == 0):
         number = number / base
     return number == 1
 
-
 number = 64
 base = 2
 print("is_power_1():", is_power_1(number))
 print("is_power_2():", is_power_2(number, base))
+
+"""
+is_power_1(): True
+is_power_2(): True
+"""
+
+"""
+base^power = number
+base = any number that satisfies
+power = power being found
+number = product
+"""

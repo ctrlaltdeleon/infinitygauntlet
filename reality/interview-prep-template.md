@@ -1,4 +1,4 @@
-# INTERVIEW TEMPLATE
+# Interview Prep Template
 
 ## Essential
 

@@ -30,9 +30,9 @@ Last updated: 2022-03-13
 ## 3: Preparation
 
 1. In a bowl:
-  1. 1 onion, chopped.
-  2. 1 carrot, chopped.
-  3. 5 cloves of garlic, minced.
+1. 1 onion, chopped.
+1. 1 carrot, chopped.
+1. 5 cloves of garlic, minced.
 
 ## 4: Cooking
 
@@ -56,5 +56,3 @@ Last updated: 2022-03-13
 ## 5.1: My Take
 
 - N/A
-
-

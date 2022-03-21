@@ -1,7 +1,7 @@
 # loving
 
 floating restfully upon the sky,
-this sperical, shimmering rock caught my eye
+this spherical, shimmering rock caught my eye
 my eye hooked to it, like seeing a gorgeous girl,
 makes me want to prance, makes me want to twirl
 

@@ -1,4 +1,4 @@
-# HOW TO GIT
+# Git Commands
 
 ## Setting up git!
 

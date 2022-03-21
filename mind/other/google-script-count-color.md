@@ -1,6 +1,4 @@
-# GOOGLE SCRIPT COUNT COLOR
-
-Called `COUNTCOLOR.gs` in my project hub.
+# Google Script Count Color
 
 ```cs
 /**
@@ -15,20 +13,20 @@ function COUNTCOLOR(countRange, colorRef) {
   var activeRange = SpreadsheetApp.getActiveRange();
   var activeSheet = activeRange.getSheet();
   var formula = activeRange.getFormula();
-  
+
   // We want the backgrounds and the values for the `countRange`.
   var rangeA1Notation = formula.match(/\((.*)\,/).pop();
   var range = activeSheet.getRange(rangeA1Notation);
   var bg = range.getBackgrounds();
   var values = range.getValues();
-  
+
   // We want the background for the `colorRef`.
   var colorCellA1Notation = formula.match(/\,(.*)\)/).pop();
   var colorCell = activeSheet.getRange(colorCellA1Notation);
   var color = colorCell.getBackground();
-  
+
   var count = 0;
-  
+
   // Check columns.
   for(var i=0;i<bg.length;i++)
     // Check rows.
@@ -36,7 +34,7 @@ function COUNTCOLOR(countRange, colorRef) {
       // If the cell we're checking is the color being referenced, increment.
       if(bg[i][j] == color)
         count += 1;
-  
+
   return count;
 };
 ```

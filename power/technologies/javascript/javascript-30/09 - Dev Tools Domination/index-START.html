@@ -8,7 +8,10 @@
     <p onClick="makeGreen()">×BREAK×DOWN×</p>
 
     <script>
-      const dogs = [{ name: "Snickers", age: 2 }, { name: "hugo", age: 8 }];
+      const dogs = [
+        { name: "Snickers", age: 2 },
+        { name: "hugo", age: 8 },
+      ];
 
       function makeGreen() {
         // Takes the first paragraph and turn it green.
@@ -66,7 +69,7 @@
 
       // Grouping together.
       // VERY USEFUL FOR HUGE DATABASES.
-      dogs.forEach(dog => {
+      dogs.forEach((dog) => {
         // `console.groupCollapsed` will show the objects, but keep the children inside in the console.
         console.group(`${dog.name}`);
         console.log(`This is ${dog.name}`);
@@ -94,8 +97,8 @@
       // `performance.now` in the browser is also available.
       console.time("fetching data");
       fetch("https://api.github.com/users/acfromspace")
-        .then(data => data.json())
-        .then(data => {
+        .then((data) => data.json())
+        .then((data) => {
           console.timeEnd("fetching data");
           console.log(data);
           console.log(data.login); // acfromspace

@@ -1,4 +1,4 @@
-# PHOTOGRAPHY LOCATIONS
+# Photography Locations
 
 ## Los Angeles
 

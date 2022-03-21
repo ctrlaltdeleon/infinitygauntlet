@@ -1,8 +1,3 @@
-"""
-@author: acfromspace
-"""
-
-
 class Node:
     def __init__(self):
         self.data = None
@@ -20,9 +15,7 @@ class Node:
     def get_next(self):
         return self.next
 
-
 class SinglyLinkedList:
-
     def __init__(self):
         self.head = None
 
@@ -47,9 +40,13 @@ class SinglyLinkedList:
             print(curr.data, end=" ")
             curr = curr.next
 
-
 test = SinglyLinkedList()
 test.insert_at_end(5)
 test.insert_at_end(6)
 test.insert_at_end(1)
 test.showcase()
+
+"""
+Linked List: 
+5 6 1
+"""

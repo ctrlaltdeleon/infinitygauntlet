@@ -62,11 +62,11 @@ export default class FreddieMercury extends React.Component {
   componentDidMount() {
     axios
       .get(`someURL/getFurtherDanceMoves`)
-      .then(response => {
+      .then((response) => {
         console.log(response);
         this.setState({ danceMoves: response });
       })
-      .catch(error => {
+      .catch((error) => {
         console.log(error);
       });
     this.initConcert();
@@ -160,7 +160,9 @@ export class Audience extends React.Component {
         <div>Audience volume: {this.state.applauseVolume}</div>
         <div>Lights: {this.state.lights}</div>
         <div>
-          <button onClick={event => this.getLouder(event)}>Get louder!</button>
+          <button onClick={(event) => this.getLouder(event)}>
+            Get louder!
+          </button>
         </div>
       </div>
     );

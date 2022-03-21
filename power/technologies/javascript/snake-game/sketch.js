@@ -52,11 +52,6 @@ function draw() {
   fill(255, 0, 0);
   rect(food.x, food.y, 1, 1);
 }
-let snake;
-let rez = 20;
-let food;
-let w;
-let h;
 
 function setup() {
   createCanvas(400, 400);

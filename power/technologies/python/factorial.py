@@ -1,6 +1,3 @@
-"""
-@author: acfromspace
-"""
 
 
 def factorial(number):

@@ -1,20 +1,13 @@
-"""
-@author: acfromspace
-"""
-
-
 class Node:
     def __init__(self, data):
         self.data = data
         self.next = None
-
 
 class DoublyNode:
     def __init__(self, data):
         self.data = data
         self.prev = None
         self.next = None
-
 
 class LinkedList:
     def __init__(self):
@@ -62,7 +55,6 @@ class LinkedList:
             print(curr.data, end=" ")
             curr = curr.next
 
-
 linked_list = LinkedList()
 random_list = [10, 20, 275, 2, 5, 8, 64, 52]
 for number in random_list:
@@ -74,8 +66,6 @@ linked_list.reverse()
 linked_list.showcase()
 
 """
-Output:
-
 52 64 8 5 2 275 20 10 20 40 550 4 10 16 128 104
 
 104 128 16 10 4 550 40 20 10 20 275 2 5 8 64 52

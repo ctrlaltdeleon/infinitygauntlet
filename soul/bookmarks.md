@@ -27,6 +27,7 @@
 ## cute
 
 - dog trying: https://www.reddit.com/r/aww/comments/l4vpek/at_least_he_tried_his_best/?utm_source=share&utm_medium=web2x&context=3
+
 ## ease of life
 
 - compress and optimize images: https://compressor.io/
@@ -51,7 +52,7 @@
 - midi fighter: https://store.djtechtools.com/products/midi-fighter-3d
 - vaporwave clothing: https://www.astralthrob.com/
 
-## music 
+## music
 
 - lofi playlist (breathing dreams like air, girl in front of sunset/railing): https://www.youtube.com/watch?v=dOFsCX72jyU
 - lofi playlist (i can't sleep, it's 4am, sad guy smoking): https://www.youtube.com/watch?v=NDfF_XwNtIw

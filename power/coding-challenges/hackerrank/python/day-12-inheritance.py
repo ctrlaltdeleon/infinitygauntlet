@@ -1,7 +1,3 @@
-"""
-@author: acfromspace
-"""
-
 class Person:
     def __init__(self, firstName, lastName, idNumber):
         self.firstName = firstName
@@ -11,7 +7,6 @@ class Person:
     def print_person(self):
         print("Name:", self.lastName + ",", self.firstName)
         print("ID:", self.idNumber)
-
 
 class Student(Person):
     def __init__(self, firstName, lastName, idNumber, testScores):
@@ -37,7 +32,6 @@ class Student(Person):
         else:
             return "T"
 
-
 from statistics import mean
 line = input("""Input (firstName,lastName,idNum) split by ",": """).split(",")
 firstName = line[0]
@@ -47,3 +41,11 @@ scores = list(map(int, input("Input list of scores: ").split()))
 s = Student(firstName, lastName, idNum, scores)
 s.print_person()
 print("Grade:", s.calculate())
+
+"""
+Input (firstName,lastName,idNum) split by ",": barack,obama,420
+Input list of scores: 1 2 3 99 99 99
+Name: obama, barack
+ID: 420
+Grade: D
+"""

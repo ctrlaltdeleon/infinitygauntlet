@@ -1,10 +1,10 @@
-# FRONT-END DEVELOPER HANDBOOK 2019
+# Front-end Developer Handbook 2019
 
 ## 2: The Practice of Front-end Development: Overview
 
-- This chapter will break down and broadly describes the practice of front-end engineering starting with, "How Front-End Developers Are Made".
+- This chapter will break down and broadly describes the practice of front-end engineering starting with, "How Front-end Developers Are Made".
 
-### 2.1: How Front-End Developers Are Made
+### 2.1: How Front-end Developers Are Made
 
 - LINK: https://frontendmasters.com/books/front-end-handbook/2019/assets/images/frontend.png
 - Most of the people working on the front-end today generally seem to be self-taught from the ground up or cross over into the front-end space from design or computer science fields.
@@ -25,27 +25,29 @@
 - When getting your start, you should fear most things that conceal complexity.
   - Abstractions (e.g. jQuery) in the wrong hands can give the appearance of advanced skills, while all the time hiding the fact that a developer has an inferior understanding of the basics or underlying concepts.
 
-### 2.2: Front-End Job Titles
+### 2.2: Front-end Job Titles
 
-- Front-End Developer:
+- Front-end Developer:
   - The generic job title that describes a developer who is skilled to some degree at HTML, CSS, DOM, and JavaScript and implementing these technologies on the web platform.
-- Front-End Engineer (aka JavaScript Developer or Full-stack JavaScript Developer):
+- Front-end Engineer (aka JavaScript Developer or Full-stack JavaScript Developer):
   - The job title given to a developer who comes from a computer science, engineering, background and is using these skills to work with front-end technologies. This role typically requires computer science knowledge and years of software development experience. When the word "JavaScript Application" is included in the job title, this will denote that the developer should be an advanced JavaScript developer possessing advanced programming, software development, and application development skills (i.e has years of experience building front-end software applications).
 - CSS/HTML Developer:
   - The front-end job title that describes a developer who is skilled at HTML and CSS, excluding JavaScript and application, know how.
-- Front-End Web Designer:
+- Front-end Web Designer:
   - When the word "Designer" is included in the job title, this will denote that the designer will possess front-end skills (i.e., HTML & CSS) but also professional design (Visual Design and Interaction Design) skills.
 - UI (User Interface) Developer/Engineer:
   - When the word "Interface" or "UI" is included in the job title, this will denote that the developer should posses interaction design skills in addition to front-end developer skills or front-end engineering skills.
-- Mobile/Tablet Front-End Developer:
+- Mobile/Tablet Front-end Developer:
   - When the word "Mobile" or "Tablet" is included in the job title, this will denote that the developer has experience developing front-ends that run on mobile or tablet devices (either natively or on the web platform, i.e., in a browser).
-- Front-End SEO Expert:
+- Front-end SEO Expert:
   - When the word "SEO" is included in the job title, this will denote that the developer has extensive experience crafting front-end technologies towards an SEO strategy (Search Engine Optimization).
-- Front-End Accessibility Expert:
+- Front-end Accessibility Expert:
   - When the word "Accessibility" is included in the job title, this will denote that the developer has extensive experience crafting front-end technologies that support accessibility requirements and standards.
-- Front-End Dev. Ops:
+- Front-end Dev. Ops:
   - When the word "DevOps" is included in the job title, this will denote that the developer has extensive experience with software development practices pertaining to collaboration, integration, deployment, automation, and quality.
-- Front-End Testing/QA:
+- Front-end Testing/QA:
   - When the word "Testing" or "QA" is included in the job title, this will denote that the developer has extensive experience testing and managing software that involves unit testing, functional testing, user testing, and A/B testing.
 
-### 2.3: Baseline Web Technologies Employed by Front-End Developers
+### 2.3: Baseline Web Technologies Employed by Front-end Developers
+
+#### BOOKMARK

@@ -224,10 +224,10 @@
     <script>
       function debounce(func, wait = 20, immediate = true) {
         var timeout;
-        return function() {
+        return function () {
           var context = this,
             args = arguments;
-          var later = function() {
+          var later = function () {
             timeout = null;
             if (!immediate) func.apply(context, args);
           };
@@ -242,7 +242,7 @@
       const sliderImages = document.querySelectorAll(".slide-in");
 
       function checkSlide(e) {
-        sliderImages.forEach(sliderImage => {
+        sliderImages.forEach((sliderImage) => {
           // window.scrollY shows how many pixels scrolled down from the top
           // window.innerHeight shows the inner height of the window
           // slideInAt shows how many pixels scrolled down from the bottom while accounting for the image

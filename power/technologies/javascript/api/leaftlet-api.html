@@ -52,7 +52,7 @@
         iconAnchor: [25, 16],
       });
       let marker = L.marker([0, 0], { icon: issIcon }).addTo(mymap);
-      mymap.on("zoomend", function() {
+      mymap.on("zoomend", function () {
         const zoom = mymap.getZoom() + 1;
         const w = 50 * zoom;
         const h = 32 * zoom;

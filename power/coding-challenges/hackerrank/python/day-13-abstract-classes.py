@@ -1,9 +1,4 @@
-"""
-@author: acfromspace
-"""
-
 from abc import ABCMeta, abstractmethod
-
 
 class Book(object, metaclass=ABCMeta):
     def __init__(self, title, author):
@@ -12,7 +7,6 @@ class Book(object, metaclass=ABCMeta):
 
     @abstractmethod
     def display(self): pass
-
 
 class MyBook(Book):
     def __init__(self, title, author, price):
@@ -26,9 +20,17 @@ class MyBook(Book):
         print("Author: %s" % (author))
         print("Price: $%.2f" % (price))
 
-
 title = input("Input title of book: ")
 author = input("Input author of book: ")
 price = float(input("Input price of book: "))
 new_novel = MyBook(title, author, price)
 new_novel.display()
+
+"""
+Input title of book: the great gatsby
+Input author of book: me
+Input price of book: 4.20
+Title: the great gatsby
+Author: me
+Price: $4.20
+"""

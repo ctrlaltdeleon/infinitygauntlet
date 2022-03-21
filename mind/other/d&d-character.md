@@ -1,4 +1,4 @@
-# D&D CHARACTER
+# D&D Character
 
 ## Name
 

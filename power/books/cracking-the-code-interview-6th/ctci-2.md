@@ -1,4 +1,4 @@
-# CRACKING THE CODING INTERVIEW
+# Cracking The Coding Interview
 
 ## 2: Behind the Scenes
 

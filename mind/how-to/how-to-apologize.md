@@ -21,9 +21,9 @@ Last updated: 2022-03-13
   - "I was careless and accidentally hurt your feelings."
 - Apologize.
   - "I wanted to properly apologize for doing so. So for that, I'm sorry."
-- Explain why what you did was wrong. 
+- Explain why what you did was wrong.
   - "I should've taken more care and considered your feelings."
-- Explain what you're going to do to stop it from happening again, or make it right. 
+- Explain what you're going to do to stop it from happening again, or make it right.
   - "I'm going to make sure to change my behavior and be more attentive to you."
 - Optional (depends on timing). Ask if they'll forgive you.
   - "I hope you can forgive me, and again, I'm sorry."

@@ -1,13 +1,8 @@
 """
-@author: acfromspace
-"""
-
-"""
 Notes:
 
 Given "n" non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
 """
-
 
 class Solution:
     def trap(self, height: int) -> int:
@@ -29,13 +24,15 @@ class Solution:
 
         return total_water
 
-
 test = Solution()
 height = [0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1]
 print("Total water units to be contained:", test.trap(height))
 
 """
-Time complexity: O(n). Single iteration.
+Total water units to be contained: 6
+"""
 
+"""
+Time complexity: O(n). Single iteration.
 Space complexity: O(1). Constant space is used. 
 """

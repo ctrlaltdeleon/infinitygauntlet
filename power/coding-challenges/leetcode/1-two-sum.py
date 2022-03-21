@@ -1,8 +1,4 @@
 """
-@author: acfromspace
-"""
-
-"""
 Notes:
 
 We're given an array with various numbers which need to equal a "target" variable.
@@ -39,9 +35,7 @@ To approach this problem:
 5. Else keep going through the enumerate.
 """
 
-
 class Solution:
-
     def two_sum(self, nums: [int], target: int) -> [int]:
         seen = {}
         for index, num in enumerate(nums):
@@ -57,7 +51,6 @@ class Solution:
                 seen[num] = index
         return "Solution not found!"
 
-
 test = Solution()
 nums = [2, 7, 11, 15]
 target = 26
@@ -67,7 +60,49 @@ target = 27
 print("two_sum():", test.two_sum(nums, target))
 
 """
-Time complexity: O(n). We traverse the list containing "n" elements only once. Each look up in the table costs only O(1) time.
+seen: {}
+index, num: 0 , 2
+other: 24
+seen: {}
+Solution not found, retrying...
+seen: {2: 0}
+index, num: 1 , 7
+other: 19
+seen: {2: 0}
+Solution not found, retrying...
+seen: {2: 0, 7: 1}
+index, num: 2 , 11
+other: 15
+seen: {2: 0, 7: 1}
+Solution not found, retrying...
+seen: {2: 0, 7: 1, 11: 2}
+index, num: 3 , 15
+other: 11
+two_sum(): [2, 3]
+seen: {}
+index, num: 0 , 2
+other: 25
+seen: {}
+Solution not found, retrying...
+seen: {2: 0}
+index, num: 1 , 7
+other: 20
+seen: {2: 0}
+Solution not found, retrying...
+seen: {2: 0, 7: 1}
+index, num: 2 , 11
+other: 16
+seen: {2: 0, 7: 1}
+Solution not found, retrying...
+seen: {2: 0, 7: 1, 11: 2}
+index, num: 3 , 15
+other: 12
+seen: {2: 0, 7: 1, 11: 2}
+Solution not found, retrying...
+two_sum(): Solution not found!
+"""
 
+"""
+Time complexity: O(n). We traverse the list containing "n" elements only once. Each look up in the table costs only O(1) time.
 Space complexity: O(n). The extra space required depends on the number of items stored in the hash table, which stores at most "n" elements.
 """
