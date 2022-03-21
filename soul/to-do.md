@@ -44,9 +44,9 @@ TECHNICAL: AC is a professional Software Engineer, new to the center, and is key
 
 TEAMWORK/COMMUNICATION: AC is frequent and valued contributor with his Frontend React Framework expertise. His contributions to the implemented Frontend User experience has garnered significant praise from the sponsor. AC participates in yeehaw meetings and is comfortable expressing himself and providing input to the shared project goal. He has improved his collaboration capabilities with other team members to ensure his and other's development isn't blocked during task execution.
 
-MANAGEMENT: AC is being mentored by senior engineers on yeehaw, and also mentors others. He has led meetings and become an integral team member. AC manages his own time and resources well, and doesn't hesitate to ask for help. He has not interacted with customers, but he did generate the demonstration videos that were universally praised by the sponsor.
+MANAGEMENT: AC is being mentored by senior engineers on yeehaw, and also mentors others. He has led meetings and become an integral team member. AC manages his own time and resources well, and doesn't hesitate to ask for help. He has not interacted with customers, but he did generate the demonstration videos that were universally praised by the sponsor. 
 
-LEADERSHIP: AC is a reliable software engineer. He is constantly learning and looking for ways to improve his skillset, including volunteering to be part of the initial Full Stack training efforts on yeehaw. He occasionally leads meetings and encourages others to grow as leaders, team members, and developers. AC is an effective, reliable engineer. His work is excellent and timely. His continued work on yeehaw is important and integral to the success of ONI's vision to improve submarine user's lives. AC learns quickly and has significant expertise with Frontend Frameworks to leverage to the benefit of yeehaw and the team. He takes direction and follows plans for the project. AC often goes out of his way to get ahead of upcoming tasking and provide useful input to assist in planned development. He has already made an impact on the design and implementation of the yeehaw GUI that will improve the project, primarily on maintaining a consistent look and feel. AC is an eager learner and easy to work with, making him an asset on the yeehaw project. AC rarely needs help with code construction and management, and is taking mentorship well and making great strides. He is now a Full Stack developer, significantly increasing yeehaw development throughput by allowing him to easily move between multiple code bases and components of yeehaw. AC is a significant asset to the team, making a bigger impact than would be expected for such a junior developer.
+LEADERSHIP: AC is a reliable software engineer. He is constantly learning and looking for ways to improve his skillset, including volunteering to be part of the initial Full Stack training efforts on yeehaw. He occasionally leads meetings and encourages others to grow as leaders, team members, and developers. AC is an effective, reliable engineer. His work is excellent and timely. His continued work on yeehaw is important and integral to the success of ONI's vision to improve submarine user's lives. AC learns quickly and has significant expertise with Frontend Frameworks to leverage to the benefit of yeehaw and the team. He takes direction and follows plans for the project. AC often goes out of his way to get ahead of upcoming tasking and provide useful input to assist in planned development. He has already made an impact on the design and implementation of the yeehaw GUI that will improve the project, primarily on maintaining a consistent look and feel. AC is an eager learner and easy to work with, making him an asset on the yeehaw project. AC rarely needs help with code construction and management, and is taking mentorship well and making great strides. He is now a Full Stack developer, significantly increasing yeehaw development throughput by allowing him to easily move between multiple code bases and components of yeehaw. AC is a significant asset to the team, making a bigger impact than would be expected for such a junior developer. 
 
 https://www.apartments.com/1-br-1-bath-condo-6855-friars-rd-unit-15-san-diego-ca-unit-15/696bqgs/
 https://www.amazon.com/Aluminum-High-Speed-Reader-MacBook-Desktop/dp/B0814QZ2W4/ref=sr_1_35?dchild=1&keywords=computer+usb+port+hub&qid=1616104297&sr=8-35
@@ -103,6 +103,7 @@ https://www.reddit.com/r/AskReddit/comments/nnj3w7/people_who_choose_to_be_kind_
 
 https://www.deviantart.com/starkiteckt-designs/gallery
 
+
 1. Please introduce yourself, including, name, title, role, where you are from. (1 minute each)
    1. Andrew De Leon, people at work call me AC cause there's too many Andrews.
    2. My title here is "scientist".
@@ -144,21 +145,21 @@ sdsu arc (visa or mastercard only) x
 just change everyone's names in friends and journal
 
 db.adminCommand("listDatabases").databases.
-map(d => d.name).
-filter(n => ["admin", "config", "local"].indexOf(n) == -1 ).
-map(n => db.getSiblingDB(n).dropDatabase())
+   map(d => d.name).
+   filter(n => ["admin", "config", "local"].indexOf(n) == -1 ).
+   map(n => db.getSiblingDB(n).dropDatabase())
 
-MongoshInvalidInputError: Cannot pass a function that calls a Mongosh API method as an argument
+  MongoshInvalidInputError: Cannot pass a function that calls a Mongosh API method as an argument
 
-mongodb 4.4.1
-mongo shell 0.4.0 beta
+  mongodb 4.4.1
+  mongo shell 0.4.0 beta
 
 ## STACKOVERFLOW INEEDHELPLEARNING2
 
 Just by looking at it, it's because of 2 things.
 
-1.  Each of those reviews are within a `<Grid>` of attribute `container` when it should be `item`.
-2.  When specifying the size `xs={12}`, this sizes a component to occupy the whole viewport width regardless of its size. This means the next "item" will move over to the bottom. Try a smaller one or don't put anything at all and let Material UI figure it out for you.
+ 1. Each of those reviews are within a `<Grid>` of attribute `container` when it should be `item`.
+ 2. When specifying the size `xs={12}`, this sizes a component to occupy the whole viewport width regardless of its size. This means the next "item" will move over to the bottom. Try a smaller one or don't put anything at all and let Material UI figure it out for you.
 
 ```js
 ... beginning of your code
@@ -210,12 +211,11 @@ thoughts first on mobile first with design and development?
 what is specificity in CSS?
 what is the box model in CSS?
 implement these functions:
-
 - add()
 - add(...args)
 - stringIncludes() (case sensistive)
   - toLowerCase makes a new string, doesn't manipulate the previous
-    choose one
+choose one
 - getNames()
 - getLargestNumberIndex()
 - delay()
@@ -235,3 +235,12 @@ console.log(secretVariable()) // private
 2: "no more merges, no more conflicts"
 3: "no more conflicts, no code"
 4: "no code, no bugs"
+
+https://www.youtube.com/watch?v=aHB8bx4P7TE
+
+here is the periodic table of elements!
+oh no
+what is it andrew?
+it's not there
+what is?
+THE ELEMENT OF SURPRISE
