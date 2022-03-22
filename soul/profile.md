@@ -2,15 +2,71 @@
 
 🌌
 
-- intelligence, survellience, & recon.
-  - space and intelligence systems.
-    - intel data analysis.
-- sun (core): libra
-- moon (inner): virgo
-- ascendant (outer): leo
-- midheaven (outermost): aries
-- 1:05 am
+- intelligence, survellience, & recon
+  - space and intelligence systems
+    - intel data analysis
 - 605664649
+
+# astrology
+
+- 1:05 am
+- sun (planet of self): libra
+  - careful, someone who takes time to develop something
+  - charismatic
+  - first impressions are big for yourself and for others
+  - weighs all possibilities before making a decision
+- moon (planet of emotions): virgo
+  - approached inner-self in a practical way
+  - has huge standards for self
+  - tries to use logic and organization for themselves
+- mercury (planet of communication): scorpio
+  - can take things personally when spoken to a certain way
+  - emotional intelligence when communicating with others
+  - incredibly witty
+  - many of their talking topics are fueled by passion
+- venus (planet of love): virgo
+  - logic
+  - looks for a partner that is stable, conscious about their surroundings
+  - loyal partner
+  - organization
+- mars (planet of passion): scorpio
+  - fueled by passion and mystery
+  - incredibly indulgent in what they love
+  - greatly values privacy
+- jupiter (planet of luck): libra
+  - maintaining peace and harmony comes easy to you
+  - loves to maintain balance
+- saturn (planet of karma): aquarius
+  - can struggle with self image
+  - has felt afraid for showing the parts of themselves that might come off badly with others
+- uranus (planet of rebellion): capricorn
+  - ???
+- neptune (planet of illusion): capricorn
+  - ???
+- pluto (planet of power): scorpio
+  - ???
+- north node: sagittarius
+  - ???
+- chiron: virgo
+  - ???
+
+# bucketlist
+
+- climb mt. fuji
+- scubadiving
+- see "devil's bridge" in germany
+- skydiving
+
+# odd achievements
+
+- 2022-03-16 popped off on tiktok with haikyuu video!
+- 2021-04-20 fully vaccinated for covid-19!
+- 2021-04-07 built my own keyboard!
+- 2021-03-15 got my first tattoo! (princess mononoke)
+- 2017-04-20 [sdsu apsa dance head](https://www.youtube.com/watch?v=rbBst0x5eY8)
+- 2016-08-29 [created my own longboard design!](https://imgur.com/a/hCz72)
+- 2016-06-10 [『CAPTAIN AMERICA: CIVIL WAR ANIME OPENING』(ORIGINAL) (CODE GEASS)](https://www.youtube.com/watch?v=__tTNAwSyhQ)
+- 2016-07-12 [my d.va cosplay made it in a cosplay video!](https://www.youtube.com/watch?v=S9dyQWgaJ5k)
 
 # stats
 
@@ -24,10 +80,18 @@
 # values project
 
 - 2014
-- strength, positive energy, passion, selflessness
-- What values would you like to see practiced by other people toward you?
-  - "I would very much enjoy people practicing courtesy and integrity around me. The amount of people who don't practice this is very depressing to me. People should have a good sense of what a good person is through the values of courtesy and integrity. In general, to be kind and to be humble. I would love to see this happen."
-- What is your career goal?
-  - "My career goal is to be a computer programmer for groups such as Microsoft, Riot Games, or Blizzard. I would also enjoy working on security systems and anything that would benefit the people as a whole. I know the one and only value that ties in incredibly well to these goals would be commitment."
-- What was the single most important thing you learned in this class?
-  - "Moderation. Not only does it occur in health, but in relationships, events, hobbies, everything."
+  - strength, positive energy, passion, selflessness
+  - what values would you like to see practiced by other people toward you?
+    - "i would very much enjoy people practicing courtesy and integrity around me. the amount of people who don't practice this is very depressing to me. people should have a good sense of what a good person is through the values of courtesy and integrity. in general, to be kind and to be humble. i would love to see this happen."
+  - what is your career goal?
+    - "my career goal is to be a computer programmer for groups such as microsoft, riot games, or blizzard. i would also enjoy working on security systems and anything that would benefit the people as a whole. i know the one and only value that ties in incredibly well to these goals would be commitment."
+  - what was the single most important thing you learned in this class?
+    - "moderation. not only does it occur in health, but in relationships, events, hobbies, everything."
+
+# workflow
+
+- opera gx
+  - dark mode activated with right click "turn to dark"
+  - settings
+    - custom theme #6082b6 color
+    - turn off auto-pause for player when trying to use spotify and youtube at the same time

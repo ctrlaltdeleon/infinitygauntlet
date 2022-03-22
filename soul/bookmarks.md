@@ -1,5 +1,9 @@
 # bookmarks
 
+# background images
+
+- space: https://www.deviantart.com/starkiteckt-designs/gallery
+
 ## career
 
 - check links on website if they're working: http://validator.w3.org/checklink
@@ -22,6 +26,7 @@
 - standard javascript: https://github.com/standard/standard
 - transfer files quick: https://filebin.net
 - typescript handbook: https://www.freecodecamp.org/news/the-definitive-typescript-handbook/
+- ubuntu hack password: https://itsfoss.com/how-to-hack-ubuntu-password/
 - youtube stats: https://github.com/rodgtr1/youtube-stats
 
 ## cute

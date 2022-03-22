@@ -1,4 +1,4 @@
-# personal car 2
+# car 2
 
 - model
   - mitsubishi lancer se

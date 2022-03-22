@@ -22,3 +22,4 @@
 - "sometimes the best way to solve your own problems is by helping someone else" (uncle iroh)
 - "good times become good memories, but bad times make good lessons" (uncle iroh)
 - "hope is something you give yourself" (uncle iroh)
+- "don't ever, for any reason, do anything to anyone for any reason ever, no matter what, no matter where, or who, or who you are with, or where you are going, or where you've been... ever, for any reason whatsoever..." (michael scott)
