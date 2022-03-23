@@ -1,0 +1,50 @@
+# System Design Primer
+
+- CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan: https://www.youtube.com/watch?v=-W9F__D3oY4
+  - SFTP (SSH File Transfer Protocol) vs FTP (File Transfer Protocol), S means secured which is encrypted.
+    - FTP is dangerous because if transferring usernames and passwords.
+  - VPS (Virtual Private Server) vs Shared Web Host.
+    - Don't need to share resources as opposed to a shared web host, great for businesses.
+    - Generally pay more for a VPS vs a Shared Web Host.
+  - Amazon Web Services allow automation to create more VPS if for some reason your website gets popular cause of Reddit.
+  - What is vertical scaling? (1 strong server)
+    - Throwing money at the problem.
+    - More RAM, more CPU power.
+    - There's a ceiling to this by what's the best hardware at the time unfortunately.
+  - What is horizontal scaling? (A lot of okay servers)
+    - Accepting the ceiling, architect the hardware and make sure with what we have.
+    - More servers.
+    - Requests could be bunched up to 1 server unfortunately.
+  - What is a load balancer?
+    - Man in the middle.
+    - Allows for client requests to be sent to the load balancer IP address in turn allows the load balancer to find an available server IP address to return.
+    - A fancy DNS server that returns a specific server depending on what packets are being sent by the client.
+      - A DNS server's whole purpose is to translate host names to IPs and vice versa.
+  - How does a load balancer choose which server to send the request to?
+    - Based on load of server, which is the least busiest?
+    - Requests to which server could be affected by what the server holds.
+      - For example we could have servers be identical and thus supply for everyone what one needs, but we have redundant and limited space.
+      - We could have servers be dedicated to certain files such as 1 server for html files, another server for image files.
+        - This would be achieved with URLs.
+        - `html.something.com`
+        - `images.something.com`
+  - Round robin is a term where it returns server 1, then if that's taken, server 2, and till n then back to 1.
+    - Simple to have, no fancy bi-directional communication.
+    - By bad luck, we could potentially have server 1 have more heavyweight clients with the rest being fine. (1/n chance of this happening, n being the number of servers)
+      - Caching could potentially contribute to this too since browsers and machines usually cache the IPs packets are being sent to.
+  - Cookies are client-side files that hold user information.
+  - Sessions are server-side files that hold user information.
+  - If round robin is used, but sessions are being used, different user information could be held now for the same user.
+    - If I login to a website, next time I log in, I could be asked to login to the website again because my session data could be on server 1 vs server 2.
+  - Could have a server that could be dedicated to sessions that is connected to all the servers, a way to share state.
+    - Client => Load balancer => Session Server => Back-end servers?
+  - Could have the session server hard drive be with the load balancer too.
+    - Trouble is that if the load balancer/session server dies, we lose so much data, users have to re-log and a lot of links are broken now to the back-end servers.
+  - Instead of holding session data in a hard drive, we could hold it in something called RAID.
+    - RAID means redundant array of independent disks.
+  - There's RAID0, RAID1, RAID5, RAID6, RAID10.
+    - Can be used assuming there's multiple hard drives.
+  - Striping allows writing data (only portions, but makes a whole altogether) in multiple hard drives to be efficient.
+  - Redundancy allows writing data in multiple hard drives, though lacks efficiency, makes up for safety in case 1 drive dies, the other can recover, and can buy a new drive to replicate data.
+  - RAID allows for hardware to fail and as long as RAID is working and there's redundancy, data can be saved and avoid down time.
+  - Back-end servers can hold cookies as well! It's not like we can't.

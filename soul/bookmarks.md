@@ -53,6 +53,7 @@
 ## material gear
 
 - aesthetic lofi mood: https://www.inthemoodfor.net/
+- anime gym clothes: https://invictakuru.com
 - cute space: https://meyoco.art/
 - midi fighter: https://store.djtechtools.com/products/midi-fighter-3d
 - vaporwave clothing: https://www.astralthrob.com/
