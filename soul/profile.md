@@ -11,30 +11,31 @@
 
 - 1:05 am
 - sun (planet of self): libra
-  - careful, someone who takes time to develop something
+  - careful
   - charismatic
-  - first impressions are big for yourself and for others
-  - weighs all possibilities before making a decision
+  - first impressions
+  - takes time
+  - weighs all possibilities
 - moon (planet of emotions): virgo
-  - approached inner-self in a practical way
-  - has huge standards for self
-  - tries to use logic and organization for themselves
+  - high standards
+  - logical
+  - practical
 - mercury (planet of communication): scorpio
   - can take things personally when spoken to a certain way
   - emotional intelligence when communicating with others
   - incredibly witty
-  - many of their talking topics are fueled by passion
+  - passionate
 - venus (planet of love): virgo
-  - logic
+  - logical
   - looks for a partner that is stable, conscious about their surroundings
   - loyal partner
   - organization
 - mars (planet of passion): scorpio
   - fueled by passion and mystery
-  - incredibly indulgent in what they love
-  - greatly values privacy
+  - incredibly indulgent
+  - values privacy
 - jupiter (planet of luck): libra
-  - maintaining peace and harmony comes easy to you
+  - peace and harmony comes easy to you
   - loves to maintain balance
 - saturn (planet of karma): aquarius
   - can struggle with self image

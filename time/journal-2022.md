@@ -554,7 +554,42 @@
 
 # 3-29
 
+- `Pycharm` vs `VS Code`?
+  - In terms of `Python`, use `Pycharm`.
+  - In terms of customizability and full language use, use `VS Code`.
+- What's an `AVSC` file?
+  - An Apache Avro Schema.
+- What's a schema?
+  - A blueprint of what data is supposed to be in there.
+- What's in an `AVSC`?
+  - "type"
+    - "record"
+  - "name"
+    - Seems like you can put anything here.
+  - "namespace"
+    - Seems like references to other things?
+    - "com.hello.fuse.model.Detection.Detection"
+  - "fields"
+    - Holds an object with properties "name" and "type".
+
 # 3-28
+
+- In `JavaScript`, one can combine objects like so:
+
+```js
+const newObject = { ...object1, ...object2 };
+// Whatever is in object2 will overwrite object1 if they have the same property keys.
+```
+
+- What is an object really?
+  - They are associative arrays.
+  - They store properties.
+  - These properties are usually depicted by key to value pairs.
+- Working on a new project where we get raw data => JSON => CSV/AVRO
+  - Raw data => ???
+  - JSON => JavaScript Object Notation (Human-readable text to store and transmit data objects)
+  - CSV => Comma Separated Values (Stores values in a spreadsheet-like way)
+  - Avro => Data serialization framework (Similar to JSON and XML, but it's in binary format designed for speed, not human readable)
 
 # 3-27
 
