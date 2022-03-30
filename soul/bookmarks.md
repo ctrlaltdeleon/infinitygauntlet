@@ -88,6 +88,35 @@
 
 - voice ui: https://nerdordie.com/product/voice-ui-alert-sounds/
 
+## study places
+
+last updated: 2022-03-30
+
+- camellia rd
+  - sunday 11AM–8PM
+  - monday closed
+  - tuesday 12–8PM
+  - wednesday 12–8PM
+  - thursday 12–8PM
+  - friday 11AM–9PM
+  - saturday 11AM–9PM
+- kung fu tea
+  - sunday 11AM–10PM
+  - monday 11AM–10PM
+  - tuesday 11AM–10PM
+  - wednesday 11AM–10PM
+  - thursday 11AM–10PM
+  - friday 11AM–11PM
+  - saturday 11AM–11PM
+- tea n more
+  - sunday 11AM–10PM
+  - monday 11AM–10PM
+  - tuesday 11AM–10PM
+  - wednesday 11AM–10PM
+  - thursday 11AM–10PM
+  - friday 11AM–12AM
+  - saturday 11AM–12AM
+
 ## tattoo artists
 
 - rockyhowetattoo

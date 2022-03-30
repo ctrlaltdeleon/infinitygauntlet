@@ -562,15 +562,21 @@
 - What's a schema?
   - A blueprint of what data is supposed to be in there.
 - What's in an `AVSC`?
-  - "type"
-    - "record"
-  - "name"
+  - `"type"`
+    - `"record"`
+    - `["double", "null"]`
+    - `["string", "null"]`
+    - `[ {...}, "null" ]`
+  - `"name"`
     - Seems like you can put anything here.
-  - "namespace"
+  - `"namespace"`
     - Seems like references to other things?
     - "com.hello.fuse.model.Detection.Detection"
-  - "fields"
-    - Holds an object with properties "name" and "type".
+  - `"fields"`
+    - Seems to always be an array of objects?
+    - Holds an object with properties `"name"` and `"type"`.
+- How to install packages into `Pycharm`?
+  - There's a tab at the bottom called "Python Packages".
 
 # 3-28
 
