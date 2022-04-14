@@ -1,30 +1,23 @@
-# How to Build a PC
+- [Introduction](#introduction)
+- [Case](#case)
+- [Central Process Unit (CPU)](#central-process-unit-cpu)
+- [CPU Cooler](#cpu-cooler)
+- [Graphics Processing Unit (GPU)](#graphics-processing-unit-gpu)
+- [Memory (RAM)](#memory-ram)
+- [Motherboard](#motherboard)
+- [Peripherals](#peripherals)
+  - [Headset](#headset)
+  - [Keyboard](#keyboard)
+  - [Microphone](#microphone)
+  - [Monitor](#monitor)
+  - [Mouse](#mouse)
+- [Power Supply Unit (PSU)](#power-supply-unit-psu)
+- [Storage](#storage)
+- [Extras](#extras)
+- [Conclusion](#conclusion)
+  - [My Take](#my-take)
 
-Last updated: 2021-09-08
-
-## Chapters
-
-1. Introduction
-2. What parts to choose first?
-3. Case
-4. Central Processing Unit (CPU)
-   1. CPU Cooler
-5. Graphics Processing Unit (GPU)
-6. Memory (RAM)
-7. Motherboard
-8. Peripherals
-   1. Headset
-   2. Keyboard
-   3. Microphone
-   4. Monitor
-   5. Mouse
-   6. Mousepad
-9. Power Supply Unit (PSU)
-10. Storage
-11. Extras
-12. Conclusion
-
-## 1: Introduction
+# Introduction
 
 - A guide of how to build a PC.
 - I highly recommend using `pcpartpicker.com` for reference.
@@ -32,7 +25,7 @@ Last updated: 2021-09-08
 - Always consider your budget.
 - Compare benchmarks when unsure with two parts of the same kind. (2 CPUs for example.)
 
-## 2: What parts to choose first?
+#What parts to choose first?
 
 - Do you care about aesthetics?
   - Case.
@@ -43,7 +36,7 @@ Last updated: 2021-09-08
 - Why not choose other parts first?
   - The three above are the most important as opposed to the other parts.
 
-## 3: Case
+# Case
 
 - There are 4 different types of cases:
   - Small form factor. (Mini-ITX)
@@ -64,7 +57,7 @@ Last updated: 2021-09-08
   - Size.
     - How much desk space do you have?
 
-## 4: Central Process Unit (CPU)
+# Central Process Unit (CPU)
 
 - What to consider?
   - Brand.
@@ -72,7 +65,7 @@ Last updated: 2021-09-08
   - Generation, cores, threads, clock speed. (In that respective order.)
     - How much work will you be doing?
 
-## 4.1: CPU Cooler
+# CPU Cooler
 
 - There are a few different types of cooling methods.
   - Air.
@@ -83,7 +76,7 @@ Last updated: 2021-09-08
   - Clearance.
     - Is this going to fit in the case?
 
-## 5: Graphics Processing Unit (GPU)
+# Graphics Processing Unit (GPU)
 
 - What to consider?
   - Brand.
@@ -101,7 +94,7 @@ Last updated: 2021-09-08
   - Monitor.
     - Will the GPU provide the necessary power and specs to make your monitor used at the full potential? (Think about this vice versa too.)
 
-## 6: Memory (RAM)
+# Memory (RAM)
 
 - What to consider?
   - CAS latency.
@@ -111,7 +104,7 @@ Last updated: 2021-09-08
   - Memory channels.
     - What communication do you want with the RAM to the CPU? (2 sticks of RAM or more generally recommended to utilize dual channel.)
 
-## 7: Motherboard
+# Motherboard
 
 - What to consider?
   - Chipset.
@@ -129,16 +122,16 @@ Last updated: 2021-09-08
   - Socket.
     - Does the CPU you want fit with the motherboard and vice versa?
 
-## 8: Peripherals
+# Peripherals
 
-## 8.1: Headset
+## Headset
 
 - What to consider?
   - Comfort.
     - Do you want an earphone/microphone combo?
     - Will you be fine with this on your head for long amounts of time?
 
-## 8.2: Keyboard
+## Keyboard
 
 - Different types for keyboards:
   - Mechanical.
@@ -180,14 +173,14 @@ Last updated: 2021-09-08
   - Sound.
     - Do you want your key presses to be loud (mechanical), sharp, quiet, etc.?
 
-## 8.3: Microphone
+## Microphone
 
 - What to consider?
   - Input.
     - Do you want a microphone to pick up everything or only just your voice?
     - Would you want to use a headset microphone or a separate dedicated microphone?
 
-## 8.4: Monitor
+## Monitor
 
 - Different panel types for monitors:
   - Do you want your games to have the most accurate perceived color?
@@ -213,7 +206,7 @@ Last updated: 2021-09-08
 - Use this to detect dead pixels.
   - http://lcdtech.info/en/tests/dead.pixel.htm
 
-## 8.5: Mouse
+## Mouse
 
 - What to consider?
   - Buttons.
@@ -223,7 +216,7 @@ Last updated: 2021-09-08
   - Portability.
     - Do you want a wired or wireless mouse?
 
-## 9: Power Supply Unit (PSU)
+# Power Supply Unit (PSU)
 
 - There are 6 different types of "80 Plus" certifications. (Program to identify efficient energy use.)
   - 80 Plus.
@@ -242,7 +235,7 @@ Last updated: 2021-09-08
   - Modularity.
     - Do you want to be able to remove wires and stick with the wires already attached?
 
-## 10: Storage
+# Storage
 
 - What to consider?
   - Size.
@@ -250,7 +243,7 @@ Last updated: 2021-09-08
   - Speed.
     - Do you want to use a NVM Express/SSD to speed up applications, including the operating system, at a price?
 
-## 11: Extras
+# Extras
 
 - What to consider?
   - Operating System.
@@ -258,11 +251,11 @@ Last updated: 2021-09-08
   - RGB.
     - Do you want computer parts to light up at night?
 
-## 12: Conclusion
+# Conclusion
 
 - Thank you.
 
-## 12.1: My Take
+## My Take
 
 - I would go for case first since I'm a minimal person.
 - Currently have NZXT H1.

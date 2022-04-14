@@ -1,19 +1,13 @@
-# How to Apologize
+- [Introduction](#introduction)
+- [Instructions](#instructions)
+- [Conclusion](#conclusion)
+  - [My Take](#my-take)
 
-Last updated: 2022-03-13
-
-## Chapters
-
-1. Introduction
-2. Instructions
-3. Conclusion
-   1. My Take
-
-## 1: Introduction
+# Introduction
 
 - A guide of how to apologize.
 
-## 2: Instructions
+# Instructions
 
 - Approach with authenticity and a goal.
   - You hurt someone and you're trying to fix it.
@@ -28,10 +22,10 @@ Last updated: 2022-03-13
 - Optional (depends on timing). Ask if they'll forgive you.
   - "I hope you can forgive me, and again, I'm sorry."
 
-## 4: Conclusion
+# Conclusion
 
 - Thank you.
 
-## 4.1: My Take
+## My Take
 
 - Give people space, but be clear in your intention.

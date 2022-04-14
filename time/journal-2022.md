@@ -548,6 +548,9 @@
 
 # 4-1
 
+- What is circular importing?
+  - When a package you're importing and the file name are the same.
+
 # 3-31
 
 # 3-30

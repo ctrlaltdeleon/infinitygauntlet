@@ -1,19 +1,13 @@
-# How to Clean a Deskmat
+- [Introduction](#introduction)
+- [Instructions](#instructions)
+- [Conclusion](#conclusion)
+  - [My Take](#my-take)
 
-Last updated: 2021-09-09
-
-## Chapters
-
-1. Introduction
-2. Instructions
-3. Conclusion
-   1. My Take
-
-## 1: Introduction
+# Introduction
 
 - A guide of how to clean a deskmat.
 
-## 2: Instructions
+# Instructions
 
 - Put deskmat in bathtub.
   - Grippy side on the bottom.
@@ -26,10 +20,10 @@ Last updated: 2021-09-09
 - Dry with towel.
 - Done!
 
-## 3: Conclusion
+# Conclusion
 
 - Thank you.
 
-## 3.1: My Take
+## My Take
 
 - N/A
