@@ -553,6 +553,27 @@
 
 # 3-31
 
+- Why use `lambda` functions? (Also known as `anonymous functions`)
+
+```py
+# Imagine...
+
+def key(x):
+    return x[1]
+
+# Appears 300 lines away from...
+
+[(1,2), (3,1), (5,10), (11,-3)].sort(key)
+
+# What does key do? There's really no indication.
+
+[(1,2), (3,1), (5,10), (11,-3)].sort(lambda x: x[1])
+
+# This shows clearly, "oh, it sorts by the the x[1] value of each tuple within the list.
+# We expect -3, 1, 2, 10 which is the result.
+# Result: [(11, -3), (3, 1), (1, 2), (5, 10)]
+```
+
 # 3-30
 
 # 3-29

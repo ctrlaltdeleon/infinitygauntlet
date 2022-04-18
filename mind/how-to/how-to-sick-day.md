@@ -1,19 +1,13 @@
-# How to Template
+- [Introduction](#introduction)
+- [Instructions](#instructions)
+- [Conclusion](#conclusion)
+  - [My Take](#my-take)
 
-Last updated: 2022-03-19
-
-## Chapters
-
-1. Introduction
-2. Instructions
-3. Conclusion
-   1. My Take
-
-## 1: Introduction
+# Introduction
 
 - A guide of how to sick day.
 
-## 2: Instructions
+# Instructions
 
 - State the reason.
   - I'm not feeling well this morning.
@@ -31,10 +25,10 @@ Last updated: 2022-03-19
 - Thank them for their time.
   - Thank you.
 
-## 3: Conclusion
+# Conclusion
 
 - Thank you.
 
-## 3.1: My Take
+## My Take
 
 - N/A

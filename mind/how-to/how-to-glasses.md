@@ -1,26 +1,20 @@
-# How to Glasses
+- [Introduction](#introduction)
+- [What Things to Consider?](#what-things-to-consider)
+- [Frames](#frames)
+- [Lenses](#lenses)
+  - [Usage](#usage)
+  - [Prescription](#prescription)
+  - [Color Type](#color-type)
+  - [Coatings](#coatings)
+- [Conclusion](#conclusion)
+  - [My Take](#my-take)
 
-Last updated: 2022-03-13
-
-## Chapters
-
-1. Introduction
-2. What Things to Consider?
-3. Frames
-4. Lenses
-   1. Usage
-   2. Prescription
-   3. Color Type
-   4. Coatings
-5. Conclusion
-   1. My Take
-
-## 1: Introduction
+# Introduction
 
 - A guide of how to glasses.
 - I recommend `eyebuydirect` to purchase said glasses, to get $10 off your purchase use my referral code, `IF8256FGN3`!
 
-## 2: What Things to Consider?
+# What Things to Consider?
 
 - How long ago was your eye exam?
   - If you're in this age:
@@ -36,15 +30,15 @@ Last updated: 2022-03-13
       - Every 1-3 years or so.
   - And of course if you feel something wrong with your eyes, do an eye exam.
 
-## 3: Frames
+# Frames
 
 - Frames can take many shapes, rectangular, oval, and more.
 
-## 4: Lenses
+# Lenses
 
 - There a lot of options for these, so I'll try to explain it thoroughly.
 
-## 4.1: Usage
+## Usage
 
 - What will you be using these glasses for?
   - Distance.
@@ -56,7 +50,7 @@ Last updated: 2022-03-13
   - Non-prescription.
     - Aesthetic.
 
-## 4.2: Prescription
+## Prescription
 
 - What are the different edits for the prescription?
   - OD.
@@ -70,7 +64,7 @@ Last updated: 2022-03-13
   - Axis.
     - Measured between 1° and 180° to tell orientation of the
 
-## 4.3: Color Type
+## Color Type
 
 - What color type lenses would you want?
   - Clear.
@@ -82,7 +76,7 @@ Last updated: 2022-03-13
   - Light adjusting.
     - Lenses that darken when exposed to outside light and remain clear inside.
 
-## 4.4: Coatings
+## Coatings
 
 - What different types of coatings are there?
   - Anti-scratch.
@@ -94,10 +88,10 @@ Last updated: 2022-03-13
   - UV Protective Coating.
     - Guards against UVA/UVB rays (Not needed as most lenses have great protection anyways, this is really more if you're exposed to the sun all the time).
 
-## 5: Conclusion
+# Conclusion
 
 - Thank you.
 
-## 5.1: My Take
+## My Take
 
 - Consider shipping on certain websites do affect the selection of frames and lenses.

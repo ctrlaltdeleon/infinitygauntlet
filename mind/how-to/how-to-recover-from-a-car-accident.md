@@ -1,18 +1,14 @@
-# How to Recover From a Car Accident
+- [Introduction](#introduction)
+- [Initial Impact](#initial-impact)
+- [Insurance](#insurance)
+- [Conclusion](#conclusion)
+  - [My Take](#my-take)
 
-Last updated: 2022-03-13
-
-1. Introduction
-2. Initial Impact
-3. Insurance
-4. Conclusion
-   1. My Take
-
-## 1: Introduction
+# Introduction
 
 - A guide of how to recover from a car accident.
 
-## 2: Initial Impact
+# Initial Impact
 
 - Drive to an available area, keep calm, stay safe.
 - Based on your discretion, call the police.
@@ -23,7 +19,7 @@ Last updated: 2022-03-13
   - Driver's License.
   - Insurance information.
 
-## 3: Insurance
+# Insurance
 
 - File claim with your insurance.
   - Other insurance may contact you, but have them speak with your insurance always to save your buttocks.
@@ -31,11 +27,11 @@ Last updated: 2022-03-13
   - Pictures or videos of the environment.
   - Police report.
 
-## 4: Conclusion
+# Conclusion
 
 - Thank you.
 
-## 4.1: My Take
+## My Take
 
 - Breathe!
 - File a report of traffic accident (SR-1) if you're in California with the DMV.

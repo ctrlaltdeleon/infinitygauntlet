@@ -1,19 +1,13 @@
-# How to Jump Start a Car
+- [Introduction](#introduction)
+- [Instructions](#instructions)
+- [Conclusion](#conclusion)
+  - [My Take](#my-take)
 
-Last updated: 2022-03-14
-
-## Chapters
-
-1. Introduction
-2. Instructions
-3. Conclusion
-   1. My Take
-
-## 1: Introduction
+# Introduction
 
 - A guide of how to jump start a car.
 
-## 2: Instructions
+# Instructions
 
 - Bring a working car to the dead car.
 - Turn off both vehicles.
@@ -38,10 +32,10 @@ Last updated: 2022-03-14
 - Remove **red clamp** from **working car**.
 - Remove **black** clamp from **working car**.
 
-## 3: Conclusion
+# Conclusion
 
 - Thank you.
 
-## 3.1: My Take
+## My Take
 
 - N/A

@@ -1,21 +1,15 @@
-# How To Cook Bulgogi
+- [Introduction](#introduction)
+- [Ingredients](#ingredients)
+- [Preparation](#preparation)
+- [Cooking](#cooking)
+- [Conclusion](#conclusion)
+  - [My Take](#my-take)
 
-Last updated: 2022-03-13
-
-## Chapters
-
-1. Introduction
-2. Ingredients
-3. Preparation
-4. Cooking
-5. Conclusion
-   1. My Take
-
-## 1: Introduction
+# Introduction
 
 - A guide of how to cook bulgogi.
 
-## 2: Ingredients
+# Ingredients
 
 1. 1 lb ground beef.
 2. 1 onion.
@@ -30,7 +24,7 @@ Last updated: 2022-03-13
 11. Soy sauce.
 12. Sugar.
 
-## 3: Preparation
+# Preparation
 
 1. In a big bowl:
    1. 1 lb ground beef.
@@ -45,7 +39,7 @@ Last updated: 2022-03-13
    10. Mix.
 2. Chop 3 green onions.
 
-## 4: Cooking
+# Cooking
 
 1. Put pan to medium-high heat.
 2. Oil up the pan.
@@ -57,11 +51,11 @@ Last updated: 2022-03-13
 8. Add sesame seeds.
 9. Serve.
 
-## 5: Conclusion
+# Conclusion
 
 - Thank you.
 
-## 5.1: My Take
+## My Take
 
 - I would go for a cut meat such as brisket or ribeye rather than ground beef.
   - In return requires the meat to be marinated for 30 minutes to overnight in the fridge for flavor to stick to the meat.

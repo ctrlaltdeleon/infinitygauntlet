@@ -1,39 +1,35 @@
-# How to Skin Care
+- [Introduction](#introduction)
+- [Understanding Your Skin Type](#understanding-your-skin-type)
+  - [Dry](#dry)
+  - [Oily](#oily)
+  - [Seasonal](#seasonal)
+  - [Combination](#combination)
+  - [Normal](#normal)
+- [Skin Proclivities](#skin-proclivities)
+  - [Sensitivity](#sensitivity)
+  - [Pigmentation](#pigmentation)
+  - [Wrinkles](#wrinkles)
+- [Skin Conditions](#skin-conditions)
+  - [Dehydration](#dehydration)
+  - [Acne](#acne)
+- [Having the Right Mindset](#having-the-right-mindset)
+- [Create a Reasonable Budget](#create-a-reasonable-budget)
+- [Components to the Routine](#components-to-the-routine)
+  - [Cleanser](#cleanser)
+  - [Toner](#toner)
+  - [Moisturizer](#moisturizer)
+  - [Sunscreen](#sunscreen)
+- [Starting the Routine](#starting-the-routine)
+  - [Where to Start](#where-to-start)
+  - [Adding New Products](#adding-new-products)
+- [Conclusion](#conclusion)
+  - [My Take](#my-take)
 
-Last updated: 2022-03-13
-
-1. Introduction
-2. Figuring Out Your Skin Type
-   1. Dry
-   2. Oily
-   3. Seasonal
-   4. Combination
-   5. Normal
-3. Skin Proclivities
-   1. Sensitivity
-   2. Pigmentation
-   3. Wrinkles
-4. Skin Conditions
-   1. Dehydration
-   2. Acne
-5. Having the Right Mindset
-6. Create a Reasonable Budget
-7. Components to the Routine
-   1. Cleanser
-   2. Toner
-   3. Moisturizer
-   4. Sunscreen
-8. Starting the Routine
-   1. Where to Start
-   2. Adding New Products
-9. Conclusion
-   1. My Take
-
-## 1: Introduction
+# Introduction
 
 - A guide of how to skin care.
 
-## 2: Understanding Your Skin Type
+# Understanding Your Skin Type
 
 - There are 5 types of skin types:
   - Dry.
@@ -42,7 +38,7 @@ Last updated: 2022-03-13
   - Combination.
   - Normal.
 
-## 2.1: Dry
+## Dry
 
 - What is it?
   - Dry skin under-produces sebum, the skin's natural oil.
@@ -54,7 +50,7 @@ Last updated: 2022-03-13
   - Use facial oils to help augment your natural oils.
   - Use heavier creams that lock moisture into your skin and prevent it from evaporating.
 
-## 2.2: Oily
+## Oily
 
 - What is it?
   - Oily skin over-produces sebum.
@@ -64,7 +60,7 @@ Last updated: 2022-03-13
 - What should you do about it?
   - Use low-pH foaming cleansers as high-pH gives a better environment for acne to flourish.
 
-## 2.3: Seasonal
+## Seasonal
 
 - What is it?
   - Dry in cold months, oily in warm months.
@@ -73,7 +69,7 @@ Last updated: 2022-03-13
 - What should you do about it?
   - Two different skin routines, based on the previous sections.
 
-## 2.4: Combination
+## Combination
 
 - What is it?
   - Dry and oily, in different sections of the face.
@@ -83,7 +79,7 @@ Last updated: 2022-03-13
   - Use your light, water-based serums and gels all over, then just use a rich cream on your cheeks.
   - Use a beta hydroxy acid (BHA) (for oily skin, degunks pores) on your nose and forehead and an alpha hydroxy acid (AHA) (for dry skin, unglues dead skin) on your chin and jawline.
 
-## 2.5: Normal
+## Normal
 
 - What is it?
   - Sebum is optimized for you!
@@ -93,11 +89,11 @@ Last updated: 2022-03-13
 - What should you do about it?
   - Have a party, congrats!
 
-## 3: Skin Proclivities
+# Skin Proclivities
 
 - What your skin is prone to.
 
-## 3.1: Sensitivity
+## Sensitivity
 
 - What is it?
   - When the skin is more prone to irritation or inflammation from alcochol, fragrance, pH levels, etc.
@@ -106,7 +102,7 @@ Last updated: 2022-03-13
 - What should you do about it?
   - Variable depending on problem, but all leads to changing a product or using a new product.
 
-## 3.2: Pigmentation
+## Pigmentation
 
 - What is it?
   - When the skin is more prone to produce melanin.
@@ -115,7 +111,7 @@ Last updated: 2022-03-13
 - What should you do about it?
   - Sunscreen.
 
-## 3.3: Wrinkles
+## Wrinkles
 
 - What is it?
   - When the skin is more prone to develop fine lines and wrinkles.
@@ -126,11 +122,11 @@ Last updated: 2022-03-13
   - Collagen products.
   - Avoid the sun altogether!
 
-## 4: Skin Conditions
+# Skin Conditions
 
 - These are curable, temporary states that are currently affecting your skin.
 
-## 4.1: Dehydration
+## Dehydration
 
 - What is it?
   - When the skin is low on ceramides, cholesterol, and fatty acids.
@@ -139,7 +135,7 @@ Last updated: 2022-03-13
 - What should you do about it?
   - Reduce pH, less exfoliation, less sun, moisturizer, water-based toner/serum.
 
-## 4.2: Acne
+## Acne
 
 - What is it?
   - When the skin is high on oils, dead skin cells, and bacteria.
@@ -148,50 +144,50 @@ Last updated: 2022-03-13
 - What should you do about it?
   - Stop touching it, put a cover over it to prevent touching.
 
-## 5: Having the Right Mindset
+# Having the Right Mindset
 
 - There are no miracle products or brands.
 - Everyone is different.
 - Realistic expectations.
 
-## 6: Create a Reasonable Budget
+# Create a Reasonable Budget
 
 - This isn't a one-time expense, it becomes a spending habit.
 
-## 7: Components to the Routine
+# Components to the Routine
 
-## 7.1: Cleanser
+## Cleanser
 
 - Cleans off sweat, oil, bacteria, and dirt.
 
-## 7.2: Toner
+## Toner
 
 - Balances the pH levels on your skin.
 
-## 7.3: Moisturizer
+## Moisturizer
 
 - Nourishes the skin and improves the skin's barrier.
 
-## 7.4: Sunscreen
+## Sunscreen
 
 - Prevents skin cancer, fine lines, and hyperpigmentation.
 
-## 8: Starting the Routine
+# Starting the Routine
 
-## 8.1: Where to Start
+## Where to Start
 
 - Start with a cleanser, moisturizer, and sunscreen.
 - Switch these out as reasonable to figure out what you like.
 
-## 8.2: Adding New Products
+## Adding New Products
 
 - Go 1 product at a time for a week to test what happens to your skin and address accordingly.
 
-## 9: Conclusion
+# Conclusion
 
 - Thank you.
 
-## 9.1: My Take
+## My Take
 
 - The products I use are:
   - Cerave Hydrating Face Wash. (Cleanser)

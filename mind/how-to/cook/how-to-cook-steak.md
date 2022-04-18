@@ -1,21 +1,15 @@
-# How to Cook Steak
+- [Introduction](#introduction)
+- [Ingredients](#ingredients)
+- [Preparation](#preparation)
+- [Cooking](#cooking)
+- [Conclusion](#conclusion)
+  - [My Take](#my-take)
 
-Last updated: 2022-03-13
-
-## Chapters
-
-1. Introduction
-2. Ingredients
-3. Preparation
-4. Cooking
-5. Conclusion
-   1. My Take
-
-## 1: Introduction
+# Introduction
 
 - A guide of how to cook steak.
 
-## 2: Ingredients
+# Ingredients
 
 1. Butter.
 2. Salt.
@@ -24,11 +18,11 @@ Last updated: 2022-03-13
 5. Rosemary.
 6. Thyme.
 
-## 3: Preparation
+# Preparation
 
 1. Salt and pepper the steak.
 
-## 4: Cooking
+# Cooking
 
 1. Put pan to medium-high heat.
 2. Oil up the pan.
@@ -41,10 +35,10 @@ Last updated: 2022-03-13
 9. Cook for 8 minutes and baste the steak with the butter.
 10. Serve.
 
-## 5: Conclusion
+# Conclusion
 
 - Thank you.
 
-## 5.1: My Take
+## My Take
 
 - N/A

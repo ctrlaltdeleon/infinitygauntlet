@@ -1,45 +1,39 @@
-# How to Teeth Care
+- [Introduction](#introduction)
+- [Toothbrush](#toothbrush)
+- [Toothpastes](#toothpastes)
+- [Mouthwash](#mouthwash)
+- [Floss](#floss)
+- [Conclusion](#conclusion)
+  - [My Take](#my-take)
 
-Last updated: 2022-03-13
-
-## Chapters
-
-1. Introduction
-2. Toothbrush
-3. Toothpaste
-4. Mouthwash
-5. Floss
-6. Conclusion
-   1. My Take
-
-## 1: Introduction
+# Introduction
 
 - A guide of how to teeth care.
 
-## 2: Toothbrush
+# Toothbrush
 
 - Electric.
   - Get something that actually moves than vibrates slowly.
 
-## 3: Toothpastes
+# Toothpastes
 
 - Fluoride.
 - If sensitive teeth, potassium nitrate.
 
-## 4: Mouthwash
+# Mouthwash
 
 - Fluoride.
 - If bad breath, Scope is best.
 
-## 5: Floss
+# Floss
 
 - Strings are best.
 - Make sure you're scraping the plaque off, even behind the teeth,
 
-## 6: Conclusion
+# Conclusion
 
 - Thank you.
 
-## 6.1: My Take
+## My Take
 
 - See a dentist!

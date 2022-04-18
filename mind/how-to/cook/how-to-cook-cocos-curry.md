@@ -1,21 +1,15 @@
-# How to Cook Coco's Curry
+- [Introduction](#introduction)
+- [Ingredients](#ingredients)
+- [Preparation](#preparation)
+- [Cooking](#cooking)
+- [Conclusion](#conclusion)
+  - [My Take](#my-take)
 
-Last updated: 2022-03-13
-
-## Chapters
-
-1. Introduction
-2. Ingredients
-3. Preparation
-4. Cooking
-5. Conclusion
-   1. My Take
-
-## 1: Introduction
+# Introduction
 
 - A guide of how to cook Coco's curry.
 
-## 2: Ingredients
+# Ingredients
 
 1. 1 carrot.
 2. 1 onion.
@@ -27,14 +21,14 @@ Last updated: 2022-03-13
 8. Honey.
 9. Soy sauce.
 
-## 3: Preparation
+# Preparation
 
 1. In a bowl:
 1. 1 onion, chopped.
 1. 1 carrot, chopped.
 1. 5 cloves of garlic, minced.
 
-## 4: Cooking
+# Cooking
 
 1. Put pan to medium heat.
 2. Oil up the pan.
@@ -49,10 +43,10 @@ Last updated: 2022-03-13
 11. Add 1/2 ts garam masala.
 12. Serve.
 
-## 5: Conclusion
+# Conclusion
 
 - Thank you.
 
-## 5.1: My Take
+## My Take
 
 - N/A
