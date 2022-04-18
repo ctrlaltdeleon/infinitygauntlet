@@ -1,10 +1,13 @@
-# Front-end Developer Handbook 2019
+- [The Practice of Front-end Development: Overview](#the-practice-of-front-end-development-overview)
+  - [How Front-end Developers Are Made](#how-front-end-developers-are-made)
+  - [Front-end Job Titles](#front-end-job-titles)
+  - [Baseline Web Technologies Employed by Front-end Developers](#baseline-web-technologies-employed-by-front-end-developers)
 
-## 2: The Practice of Front-end Development: Overview
+# The Practice of Front-end Development: Overview
 
 - This chapter will break down and broadly describes the practice of front-end engineering starting with, "How Front-end Developers Are Made".
 
-### 2.1: How Front-end Developers Are Made
+## How Front-end Developers Are Made
 
 - LINK: https://frontendmasters.com/books/front-end-handbook/2019/assets/images/frontend.png
 - Most of the people working on the front-end today generally seem to be self-taught from the ground up or cross over into the front-end space from design or computer science fields.
@@ -25,7 +28,7 @@
 - When getting your start, you should fear most things that conceal complexity.
   - Abstractions (e.g. jQuery) in the wrong hands can give the appearance of advanced skills, while all the time hiding the fact that a developer has an inferior understanding of the basics or underlying concepts.
 
-### 2.2: Front-end Job Titles
+## Front-end Job Titles
 
 - Front-end Developer:
   - The generic job title that describes a developer who is skilled to some degree at HTML, CSS, DOM, and JavaScript and implementing these technologies on the web platform.
@@ -48,6 +51,6 @@
 - Front-end Testing/QA:
   - When the word "Testing" or "QA" is included in the job title, this will denote that the developer has extensive experience testing and managing software that involves unit testing, functional testing, user testing, and A/B testing.
 
-### 2.3: Baseline Web Technologies Employed by Front-end Developers
+## Baseline Web Technologies Employed by Front-end Developers
 
-#### BOOKMARK
+BOOKMARK

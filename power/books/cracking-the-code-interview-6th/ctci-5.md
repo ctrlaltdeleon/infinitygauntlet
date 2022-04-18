@@ -1,8 +1,14 @@
-# Cracking The Coding Interview
+- [Behavioral Questions](#behavioral-questions)
+  - [Interview Preparation Grid](#interview-preparation-grid)
+  - [What Are Your Weaknesses?](#what-are-your-weaknesses)
+  - [What Questions Should You Ask the Interviewer?](#what-questions-should-you-ask-the-interviewer)
+  - [Know Your Technical Projects](#know-your-technical-projects)
+  - [Responding to Behavioral Questions](#responding-to-behavioral-questions)
+  - [So Tell Me About Yourself...](#so-tell-me-about-yourself)
 
-## 5: Behavioral Questions
+# Behavioral Questions
 
-### Interview Preparation Grid
+## Interview Preparation Grid
 
 - Have 3 separate projects for each of the common questions.
   - Challenges.
@@ -12,7 +18,7 @@
   - Conflicts.
   - What You'd Do Differently.
 
-### What Are Your Weaknesses?
+## What Are Your Weaknesses?
 
 - Give a real weakness.
   - "Attention to detail, due to that I need someone to check my work."
@@ -21,7 +27,7 @@
   - "It takes me a bit to know people and situations before I weigh in on something they're discussing. I'm usually listening and analyzing, but when I contribute I make it worthwhile and sometimes it takes a while to find that balance for me."
 - Also could be treated as "Where do you need to improve?"
 
-### What Questions Should You Ask the Interviewer?
+## What Questions Should You Ask the Interviewer?
 
 - Genuine questions:
   - "What is the ratio of testers to devs to program managers?"
@@ -34,7 +40,7 @@
   - "I can see the areas of growth here, but what about in the future?"
   - "I'm not familiar with tech X, could you tell me more?"
 
-### Know Your Technical Projects
+## Know Your Technical Projects
 
 - Focus on 2 or 3 technical projects to master.
 - Be able to talk about:
@@ -44,7 +50,7 @@
   - Scalability.
   - Challenges.
 
-### Responding to Behavioral Questions
+## Responding to Behavioral Questions
 
 - Be specific, not arrogant.
   - Don't say "I did all the hard stuff".
@@ -67,7 +73,7 @@
   - Teamwork/Helpfulness!
   - Overall, try to convey that you're a wholesome person.
 
-### So Tell Me About Yourself...
+## So Tell Me About Yourself...
 
 - Structure:
   - Current role:

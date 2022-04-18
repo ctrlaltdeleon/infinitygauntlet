@@ -54,5 +54,3 @@
 - What are the next steps I should take?
 - Am I able to take a tour of the area?
 - Are there any doubts in pursuing me?
-
-## Notes

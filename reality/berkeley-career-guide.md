@@ -1,37 +1,34 @@
-# Career Center Berkeley Job and Internship Guide
-
 LINK: https://career.berkeley.edu/sites/default/files/pdf/Guide/EntireGuide.pdf
 
-## Chapters
+- [Preparing for Your Search](#preparing-for-your-search)
+  - [Initiate Contact](#initiate-contact)
+  - [Prepare for an Interview](#prepare-for-an-interview)
+  - [Conduct the Informational Interview](#conduct-the-informational-interview)
+- [Job and Internship Search](#job-and-internship-search)
+- [Career Fairs and Employer Info Sessions](#career-fairs-and-employer-info-sessions)
+- [Resume and Cover Letters](#resume-and-cover-letters)
+  - [The 5 Steps of Resume Development](#the-5-steps-of-resume-development)
+  - [The Resume Bullet: How to Say It](#the-resume-bullet-how-to-say-it)
+  - [Top 10 Attributes Employers Seek on Candidate Resumes](#top-10-attributes-employers-seek-on-candidate-resumes)
+  - [References Layout](#references-layout)
+  - [Verb List for Resumes and Letters](#verb-list-for-resumes-and-letters)
+  - [Cover Letters](#cover-letters)
+  - [Cover Letters Format](#cover-letters-format)
+- [Interviewing](#interviewing)
+  - [Preparing for a Phone or Video Interview](#preparing-for-a-phone-or-video-interview)
+  - [Preparing for a Second Round Interview](#preparing-for-a-second-round-interview)
+  - [Thank You Letter: How to Say It](#thank-you-letter-how-to-say-it)
+  - [Types of Interview Questions](#types-of-interview-questions)
+  - [Behavioral Questions: Planning Your Responses](#behavioral-questions-planning-your-responses)
+  - [Difficult Questions](#difficult-questions)
+  - [Questions to Ask Employers](#questions-to-ask-employers)
+- [Offers and Negotiations](#offers-and-negotiations)
+  - [Evaluating an Offer](#evaluating-an-offer)
+  - [Negotiation](#negotiation)
+  - [Accepting an Offer](#accepting-an-offer)
+  - [Declining an Offer](#declining-an-offer)
 
-1. Preparing for Your Search
-   1. Initiate Contact
-   2. Prepare for an Interview
-   3. Conduct the Informational Interview
-2. Job and Internship Search
-3. Career Fairs and Employer Info Sessions
-4. Resume and Cover Letters
-   1. The 5 Steps of Resume Development
-   2. The Resume Bullet: How to Say It
-   3. Top 10 Attributes Employers seek on Candidate Resumes
-   4. References Layout
-   5. Verb List for Resumes and Letters
-   6. Cover Letters Format
-5. Interviewing
-   1. Preparing for a Phone or Video Interview
-   2. Preparing for a Second Round Interview
-   3. Thank You Letter: How to Say It
-   4. Types of Interview Questions
-   5. Behavioral Questions: Planning Your Responses
-   6. Difficult Questions
-   7. Questions to ask Employers
-6. Offers and Negotiations
-   1. Evaluating an Offer
-   2. Negotiation
-   3. Accepting an Offer
-   4. Declining an Offer
-
-### 1: Preparing for Your Search
+# Preparing for Your Search
 
 - Find out who you are, what you like, what strengths you have.
 - Conduct informational interviews to figure it out more.
@@ -39,7 +36,7 @@ LINK: https://career.berkeley.edu/sites/default/files/pdf/Guide/EntireGuide.pdf
   - Informal conversation with someone working in an area of interest to you who is willing to give you information about a job, career field, industry, or work setting.
   - It is not a job interview and the objective is not to find job openings.
 
-### 1.1: Initiate Contact
+## Initiate Contact
 
 - Contact the person by email, phone, or letter.
 - Mention how you found out about them so it's not creepy.
@@ -59,7 +56,7 @@ Sincerely,
 Name
 ```
 
-### 1.2: Prepare for an Interview
+## Prepare for an Interview
 
 - Develop a 30 second overview to introduce yourself, including reasons for contacting this person.
 - Keep questions open ended instead of binary.
@@ -69,7 +66,7 @@ Greetings, I'm AC, graduated from SDSU with a Bachelor's in Computer Science...
 What's the tech stack that you work with and what do you like about it?
 ```
 
-### 1.3: Conduct the Informational Interview
+## Conduct the Informational Interview
 
 - Phone, Discord, Google Hangouts, in-person.
 - Dress appropriately.
@@ -80,7 +77,7 @@ What's the tech stack that you work with and what do you like about it?
   - Keep in touch, tell them how things are going.
   - This relationship could become an important part of your professional network.
 
-### 2: Job and Internship Search
+# Job and Internship Search
 
 - Persistence, patience, early planning, passion, and commitment are key.
 - Be aware of your social network presence.
@@ -110,7 +107,7 @@ What's the tech stack that you work with and what do you like about it?
     - By joining groups in your industries of interest you can meet other professionals, alumni, etc who share common interests.
     - You can learn a lot about your interest areas, including industry trends and news, by connecting to people and groups in LinkedIn.
 
-### 3: Career Fairs and Employer Info Sessions
+# Career Fairs and Employer Info Sessions
 
 - Possible Questions:
   - "What is a typical day like for you?"
@@ -133,7 +130,7 @@ What's the tech stack that you work with and what do you like about it?
   - "Considering my particular career interest, are there additional people in the organization I should contact?"
   - "Can you describe the typical career path in your organization?"
 
-### 4: Resume and Cover Letters
+# Resume and Cover Letters
 
 - My personal resume can be used as reference.
   - LINK: https://resume.creddle.io/resume/ayjgtizt9n7
@@ -141,7 +138,7 @@ What's the tech stack that you work with and what do you like about it?
 - I would also suggest keeping a `.txt` file around with everything organized when a website won't allow `.pdf` files.
 - Be wary of `.json` resumes as it might be the next thing.
 
-### 4.1: The 5 Steps of Resume Development
+## The 5 Steps of Resume Development
 
 - Analyze the position description!
   - Use the same words they use in the job description.
@@ -154,7 +151,7 @@ What's the tech stack that you work with and what do you like about it?
 - Choose a format!
   - 1 page.
 
-### 4.2: The Resume Bullet: How to Say It
+## The Resume Bullet: How to Say It
 
 - What:
   - "Created a website."
@@ -167,7 +164,7 @@ What's the tech stack that you work with and what do you like about it?
 - Adding Adjectives:
   - "Created a full-stack application website using React/Redux/Firebase to generate community interaction between eager students and prospective employers, resulting in connections with Playstation and Psyonix to name a few."
 
-### 4.3: Top 10 Attributes Employers Seek on Candidate Resumes
+## Top 10 Attributes Employers Seek on Candidate Resumes
 
 1. Leadership.
 2. Ability to work in a team.
@@ -180,7 +177,7 @@ What's the tech stack that you work with and what do you like about it?
 9. Adaptability.
 10. Technical skills.
 
-### 4.4: References Layout
+## References Layout
 
 - Typical heading with your name, position, contact information.
 
@@ -193,7 +190,7 @@ Phone #
 Email
 ```
 
-### 4.5: Verb List for Resumes and Letters
+## Verb List for Resumes and Letters
 
 - achieved
 - expanded
@@ -224,7 +221,7 @@ Email
 
 > (More words located within the link located at the top)
 
-### 4.6: Cover Letters
+## Cover Letters
 
 - Open with a paragraph that catches the reader's attention.
 - Connect your experiences and qualifications with the desired qualifications.
@@ -232,7 +229,7 @@ Email
 - No grammar/spelling errors.
 - Demonstrate knowledge of the position and the company.
 
-### 4.7: Cover Letters Format
+## Cover Letters Format
 
 - Typical heading with your name, position, contact information.
 
@@ -267,7 +264,7 @@ Signature
 Printed name
 ```
 
-### 5: Interviewing
+# Interviewing
 
 - Prepare the interview by doing said things:
   - Write out answers to questions you think the employer will ask.
@@ -294,7 +291,7 @@ Printed name
   - On site or Second Round:
     - After you have made it through a screening interview, this is a more extended interview at the employer site that may include a series of different types of interviews, a site tour, and a meal.
 
-### 5.1: Preparing for a Phone or Video Interview
+## Preparing for a Phone or Video Interview
 
 - With these interviews, an employer is generally looking for clear interest, a positive attitude, solid communication, and evidence that conditions qualifications and experience for the position.
 - General Tips:
@@ -313,7 +310,7 @@ Printed name
   - Look directly at the camera!
   - Dress up well and have no clutter in the background.
 
-### 5.2: Preparing for a Second Round Interview
+## Preparing for a Second Round Interview
 
 - At this point, you're being considered seriously for a position.
 - They will see how you fit with company culture, with people, and absorb a more complete picture of what you offer.
@@ -341,7 +338,7 @@ Printed name
   - A week after sending the thank-you, contact the employer to show your continued interest and ask if there is anything else to provide.
   - After a week if there is no response, phone/email the person whom interviewed you about your status.
 
-### 5.3: Thank You Letter: How to Say It
+## Thank You Letter: How to Say It
 
 ```
 Dear person...
@@ -357,7 +354,7 @@ Sincerely,
 Name
 ```
 
-### 5.4: Types of Interview Questions
+## Types of Interview Questions
 
 - Most interviews will consist a mix of different question types.
 - These include traditional, behavioral, technical, and case.
@@ -391,7 +388,7 @@ Name
   - "How would you design an application like Facebook?"
   - "How would you reach out to potential clients?"
 
-### 5.5: Behavioral Questions: Planning Your Responses
+## Behavioral Questions: Planning Your Responses
 
 - CAR Method.
   - C = Context
@@ -404,7 +401,7 @@ Name
 - Result:
   - "We are still working on it, but the skeleton of the code structure is finished."
 
-### 5.6: Difficult Questions
+## Difficult Questions
 
 - When encountering these questions, ask yourself "What is the interviewer trying to learn about me through asking this?"
 - "Tell me about yourself?"
@@ -420,7 +417,7 @@ Name
   - Be honest about experiences, but avoid controversial topics.
   - Probe the interviewer to see what they like and build on that.
 
-### 5.7: Questions to Ask Employers
+## Questions to Ask Employers
 
 - Bring at least 5 questions to all interviews to ask employers.
 - Shows interest, respect, and that you're ready.
@@ -441,7 +438,7 @@ Name
   - "What are some typical first-year assignments?"
   - "How does this position fit into the overall organizational structure?"
 
-### 6: Offers and Negotiations
+# Offers and Negotiations
 
 - Offer letters provide formal written confirmation of the position offered, and clarification of terms such as:
   - Job title
@@ -466,7 +463,7 @@ Name
   - Bonus - signing or performance
   - Commission
 
-### 6.1: Evaluating an Offer
+## Evaluating an Offer
 
 - Go over why you wanted to job in the first place:
   - Environment
@@ -492,7 +489,7 @@ Name
   - Do not renege on an offer!
   - Companies spend tons of money to recruit you so if you ignore the companies when they commit to you, you not only damage the company, but you also damage other applicants and yourself through networking you've done.
 
-### 6.2: Negotiation
+## Negotiation
 
 - Entry-level employees do not usually have a lot of latitude for negotiation.
 - Some employers have leeway to negotiate salary pay while others do not.
@@ -520,7 +517,7 @@ Name
 - Always practice negotiating with friends, family, or career counselor.
 - Always be enthusiastic and respectful.
 
-### 6.3: Accepting an Offer
+## Accepting an Offer
 
 - Sign and send it back to the employer by the agreed upon deadline.
 - Keep a copy of the letter for future reference.
@@ -543,7 +540,7 @@ Sincerely,
 Name
 ```
 
-### 6.4: Declining an Offer
+## Declining an Offer
 
 - Contact the employer formally by email and indicate your appreciation for the offer and the opportunity to interview.
 - State that you are declining their offer.

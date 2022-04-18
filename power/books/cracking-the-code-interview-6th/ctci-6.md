@@ -1,8 +1,20 @@
-# Cracking The Coding Interview
+- [Big O](#big-o)
+  - [Slowest to Fastest (Operations VS Elements)](#slowest-to-fastest-operations-vs-elements)
+  - [Big O, Big Omega, and Big Theta](#big-o-big-omega-and-big-theta)
+  - [Best VS Worst VS Expected, Cases](#best-vs-worst-vs-expected-cases)
+  - [Time Complexity](#time-complexity)
+  - [Space Complexity](#space-complexity)
+  - [Drop the Constants](#drop-the-constants)
+  - [Drop the Non-Dominant Terms](#drop-the-non-dominant-terms)
+  - [Multi-Part Algorithms, Add VS Multiply](#multi-part-algorithms-add-vs-multiply)
+  - [Amortized Time](#amortized-time)
+  - [O(log n) Runtimes](#olog-n-runtimes)
+  - [Recursive Runtimes](#recursive-runtimes)
+  - [Examples and Exercises](#examples-and-exercises)
 
-## 6: Big O
+# Big O
 
-### Slowest to Fastest (Operations VS Elements)
+## Slowest to Fastest (Operations VS Elements)
 
 - `O(n!)`
 - `O(2^n)`
@@ -12,13 +24,13 @@
 - `O(log n)`
 - `O(1)`
 
-### Big O, Big Omega, and Big Theta
+## Big O, Big Omega, and Big Theta
 
 - O describes an upper bound. "This is the fastest it could be".
 - Omega describes a lower bound. "This is the slowest it could be".
 - Theta describes both. "It's around this speed".
 
-### Best VS Worst VS Expected, Cases
+## Best VS Worst VS Expected, Cases
 
 - Quicksort for example:
 - Note that quicksort has various implementations.
@@ -35,26 +47,26 @@
 - Barely discuss time complexity, because it's not a useful concept.
 - It's essentially because anything could be `O(1)`.
 
-### Time Complexity
+## Time Complexity
 
 - How fast the program processes.
 
-### Space Complexity
+## Space Complexity
 
 - Array of size `n`? `O(n)` space.
 - 2d array of size `n x n`? `O(n^2)` space.
 
-### Drop the Constants
+## Drop the Constants
 
 - Usually constants are comparisons such as `if`.
 - Pay attention to the `for`.
 
-### Drop the Non-Dominant Terms
+## Drop the Non-Dominant Terms
 
 - Take the biggest `n` into consideration.
 - `O(n^2 + n) --> O(n^2)`.
 
-### Multi-Part Algorithms, Add VS Multiply
+## Multi-Part Algorithms, Add VS Multiply
 
 - Add: `O(n)`
 
@@ -73,26 +85,26 @@ for index in array:
         print("nice","good")
 ```
 
-### Amortized Time
+## Amortized Time
 
 - Describes that a worst case happens every now and then.
 - An `ArrayList` for example doubles its space when `insert()` to full data.
 - That becomes `O(n)`, because we need to recreate.
 - An `ArrayList` for `insert()` to non-full data is `O(1)`.
 
-### O(log n) Runtimes
+## O(log n) Runtimes
 
 - When performing an action, the data size is reduced each iteration.
 - Number of elements gets halved each time? `O(log n)`!
 - Binary search is `O(log n)`!
 
-### Recursive Runtimes
+## Recursive Runtimes
 
 - `O(2^n)` since it calls upon itself.
 - Treat it as `O(branches^depth)`!
 - Space complexity is `O(n)`! Since it can only exist as `O(n)` at any time.
 
-### Examples and Exercises
+## Examples and Exercises
 
 - Usually is hard at first, but once the patterns appear, quite easy.
 - Notice the requirements of `if` statements within `for` statements.
@@ -182,4 +194,4 @@ def power(a, b):
 
 - `O(b)`, since the recursive code iterates through `b` calls only.
 
-#### BOOKMARK PAGE 66
+BOOKMARK PAGE 66

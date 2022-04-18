@@ -1,6 +1,6 @@
-# Cracking The Coding Interview
+- [Behind the Scenes](#behind-the-scenes)
 
-## 2: Behind the Scenes
+# Behind the Scenes
 
 If you have waited more than a week after an interview, follow up!
 

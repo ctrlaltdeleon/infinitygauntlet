@@ -1,8 +1,12 @@
-# Cracking The Coding Interview
+- [Before the Interview](#before-the-interview)
+  - [Getting the Right Experience](#getting-the-right-experience)
+  - [Writing a Great Resume](#writing-a-great-resume)
+  - [Beware of Stigma](#beware-of-stigma)
+  - [Preparation Map](#preparation-map)
 
-## 4: Before the Interview
+# Before the Interview
 
-### Getting the Right Experience
+## Getting the Right Experience
 
 - W/o a great resume there's no interview.
 - W/o a great experience, there's no great resume.
@@ -19,7 +23,7 @@
   - Can you code?
 - Always think about where you want to go in the end.
 
-### Writing a Great Resume
+## Writing a Great Resume
 
 - 1 page.
 - Keep it simple and clear.
@@ -27,7 +31,7 @@
 - Languages: Java (expert), C++ (proficient), etc.
   - Be sure to state language and level of experience as you feel necessary.
 
-### Beware of Stigma
+## Beware of Stigma
 
 - Avoid Enterprise Languages because it shows you are "less skilled".
   - Visual Basic, .NET.
@@ -36,7 +40,7 @@
 - If all you know is 1 or 2 languages, it shows "Have they tried anything else?"
 - In all, diversify your armory and show that you can speak more than 1 language.
 
-### Preparation Map
+## Preparation Map
 
 - (1+ years before interview)
   - Build projects outside of school/work.

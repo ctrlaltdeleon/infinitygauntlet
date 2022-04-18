@@ -1,6 +1,6 @@
 # Cracking The Coding Interview
 
-LINK: http://www.crackingthecodinginterview.com/contents.html
+LINK: https://github.com/yogathanh99/Books/blob/master/Cracking.the.Coding.Interview.6th.Edition.pdf
 
 ## Chapters
 

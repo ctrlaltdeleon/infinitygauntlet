@@ -60,6 +60,7 @@
 
 # odd achievements
 
+- 2022-04-14 3000 followers on tiktok!
 - 2022-03-16 popped off on tiktok with haikyuu video!
 - 2021-04-20 fully vaccinated for covid-19!
 - 2021-04-07 built my own keyboard!
@@ -75,8 +76,10 @@
 
 # things i love
 
+- clean areas
 - embroidered shirts
 - milk tea w/ boba, large, no ice (on cold day), light ice (on hot day), 30% sugar
+- minimalism
 
 # values project
 
