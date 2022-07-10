@@ -1,4 +1,5 @@
 - [Introduction](#introduction)
+- [What parts to choose first?](#what-parts-to-choose-first)
 - [Case](#case)
 - [Central Process Unit (CPU)](#central-process-unit-cpu)
 - [CPU Cooler](#cpu-cooler)
@@ -25,7 +26,7 @@
 - Always consider your budget.
 - Compare benchmarks when unsure with two parts of the same kind. (2 CPUs for example.)
 
-#What parts to choose first?
+# What parts to choose first?
 
 - Do you care about aesthetics?
   - Case.

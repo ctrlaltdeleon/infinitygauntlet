@@ -494,6 +494,10 @@
 
 # 4-28
 
+- Firmware is software that is semi-permanently placed in hardware. It does not disappear when hardware is powered off, and is often changed by special installation processes or with administration tools. The memory firmware uses is very fast — making it ideal for controlling hardware where performance is important.
+- When editing phone videos in Adobe Premiere Pro, to have them render properly, need to convert the .mov files in Handbrake app.
+  - This is due to Variable Frame Rate.
+
 # 4-27
 
 # 4-26

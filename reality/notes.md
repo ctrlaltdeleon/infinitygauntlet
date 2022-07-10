@@ -46,9 +46,33 @@ console.log(secretVariable()) // private
 
 https://www.youtube.com/watch?v=aHB8bx4P7TE
 
-here is the periodic table of elements!
-oh no
-what is it andrew?
-it's not there
-what is?
-THE ELEMENT OF SURPRISE
+Design a reservation/payment parking garage
+
+1. need to be able to reserve a parking spot
+2. need to get a receipt for reserving
+3. need to pay for parking
+4. system needs high consistency (no two people should reserve at the same time)
+   1. strong consistency when possible, eventual consistency if you have to
+   2. strong consistency = quality over speed
+   3. eventual consistency = speed over quality
+5. 3 types of vehicles (compact, regular, and large)
+6. flat rate, but different rates depending on parking
+
+Public Endpoints
+
+/reserve
+params: garage_id, start_time, end_time
+returns: (spot_id, reservation_id)
+
+/payment
+params: reservation_id
+note: existing api to handle such as stripe, square, etc.
+
+/cancel
+params: reservation_id
+
+Internal Endpoints
+
+why do you want to work here?
+
+I've always had the passion for different hobbies. Whether it be joining the Animal Crossing Community server, Mechanical Keyboard meetups, and just the traditional friend group server to play games with late at night, Discord helped with connect me with these communities. For me Discord sounds like an amazing opportunity to learn multiple technologies and absorb different perspectives from fellow co-workers.

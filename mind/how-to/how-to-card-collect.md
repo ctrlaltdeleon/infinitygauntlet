@@ -43,6 +43,5 @@
 - I would go for single sleeving if:
   - Playing just standard games with friends.
 - I would go for double sleeving if:
-  - Card value is great.
   - Card is foil (to prevent creasing of the card).
   - The deck you have is your final version, to reduce changing all the time.
