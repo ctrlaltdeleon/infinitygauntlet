@@ -13,5 +13,6 @@
   - senior software engineer - full stack
   - senior software engineer - front end
   - software engineer - front end
+- riot games
 - twitch
   - sde

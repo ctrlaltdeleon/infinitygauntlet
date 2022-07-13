@@ -20,6 +20,7 @@
 - Why use tuples over lists in certain scenarios?
   - Tuples have set positions in the data structure, immutable.
   - Fast, less memory, and great for transferring known data.
+- Strings, arrays, hashmaps, trees, graphs, queues, stacks, tries, and heaps?
 
 ## Methods
 
