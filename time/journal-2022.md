@@ -342,6 +342,26 @@
 
 # 7-13
 
+- What is AWS (Amazon Web Services)?
+  - A cloud platform that provides services to users.
+- What is EC2 (Elastic Compute Cloud)?
+  - Rent servers!
+  - In order to test a theory with a ton of dating, rent computing power!
+- What is VPC (Virtal Private Cloud)?
+  - Allows to launch AWS resources into a virtual network (testing suite for your software!)
+- What is S3 (Simple Storage Service)?
+  - File storage and sharing service on the cloud
+- What is RDS (Relational Database Service)?
+  - Manage databases on the cloud
+- What is Route 53?
+  - Highly available and scalable Domain Name System (DNS)
+- What is DNS (Domain Name System)
+  - Provides translation of URL to an IP address (think your contacts, you look up a name, not a number)
+- ELB (Elastic Load Balancing)
+  - To load balance incoming traffic to multiple machines (scalability to offer your website to make sure it min-max resources)
+- SAAS (Software as a Service)
+  - Pay for a software subscription instead of one time (think like a WoW subscription)
+
 # 7-12
 
 # 7-11
@@ -494,7 +514,9 @@
 
 # 4-28
 
-- Firmware is software that is semi-permanently placed in hardware. It does not disappear when hardware is powered off, and is often changed by special installation processes or with administration tools. The memory firmware uses is very fast — making it ideal for controlling hardware where performance is important.
+- Firmware is software that is semi-permanently placed in hardware.
+  - It does not disappear when hardware is powered off, and is often changed by special installation processes or with administration tools.
+  - The memory firmware uses is very fast — making it ideal for controlling hardware where performance is important.
 - When editing phone videos in Adobe Premiere Pro, to have them render properly, need to convert the .mov files in Handbrake app.
   - This is due to Variable Frame Rate.
 

@@ -10,7 +10,7 @@
   - [twitch](https://www.twitch.tv/acfromspace)
   - [twitter](https://twitter.com/acfromspace)
   - [youtube](https://www.youtube.com/c/acfromspace)
-    - (no channel) (personal account) (mainly for watch rewards)
+    - andrew (no channel) (personal account) (mainly for watch rewards)
     - thestepsetters (brand account)
     - acfromspace (brand account)
 - [creddle.io](https://resume.creddle.io/resume/1t4bj9iydxm)

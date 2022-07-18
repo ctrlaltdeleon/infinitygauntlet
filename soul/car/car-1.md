@@ -5,7 +5,7 @@
 - year
   - 2004
 - engine
-  - 2.0 l 4-cylinder
+  - 2.0 l 4-cylinder (10w-30 oil)
 - horsepower
   - 120 hp @ 5500 rpm
 - mpg

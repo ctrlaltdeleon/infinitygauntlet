@@ -56,7 +56,10 @@
 - anime gym clothes: https://invictakuru.com
 - cute space: https://meyoco.art/
 - cute space as well: https://carmico.ca
+- environment: https://8pxl.co
+- environment stylistic: https://twitter.com/owldreig
 - midi fighter: https://store.djtechtools.com/products/midi-fighter-3d
+- monster clothes: https://shop.kinwamonster.com
 - pins: https://lixizuart.com
 - pins: https://shop.suu.gr
 - pins: https://www.yuerise.com
@@ -94,5 +97,9 @@
 
 ## tattoo artists
 
-- rockyhowetattoo
-- visualamor
+- chrisjtattoo (new york)
+- fimmtattooer (tel aviv)
+- rockyhowetattoo (san diego)
+- tattoo_destroy (russia)
+- tsukitattoos (san antonio)
+- visualamor (san diego)

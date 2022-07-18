@@ -1,56 +1,80 @@
 # Interview Prep
 
-## Essential
-
-- COMPANY NAME:
-- JOB TITLE: Software Engineer/Front-end Developer
-- INTERVIEWER NAME:
-- INTERVIEWER JOB TITLE:
-
-## About the Company
-
-- MISSION:
-- PRODUCTS/SERVICES:
-- CEO:
-- CULTURE:
-- RECENT NEWS:
-
 ## About me
 
-- ELEVATOR PITCH:
-  - I'm a Computer Science Graduate from San Diego State University. My love of creating products combined with insight to coding concepts have led me to establish my goal of being a software developer.
-  - I am a highly energetic and driven individual and use these attributes to motivate and inspire others. I pride myself as being a serving leader who places people before the task.
-- RELEVANT EXPERIENCE:
-- STRENGTHS:
-  - Consistency of learning. There's always something out there to learn, pick apart, tinker with, and that's what drives me.
-- WEAKNESSES:
-  - I like getting into learning emerging technologies through documentation, tutorials, practice, but once I keep learning about it, the more I realize I don't know so much about it.
-- WHY THIS ROLE/COMPANY:
+ELEVATOR PITCH:
 
-## Questions to Prepare for (CAR Method! Context, Actions, Results!)
+- I'm from San Diego, California, though I have hopped around the world a few times such as living in Japan, Washington, Virginia, the list goes on.
+- I also having plenty of hobbies such as building my own keyboards, shooting photos, and volleyball for the moments and team aspect of it.
+- What led me being interested in software development was knowing that I love problem solving and creating solutions and if a normalized solution to a problem was already whipped up, I would always ask "Why?" and "How?" and "Can it be better?".
 
-- How do you deal with failure?
+STRENGTHS:
 
-  - I take a step back to reassess the situation without emotions, recognize the failure.
-  - Am I feeling emotional?
-  - Why do I feel emotional?
-  - What can I do to prevent this in the future?
-  - Slowly take my time building back up and reforming a new me, learning from mistakes, and building upon them.
+- Consistency of learning. There's always something out there to learn, pick apart, tinker with, and that's what drives me.
 
-- Handled a difficult situation?
+WEAKNESSES:
 
-  - My first hackathon I was completely new to coding and being put with a team that knew what they were doing so I asked myself "How can I be helpful?".
-  - I asked them what I could work on within my scope, worked my strengths which was UI/UX design at the time, and made assets for the project we made.
-  - The result is not only did I create UI/UX designs for our project, but I got to dive in deep into the code, asking my teammates about the intricacies of what does what and got to learn in the process.
+- I like getting into learning emerging technologies through documentation, tutorials, practice, but once I keep learning about it, the more I realize I don't know so much about it.
 
-- Stepped up as a leader?
-  - At a LA hackathon, I realized that the team I was with had differences in level with the framework we were working on which was React. We had our seasoned developer focused on a specific problem while we had another developer experiencing issues with their problem.
-  - Unsure of my skill, I went ahead and mentored the other developer to keep the seasoned developer focused on their high-level problem and did some pair programming.
-  - This resulted in our project being completed faster through delegation of tasks and the severity of them as well.
+WHY THIS ROLE/COMPANY:
+
+- For me this sounds like an amazing opportunity to learn multiple technologies and the right step into the future.
+
+## Behavioral
+
+- Customer Obsession\*
+- Ownership\*
+- Invent and Simplify
+- Are Right, A Lot
+- Learn and Be Curious\*
+- Hire and Develop the Best
+- Insist on the Highest Standards
+- Think Big
+- Bias for Action
+- Frugality
+- Earn Trust
+- Dive Deep
+- Have Backbone; Disagree and Commit
+- Deliver Results
+- Strive to be Earth's Best Employer
+- Success and Scale Bring Broad Responsibility
+
+- Creating a modern web app for the fleet.
+- Switching to another team to get sped up.
+- Sending out MVP and bug fixing.
+- Implementing Redux.
+- Breaking production and communicating to the team.
+- Spending time on a task.
+- Populating an end event, but had to reproduce the bug, but simple fix.
+- Reusable text field component.
+- Negotiating with sponsors about unknowns.
+
+- Color theme for the disabled.
 
 ## Questions
 
-- How is the interview process?
+For the hiring manager:
+
+- Why has this role become available?
+- What are the key challenges for the role?
+- What traits would make a candidate successful for this role?
+
+For everyone:
+
+- How is your experience working for this company?
+- What are the prospects of growth here?
+- What are the next steps to the interview process?
 - What are the next steps I should take?
-- Am I able to take a tour of the area?
-- Are there any doubts in pursuing me?
+- How big is the team?
+
+## Ending
+
+Thank you very much for your time and the opportunity to interview with you. I look forward to hearing from you soon!
+
+## Afterwards
+
+When to put in 2 weeks at current job?
+
+- After passing a background check.
+- Signed a written offer.
+- Have a defined start date.

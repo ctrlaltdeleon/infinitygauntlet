@@ -5,7 +5,7 @@
 - year
   - 2013
 - engine
-  - 2.4 l 4-cylinder
+  - 2.4 l 4-cylinder (0w-20 oil)
 - horsepower
   - 168 hp @ 6,000 rpm
 - mpg
@@ -39,3 +39,9 @@
   - changed oil
 - 2022-01
   - changed oil
+- 2022-05
+  - changed all 4 tires
+    - goodyear reliant 205/60r16 92v
+- 2022-07
+  - changed oil
+    - super tech 0w-20 high mileage full synthetic oil (walmart brand)
