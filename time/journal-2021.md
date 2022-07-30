@@ -209,7 +209,7 @@
   - It means ` ` (space) since in scripts a space signifies a separate command, but sometimes we want to reference file names.
   - For example if we're trying to copy a file `scp /Documents/Some\\\ File.txt .` in which `Some File.txt` is like so.
 - In `bash`, how do you rename a file?
-  - `mv %OLD-FILE-NAME% %NEW-FILE-NAME%
+  - `mv %%OLD-FILE-NAME%% %%NEW-FILE-NAME%%
 
 # 9-22
 
@@ -413,7 +413,7 @@
 - What's an ideal `React` folder structure to consider?
 
 ```
-- %REPO-NAME%
+- %%REPO-NAME%%
 -- src/ (code)
 --- app/ (bulk of the app itself)
 --- assets/ (images, stylesheets)
@@ -810,7 +810,7 @@
 
 - Gym!
   - Chest and triceps.
-- Decided to start my series called "I review %INSERT-TOPIC-HERE% in 30 seconds".
+- Decided to start my series called "I review %%INSERT-TOPIC-HERE%% in 30 seconds".
   - Wanted to include mainly media such as movies, anime, shows, and manga, but can be extended.
 
 # 5-19
@@ -948,7 +948,7 @@ const { BrowserWindow, dialog, ipcMain } = require("electron");
 const fs = require("fs");
 
 // Note that Electron doesn't do well with Blob data.
-ipcMain.on("%SOME-ROUTE-NAME%, function (event, data) {
+ipcMain.on("%%SOME-ROUTE-NAME%%, function (event, data) {
   let options = {
     title: "Save As...",
     defaultPath: data.nameOfFile,
@@ -976,7 +976,7 @@ ipcMain.on("%SOME-ROUTE-NAME%, function (event, data) {
       dialog.showMessageBox(BrowserWindow.getFocusedWindow(), errorOptions);
       return;
     }
-    fs.writeFile(filename, Buffer.from(%SOME-ARRAY-BUFFER%), (err) => {
+    fs.writeFile(filename, Buffer.from(%%SOME-ARRAY-BUFFER%%), (err) => {
       if (!err) {
         let successOptions = {
           title: "Download success!",
@@ -1039,7 +1039,7 @@ ipcMain.on("%SOME-ROUTE-NAME%, function (event, data) {
 # 4-22
 
 - In `Git`, how does one check the amount of commits on a branch that has been worked on?
-  - `git rev-list --count HEAD^%YOUR-BRANCH-NAME%
+  - `git rev-list --count HEAD^%%YOUR-BRANCH-NAME%%
 
 # 4-21
 
@@ -1086,11 +1086,11 @@ ipcMain.on("%SOME-ROUTE-NAME%, function (event, data) {
 
 ```js
 // Should be 1 to 1, no changes, changes happen when receiving the data.
-export class %SOME-OBJECT% {
-  constructor(%ATTRIBUTE-1%, %ATTRIBUTE-2%, %ATTRIBUTE-3%) {
-    this.%ATTRIBUTE-1% = %ATTRIBUTE-1%;
-    this.%ATTRIBUTE-2% = %ATTRIBUTE-2%;
-    this.%ATTRIBUTE-3% = %ATTRIBUTE-3%;
+export class %%SOME-OBJECT%% {
+  constructor(%%ATTRIBUTE-1%%, %%ATTRIBUTE-2%%, %%ATTRIBUTE-3%%) {
+    this.%%ATTRIBUTE-1%% = %%ATTRIBUTE-1%%;
+    this.%%ATTRIBUTE-2%% = %%ATTRIBUTE-2%%;
+    this.%%ATTRIBUTE-3%% = %%ATTRIBUTE-3%%;
   }
 }
 ```
@@ -1177,8 +1177,8 @@ export class %SOME-OBJECT% {
 # 4-1
 
 - In `Git`, how does one rename a local branch that you're on?
-  - `git branch -m %NEW-BRANCH-NAME%`
-  - On Windows: `git branch -M %NEW-BRANCH-NAME%`
+  - `git branch -m %%NEW-BRANCH-NAME%%`
+  - On Windows: `git branch -M %%NEW-BRANCH-NAME%%`
 - Full ACAT request from Robinhood to Public.
 - Super lathered the anti-dandruff shampoo in my hair.
 - Gym!

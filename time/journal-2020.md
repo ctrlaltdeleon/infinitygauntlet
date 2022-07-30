@@ -451,7 +451,7 @@ onClick={greeting}
   - `<Fragment>` is just syntactic sugar that is not rendered.
   - It’s a tiny bit faster and has less memory usage (no need to create an extra DOM node).
 - Kill port that's in use?
-  - `kill -9 %PORT%`
+  - `kill -9 %%PORT%%`
 - Spend time with Karasuno playing Mahjong and cinnamon rolls.
 - Gym!
   - Legs and shoulders.
@@ -514,14 +514,14 @@ onClick={greeting}
 ```js
 "files": [
   "dist/",
-  "%OTHER-FILE%"
+  "%%OTHER-FILE%%"
 ]
 ```
 
 - To find out what files `npm` will publish into the tarball without actually publishing.
   - `npm pack && tar -xvzf *.tgz && rm -rf package *.tgz`
 - If a directory is present, remove it, else do nothing. (No error messages)
-  - `rm -rf %DIRECTORY%`
+  - `rm -rf %%DIRECTORY%%`
 - How does one release a software candidate for `Nexus` through `Jenkins`?
 
 ```
@@ -532,8 +532,8 @@ npm run test:coverage
 npm run sonar
 npm run build
 npm run electron-builder
-npm set %URL-CREDENTIALS%
-npm publish --registry%REGISTRY%
+npm set %%URL-CREDENTIALS%%
+npm publish --registry%%REGISTRY%%
 ```
 
 - Gym!
@@ -578,15 +578,15 @@ npm publish --registry%REGISTRY%
 - In `React`, how do you show an image?
   - This deals with webpack.
   - Note that assets outside of the `src/` are not supported.
-  - `<img src={require("%PATH-TO-THE-IMAGE%")} alt="something"/>
+  - `<img src={require("%%PATH-TO-THE-IMAGE%%")} alt="something"/>
 - How do I transfer installed `Linux` packages and settings from one distro to another?
 
 ```sh
 sudo apt-get install apt-clone
-apt-clone clone %PACKAGE%
-# Copy %PACKAGE%.apt-clone.tar.gz to the new machine and run.
+apt-clone clone %%PACKAGE%%
+# Copy %%PACKAGE%%.apt-clone.tar.gz to the new machine and run.
 sudo apt-get install apt-clone
-sudo apt-clone restore %PACKAGE%.apt-clone.tar.gz
+sudo apt-clone restore %%PACKAGE%%.apt-clone.tar.gz
 ```
 
 - Today I learned "Waterfalls" was made by TLC, the group that preformed "No Scrubs".
@@ -648,7 +648,7 @@ sudo apt-clone restore %PACKAGE%.apt-clone.tar.gz
 # October 20 2020
 
 - How does one search for `Linux` packages in a terminal?
-  - `apt search %KEYWORD%`
+  - `apt search %%KEYWORD%%`
 - Gym!
   - Volleyball.
 
@@ -674,7 +674,7 @@ sudo apt-clone restore %PACKAGE%.apt-clone.tar.gz
 - How does one install an extension offline in `Google Chrome`?
   - Install the extension on an online computer to `Google Chrome`.
   - Look for the extension from an upper directory able to see everything ("~" is a safe bet, meaning "home" usually.):
-    - `find . -type d -iname %EXTENSION-ID%`
+    - `find . -type d -iname %%EXTENSION-ID%%`
   - Copy that scoped directory to the offline computer.
     - Make sure that the file has a `manifest.json`.
   - On the offline computer now, open up `Google Chrome`.
@@ -749,7 +749,7 @@ Slowest: Filter, IndexOf
   - `ncu` will let the user know about updates, but not make the updates.
   - `ncu -u` will update the `package.json` with the updates, then recommended to follow up with `npm install`.
 - In `Git`, how do you change the message of a previous commit?
-  - `git commit --amend -m "%NEW-MESSAGE-HERE%"`
+  - `git commit --amend -m "%%NEW-MESSAGE-HERE%%"`
 - Gym!
   - Flex.
 
@@ -829,7 +829,7 @@ Slowest: Filter, IndexOf
 compaudit
 
 # To fix the error.
-sudo chmod -R 755 %TARGET-DIRECTORY%
+sudo chmod -R 755 %%TARGET-DIRECTORY%%
 ```
 
 - Gym!
@@ -1006,7 +1006,7 @@ MyDateString =
 
 - "We always say "I'm here if you need me", assuming they have the courage to even approach you in their time of need."
 - In `Git`, how do you delete all local branches except the few that you want to keep?
-  - `git branch | grep -v "%BRANCH-TO-KEEP%\|%OTHER-BRANCH-TO-KEEP%" | xargs git branch -D`
+  - `git branch | grep -v "%%BRANCH-TO-KEEP%%\|%%OTHER-BRANCH-TO-KEEP%%" | xargs git branch -D`
 - In `React`, how do you fix this error:
   - `Can't perform a React state update on an unmounted component. This is a no-op, but it indicates a memory leak in your application. To fix, cancel all subscriptions and asynchronous tasks in a useEffect cleanup function.`
 
@@ -1109,7 +1109,7 @@ import { export, export2 } from "./somewhere";
 
 # August 25 2020
 
-- In `bash`, what does `nslookup %COMPUTER-NAME%` do?
+- In `bash`, what does `nslookup %%COMPUTER-NAME%%` do?
   - `nslookup` means "name server lookup".
   - Looks up the server and address names along with non-authoritative names.
 - In `Ubuntu`, what do the different colors for files mean when doing `ls` in `bash`?
@@ -1128,7 +1128,7 @@ import { export, export2 } from "./somewhere";
 # August 24 2020
 
 - How do you access a shared folder on a Linux Ubuntu 18.04 VM?
-  - `sudo adduser %YOUR-USER% vboxsf`
+  - `sudo adduser %%YOUR-USER%% vboxsf`
   - Reboot.
   - If that doesn't work, try `sudo usermod -aG vboxsf $(whoami)`.
 - Was able to make an executable!
@@ -1372,12 +1372,12 @@ const handleDrawerClose = () => {
 # ls = files
 # du = directories
 
-ls -l $FILENAME% # Displays size of the specified file.
+ls -l $%%FILENAME%% # Displays size of the specified file.
 ls -l *          # Displays size of all the files in the current directory.
 ls -al *         # Displays size of all the files including hidden files in the current directory.
 ls -al dir/      # Displays size of all the files including hidden files in the 'dir' directory.
 
-du -sh %DIRECTORY-NAME%  # Gives you the summarized (-s) size of the directory in human readable (-h) format.
+du -sh %%DIRECTORY-NAME%%  # Gives you the summarized (-s) size of the directory in human readable (-h) format.
 du -bsh *                # Gives you the apparent (-b) summarized (-s) size of all the files and directories in the current directory in human readable (-h) format.
 ```
 
@@ -1620,7 +1620,7 @@ console.log(found);
 - How do you render `ctrl + caret`, while still having the caret being the symbol in markdown?
   - I don't think it's possible.
 - How do you `scp` multiple files from a source?
-  - `scp %USER%@%HOST%:/%SOME-DIRECTORY/\{%FILE-1%,%FILE-2%\} /%TO-DESTINATION%/`
+  - `scp %%USER%%@%%HOST%%:/%%SOME-DIRECTORY%%/\{%%FILE-1%%,%%FILE-2%%\} /%%TO-DESTINATION%%/`
 - What is `Chaos Engineering`?
   - Chaos engineering is the discipline of experimenting on a software system in production in order to build confidence in the system's capability to withstand turbulent and unexpected conditions.
   - Implemented due to deadlines of projects without enough time to test vulnerabilities.
@@ -2620,7 +2620,7 @@ export HISTCONTROL=ignoredups
 
 - Robinhood sadly down for black monday.
 - How do you rename files in `Linux` using the terminal?
-  - `mv %OLD-FILE-NAME% %NEW-FILE-NAME%`
+  - `mv %%OLD-FILE-NAME%% %%NEW-FILE-NAME%%`
 - Difference between Sockets and WebSockets?
   - WebSockets run from browsers connecting to application server over a protocol similar to HTTP that runs over TCP/IP.
     - Primarily for web apps that require a permanent connection to its server.
@@ -2769,19 +2769,19 @@ alias git-pull-all="find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {
   - Shows databases that are present in `MongoDB`.
     - `show dbs`
   - To create a new database or switch database.
-    - `use %DATABASE-NAME%`
+    - `use %%DATABASE-NAME%%`
   - To check what database you're in.
     - `db`
   - To add a collection to the database you're in.
-    - `db.%COLLECTION-NAME%.insert({"name" : "AC"})`
+    - `db.%%COLLECTION-NAME%%.insert({"name" : "AC"})`
   - To show all collections in all databases.
     - `show collections`
   - To show all the documents in the collection.
-    - `db.%COLLECTION-NAME%.find()`
+    - `db.%%COLLECTION-NAME%%.find()`
   - To show a specific document in a collection, specify a key value pair.
-    - `db.%COLLECTION-NAME%.find({%KEY%: "%VALUE%"})`
+    - `db.%%COLLECTION-NAME%%.find({%%KEY%%: "%%VALUE%%"})`
   - To show a document in a collection in a pretty style.
-    - `db.%COLLECTION-NAME%.find({%KEY%: "%VALUE%"}).pretty()`
+    - `db.%%COLLECTION-NAME%%.find({%%KEY%%: "%%VALUE%%"}).pretty()`
 - How do you `scp` a file with spaces within?
   - `scp ac@localmachine:~/'Front-end\ Initial\ Software\ Design\ Diagram.odg' ~/`
 - Gym!
@@ -2835,12 +2835,12 @@ alias git-pull-all="find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {
 - How does one find out who are the super users on a system?
   - `grep '^sudo:.*$' /etc/group | cut -d: -f4`
 - How does one check privileges of a user?
-  - `sudo -l -U %USERNAME%`
+  - `sudo -l -U %%USERNAME%%`
 - How does one unmodify a file that's modified in `Git`?
-  - `git checkout -- %FILE-NAME%`
+  - `git checkout -- %%FILE-NAME%%`
 - How does one select files in another branch that you want in your branch?
   - Be in your branch where you want the changes.
-  - `git checkout --patch %OTHER-BRANCH% %FILE-NAME%`
+  - `git checkout --patch %%OTHER-BRANCH%% %%FILE-NAME%%`
   - Remove `--patch` if the files you want are new to your branch.
 - Learning `vim`. Yikes.
 - Gym!
@@ -2938,7 +2938,7 @@ alias git-pull-all="find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {
   - If you have 5 `.css` files, `Webpack` transforms them into 1 `.css` to alleviate call noise.
 - How does one check if a package is installed globally?
   - `npm list -g`
-  - `npm list -g %PACKAGE-NAME%`
+  - `npm list -g %%PACKAGE-NAME%%`
 - Gym!
   - Back and biceps.
 
@@ -3309,7 +3309,7 @@ u=rwx,g=rwx,o=
 - What does `cp` do in `Linux`?
   - Copies files or directories.
   - Also know as "copy".
-  - `cp %I-WANT-TO-COPY-YOU-FILES% %DESTINATION-AREA%`
+  - `cp %%I-WANT-TO-COPY-YOU-FILES%% %%DESTINATION-AREA%%`
   - `cp README.md ~/`
 - What is `Gitlab`?
   - A web-based DevOps life cycle tool that provides a `Git`-repository manager providing wiki, issue-tracking and CI/CD pipeline features, using an open source license.
@@ -3328,8 +3328,8 @@ u=rwx,g=rwx,o=
 - What is `Prometheus`?
   - Prometheus is a free software application used for event monitoring and alerting.
 - How does one extract a `.tar.gz` file?
-  - `gunzip %FILE%.tar.gz`
-  - `tar -xvf %FILE%.tar`
+  - `gunzip %%FILE%%.tar.gz`
+  - `tar -xvf %%FILE%%.tar`
 - Gym!
   - Legs and shoulders.
   - Volleyball.
@@ -3346,7 +3346,7 @@ u=rwx,g=rwx,o=
 - What does `scp` do in `Linux`?
   - Allows files to be copied to, from, or between different hosts.
   - Also known as "secure copy".
-  - `scp ac@starkiller:~/%FILE-NAME% .`
+  - `scp ac@starkiller:~/%%FILE-NAME%% .`
 - How do you remove a file in `Linux`?
   - `rm`
 - How do you remove a directory in `Linux`?
@@ -3414,8 +3414,8 @@ u=rwx,g=rwx,o=
   - Open terminal.
   - Change location to the address location, but one folder up.
   - To check contents use `ls -la`.
-  - Make a back-up via `cp %FILE-NAME%.VDI %BACK-UP-FILE-NAME%.VDI`.
-  - Resize the file `vboxmanage modifyhd %FILE-NAME%.VDI --resize 100000`
+  - Make a back-up via `cp %%FILE-NAME%%.VDI %%BACK-UP-FILE-NAME%%.VDI`.
+  - Resize the file `vboxmanage modifyhd %%FILE-NAME%%.VDI --resize 100000`
     - 100000 is approximately 100 gigabytes.
   - Highlight virtual machine in `VirtualBox`.
   - Go to settings.

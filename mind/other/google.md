@@ -18,18 +18,18 @@
 - `..`.
   - `2001..2004`
   - Search between a range of numbers.
-- `Weather %ZIPCODE%`
+- `Weather %%ZIPCODE%%`
   - `Weather 91913`
   - Finds the weather forecast in the designated area code.
-- `Define: %WORD%`
+- `Define: %%WORD%%`
   - `Define: boba`
   - Finds the definition of the designated word.
-- `Time %PLACE%`
+- `Time %%PLACE%%`
   - `Time Korea`
   - Finds the time of the designated place.
-- `%FILE-NAME% filetype:pdf`
+- `%%FILE-NAME%% filetype:pdf`
   - `how to sleep well filetype:pdf`
   - Finds the file type of the designated phrase.
-- `%TRACKING-NUMBER%`
+- `%%TRACKING-NUMBER%%`
   - `123456789ABC`
   - Finds the details of your package of the designated tracking number provided.

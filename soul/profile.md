@@ -5,7 +5,7 @@
 - intelligence, survellience, & recon
   - space and intelligence systems
     - intel data analysis
-- 605664649
+- genshin impact 605664649
 
 # astrology
 
@@ -91,6 +91,11 @@
     - "my career goal is to be a computer programmer for groups such as microsoft, riot games, or blizzard. i would also enjoy working on security systems and anything that would benefit the people as a whole. i know the one and only value that ties in incredibly well to these goals would be commitment."
   - what was the single most important thing you learned in this class?
     - "moderation. not only does it occur in health, but in relationships, events, hobbies, everything."
+
+# words
+
+- hiraeth
+  - a welsh word for homesickness or nostalgia, an earnest longing or desire, or a sense of regret
 
 # workflow
 

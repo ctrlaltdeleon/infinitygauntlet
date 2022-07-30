@@ -5,13 +5,13 @@
 Sets up your `user.name`.
 
 ```
-git config --global user.name "%MY-NAME%"
+git config --global user.name "%%MY-NAME%%"
 ```
 
 Sets up your `user.email`.
 
 ```
-git config --global user.email "%MY-EMAIL%"
+git config --global user.email "%%MY-EMAIL%%"
 ```
 
 Checks the `user.name` and `user.email`.
@@ -25,10 +25,10 @@ git config --global --list
 How do I clone a new repository onto my local workspace?
 
 ```
-git clone https://github.com/%USER-NAME%/%REPO-NAME%.git
-cd %REPO-NAME%
-touch %SOME-FILE%
-git add %SOME-FILE%
+git clone https://github.com/%%USER-NAME%%/%%REPO-NAME%%.git
+cd %%REPO-NAME%%
+touch %%SOME-FILE%%
+git add %%SOME-FILE%%
 git commit -m "put your message here"
 git push -u origin master
 ```
@@ -39,7 +39,7 @@ How do I add my local workspace onto a new repo?
 Open up a terminal
 Change directory to respective folder
 git init
-git remote add origin https://github.com/%USER-NAME%/%REPO-NAME%.git
+git remote add origin https://github.com/%%USER-NAME%%/%%REPO-NAME%%.git
 git add .
 git commit -m "put your message here"
 git push -u origin master
@@ -52,10 +52,10 @@ Create new repo on hosting platform (Github)
 Open up a terminal
 Change directory to respective folder
 git remote -v
-git remote add -f %OTHER-REPO% https://github.com/%USER-NAME%/%OTHER-REPO%.git
-git merge -s ours --no-commit --allow-unrelated-histories %OTHER-REPO%/master
-git read-tree --prefix=%OTHER-REPO%/ -u %OTHER-REPO%/master
-git commit -m "Merge %OTHER-REPO% into %NEW-REPO%"
+git remote add -f %%OTHER-REPO%% https://github.com/%%USER-NAME%%/%%OTHER-REPO%%.git
+git merge -s ours --no-commit --allow-unrelated-histories %%OTHER-REPO%%/master
+git read-tree --prefix=%%OTHER-REPO%%/ -u %%OTHER-REPO%%/master
+git commit -m "Merge %%OTHER-REPO%% into %%NEW-REPO%%"
 git push
 ```
 
@@ -164,7 +164,7 @@ Term Definition
         Update the files in the work tree with the result of the merge.
 -v
         Be verbose and show remote url after name.
-add %FILE-NAME%
+add %%FILE-NAME%%
         Add the said files.
 add .
         Add all the files.

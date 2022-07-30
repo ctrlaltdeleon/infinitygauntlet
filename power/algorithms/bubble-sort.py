@@ -13,7 +13,7 @@ def bubble_sort_1(data):
     return data
 
 def bubble_sort_2(data):
-    # %last_index% is here to keep check of amount of passes, not needed for bubble sort.
+    # "last_index" is here to keep check of amount of passes, not needed for bubble sort.
     last_index = len(data) - 1
     # Checks last step to see if it was the last needed step.
     # (len(data) - last_index) is number of passes when it's sorted.

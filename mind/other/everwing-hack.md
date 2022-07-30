@@ -1,4 +1,4 @@
-# EVERWING HACK
+# Everwing Hack
 
 - Inspect Game.
 - Go to Console (If you see "STOP", good job).

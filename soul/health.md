@@ -16,12 +16,33 @@
 
 ## eye prescription
 
-- 2015-12
-  - od sphere
-    - 150
-  - os sphere
-    - 125
-  - os cylinder
-    - 025
-  - axis
-    - ???
+- 2015
+  - od
+    - sph -1.50
+    - cyl 0.00
+    - axis N/A
+    - add 0.00
+  - os
+    - sph -1.25
+    - cyl -0.25
+    - axis 022
+    - add 0.00
+  - pd 63
+- 2020
+  - od
+    - sph -1.00
+    - cyl 0.00
+    - axis 164
+    - add 0.00
+  - os
+    - sph -1.00
+    - cyl -0.25
+    - axis 034
+    - add 0.00
+  - pd 63
+
+# medical
+
+- 2022
+  - bloodtests
+  - eczema check

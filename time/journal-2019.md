@@ -1008,7 +1008,7 @@ def timeConversion(s):
 ```
 
 - How does one check if a string is formed of alpha and numeric characters in `Python`?
-  - `%YOUR-STRING%.isalnum()`
+  - `%%YOUR-STRING%%.isalnum()`
 
 # August 14 2019
 
@@ -1950,7 +1950,7 @@ $("img").width(50);
 ```js
 // Enclosed in a <script></script>.
 
-var apiUrl = "%WHERE-THE-FILE-IS%";
+var apiUrl = "%%WHERE-THE-FILE-IS%%";
 fetch(apiUrl)
   .then((response) => {
     return response.json();
@@ -2225,7 +2225,7 @@ Ostriches cannot fly.
 - In `JavaScript`, what is the use of `isNaN` function?
   - `isNaN` returns true if argument is not a number, else false.
 - How do you achieve negative infinity in `JavaScript`?
-  - `%NEGATIVE-NUMBER%/0`
+  - `%%NEGATIVE-NUMBER%%/0`
 - What does `console.log(A || B)` do?
   - Same as a ternary, if A exists, print A, otherwise B.
 - Difference between a method and function?

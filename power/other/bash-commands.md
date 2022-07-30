@@ -2,7 +2,7 @@
 
 ## Need to remove a directory?
 
-- `rm -rf %DIRECTORY%`
+- `rm -rf %%DIRECTORY%%`
 
 ## Need to check a directory's contents?
 
