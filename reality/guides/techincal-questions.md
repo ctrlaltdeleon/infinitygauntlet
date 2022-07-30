@@ -1,12 +1,12 @@
 # Technical Questions
 
-What is the difference between "arguments" and "parameters" when dealing with functions?
+## What is the difference between "arguments" and "parameters" when dealing with functions?
 
 - Arguments are what is given to a function such as "Andrew".
 - Parameters are what a function takes such as "name".
 - Parameters are what are expected, arguments are what it is.
 
-Why use Object Oriented Programming?
+## Why use Object Oriented Programming?
 
 - Encapsulation.
   - Reduce complexity + increase resuability.
