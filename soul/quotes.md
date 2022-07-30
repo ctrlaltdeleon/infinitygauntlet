@@ -24,3 +24,4 @@
 - "hope is something you give yourself" (uncle iroh)
 - "don't ever, for any reason, do anything to anyone for any reason ever, no matter what, no matter where, or who, or who you are with, or where you are going, or where you've been... ever, for any reason whatsoever..." (michael scott)
 - "say i love you girl, but i'm out of time" (the weeknd)
+- "to the stars and the abyss" (genshin impact)
