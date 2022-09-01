@@ -20,37 +20,6 @@ WHY THIS ROLE/COMPANY:
 
 - For me this sounds like an amazing opportunity to learn multiple technologies and the right step into the future.
 
-## Behavioral
-
-- Customer Obsession\*
-- Ownership\*
-- Invent and Simplify
-- Are Right, A Lot
-- Learn and Be Curious\*
-- Hire and Develop the Best
-- Insist on the Highest Standards
-- Think Big
-- Bias for Action
-- Frugality
-- Earn Trust
-- Dive Deep
-- Have Backbone; Disagree and Commit
-- Deliver Results
-- Strive to be Earth's Best Employer
-- Success and Scale Bring Broad Responsibility
-
-- Creating a modern web app for the fleet.
-- Switching to another team to get sped up.
-- Sending out MVP and bug fixing.
-- Implementing Redux.
-- Breaking production and communicating to the team.
-- Spending time on a task.
-- Populating an end event, but had to reproduce the bug, but simple fix.
-- Reusable text field component.
-- Negotiating with sponsors about unknowns.
-
-- Color theme for the disabled.
-
 ## Questions
 
 For the hiring manager:
