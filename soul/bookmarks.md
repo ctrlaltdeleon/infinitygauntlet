@@ -58,6 +58,8 @@
 - cute space as well: https://carmico.ca
 - environment: https://8pxl.co
 - environment stylistic: https://twitter.com/owldreig
+- genshin impact and kirby: https://www.catpaku.com
+- genshin impact embroidered: https://bandagebrigade.com
 - midi fighter: https://store.djtechtools.com/products/midi-fighter-3d
 - monster clothes: https://shop.kinwamonster.com
 - pins: https://lixizuart.com

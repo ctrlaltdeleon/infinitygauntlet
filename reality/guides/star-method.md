@@ -1,12 +1,5 @@
 # Star Method
 
-“Tell me about a time when you performed well under enormous pressure.”
-
-1. SITUATION: One time, at my last job, my coworker had a family emergency and needed to miss work for some time, and their super-important project was left unfinished and without a manager.
-2. TASK: My supervisor instructed me to take on the project, and with no leniency on the deadline, I had days to complete a project that originally should have taken several weeks.
-3. ACTION: I requested and was granted a reduction in my weekly goals, allotting me more time to attack the special project. As far as my weekly goals, I was able to delegate them out evenly to some of my teammates.
-4. RESULT: With the reduction in my daily goals, I was able to dedicate more time to the special project. This allowed me to finish it on time and with complete accuracy. My supervisor appreciated my attitude and drive, and I was given several more projects after that, along with an eventual promotion and pay raise.
-
 "Tell me about a time where you had to create a new project." (OWNERSHIP)
 "What’s the most innovative new idea that you have implemented?" (LEARN AND BE CURIOUS)
 
@@ -26,7 +19,7 @@
 
 1. SITUATION: Our team sent out a MVP (Minimal Viable Product) to the sponsors and the testing group to have this be prepared for fleet installation.
 2. TASK: While working on features at the time, the team had to shift to fixing breaking bugs.
-3. ACTION: Instead of one of us tackling a bug and the rest working on features, we all pair-programmed. This made sense at the time since features weren't priority if bugs existed. We wanted to give the fleet a working product bug-free, instead of a more featured bugged product.
+3. ACTION: Instead of one of us tackling a bug and the rest working on features, we all pair-programmed. This made sense at the time since features weren't priority if bugs existed. I wanted to give the fleet a working product bug-free, instead of a more featured bugged product which makes sense because once a user hits that one bug, confidence in the software declines.
 4. RESULT: This led to making sure bugs were fixed, considering different inputs, outputs, and so if this bug occurs again, we'd all be prepared for it for the next time.
 
 "What did you do when you needed to motivate a group of individuals?" (TEAMWORK)
@@ -35,9 +28,9 @@
 "Describe a time when you sacrificed short term goals for long term success." (OWNERSHIP)
 
 1. SITUATION: One year into our project, the state management from the front-end perspective was all over the place and led to more time developing on tasks and more upkeep.
-2. TASK: We had to choose either keep the code base as is or implement a global state management system, which was Redux. This took convincing, especially for the PM, because we wanted to make sure the outcome of this change was tangible in the future.
-3. ACTION: We chose the latter.
-4. RESULT: Although we spent up more time learning Redux and pushing features out, we thought at the time this was reasonable as the next shipped product wasn't for a few months and lead us to more efficient standards of developing. I felt proud of this change cause I really wanted to own the product and make sure future developers did not have to struggle.
+2. TASK: I had to choose either keep the code base as is or implement a global state management system, which was Redux. This took convincing, especially for the PM, because I wanted to make sure the outcome of this change was tangible in the future.
+3. ACTION: I chose the latter after discussing with the team.
+4. RESULT: Although I spent up more time learning Redux and pushing features out, I thought at the time this was reasonable as the next shipped product wasn't for a few months and lead us to more efficient standards of developing. I felt proud of this change cause I really wanted to own the product and make sure future developers did not have to struggle.
 
 "Give me an example of a time you faced a conflict while working on a team. How did you handle that?" (TEAMWORK)
 "The last time you had to apologize to someone." (TEAMWORK)
@@ -79,6 +72,55 @@
 3. ACTION: It was hard to gain a clear goal from the sponsors so what I had did along with the team was create a document of what it means if specific keys and unknown and what it should show.
 4. RESULT: This led to unambiguous terminology across the application and a clear bulletin board of what to reference when a task approaches this issue.
 
+(HAVE BACKBONE; DISAGREE AND COMMIT) (INVENT AND SIMPLIFY)
+
+1. SITUATION: In the early stages in one of the projects, I pushed forward for implementing a dark mode for the application we were making while my PM said it wasn't a priority at the moment.
+2. TASK: I had to convince him otherwise because I thought the benefits and the time taken to do so heavily outweigh outcomes, but didn't want to sacrifice what was already in the priority queue.
+3. ACTION: After completing my tasks for the sprint, I went ahead and made a demo branch of how dark mode would look like and ask the PM and the team to see how it looks during sprint review in which he said yes.
+4. RESULT: The team loved it due to most of the developers working in dark mode anyways on their IDEs and knowing that this could be implemented already without the cost of sprint time and also without the cost of sacrificing light mode, my PM gave the thumbs up. As the project progressed, even my PM started creating PowerPoint's and PDFs in dark mode as need be, I believe it rubbed off on him.
+
+(INVENT AND SIMPLIFY)
+
+1. SITUATION: In one of the projects I would work on, there are plenty of times where we would push development release candidates to test within the team and to the user test groups, but a common problem when running into errors would be "Is it the application?" "Is it the backend service?" "Is it the database?" Nobody knew.
+2. TASK: I presented a new idea of implementing a status bar where the application would show green/red lights to see if the application was either connected/not connected to our 2 of our backend services (Word doc, Ingester) and the backend itself.
+3. ACTION: After showcasing the idea to the team, I went ahead made a demo of the logic in it as well as the first rendition of how the status looks like to the team and PM to garner thoughts and perspectives.
+4. RESULT: This led to much more reliable and clear application usage since a user could see the lights and have confidence if the status bar was green across board or if it's red on say a backend service, the problem was much easier to diagnose and remedy.
+
+(THINK BIG)
+
+1. SITUATION: In one of the project I work on, technical debt would grow due to a service called SonarQube checking our updates when running through our pipeline which was in Jenkins. This became more prevalent as we had to shift the team to full-stack developers as we lost developers along the way.
+2. TASK:
+3. ACTION: I went ahead and implemented typescript to one of our files and realize I needed to do a lot such as adding types for specific model objects, declaring interfaces in react components to know how to data flowing
+4. RESULT: This led the code smells going from about 200 to 50 or so now in the span of 2 months
+
+(ARE RIGHT, A LOT)
+
+1. SITUATION: UI/UX team defunded so the developers which included myself had to seek diverse perspectives on how the application should look like
+2. TASK:
+3. ACTION:
+4. RESULT:
+
+(INSIST ON THE HIGHEST STANDARDS)
+
+1. SITUATION: Code reviews
+2. TASK:
+3. ACTION: Pair code review together, why something was done
+4. RESULT: Leave comments in the code review to understand thought process on why another component needed to be made instead of reusing a previous component
+
 ## Can't necessarily answer
 
 "Describe a long-term project that you managed. How did you keep everything moving along in a timely manner?" (TEAMWORK)
+
+## Template
+
+1. SITUATION:
+2. TASK:
+3. ACTION:
+4. RESULT:
+
+“Tell me about a time when you performed well under enormous pressure.”
+
+1. SITUATION: One time, at my last job, my coworker had a family emergency and needed to miss work for some time, and their super-important project was left unfinished and without a manager.
+2. TASK: My supervisor instructed me to take on the project, and with no leniency on the deadline, I had days to complete a project that originally should have taken several weeks.
+3. ACTION: I requested and was granted a reduction in my weekly goals, allotting me more time to attack the special project. As far as my weekly goals, I was able to delegate them out evenly to some of my teammates.
+4. RESULT: With the reduction in my daily goals, I was able to dedicate more time to the special project. This allowed me to finish it on time and with complete accuracy. My supervisor appreciated my attitude and drive, and I was given several more projects after that, along with an eventual promotion and pay raise.
