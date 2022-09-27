@@ -31,3 +31,5 @@
 - "truth" (harvard)
 - "there are over 3000 documented gods worshipped by various cultures and religions throughout human history. you don’t believe in 2,999 of them. i don’t believe in 3,000 of them. you're already 99.97% atheist. is it really such a leap to not believe in one more?" (livefast6221)
 - "you don't need to pass an interview. you just need to find a company who's interview you can pass." (aintnuffincleverhere)
+- "bees don't waste time telling flies that honey is better than shit" (theycalisse)
+- "self discipline is the best form of self love" (skydiver860)
