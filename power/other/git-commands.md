@@ -66,6 +66,14 @@ Change directory to repo folder
 git rm -r --cached .
 ```
 
+How do I revert commits on a branch?
+
+```
+The 2 represents the # of commits to go back
+Note the "--hard" is destructive
+git reset --hard HEAD~2
+```
+
 ## Ignoring Files
 
 Create a `.gitignore` file stating the specific folders and files you would like not to be tracked.
