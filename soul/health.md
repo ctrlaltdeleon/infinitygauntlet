@@ -13,6 +13,8 @@
   - cleaning
 - 2022-04
   - cleaning
+- 2022-10
+  - cleaning
 
 ## eye prescription
 

@@ -28,7 +28,7 @@
 # Floss
 
 - Strings are best.
-- Make sure you're scraping the plaque off, even behind the teeth,
+- Make sure you're scraping the plaque off, even behind the teeth.
 
 # Conclusion
 
@@ -37,3 +37,4 @@
 ## My Take
 
 - See a dentist!
+  - If there's an extra charge for fluoride varnish, don't take unless you haven't been taking care of your teeth.

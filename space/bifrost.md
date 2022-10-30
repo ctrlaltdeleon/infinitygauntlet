@@ -9,6 +9,7 @@
   - [tiktok](https://www.tiktok.com/@acfromspace)
   - [twitch](https://www.twitch.tv/acfromspace)
   - [twitter](https://twitter.com/acfromspace)
+    - abyss (news updates/artists i like)
   - [youtube](https://www.youtube.com/c/acfromspace)
     - andrew (no channel) (personal account) (mainly for watch rewards)
     - thestepsetters (brand account)
