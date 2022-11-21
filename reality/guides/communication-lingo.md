@@ -1,4 +1,17 @@
-# Rejection
+# Communication Lingo
+
+## Communication
+
+- "is there extra pay since i'm doing more?"
+  - with my role expanding is there a plan to review my title and compensation to better reflect these responsibilities
+- "that sounds like a you problem"
+  - i believe that falls within your scope of responsibilities, but i'm happy to support where it makes sense
+- "why didn't you ask me for this sooner?"
+  - given the tight deadline it would have been beneficial to have been looped on this sooner
+- "stop emailing me so often"
+  - to ensure that information does not get lost, let's reduce frequency of communication so that updates are only provided once more details have been established
+
+## Rejection
 
 Thank you for the opportunity to interview and the consideration!
 

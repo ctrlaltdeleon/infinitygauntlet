@@ -29,6 +29,17 @@
 - ubuntu hack password: https://itsfoss.com/how-to-hack-ubuntu-password/
 - youtube stats: https://github.com/rodgtr1/youtube-stats
 
+# collections
+
+- amazon list
+- discord notepad
+- github starred
+- reddit saved
+- tiktok likes
+- tiktok saved
+- twitter likes
+- youtube favorite
+
 ## cute
 
 - dog trying: https://www.reddit.com/r/aww/comments/l4vpek/at_least_he_tried_his_best/?utm_source=share&utm_medium=web2x&context=3
@@ -45,27 +56,47 @@
 - minecraft best skin: https://www.minecraftskins.com/skin/14116469/steve-chiquito/
 - storymaker: https://www.brokenpicturephone.com/
 
-## keyboard stuff
+## locations
 
-- boba tea deskmat: https://thekey.company/collections/artist-x-tkc-deskmat-collaboration/products/boba-tea-series-deskmat
-- godspeed v2 deskpad (the one you want): https://novelkeys.xyz/collections/deskpads/products/godspeed-v2-deskpads?variant=32208219111517
+- 123 farm (cherry valley, california)
+- cantor arts center (stanford, california)
+- glacier express (switzerland)
+- grandview beach (encinitas, california)
+- insadong coffee shop (seoul, south korea)
+- japanese suspension bridge (san diego, california)
+- laojun mountain (henan province, china)
+- nagai park (osaka, japan)
+- redwood sky walk (eureka, california)
+- salina turda (turda, romania)
+- samoyed cafe (seoul, south korea)
+- seattle central library (seattle, washington)
+- shibuya crossing (shibuya, japan)
+- spruce street suspension bridge (san diego, california)
+- superbloom cafe (san diego, california)
+- table rock beach (orange county, california)
 
 ## material gear
 
 - aesthetic lofi mood: https://www.inthemoodfor.net/
 - anime gym clothes: https://invictakuru.com
+- boba tea deskmat: https://thekey.company/collections/artist-x-tkc-deskmat-collaboration/products/boba-tea-series-deskmat
 - cute space: https://meyoco.art/
 - cute space as well: https://carmico.ca
+- creepy clothes: https://shirtz.cool/
 - environment: https://8pxl.co
 - environment stylistic: https://twitter.com/owldreig
+- embroidered anime: https://www.wondereggco.com/
 - genshin impact and kirby: https://www.catpaku.com
 - genshin impact embroidered: https://bandagebrigade.com
+- kpop cards: https://kholographic.com
 - midi fighter: https://store.djtechtools.com/products/midi-fighter-3d
 - monster clothes: https://shop.kinwamonster.com
 - pins: https://lixizuart.com
 - pins: https://shop.suu.gr
 - pins: https://www.yuerise.com
+- rpg clothes: https://torokami.com
 - vaporwave clothing: https://www.astralthrob.com/
+- wooden coasters: https://www.studioinko.com/woodshop
 
 ## music
 
@@ -84,6 +115,7 @@
 ## other
 
 - breakdancing fight: https://www.reddit.com/r/PublicFreakout/comments/bg5rpu/i_love_the_guy_breakdancing
+- fake voices: https://fakeyou.com/
 - learning chinese ted talk: https://www.youtube.com/watch?v=troxvPRmZm8
 - neil degrasse tyson scicafe "zoom" meme: https://www.youtube.com/watch?v=4KRZQQ_eICo
 - simon sinek (creative mornings q&a): https://www.youtube.com/watch?v=M3rsXos0TD8
@@ -100,6 +132,7 @@
 ## tattoo artists
 
 - chrisjtattoo (new york)
+- imnotenzoferrari (los angeles)
 - fimmtattooer (tel aviv)
 - rockyhowetattoo (san diego)
 - tattoo_destroy (russia)

@@ -1,5 +1,10 @@
 # health
 
+## health insurance
+
+- know the plan you have
+- put claims through fsafeds for non-taxed income
+
 ## dental
 
 - 2020-02
