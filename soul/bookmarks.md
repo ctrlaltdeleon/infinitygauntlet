@@ -100,6 +100,7 @@
 
 ## music
 
+- lee lofi autumn leaves: https://www.youtube.com/watch?v=vqOCtyieO20
 - lofi playlist (breathing dreams like air, girl in front of sunset/railing): https://www.youtube.com/watch?v=dOFsCX72jyU
 - lofi playlist (i can't sleep, it's 4am, sad guy smoking): https://www.youtube.com/watch?v=NDfF_XwNtIw
 - lofi playlist (guy staring to the right, pink square): https://www.youtube.com/watch?v=xZp7W-VvLlo
