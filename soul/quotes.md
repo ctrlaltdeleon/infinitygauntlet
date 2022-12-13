@@ -33,3 +33,4 @@
 - "you don't need to pass an interview. you just need to find a company who's interview you can pass." (aintnuffincleverhere)
 - "bees don't waste time telling flies that honey is better than shit" (theycalisse)
 - "self discipline is the best form of self love" (skydiver860)
+- "people do stupid things when they think they're trapped in a corner, geralt. and they say stupid things. that's what friends do. they come back." (jaskier, the witcher season 2 ep 7 "voleth meir" 40:17)
