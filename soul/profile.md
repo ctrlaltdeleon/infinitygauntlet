@@ -51,12 +51,12 @@
 - chiron: virgo
   - ???
 
-# bucketlist
+# colors
 
-- climb mt. fuji
-- scubadiving
-- see "devil's bridge" in germany
-- skydiving
+- #264C4F dark slate grey
+- #6082B6 glaucous
+- #342A59 russian violet
+- #272145 space cadet
 
 # odd achievements
 
@@ -69,10 +69,6 @@
 - 2016-08-29 [created my own longboard design!](https://imgur.com/a/hCz72)
 - 2016-06-10 [『CAPTAIN AMERICA: CIVIL WAR ANIME OPENING』(ORIGINAL) (CODE GEASS)](https://www.youtube.com/watch?v=__tTNAwSyhQ)
 - 2016-07-12 [my d.va cosplay made it in a cosplay video!](https://www.youtube.com/watch?v=S9dyQWgaJ5k)
-
-# stats
-
-- unsplash: https://unsplash.com/@acfromspace/stats
 
 # things i love
 
@@ -94,13 +90,9 @@
 
 # words
 
+- finifugal
+  - hating endings; of someone who tries to avoid or prolong the final moments
 - hiraeth
   - a welsh word for homesickness or nostalgia, an earnest longing or desire, or a sense of regret
-
-# workflow
-
-- opera gx
-  - dark mode activated with right click "turn to dark"
-  - settings
-    - custom theme #6082b6 color
-    - turn off auto-pause for player when trying to use spotify and youtube at the same time
+- redamancy
+  - the act of loving the one who loves you; a love returned in full

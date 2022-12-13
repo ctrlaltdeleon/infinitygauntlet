@@ -56,11 +56,20 @@
 - minecraft best skin: https://www.minecraftskins.com/skin/14116469/steve-chiquito/
 - storymaker: https://www.brokenpicturephone.com/
 
+## genshin impact
+
+- ganyu's theme
+  - H Q [WV] E-W E-W-Q J [CD] J J
+  - H Q [WV] E-W E-W-Q J [JC] T T
+  - Y T [XE] H-E W-Q-J G-[ND] J J
+  - H Q [XW] E-W E-W-J G [HN]
+
 ## locations
 
 - 123 farm (cherry valley, california)
 - cantor arts center (stanford, california)
 - glacier express (switzerland)
+- ginzan onsen (yamagata, japan)
 - grandview beach (encinitas, california)
 - insadong coffee shop (seoul, south korea)
 - japanese suspension bridge (san diego, california)
@@ -132,8 +141,12 @@
 
 ## tattoo artists
 
+- antstattoo_nina (san diego)
 - chrisjtattoo (new york)
+- hans.ta2 (san diego)
 - imnotenzoferrari (los angeles)
+- inkshun.tattoo (san diego)
+- invisible_hut (san diego)
 - fimmtattooer (tel aviv)
 - rockyhowetattoo (san diego)
 - tattoo_destroy (russia)

@@ -53,3 +53,5 @@
 - 2022
   - bloodtests
   - eczema check
+  - physical exam
+    - body pains, shoulder rotator cuff, ankle sprain, left elbow

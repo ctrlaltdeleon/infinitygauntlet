@@ -62,6 +62,16 @@
 
 # 11-30
 
+- Hello again lol.
+- For lining up logs with non-transparent backgrounds and different sizing:
+
+```css
+width: 15%
+aspect-ratio: 3/2;
+object-fit: contain;
+mix-blend-mode: color-burn;
+```
+
 # 11-29
 
 # 11-28

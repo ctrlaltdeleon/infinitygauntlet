@@ -17,6 +17,7 @@
 - [creddle.io](https://resume.creddle.io/resume/1t4bj9iydxm)
 - [itch.io](https://acfromspace.itch.io)
 - [linkedin](https://www.linkedin.com/in/acfromspace/)
+- [reddit](https://www.reddit.com/user/acfromspace)
 
 # flowchart
 

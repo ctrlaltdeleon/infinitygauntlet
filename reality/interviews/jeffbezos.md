@@ -1,41 +1,3 @@
-salary expectations? don't give them the number
-what's the compensation band for this position?
-can we revisit this later?
-"that's a good start!"
-
-front-end mock interview: https://www.youtube.com/watch?v=vomuCMmoNyE
-
-Design a reservation/payment parking garage
-
-1. need to be able to reserve a parking spot
-2. need to get a receipt for reserving
-3. need to pay for parking
-4. system needs high consistency (no two people should reserve at the same time)
-   1. strong consistency when possible, eventual consistency if you have to
-   2. strong consistency = quality over speed
-   3. eventual consistency = speed over quality
-5. 3 types of vehicles (compact, regular, and large)
-6. flat rate, but different rates depending on parking
-
-Public Endpoints
-
-/reserve
-params: garage_id, start_time, end_time
-returns: (spot_id, reservation_id)
-
-/payment
-params: reservation_id
-note: existing api to handle such as stripe, square, etc.
-
-/cancel
-params: reservation_id
-
-Internal Endpoints
-
-why do you want to work here?
-
-I've always had the passion for different hobbies. Whether it be joining the Animal Crossing Community server, Mechanical Keyboard meetups, and just the traditional friend group server to play games with late at night, Discord helped with connect me with these communities. For me Discord sounds like an amazing opportunity to learn multiple technologies and absorb different perspectives from fellow co-workers.
-
 Customer Obsession
 Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.
 
@@ -79,9 +41,32 @@ Deliver Results
 Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 
 Strive to be Earth's Best Employer
-Leaders work every day to create a safer, more productive, higher performing, more diverse, and more just work environment. They lead with empathy, have fun at work, and make it easy for others to have fun. Leaders ask themselves: Are my fellow employees growing? Are they empowered? Are they ready for what's next? Leaders have a vision for and commitment to their employees' personal success, whether that be at Amazon or elsewhere.
+Leaders work every day to create a safer, more productive, higher performing, more diverse, and more just work environment. They lead with empathy, have fun at work, and make it easy for others to have fun. Leaders ask themselves: Are my fellow employees growing? Are they empowered? Are they ready for what's next? Leaders have a vision for and commitment to their employees' personal success, whether that be at JEFFBEZOS or elsewhere.
 
 Success and Scale Bring Broad Responsibility
 We started in a garage, but we're not there anymore. We are big, we impact the world, and we are far from perfect. We must be humble and thoughtful about even the secondary effects of our actions. Our local communities, planet, and future generations need us to be better every day. We must begin each day with a determination to make better, do better, and be better for our customers, our employees, our partners, and the world at large. And we must end every day knowing we can do even more tomorrow. Leaders create more than they consume and always leave things better than how they found them.
 
-https://www.amazon.jobs/en/landing_pages/in-software-development-topics
+https://www.JEFFBEZOS.jobs/en/landing_pages/in-software-development-topics
+
+- SDE I L4 $168,527 (salary: 127,987, stock: 22,148, bonus: 18,392)
+- SDE II L5 $237,624 (salary: 156,671, stock: 64,759, bonus: 16,194)
+
+- 900-1000
+- drew hanberry [FEE II, AWS, Overwatch, Mississippi State Uni]
+- carousel question
+
+- 1000-1100
+- priyesh tiwari [SDM, AWS, India]
+- startingPoint, endingPoint, urls
+
+- 1100-1200
+- benjamin bangsund [FEE II, JEFFBEZOS Prime Air, SpaceX, Rockets]
+- file folder components to render
+
+- 1300-1400
+- eric gintz, venu
+- lots of behavioral and diving deep into what i worked on
+
+- 1500-1600
+- harsh, rahul
+- system design, google autocomplete, think about disabilities, throttle debounce, caching history
