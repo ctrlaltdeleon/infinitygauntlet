@@ -33,3 +33,52 @@
 - `%%TRACKING-NUMBER%%`
   - `123456789ABC`
   - Finds the details of your package of the designated tracking number provided.
+
+## Google Sleep Sounds
+
+- Air Conditioner
+- Airplane
+- Babbling Brook
+- Bees
+- Birds
+- Boiling Water
+- Box Fan
+- Brown Noise
+- Cafe
+- Cats
+- City Rain
+- Clock
+- Clothes Dryer
+- Cosmic
+- Crickets
+- Distant Thunderstorm
+- Drain
+- Fireplace
+- Forest Night
+- Fountain
+- Frogs
+- Healing
+- Heavy Rain
+- Lake
+- Lullaby
+- Meditation
+- Morning
+- Mountain
+- Nature
+- Ocean
+- Oscillating Fan
+- Owls
+- Pink Noise
+- Rain
+- Rainforest
+- Space Deck
+- Spirit
+- Thunderstorm
+- Train
+- Vacuum
+- Waterfall
+- Waves
+- White Noise
+- Wind
+- Wind Chimes
+- Zen

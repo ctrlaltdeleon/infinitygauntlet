@@ -1,23 +1,27 @@
 # bifrost
 
-- [acfromspace.carrd.co](https://acfromspace.carrd.co/)
-  - [flickr](https://www.flickr.com/people/acfromspace/)
-  - [github](https://github.com/acfromspace)
-  - [instagram](https://www.instagram.com/acfromspace/)
-  - [soundcloud](https://soundcloud.com/acfromspace)
-  - [spotify](https://open.spotify.com/user/1252712964)
-  - [tiktok](https://www.tiktok.com/@acfromspace)
-  - [twitch](https://www.twitch.tv/acfromspace)
-  - [twitter](https://twitter.com/acfromspace)
-    - abyss (news updates/artists i like)
-  - [youtube](https://www.youtube.com/c/acfromspace)
-    - andrew (no channel) (personal account) (mainly for watch rewards)
-    - thestepsetters (brand account) (volleyball)
-    - acfromspace (brand account) (everything)
-- [creddle.io](https://resume.creddle.io/resume/1t4bj9iydxm)
-- [itch.io](https://acfromspace.itch.io)
-- [linkedin](https://www.linkedin.com/in/acfromspace/)
-- [reddit](https://www.reddit.com/user/acfromspace)
+- casual
+  - email
+  - [acfromspace.carrd.co](https://acfromspace.carrd.co/)
+    - [flickr](https://www.flickr.com/people/acfromspace/)
+    - [instagram](https://www.instagram.com/acfromspace/)
+    - [soundcloud](https://soundcloud.com/acfromspace)
+    - [spotify](https://open.spotify.com/user/1252712964)
+    - [tiktok](https://www.tiktok.com/@acfromspace)
+    - [twitch](https://www.twitch.tv/acfromspace)
+    - [twitter](https://twitter.com/acfromspace)
+      - abyss (news updates/artists i like)
+    - [youtube](https://www.youtube.com/c/acfromspace)
+      - andrew (no channel) (personal account) (mainly for watch rewards)
+      - thestepsetters (brand account) (volleyball)
+      - acfromspace (brand account) (everything)
+  - [creddle.io](https://resume.creddle.io/resume/1t4bj9iydxm)
+  - [reddit](https://www.reddit.com/user/acfromspace)
+- professional
+  - email
+  - [github](https://github.com/ctrlaltdeleon)
+  - [itch.io](https://ctrlaltdeleon.itch.io)
+  - [linkedin](https://www.linkedin.com/in/ctrlaltdeleon/)
 
 # flowchart
 
