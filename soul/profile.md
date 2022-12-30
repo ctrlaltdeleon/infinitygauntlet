@@ -77,6 +77,15 @@
 - milk tea w/ boba, large, no ice (on cold day), light ice (on hot day), 30% sugar
 - minimalism
 
+# signature
+
+```
+Respectfully,
+
+Andrew "AC" De Leon
+Software Engineer
+```
+
 # values project
 
 - 2014
