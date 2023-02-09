@@ -13,6 +13,8 @@ TECHNICAL:
 - Scope/Impact:
   Designed and built software to produce an auto generating Basic Mission Report (BMR) for submarines known as the BMR Reconstruction Tool (YEEHAWRT). Integrating this software into submarine hardware known as YEEHAWROCK has enhanced the Navy's ability to maintain logistics of missions. Deployed YEEHAWRT to multiple submarines garnering positive feedback within the last year. Coordinated with the YEEHAWMAGIC team to complete parsers for 100+ clients.
 
+  As a project lead, developed and deployed software solution for automatic generating documents, improving Navy's submarine mission logistics. Led team to successfully create parsers for over 100 clients. Demonstrated expertise in executing complex, multidimensional activities at a service/agency level.
+
 - Complexity/Difficulty:
   With no prior knowledge of the software, implemented Redux, a software library that manages and centralizes an application's state, which will cut costs by reduce manual labor, reduce code duplication, and enable improved developer cycles on tasking. Implemented data science techniques on YEEHAWMAGIC while having no knowledge of technologies, quickly adapting to the task.
 
@@ -66,3 +68,64 @@ LEADERSHIP:
 
 - Mentoring/Employee Development:
   Received mentoring from seniors engineers within the organization. Finished Continuous Learning and pursued training with technologies becoming more adept across multiple projects.
+
+###
+
+TECHNICAL:
+
+- Scope/Impact:
+  As current project lead for BRT, I'm effectively managing communication and coordination with ONI to establish a clear roadmap, address bugs, and guide the overall direction of the project. Additionally as a developer, continuing developing and deploying a software solution for BRT along side working with other projects such as Chartlets, improving Navy's submarine mission logistics. Before leaving AIR MAGIC, helped to successfully create numerous parsers for several clients, enhancing readability for translated data.
+
+- Complexity/Difficulty:
+  Led the effort to refactor the entire codebase such as uniforming functions and variables to improve the developer experience, resulting in increased task completion speed, and reduced negative impacts from poor code.
+
+- Independence:
+  Despite no prior experience as a project lead, reached out to several experts, both within and outside of the organization, to know how to effectively communicate and collaborate with ONI to establish clear project goals. Am able to complete tasks with no dependency, but still ask for input to affirm other developer opinions.
+
+- Creativity:
+  Implemented new technologies and updating libraries which in return promoted to faster developer environments, addressed multiple speed issues at once, and benefits future code development.
+
+TEAMWORK AND COMMUNICATION:
+
+- Scope of Team Effort:
+  I collaborated closely with the QA testing team, project manager, development team, and ONI to ensure the smooth release of our product through thorough testing and bug identification. Through effective communication and coordination, was able to guarantee the readiness of the product for official release.
+
+- Contribution to Team:
+  Led team and addressed responsibilities and project scope despite losing team members on the BRT Project, maintaining a cooperative environment and resolving issues. Evolved my current role from developer to project lead as well.
+
+- Team Effectiveness:
+  Collaborated with team members to improve code solutions and plan for product scaling while leading and facilitating team development.
+
+- Level of Interaction:
+  Served as the primary point of contact for ONI and other stakeholders, providing regular updates on project progress and addressing any concerns or issues that arose.
+
+- Communication:
+  Distinguished between realistic and idealistic goals between ONI and developers in order to set clear and achievable objectives. Set weekly meetings for checkups and if any issues arise, as well as bi-weekly meetings to address BRT testing issues if any were to occur.
+
+MANAGEMENT:
+
+- Scope of Resource Responsibility:
+  Trained as a lab technician with open close privileges, obtained DTA privileges, have SIPR account access to keep a constant flow of information from ONI to developers (vice versa) as needed.
+
+- Planning:
+  Met with the team at NUWC and Chartlets team to discuss capabilities for BRT and identify areas where we could support one another, resulting in a more efficient workflow. Within each sprint, I outlined tasks, identified the benefits of each task, and established acceptable criteria for completion.
+
+- Execution:
+  Effectively handled short notice sponsor requirements change for BRT by identifying and fixing critical issues and delivering multiple interim deliveries to meet deadlines by establishing resource priorities with no issues during official release.
+
+- Customer Interaction Level:
+  Collaborated with the ONI to determine software requirements for FY23 by creating a drafted timeline, develop recommendations, and scoping tasks, which led to improved communication and controlled expectations.
+
+- Customer Needs:
+  Delivered truth test for BRT, increasing customer confidence by enabling them to verify proper correlation of data and software testing, anticipating and fulfilling customer needs.
+
+LEADERSHIP:
+
+- Scope of Leadership Influence:
+  Served as a developer and project lead, on studying emerging technologies as a front-end SMEE, acted as main point of contact between ONI and developers, committed to personal and team growth.
+
+- Leadership Activities:
+  Mentored NPs in addressing their development plans, navigated internal processes and built strong relationships with cross-functional teams to advance the BRT project.
+
+- Mentoring/Employee Development:
+  Received mentoring and training from senior engineers, actively pursued continuous learning and development, and fostered a culture of mentorship within the team to ensure growth and success. Able to have conversations with other members within the branch to understand different technologies, professional development, and networking opportunities for different projects.
