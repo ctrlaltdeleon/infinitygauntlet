@@ -189,11 +189,29 @@
 
 ## My Take
 
+- From r/SkincareAddiction:
+  - Cleanser
+  - Vitamin C
+  - BHA
+  - AHA
+  - Benzoyl peroxide
+  - Retinoids
+  - Azelaic acid
+  - Toners
+  - Serums
+  - Moisturizer
+  - Balms
+  - Sunscreen
+- Lots of the skin care stuff when using ends with "it depends".
 - The products I use are:
-  - Cerave Hydrating Face Wash. (Cleanser)
-  - Stridex Saliclic Acid Pads. (Acne)
-  - The Ordinary Niacinamide 10% + Zinc 1% Oil Control Serum. (Brightens)
-  - Hadalabo Gokujun Hyaluronic Lotion Moist. (Toner)
-  - Aveeno Skin Relief Moisturizing. (Moisturizer)
-  - Medicine. (Eczema)
-  - APIEU Pure SPF45/PA+++. (Sunscreen)
+  - Cerave Hydrating Face Wash. (Cleanser) (AM/PM)
+  - The Ordinary Ascorbyl Glucoside Solution 12% (Vitamin C) (PM)
+  - Stridex Saliclic Acid Pads. (BHA) (AM)
+  - COSRX Two in One Poreless Power Liquid (BHA) (AM/PM)
+  - CITYGOO Retinol Eye Stick (Retinoid) (AM/PM)
+  - Hadalabo Gokujun Hyaluronic Lotion Moist. (Toner) (AM/PM)
+  - The Ordinary Niacinamide 10% + Zinc 1% Oil Control Serum. (Serum) (AM)
+  - The Ordinary Caffeine Solution 5% + EGCG (Serum) (When needed for puffy/dark eyes)
+  - Aveeno Skin Relief Moisturizing. (Moisturizer) (AM/PM)
+  - Medicine and vaseline. (Balm) (When needed for eczema)
+  - APIEU Pure SPF45/PA+++. (Sunscreen) (AM)
